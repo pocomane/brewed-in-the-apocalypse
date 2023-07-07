@@ -1,0 +1,51 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+
+  generate-pdf:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Install Build Dependencies
+        run: |
+          sudo apt-get install lua5.4 discount weasyprint
+
+      - name: Build
+        run: |
+          chmod u+x ./util/pdfize.lua
+          ./util/pdfize.lua
+
+      - name: Store artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: "PDFs" #destination
+          path: build/*.pdf #source
+
+  release:
+    if: github.event_name == 'push'
+    needs: [generate-pdf]
+    runs-on: ubuntu-22.04
+
+    steps:
+
+      - name: Download Raspberry artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: PDFs #source
+          path: release #destination
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          body: Automatic Release (${{ github.event.head_commit.timestamp }})
+          tag_name: release.${{ github.sha }}
+          files: release/*
+

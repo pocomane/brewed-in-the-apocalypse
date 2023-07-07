@@ -2,7 +2,7 @@
 # Brewed in the Apocalypse
 
 Brewed in the Apocalypse is a tabletop RPG heavly based on Apocalypse World
-[^1].  This is not meant as a substitution of the original text by Jason
+[^1]. This is not meant as a substitution of the original text by Jason
 Morningstar, that contains a lot of material, ideas and suggestion absent here,
 inclusive of an example session transcription.
 

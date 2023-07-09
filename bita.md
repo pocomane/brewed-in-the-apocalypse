@@ -497,7 +497,7 @@ be one of the following:
 
 - __Add a fortune point__ .
 - __Make characters evolve__ , ALL the characters togheter.
-- __Describe the scene__ with some good event or information for the player.
+- __Describe the scene__ with some event or information good for the player.
 
 __Make the characters evolve__ - When a quest ends, or when a lot of time
 passed without this move was triggered, you ask ALL the player to
@@ -842,9 +842,12 @@ The last move is a bit obvious:
 __Tell what the character does__ - when the scenarist asks what your character
 does, you tell your character actions, what ey says, feels, etc. You do it also
 when the scenarist asks it to a group your characted is member of, no one is
-still speaking, and you find out something interesting to tell. If it is not
-clear something of the scene that you think is interesting to know, ask that
-to the scenarist before telling what your character does.
+still speaking, and you find out something interesting to tell.
+
+__Ask for other deatils__ when you are speaking about the actions of your
+character, if there is somthing not clear in scene ot that you think is
+interesting to know about, ask to the scenarist before conitnuing telling what
+your character does.
 
 # Handle difficult actions
 

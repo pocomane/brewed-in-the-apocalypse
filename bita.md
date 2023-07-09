@@ -45,44 +45,106 @@ controlled character, the PC, does, asking questions, and speaking in
 character. The scenarist describes the scene, the actions of non-playing
 characters, the NPC, and what is happening in the game world. If a player says
 something that seems untrue or unreasonable, the scenarist can highlight it and
-suggest alternatives.
+suggest alternatives. Sometime the rules of the game will prescribes to do
+something else to make the story go ahead, like dice roll, or asking questions
+to the people in the real world.
 
 We call "Fiction" all what happen in the story, while "Mechanics" are all the
-things that players and scenarist need to perform in the real world to let the
-story go ahed.
+things that players and scenarist need to perform in the real world.
 
-Scenarist and players alternate in the discussion, and at certain point some
-mechanical action, like a dice roll, may be required to be performed. To
-describe all these interactions, we use the concept of "Move". A move has a
+To describe all these interactions, we use the concept of "Move". A move has a
 title written __like this__ and can be a player move or a scenarist move. In
 any case it is just a rule containing a trigger text and a result text.
 
 The trigger prescrives when the rule will come into play, while the result text
 explain what the people can than add to the fiction, and what is needed to do
-mechanically. One of the possible results is to change who have to move the
-discussion between the persons around the table.
-
-TODO : add the page reference when referring to a move so that the move description
-can be quickly found ???
+mechanically. One of the possible results is to move the discussion between the
+persons around the table.
 
 The players and the scenarist must perform what the result text demands when it
 is triggered. They can not decide to skip the result if triggered, and can not
 decide to obatin the results without having eir character make in the fiction
 what the trigger demands.
 
-At the beginning, a scenarist is designed, an ambientation is created all
-togheter, and each player will create a character.  These phases are not
-actually regulated by moves, they are more like free discussion, also if in the
-manual there are reference to moves.  After that, the game can start, regulated
-by the sequence of moves. The play session itself may be tought as started by
-the scenarist move __Describe the scene__ .
+To gain confidence with the move concept, we here review some ones that probably
+could be completely omitted as obvious them are. A session itself is started by
+the __Descrive the scene__ move of the scenarist:
+
+__Describe the scene__ when you have to start the session, you can resume an
+old scene, if any, or descrive a completely new one.  You do it telling some
+new event in the scene or reveal some new truth to the players about the scene
+or something or someone is inside it. Nothing should cleary bring to troubles
+for the player, neither if it is completely ignored by the characters.
+Occasionally good things may happen for the players.
+
+"When ... session" is the trigger, so the rest must be done at the beginning of
+a session. Note that since this is a scenarist move, "You" in the text is
+the scenarist. Here the move just said that the scenarist can say anything
+ey like about the fiction, until there are no imminent threats for the
+characters. How the discussin is moved to the players? There are this other
+scenarist move:
+
+__Ask what they do__ - when you are speaking and you have nothing to say
+anymore, ask to one ore more characters in the current scene what they do next.
+Try to ask it to the most obvious player, for example the one that just asked
+yoy to __Describe some details__ if that is the reason why you was speaking.
+
+So at end of the __Describe the scene__ , when the scenarist has nothing more
+to say, just conclude with "What do you do" ? Then here there is the first
+player move:
+
+__Tell what the character does__ - when the scenarist asks what your character
+does, you tell your character actions, what ey says, feels, etc. You do it also
+when the scenarist asks it to a group your characted is member of, no one is
+still speaking, and you find out something interesting to tell.
+
+Here, since it is a player move, "you" just means "the player". So the player
+have to reply to the "What do you do" telling the action of eir character. However
+something in the scene may be not clear to em, so there is this other player
+move:
+
+__Ask for other deatils__ when you are speaking about the actions of your
+character, if there is somthing not clear in scene or that you think is
+interesting to know about, ask to the scenarist before conitnuing telling what
+your character does.
+
+and how you can easly guess now, this other move for the scenarist:
+
+__Describe some details__ when a player asks to you to better describe some
+details about the current scene, just do it, unless ey is asking for something
+eir character is not supposed to know, see or understand.
+
+Note that when the scenarist ends the __Describe some details__ move, so it
+is triggered again the __Ask waht they do__ , that actually has a special case
+if it is triggered by __Describe some details__ move. This gives you a sense
+of the "Snowball" of moves the discussion is made of.
+
+As already said, these are trivial moves, more advanced one may contain fiction
+clues, or some mechanical things to to, how we will see. Here other two
+trivial scenarist moves:
+
+__Ask the player to act in turn__ - when two or more players start to speack
+one over another, stop them, summarize the situation and ask to a single player
+what ey does.
+
+__Ask how the character does__ - when a player is sayng what the character
+does, but ey is too vague about the precise actions, ask em, in a kind way, to
+specify better. This action applies also when the statement required by another
+move (like the __Taking an advantage__ move) is too vague.
+
+Note that the trigger of all the moves in this section is mechanical, but it
+can be in the fiction too. Actually most of the player moves that we will see
+are triggered by something happening in the fiction.
+
+TODO : add the page reference when referring to a move so that the move description
+can be quickly found ???
 
 The moves (both player and scenarist ones) should continually push the game
 forward in interesting ways. New opportunities should be added when a player
 succeeds in a move, and interesting dilemma should emerge from a compromise
-result. The scenarist hard moves should fundamentally change the situation and
-demand new kind of actions. The soft moves should give to the player new things
-to react to.
+result. The scenarist __Hard move__ should fundamentally change the situation and
+demand new kind of actions. The __Soft move__ should give to the player new
+things to react to.
 
 The scenarist should also continously ask questions to the players. They may be
 provocative to push a reaction (like in "They are after you, do you prepare
@@ -131,7 +193,13 @@ Principles:
 
 TODO : better rephrase the last three, or at least explain them better
 
-# Create the Scenario
+# Setup
+
+Before the first session starts, a scenarist is designed, an ambientation is
+created all togheter, and each player will create a character.  These phases
+are not actually regulated by moves, they are more like free discussion, also
+if in the manual there are reference to moves.  After that, the first session
+may start (triggering the __Describe the scene__ move).
 
 The game system tries to be as generic as possible, however this may put too
 much on the shoulder of the scenarist and players, so consider to use an
@@ -511,41 +579,6 @@ the character sheet. Try to make them coherent with how they feels after the
 murdered.
 ```
 
-The last moves are a bit obvious, however they are there to remember you some
-routine task.
-
-__Describe the scene__ when you have to describe the scene, first if you want
-you can close or pause the current scene and return to a previously suspended
-scene, or to describe a new scene. Then you tell some new event in the scene or
-reveal some new truth to the players about the scene or something or someone is
-inside it. Nothing should cleary bring to troubles for the player, neither if
-it is completely ignored by the characters. Occasionally good things may happen
-for the players.
-
-__Describe some details__ when a player asks to you to better describe some
-details about the current scene, just do it, unless ey is asking for something
-eir character is not supposed to know, see or understand.
-
-__Ask what they do__ - when you are speaking and you have nothing to say
-anymore, ask to one ore more characters in the current scene what they do next.
-Try to ask it to the most obvious player, for example the one that just asked
-yoy to __Describe some details__ if that is the reason why you was speaking.
-
-__Ask the player to act in turn__ - when two or more players start to speack
-one over another, stop them, summarize the situation and ask to a single player
-what ey does.
-
-__Ask how the character does__ - when a player is sayng what the character
-does, but ey is too vague about the precise actions, ask em, in a kind way, to
-specify better. This action applies also when the statement required by another
-move (like the __Taking an advantage__ move) is too vague.
-
-```
-Alice - Anne tryies to stole the book.
-
-Scenarist - Ok, great! How Anne tryies to do it ?
-```
-
 # Player moves
 
 __Add a fortune point__ - when you have to add a fortune point, increase by
@@ -836,18 +869,6 @@ moves, one must be deleted first. The scenarist may ask you to customize the mov
 or invent a completely new one, however ey has to approbe the last form.
 
 How to create a new move is descibed in a dedicated section.
-
-The last move is a bit obvious:
-
-__Tell what the character does__ - when the scenarist asks what your character
-does, you tell your character actions, what ey says, feels, etc. You do it also
-when the scenarist asks it to a group your characted is member of, no one is
-still speaking, and you find out something interesting to tell.
-
-__Ask for other deatils__ when you are speaking about the actions of your
-character, if there is somthing not clear in scene ot that you think is
-interesting to know about, ask to the scenarist before conitnuing telling what
-your character does.
 
 # Handle difficult actions
 

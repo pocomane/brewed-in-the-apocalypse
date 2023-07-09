@@ -2,19 +2,11 @@
 # Brewed in the Apocalypse
 
 This is a role playing game for 3-6 persons. One person will be called
-"Scenarist", while the others will be called "Players".  The players will tell
-what their characters do and they will act in the fiction.  The scenarist will
-tell what the rest of the world does.
+"Scenarist", while the others will be called "Players".
 
 To play, you need 2 standard 6-sides dice (2 for each player would be better),
 some white sheets, a pencil and and eraser (a pencil for each player would be
 better).
-
-In this manual we use the Spivak pronouns ey/em/eir/emself for genre neutral
-third person singular. A more common alternative would be the singular they but
-we found that it adds confusion in lot of sentences.
-
-# Credits
 
 Brewed in the Apocalypse - revision 0.1.
 
@@ -37,6 +29,53 @@ Current status:
 - All the english text must be revised.
 - The final sections (maked as very preliminary draft) have to be rewritten from
   scratch.
+
+In this manual we use the Spivak pronouns ey/em/eir/emself for genre neutral
+third person singular. A more common alternative would be the singular they but
+we found that it adds confusion in lot of sentences.
+
+# Setup
+
+Before the first session starts, an ambientation playbook is selected all
+togheter and a scenarist is designed. You can use one of that included in this
+manual, or an external one. If you want to use an orginal ambientation, you can
+refer to the "You World" playbook included with this manual. It practically
+contains a way to create a custom ambientation playbook. In the rest we will
+consider that the players and the scenarist choosed a standard ambientation
+playbook.
+
+The playbook contain a short description of the settings, made of few short
+sentence about something true in the world. Moreover it containse few themes do
+not be included in the scenario. Obviously you can ignore them, but creating
+with some constraints is more satisfying, and helps you to better frame the
+setting between similar ones.
+
+That is all. The settings is kept compact by purpose: the rest should be defined
+and discovered during the play. However some ambientation may have more lore
+details, presented at the very beginnig as prose paragraphs.
+
+Then each player will chose one of the character in the playbook. They, like
+the setting, are described in the by few sentence. The playbook contains
+also the initial goals of the caracters. This is just the initial scenario to
+kickoff the game, the mission can be chaged as soon as the players found something
+more interessing. If all this limitations seem too strongs, you can generate
+new character, using the relative seciont of the "Your World" playbook, also if
+another playbook was selected.
+
+After that, each player write on the eir character sheet 8 traits and 2 fortune
+points.  These can be seen as applying 8 times the move __Add a trait__ and 2
+times __Add a fortune point__ , refer to the relevant section for details. We
+suggest to start selecting traits from the list proposed in the playbook. If
+you want invent new one, use the list as inspiration.
+
+The player should keep some space on the sheet to record Harm assigned by the
+scenarist, object ey will find, future notes, etc.
+
+Each player choose and print the name of the character on the sheet.
+
+Than the scenarist will ask each player to present eir character by
+turns. The player should adds also some estethic or psicologic details. If
+their do not do it, the scenarist can ask some questions about it.
 
 # Playing the game
 
@@ -120,8 +159,9 @@ if it is triggered by __Describe some details__ move. This gives you a sense
 of the "Snowball" of moves the discussion is made of.
 
 As already said, these are trivial moves, more advanced one may contain fiction
-clues, or some mechanical things to to, how we will see. Here other two
-trivial scenarist moves:
+clues, or some mechanical things to to, how we will see. Another common thing
+is that they may be triggered on something happen in the fiction, other than
+in the real world. Here other two trivial scenarist moves:
 
 __Ask the player to act in turn__ - when two or more players start to speack
 one over another, stop them, summarize the situation and ask to a single player
@@ -132,25 +172,8 @@ does, but ey is too vague about the precise actions, ask em, in a kind way, to
 specify better. This action applies also when the statement required by another
 move (like the __Taking an advantage__ move) is too vague.
 
-Note that the trigger of all the moves in this section is mechanical, but it
-can be in the fiction too. Actually most of the player moves that we will see
-are triggered by something happening in the fiction.
-
 TODO : add the page reference when referring to a move so that the move description
 can be quickly found ???
-
-The moves (both player and scenarist ones) should continually push the game
-forward in interesting ways. New opportunities should be added when a player
-succeeds in a move, and interesting dilemma should emerge from a compromise
-result. The scenarist __Hard move__ should fundamentally change the situation and
-demand new kind of actions. The __Soft move__ should give to the player new
-things to react to.
-
-The scenarist should also continously ask questions to the players. They may be
-provocative to push a reaction (like in "They are after you, do you prepare
-yourself in some way?"), or informative to get some prompt to elaborate (like
-in "You found a truck, or you would prefer some motorcycles?"), or just to give
-some color to the situation (like in "And how your character is dressed").
 
 # Hosting the game
 
@@ -193,92 +216,18 @@ Principles:
 
 TODO : better rephrase the last three, or at least explain them better
 
-# Setup
+The scenarist should also continously ask questions to the players. They may be
+provocative to push a reaction (like in "They are after you, do you prepare
+yourself in some way?"), or informative to get some prompt to elaborate (like
+in "You found a truck, or you would prefer some motorcycles?"), or just to give
+some color to the situation (like in "And how your character is dressed").
 
-Before the first session starts, a scenarist is designed, an ambientation is
-created all togheter, and each player will create a character.  These phases
-are not actually regulated by moves, they are more like free discussion, also
-if in the manual there are reference to moves.  After that, the first session
-may start (triggering the __Describe the scene__ move).
-
-The game system tries to be as generic as possible, however this may put too
-much on the shoulder of the scenarist and players, so consider to use an
-ambientation playbook. They are short booklets containly a pre-configured
-ambientation to speed-up the first session and other already material to work
-on, like traits, moves, additional rules, etc.
-
-In the rest of this manual we assume you are playing without an ambientation
-playbook, since each of them should exactly explain what and how to change or
-add to the rules. You found some example playbook at end of the manual.
-
-To create the scenario by you own, take a sheet to record the details about the
-abmientation.  First select all togheter an overal setting, like "Stempunk",
-"Fantasy", "Contemoporary", "7 seas advetures", etc.  Then by turn each person
-at the table writes on the sheet one thing that ey does not want to see in the
-play.  Here we are not speaking of vetoing stong themes or similar, but just
-personal preferences. You can also discuss on what adding, if changing
-something already written, or add more constraints.
-
-By turn a person will ask a question about the world. The other will answer
-with a sentence as short as ey can, trying to make it enough different from the
-other ones. Then discuss all togheter on each answer, why it is interesting, if
-there is some incoherence, etc.  During the discussion an answer may be
-modified or expanded, if the proposer agrees.  At the end the person that asked
-the question, select an answer, and ey writes it on the ambientation sheet. The
-only constraint is that can not be selected an answer that would make the
-ambientation sheet incoherent.
-
-When you have a dozen of sentence, this phase can be concluded. Them, togheter
-with the list of the forbiddend themes, are all what you need to start to play,
-the rest of the world will be discovered and defined during the play.
-
-Now you should agree on the tone of the play. There is no mechanical system
-here, just try to agree if the tone would be serious, realistic, light-hearted,
-dark, funny, crazy, or whatever. To make the thing more clear, the players and
-the scenarist may make concrete examples of what can happen, to understand if it
-is ok for the others.
-
-Then each player have to create a character.
-
-Each player write on the eir character sheet 8 traits and 2 fortune points.
-These can be seen as applying 8 times the move __Add a trait__ and 2 times
-__Add a fortune point__ , refer to the relevant section for details.
-
-The player should keep some space on the sheet to record Harm assigned by the
-scenarist, object ey will find, future notes, etc.
-
-Each player choose and print the name of the character on the sheet.
-
-After the character creation, the scenarist will explicetely tell that all the
-charactes known each other, someone better, someone lower. Moreover all the
-character are somehow all togheter, in a travel, living togheter, or something
-like that.
-
-Than the scenarist will ask each player to present eir character by
-turns. The player should adds also some estethic or psicologic details. If
-their do not do it, the scenarist can ask some questions about it.
-
-After the presentation the scenarist will ask to each character one of the
-following question. When all the player answered to one question, the scenarist
-will do a second round of question. At end, each player will respond to two
-different questions:
-
-- Who of the other character do you better know, and how?
-- Who of the other character let you go angry, and why?
-- Who you share a secret with, and which one?
-- What do you think is the wrost thing in this world?
-- What or who you're willing to take risks for?
-- Where do you leave at the beginning of the story?
-
-The answer may be also not fully detailed, leving the fully exploration of the
-question to the actual game.
-
-The scope of the questions is to define the initial scenario, and hopefully let
-the group found the first mission that will kiffoff the game. All the important
-aspects emerged dutring the presentation shoud be breiefly recorded on the
-relative character sheet
-
-TODO : add a full example of scenario creation ?
+The moves (both player and scenarist ones) should continually push the game
+forward in interesting ways. New opportunities should be added when a player
+succeeds in a move, and interesting dilemma should emerge from a compromise
+result. The scenarist __Hard move__ should fundamentally change the situation and
+demand new kind of actions. The __Soft move__ should give to the player new
+things to react to.
 
 # Common move mechanics
 
@@ -488,6 +437,8 @@ a __Describe the scene__ or a __Tell something bad__ move. If you select the
 latter, make sure that anything you do gives the player an opportunity to
 react; what you say may however set you up for a future __Hard move__ .
 
+Try to make __Soft move__ that give to the player new things to react to.
+
 ```
 Scenarist - you reach the gate, there are three guards watching it, they are
 well equiped. What do you do?
@@ -521,6 +472,9 @@ of a failure text if any, do a __Assign an harm__  or __Tell something bad__
 move.  anything you do is irrevocable, i.e. the player can not avoid it
 reacting in any way.  All what you say must follow logically from the fiction.
 
+Try to make __Hard move__ that fundamentally changes the situation and demands
+new kind of actions. 
+
 __Tell the consequences__ - when too much time is elapsed without the fiction
 generated by a __Soft move__ has been handled by the players, make the
 situation evolve with an __Hard move__ .
@@ -533,8 +487,8 @@ The characters are in a bus out of control. They starts to propose each outer
 possible things to do, but no one take an action.
 
 Scenarist - Ok, the time is out: the bus go off road. It crash on a wall.
-Fortunately it was not so fast, so you did not get serious ingiuries, but some
-contusion. Write "Contusion 1" on your character scheets.
+Fortunately it was not so fast, so you did not get serious ingiuries. But
+oblviously now you need to find another way to reach your destination.
 ```
 
 __Propose a cost__ when a player got a compromise result in roll, and no
@@ -865,10 +819,12 @@ that such position may help.
 __Add a special move__ when you have to add a special move, the scenarist will
 show you a list of moves. Choose one that is not already on your character sheet
 and add it to tha character sheet.  If the character had more than 6 special
-moves, one must be deleted first. The scenarist may ask you to customize the move,
-or invent a completely new one, however ey has to approbe the last form.
+moves, one must be deleted first. The scenarist may ask you to customize the move.
 
-How to create a new move is descibed in a dedicated section.
+The move list is provided in the ambientation playbook, however if the
+scenarist or the player want to create completely new ones, they may use the
+suggestion in the "Your World" ambientation playbook, also if another playbook
+was selected.
 
 # Handle difficult actions
 
@@ -919,7 +875,192 @@ better plan.
 Alice - Actually I like it. OK, LET'S START.
 ```
 
-# Creating special moves
+# Adapt the system to you games
+
+THIS SECTION IS IN A VERY PRELIMINARY STAGE
+
+This game system is mainly composed of two parts:
+
+- The mechanical rules for resolve the rolls, with traits and harms
+- The scenarist handling of the session
+
+To use the mechanics with other way of being a GM, a.k.a. Game Master (that is
+what the Scenarist is after all), just ignore anything about the moves (both of
+the scenarist and the player): the Game Master will tell when make a roll,
+which trait to use, when mark an harm, etc.
+
+Instead, to use the Scenarist system with other mechanics, map the check in
+that system to the three outcome Success, Failure and Comporomise. For example,
+in a d20 system you can see a roll equal to the trhesdhould +/- 1 to be a
+Compromise, higher is a Success, lower a failure. The only other thing you have
+to decide is what to do instead of giving an harm but probably your system
+still have a way to handle the status changes (that is what the harms are after
+all).
+
+If you have a critic success or fail system you have to add some Scenarist move
+like "On critical succes, give award" and "On critical fail, make the hard move
+worse". There are no ready recipe here.
+
+# Master less or Master full
+
+THIS SECTION IS IN A VERY PRELIMINARY STAGE, AND NEEDS A LOT OF TESTING.
+
+A master less version is being developed. In it there is no a single scenarist,
+but eir role is divided by all the player. So probably a better name
+would be "Masterfull".
+
+The basic idea is that the scenarist moves are avaiable to all the players, and
+when the scenarist should act, the first player that pay a Scenarist Token can
+act as the scenarist. The Scenarist Token are collected every time your
+character make a roll (a player can have maximum 5 scenarist token).
+
+Note: the reposnability of checking for the move trigger should be changed with
+something like the following.  Every player is responsable to check if a player
+move is triggered for the controlled character. The scenarist is responsable to
+check if a scenarist move is triggered. If someone misses a trigger, any other
+person may remember them that there is somehing to do.
+
+# Small Fantasy - Playbook
+
+TODO : make an exampl playbook (HIGH PRIORITY)
+
+# Future on Earth - Playbook
+
+TODO : make an exampl playbook (HIGH PRIORITY) THIS IS JUST A RAW SCHEME
+
+The world:
+
+bla bla Extended lore ?? bal bla
+
+The scenarist shoudl follow these additional agendas and principes
+
+bla bla
+Build a bigger world through play ???
+Sometimes, reflect a question back upon the player ???
+Look at your NPCs and ideas through crosshairs ???
+bla bla
+
+TODO : add the previous priciples to the default ones ?
+
+Do not follow the ambientation creation phase. Use the following themes to be
+avoide, and thruth about the world.
+
+bla bla
+
+Here there are a list of trait. You can stil create new by your
+own, but if you choose the ones from the list you do not need to ask to anyone
+if they are good.
+
+bla bla
+
+Here there are a list of common harm and suggestion of when using them and how
+to heal them
+
+bla bla
+
+Here a list of moves that all the character have at the beginnig
+
+bla bla
+(some are just Additional questions to be asked in the move that resquestes them)
+bla bla
+
+Here a list of moves that the player may select when evolving the character. They
+do not need to be approved by the scenarist, unsless when they require some
+customization.
+
+bla bla
+
+In this ambientation you can optionaly introduce the following completely new
+machanics
+
+bla bla
+
+Here there is an initial situation, with already created character, with
+relation and an initiali goal (it may be ignored as soon as you found new
+ones).  This theorically let's you to start playing fully skipping the Scenario
+creation pahse, however, consider at least to delete some or all the traits and
+replace them with the one you prefer (following the standard rule of createion)
+
+bla bla
+
+Finally there are some example situation that the scenarist may use if ey does
+not have better ideas, or just to get the sense of the ambientation
+
+bla bla
+
+# Horses and Guns - Playbook
+
+TODO : make an exampl playbook (HIGH PRIORITY)
+
+# Space Frontier - Playbook
+
+TODO : make an exampl playbook
+
+# Your World - Playbook
+
+This is not an actual ambientation playbook. You can see it more like a
+procedure and some adivice to create your own ambientation. Since it is a bit
+articulated, it is organized in sub-section.
+
+THIS PLAYBOOK IS IN A VERY PRELIMINARY STAGE
+
+## Create the Scenario
+
+To create the scenario by you own, take a sheet to record the details about the
+abmientation.  First select all togheter an overal setting, like "Stempunk",
+"Fantasy", "Contemoporary", "7 seas advetures", etc.  Then by turn each person
+at the table writes on the sheet one thing that ey does not want to see in the
+play.  Here we are not speaking of vetoing stong themes or similar, but just
+personal preferences. You can also discuss on what adding, if changing
+something already written, or add more constraints.
+
+By turn a person will ask a question about the world. The other will answer
+with a sentence as short as ey can, trying to make it enough different from the
+other ones. Then discuss all togheter on each answer, why it is interesting, if
+there is some incoherence, etc.  During the discussion an answer may be
+modified or expanded, if the proposer agrees.  At the end the person that asked
+the question, select an answer, and ey writes it on the ambientation sheet. The
+only constraint is that can not be selected an answer that would make the
+ambientation sheet incoherent.
+
+When you have a dozen of sentence, this phase can be concluded. Them, togheter
+with the list of the forbiddend themes, are all what you need to start to play,
+the rest of the world will be discovered and defined during the play.
+
+Now you should agree on the tone of the play. There is no mechanical system
+here, just try to agree if the tone would be serious, realistic, light-hearted,
+dark, funny, crazy, or whatever. To make the thing more clear, the players and
+the scenarist may make concrete examples of what can happen, to understand if it
+is ok for the others.
+
+After the character creation, the scenarist will explicetely tell that all the
+charactes known each other, someone better, someone lower. Moreover all the
+character are somehow all togheter, in a travel, living togheter, or something
+like that.
+
+After the presentation the scenarist will ask to each character one of the
+following question. When all the player answered to one question, the scenarist
+will do a second round of question. At end, each player will respond to two
+different questions:
+
+- Who of the other character do you better know, and how?
+- Who of the other character let you go angry, and why?
+- Who you share a secret with, and which one?
+- What do you think is the wrost thing in this world?
+- What or who you're willing to take risks for?
+- Where do you leave at the beginning of the story?
+
+The answer may be also not fully detailed, leving the fully exploration of the
+question to the actual game.
+
+The scope of the questions is to define the initial scenario, and hopefully let
+the group found the first mission that will kiffoff the game. All the important
+aspects emerged dutring the presentation shoud be breiefly recorded on the
+relative character sheet
+
+TODO : add a full example of scenario creation ?
+
+## Creating special moves
 
 The scenarist may invent a list of new moves to present to the players when
 they decides to __Add a special move__ . When the players become comfortable
@@ -1024,7 +1165,7 @@ __Drink blood__ when you drink the blood from the veins of a living person, you
 can __Remove an harm__ related to a physical wound or stress.
 ```
 
-# Other moves
+## Other moves
 
 THIS SECTION IS IN A VERY PRELIMINARY STAGE, PROBABLY IT WILL BE REMOVED since
 it is a scratchpad for new moves.
@@ -1051,129 +1192,4 @@ __Endure__: Roll+ [Conditions]
 
 - 10+: Be removed from the scene, lose control / lash out, or choose two options from 7-9 list
 - 7-9: Mark two conditions, provoke an ally or give them a condition, or give your opposition an opportunity
-
-# Adapt the system to you games
-
-THIS SECTION IS IN A VERY PRELIMINARY STAGE
-
-This game system is mainly composed of two parts:
-
-- The mechanical rules for resolve the rolls, with traits and harms
-- The scenarist handling of the session
-
-To use the mechanics with other way of being a GM, a.k.a. Game Master (that is
-what the Scenarist is after all), just ignore anything about the moves (both of
-the scenarist and the player): the Game Master will tell when make a roll,
-which trait to use, when mark an harm, etc.
-
-Instead, to use the Scenarist system with other mechanics, map the check in
-that system to the three outcome Success, Failure and Comporomise. For example,
-in a d20 system you can see a roll equal to the trhesdhould +/- 1 to be a
-Compromise, higher is a Success, lower a failure. The only other thing you have
-to decide is what to do instead of giving an harm but probably your system
-still have a way to handle the status changes (that is what the harms are after
-all).
-
-If you have a critic success or fail system you have to add some Scenarist move
-like "On critical succes, give award" and "On critical fail, make the hard move
-worse". There are no ready recipe here.
-
-# Master less or Master full
-
-THIS SECTION IS IN A VERY PRELIMINARY STAGE, AND NEEDS A LOT OF TESTING.
-
-A master less version is being developed. In it there is no a single scenarist,
-but eir role is divided by all the player. So probably a better name
-would be "Masterfull".
-
-The basic idea is that the scenarist moves are avaiable to all the players, and
-when the scenarist should act, the first player that pay a Scenarist Token can
-act as the scenarist. The Scenarist Token are collected every time your
-character make a roll (a player can have maximum 5 scenarist token).
-
-Note: the reposnability of checking for the move trigger should be changed with
-something like the following.  Every player is responsable to check if a player
-move is triggered for the controlled character. The scenarist is responsable to
-check if a scenarist move is triggered. If someone misses a trigger, any other
-person may remember them that there is somehing to do.
-
-# Title 1 - Playbook
-
-TODO : make an exampl playbook (HIGH PRIORITY)
-
-# Title 2 - Playbook
-
-TODO : make an exampl playbook (HIGH PRIORITY) THIS IS JUST A RAW SCHEME
-
-The world:
-
-bla bla Extended lore ?? bal bla
-
-The scenarist shoudl follow these additional agendas and principes
-
-bla bla
-Build a bigger world through play ???
-Sometimes, reflect a question back upon the player ???
-Look at your NPCs and ideas through crosshairs ???
-bla bla
-
-TODO : add the previous priciples to the default ones ?
-
-Do not follow the ambientation creation phase. Use the following themes to be
-avoide, and thruth about the world.
-
-bla bla
-
-Here there are a list of trait. You can stil create new by your
-own, but if you choose the ones from the list you do not need to ask to anyone
-if they are good.
-
-bla bla
-
-Here there are a list of common harm and suggestion of when using them and how
-to heal them
-
-bla bla
-
-Here a list of moves that all the character have at the beginnig
-
-bla bla
-(some are just Additional questions to be asked in the move that resquestes them)
-bla bla
-
-Here a list of moves that the player may select when evolving the character. They
-do not need to be approved by the scenarist, unsless when they require some
-customization.
-
-bla bla
-
-In this ambientation you can optionaly introduce the following completely new
-machanics
-
-bla bla
-
-Here there is an initial situation, with already created character, with
-relation and an initiali goal (it may be ignored as soon as you found new
-ones).  This theorically let's you to start playing fully skipping the Scenario
-creation pahse, however, consider at least to delete some or all the traits and
-replace them with the one you prefer (following the standard rule of createion)
-
-bla bla
-
-Finally there are some example situation that the scenarist may use if ey does
-not have better ideas, or just to get the sense of the ambientation
-
-bla bla
-
-# Title 3 - Playbook
-
-TODO : make an exampl playbook (HIGH PRIORITY)
-
-# Title 4 - Playbook
-
-TODO : make an exampl playbook
-
-# Title 5 - Playbook
-
-TODO : make an exampl playbook
 

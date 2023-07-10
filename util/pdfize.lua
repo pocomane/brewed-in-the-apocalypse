@@ -31,9 +31,9 @@ local function render(x)
         }
         body {
           column-count: 2;
-          font: 12pt "Sans";
+          font: 10pt "Sans";
           line-height: 14pt;
-          //text-align: justify;
+          text-align: justify;
         }
         /*
         .PageBreak {
@@ -43,6 +43,9 @@ local function render(x)
         ul {
           //list-style-type: none;
           padding-left: 0pt;
+        }
+        ul li {
+           list-style-position: inside;
         }
         strong {
           font-weight: normal;
@@ -59,11 +62,11 @@ local function render(x)
         h2 {
           text-align: center;
           text-transform: uppercase;
-          font: 12pt "Sans";
+          font: 10pt "Sans";
         }
         h3 {
           text-transform: uppercase;
-          font: 12pt "Sans";
+          font: 10pt "Sans";
         }
         h1:first-letter {
           font: 18pt "Sans";
@@ -84,11 +87,11 @@ local function render(x)
           font: 14pt "Sans";
         }
         .example {
-          font: 12pt "Sans";
+          font: 10pt "Sans";
           border: 1pt solid;
-          padding: 6pt 6pt 6pt 26pt;
+          padding: 6pt 6pt 6pt 6pt;
           margin: 0pt 0pt 6pt 0pt;
-          text-indent:-20px;
+          text-indent:6pt;
         }
         .example p {
           margin-bottom: 2pt;
@@ -112,6 +115,7 @@ local function make_pdf()
 
   local fileliststr = [[
 bita.md
+bita-strong.md
 ]]
 
   for src in fileliststr:gmatch('[^\n]*') do

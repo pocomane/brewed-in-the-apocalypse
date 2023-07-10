@@ -16,14 +16,14 @@ This work is released in 2023 under the Creative Commons Share Alike [CC BY-SA
 It is strongly inspired by:
 
 - Apocalypse World by D. Vincent Baker and Meguey Baker (2010)
-- Simple World by Alder Avery (2020, or before, we do not know exactly)
+- Not the End by Claudio Pustorino (2020)
+- Simple World by Alder Avery (2013)
 - Masks - A new Generation by Brendan Conway (2016)
 
-Current status:
+TODO list:
 
-- It must be specified how the items works
+- Rewrite the examples adressing the Character, not the Player
 - Some ambientation playbook must be added.
-- The rules are almost definive.
 - Some examples must be written.
 - The content must be made more concise in various point.
 - All the english text must be revised.
@@ -62,11 +62,13 @@ more interessing. If all this limitations seem too strongs, you can generate
 new character, using the relative seciont of the "Your World" playbook, also if
 another playbook was selected.
 
-After that, each player write on the eir character sheet 8 traits and 2 fortune
-points.  These can be seen as applying 8 times the move __Add a trait__ and 2
-times __Add a fortune point__ , refer to the relevant section for details. We
-suggest to start selecting traits from the list proposed in the playbook. If
-you want invent new one, use the list as inspiration.
+After that, the players take a sheet to record al what happen to their
+character, both in fiction and machanical. They start writing on the character
+sheet 8 traits and 2 fortune points.  These can be seen as applying 8 times the
+move __Add a trait__ and 2 times __Add a fortune point__ , refer to the
+relevant section for details. We suggest to start selecting traits from the
+list proposed in the playbook. If you want invent new one, use the list as
+inspiration.
 
 The player should keep some space on the sheet to record Harm assigned by the
 scenarist, object ey will find, future notes, etc.
@@ -123,6 +125,8 @@ ey like about the fiction, until there are no imminent threats for the
 characters. How the discussin is moved to the players? There are this other
 scenarist move:
 
+TODO : describe what a "Scene" is, what it means it is "Suspended" or "closed" ???
+
 __Ask what they do__ - when you are speaking and you have nothing to say
 anymore, ask to one ore more characters in the current scene what they do next.
 Try to ask it to the most obvious player, for example the one that just asked
@@ -161,16 +165,24 @@ of the "Snowball" of moves the discussion is made of.
 As already said, these are trivial moves, more advanced one may contain fiction
 clues, or some mechanical things to to, how we will see. Another common thing
 is that they may be triggered on something happen in the fiction, other than
-in the real world. Here other two trivial scenarist moves:
+in the real world. Here some other trivial scenarist moves:
 
 __Ask the player to act in turn__ - when two or more players start to speack
 one over another, stop them, summarize the situation and ask to a single player
 what ey does.
 
 __Ask how the character does__ - when a player is sayng what the character
-does, but ey is too vague about the precise actions, ask em, in a kind way, to
+does, but ey is too vague about the precise actions, ask em, in a kindly way, to
 specify better. This action applies also when the statement required by another
 move (like the __Taking an advantage__ move) is too vague.
+
+__Make clear how it works__ when it seems that a player misundestanded
+something in the scene, kindly remember to em how it works, and what can or can
+not be the consequence of eir action.
+
+__Give an alternative__ when you say to a player that something ey want to do
+is impossible, or will not work as ey intended, do it kindly and give em a
+similar alternative.
 
 TODO : add the page reference when referring to a move so that the move description
 can be quickly found ???
@@ -211,16 +223,17 @@ Principles:
 - Name everyone, make everyone human.
 - Ask provocative questions and build on the player's answers.
 - Respond with challenging circumstances and occasional rewards.
+- Do not play against the players.
 - Be a fan of the player’ characters.
 - Think offscreen, too.
 
 TODO : better rephrase the last three, or at least explain them better
 
-The scenarist should also continously ask questions to the players. They may be
-provocative to push a reaction (like in "They are after you, do you prepare
-yourself in some way?"), or informative to get some prompt to elaborate (like
-in "You found a truck, or you would prefer some motorcycles?"), or just to give
-some color to the situation (like in "And how your character is dressed").
+The question asked by scenarist to the players may be provocative to push a
+reaction (like in "They are after you, do you prepare yourself in some way?"),
+or informative to get some prompt to elaborate (like in "You found a truck, or
+you would prefer some motorcycles?"), or just to give some color to the
+situation (like in "And how your character is dressed").
 
 The moves (both player and scenarist ones) should continually push the game
 forward in interesting ways. New opportunities should be added when a player
@@ -228,6 +241,25 @@ succeeds in a move, and interesting dilemma should emerge from a compromise
 result. The scenarist __Hard move__ should fundamentally change the situation and
 demand new kind of actions. The __Soft move__ should give to the player new
 things to react to.
+
+Finally, a quick note about the items. During the game the characters may found
+object, vehicles, and other kind of resoruces. These does not have any
+mechanical effect, however the scenarist should consider them when deciding
+what action may the characters do, and when ey decide the outcome of the rolls.
+Also the quality of the item is accounted in the same way.
+
+```
+Bob: Bart shots to Nick.
+
+Scenarist: He can not... he loose the gun in the previous scene. But you have a
+rusty knife, if you want you can make a roll to try to wound him with it.
+
+Bob: ok, I try. I do not have any applicable trait, but I got 10 that is a
+success in any case.
+
+Scenarist: ok, you hurt him, but since the knife is very rusty and not shar at
+all, the wound is a very superficial one.
+```
 
 # Common move mechanics
 
@@ -239,6 +271,24 @@ communicate it to the other player, and ask for the specific action to be
 performed, if any. If a player did not relize that what ey said would trigger a
 move, the scenarist should leave to the player the opportunity to rollback and
 to said something else.
+
+First, as you will see the characters may ending having different special moves
+other than the common ones shared by all of them. This may suggest that having
+a move enable somwhow the character to perform some action. This is not the
+case. If a character may or may not perform an action is prescibed only by the
+fiction. If a character may do something, when ey do it, the move is triggered.
+Different set of moves is introduced only to differentiate the outcomes per
+player.
+
+```
+Bob - ok in this ambientation there is a move triggered "When you try to
+cast a fireball...", so I try to cast one to hurt the troll, moving the hand in
+the air...
+
+Scenarist - No, no wait, the move is there to say what normaly happens when
+casting a fireball, but you have to be a Red Mage to cast a fireball. You are
+an Archer, so if you want you can just trhow an arrow...
+```
 
 In general the players can not repeat the same move again and again searching
 for best results. The core check mechanics already discorages this since every
@@ -336,8 +386,8 @@ so just continue, Bart is successfull.
 ```
 
 Similary, if an action is too much likely to fail, the scenarist should just
-said it is impossible, giving a similar alternative. If the player insist to do
-it, just do what the failure text of the player move demands.
+said it is impossible. If the player insist to do it, just do what the failure
+text of the player move demands.
 
 If the player just continues to speak, skipping or performing a roll contrary
 to what the scenarist thinks is appropriate, the scenarist can stop the action,
@@ -923,6 +973,28 @@ person may remember them that there is somehing to do.
 # Small Fantasy - Playbook
 
 TODO : make an exampl playbook (HIGH PRIORITY)
+
+All the players have the following additional moves:
+
+__Feed yourself__ when the character consumes a ration of food and drink,
+you can delete up to 2 harm "Hungry". If you do not have such harm, you
+can record "Fed" in the character sheet. If you already have "Fed", you
+do nothing.
+
+__Body need__ when is the keeping time, the scenarist __Assign a harm__
+"Hungry" with value 2 to all the character. The hungry harm affects ALL your
+rolls. If a character has a "Fed" status, do not assign the harm, and just
+delete "fed" from the character sheet. The keeping time is the moment in the
+day where most of the peoples and animals sleeps. In the real world it would be
+between 3:00 or 4:00 PM.
+
+__KO__ when the sum of your harms is 9 or more, you are knoked out. You can no
+more act as the character until someone heal one or more of your harm, bringing
+the sum under 9. The scenarist __Assign a harm__ "Give help" of value 2 to all
+the other players. This represents the needs to transport the body of the
+friend, or the emotive harm if they are away from it. It affects all the rolls.
+This harm can be deleted only when the friend is healed, or if eir playerd
+decides that the characted die.
 
 # Future on Earth - Playbook
 

@@ -1010,6 +1010,7 @@ bla bla
 Build a bigger world through play ???
 Sometimes, reflect a question back upon the player ???
 Look at your NPCs and ideas through crosshairs ???
+Give to every character the chance to shine ??
 bla bla
 
 TODO : add the previous priciples to the default ones ?

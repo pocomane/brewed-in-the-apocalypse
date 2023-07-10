@@ -85,8 +85,9 @@ local function render(x)
         }
         .example {
           font: 12pt "Sans";
-          background-color: #DDDDDD;
+          border: 1pt solid;
           padding: 6pt 6pt 6pt 26pt;
+          margin: 0pt 0pt 6pt 0pt;
           text-indent:-20px;
         }
         .example p {

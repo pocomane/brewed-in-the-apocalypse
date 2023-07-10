@@ -39,27 +39,27 @@ we found that it adds confusion in lot of sentences.
 Before the first session starts, an ambientation playbook is selected all
 togheter and a scenarist is designed. You can use one of that included in this
 manual, or an external one. If you want to use an orginal ambientation, you can
-refer to the "You World" playbook included with this manual. It practically
+refer to the "Your World" playbook included with this manual. It practically
 contains a way to create a custom ambientation playbook. In the rest we will
 consider that the players and the scenarist choosed a standard ambientation
 playbook.
 
-The playbook contain a short description of the settings, made of few short
-sentence about something true in the world. Moreover it containse few themes do
+The playbook contain a short description of the setting, made of few short
+sentence about something true in the world. Moreover it contains few themes do
 not be included in the scenario. Obviously you can ignore them, but creating
 with some constraints is more satisfying, and helps you to better frame the
 setting between similar ones.
 
-That is all. The settings is kept compact by purpose: the rest should be defined
+That is all. The setting is kept compact by purpose: the rest should be defined
 and discovered during the play. However some ambientation may have more lore
 details, presented at the very beginnig as prose paragraphs.
 
 Then each player will chose one of the character in the playbook. They, like
-the setting, are described in the by few sentence. The playbook contains
-also the initial goals of the caracters. This is just the initial scenario to
-kickoff the game, the mission can be chaged as soon as the players found something
+the setting, are described by few sentence. The playbook contains also the
+initial goals of the caracters. This is just the initial scenario to kickoff
+the game, the mission can be changed as soon as the players found something
 more interessing. If all this limitations seem too strongs, you can generate
-new character, using the relative seciont of the "Your World" playbook, also if
+new character, using the relative section of the "Your World" playbook, also if
 another playbook was selected.
 
 After that, the players take a sheet to record al what happen to their
@@ -109,10 +109,10 @@ what the trigger demands.
 
 To gain confidence with the move concept, we here review some ones that probably
 could be completely omitted as obvious them are. A session itself is started by
-the __Descrive the scene__ move of the scenarist:
+the __Describe the scene__ move of the scenarist:
 
 __Describe the scene__ when you have to start the session, you can resume an
-old scene, if any, or descrive a completely new one.  You do it telling some
+old scene, if any, or describe a completely new one.  You do it telling some
 new event in the scene or reveal some new truth to the players about the scene
 or something or someone is inside it. Nothing should cleary bring to troubles
 for the player, neither if it is completely ignored by the characters.
@@ -122,7 +122,7 @@ Occasionally good things may happen for the players.
 a session. Note that since this is a scenarist move, "You" in the text is
 the scenarist. Here the move just said that the scenarist can say anything
 ey like about the fiction, until there are no imminent threats for the
-characters. How the discussin is moved to the players? There are this other
+characters. How the discussion is moved to the players? There are this other
 scenarist move:
 
 TODO : describe what a "Scene" is, what it means it is "Suspended" or "closed" ???
@@ -130,7 +130,7 @@ TODO : describe what a "Scene" is, what it means it is "Suspended" or "closed" ?
 __Ask what they do__ - when you are speaking and you have nothing to say
 anymore, ask to one ore more characters in the current scene what they do next.
 Try to ask it to the most obvious player, for example the one that just asked
-yoy to __Describe some details__ if that is the reason why you was speaking.
+you to __Describe some details__ if that is the reason why you was speaking.
 
 So at end of the __Describe the scene__ , when the scenarist has nothing more
 to say, just conclude with "What do you do" ? Then here there is the first
@@ -353,7 +353,7 @@ into play only when another move explicetely asks for it.
 
 ```
 The __Hard move__ says to make an __Tell something bad__. The latter just
-says "When yoy have to tell something bad..." as trigger text, so it is designed
+says "When you have to tell something bad..." as trigger text, so it is designed
 to be called from other moves only.  This trigger text, like any other that
 would be in this situation, is ignored. Just continue reading the rest: ...
 first if you want ...
@@ -666,6 +666,10 @@ walk to the coffe machine. When they are quite far away, Anne go behind the
 deck and take the book without no one noticing her.  Alice, what Anne does
 next?
 ```
+
+Normally, the scenarist decides if an NPC fails or is successful in taking any
+action. However the player may influence the outcome if the following moves are
+triggered.
 
 __Helping NPCs__ - When you help someone and you have to roll:
 
@@ -986,7 +990,7 @@ __Body need__ when is the keeping time, the scenarist __Assign a harm__
 rolls. If a character has a "Fed" status, do not assign the harm, and just
 delete "fed" from the character sheet. The keeping time is the moment in the
 day where most of the peoples and animals sleeps. In the real world it would be
-between 3:00 or 4:00 PM.
+between 3:00 or 4:00 AM.
 
 __KO__ when the sum of your harms is 9 or more, you are knoked out. You can no
 more act as the character until someone heal one or more of your harm, bringing

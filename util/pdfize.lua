@@ -124,6 +124,14 @@ local compact_css = [[
         h1:first-letter {
           font: 12pt "Sans";
         }
+        p {
+          margin-top: 4pt;
+          margin-bottom: 4pt;
+        }
+        ul {
+          margin-top: 4pt;
+          margin-bottom: 4pt;
+        }
 ]]
 
 local compact_html = [[

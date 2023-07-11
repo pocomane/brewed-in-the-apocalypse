@@ -22,11 +22,6 @@ local common_css = [[
           margin-left: 5pt;
           margin-right: 5pt;
         }
-        h1 {
-          text-align: center;
-          text-transform: uppercase;
-          font: 16pt "Sans";
-        }
         h2 {
           text-align: center;
           text-transform: uppercase;
@@ -35,9 +30,6 @@ local common_css = [[
         h3 {
           text-transform: uppercase;
           font: 10pt "Sans";
-        }
-        h1:first-letter {
-          font: 18pt "Sans";
         }
         h2:first-letter {
           font: 14pt "Sans";
@@ -81,6 +73,14 @@ local standard_css = [[
           line-height: 14pt;
           text-align: justify;
         }
+        h1 {
+          text-align: center;
+          text-transform: uppercase;
+          font: 16pt "Sans";
+        }
+        h1:first-letter {
+          font: 18pt "Sans";
+        }
 ]]
 
 local standard_html = [[
@@ -103,9 +103,9 @@ local standard_html = [[
 local compact_css = [[
         @page {
           size: A4 landscape;
-          margin-left: 75pt;
-          margin-right: 75pt;
-          margin-bottom: 75pt;
+          margin-left: 60pt;
+          margin-right: 60pt;
+          margin-bottom: 60pt;
           margin-top: 60pt;
         }
         body {
@@ -113,6 +113,14 @@ local compact_css = [[
           font: 10pt "Sans";
           line-height: 14pt;
           text-align: justify;
+        }
+        h1 {
+          text-align: center;
+          text-transform: uppercase;
+          font: 10pt "Sans";
+        }
+        h1:first-letter {
+          font: 12pt "Sans";
         }
 ]]
 

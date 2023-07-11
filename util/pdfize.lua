@@ -136,6 +136,9 @@ local compact_css = [[
           margin-top: 4pt;
           margin-bottom: 4pt;
         }
+        li::marker {
+            content: '▶ ';
+        }
         strong {
           font-weight: normal;
           text-transform: uppercase;

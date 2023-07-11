@@ -56,15 +56,15 @@ player rolls 2 standard 6-side dices, sums the results, adds the number of
 traits and subtracts the total value of the harms. The result will determinate
 the outcome of the action:
 
-- 12 or more is a full success, the scenarist will tell how the character
-  reached the goal; if applicable something good may happen too e.g. object
-  discovered, new information, new status, etc.
-- 9-10-11 is a weak result, the scenarist may decide to let the characters fail
-  but giving some compensation, or to let they succeed with a complication that
-  the players can react to.
 - 8 or less is a failure, the scenarist will tell about the failure, and about
   a new trouble that is irrevocable i.e. the player can not avoid it reacting
   in any way.
+- 9-10-11 is a weak result, the scenarist may decide to let the characters fail
+  but giving some compensation, or to let they succeed with a complication that
+  the players can react to.
+- 12 or more is a full success, the scenarist will tell how the character
+  reached the goal; if applicable something good may happen too e.g. object
+  discovered, new information, new status, etc.
 
 As part of the complication or the trouble, the scenarist may assign or
 increment by 1 a character's harm.

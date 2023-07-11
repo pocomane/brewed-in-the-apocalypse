@@ -34,7 +34,7 @@ how their characters act. The scenarist will also tell how the rest of the world
 react to the character actions.
 
 When the characters do something risky or that has uncertain consequences, the
-scenarist will ask the player to roll. The scenarist can avoid a roll if the
+scenarist will ask the player to roll. The scenarist should avoid a roll if the
 chances of failing or succeeding are too small, or if the consequences of
 failing are not interesting.
 
@@ -52,22 +52,23 @@ player rolls 2 standard 6-side dices and calculates. The outcome is determinated
 by the dice value sum + number of traits - harm value sum:
 
 - 8 or less is a failure, the scenarist will tell about the failure and how it
-  generate a new trouble that is irrevocable i.e. the player can not avoid it
+  generates a new trouble that is irrevocable i.e. the player can not avoid it
   reacting in any way.
 - 9-10-11 is a weak result, the scenarist may decide to let the character fail
   but giving some compensation, or to let they succeed with a complication that
   the players can react to.
 - 12 or more is a full success, the scenarist will tell how the character
   reached the goal; if applicable something good may happen too e.g. an object is
-  discovered, new information are collected, new status, etc.
+  discovered, new information is collected, etc.
 
-As part of the complication or the trouble, the scenarist may assign or
-increment by 1 a character harm.  When the players do in the fiction something
-that can cure an harm, the number is decreased by 1, and the harm is removed if
-it reaches 0. Sometimes a roll is needed for this.
+As part of the complication or the trouble, the scenarist may assign to the
+character a new harm with value 1, or increment by 1 a previous harm.  When the
+players do in the fiction something that can cure an harm, the number is
+decreased by 1. Sometimes a roll is needed for this. An harm is removed when it
+reaches 0. 
 
 __Death__ Optionally, during the setup, decide a value for the sum of the
-harms, e.g. 8, that will trigger the character death. A player may always
+harms, e.g. 8, that will trigger the character death. A player can always
 create a new character starting with the same number of traits of the others.
 
 __Release__ v0.1 released in 2023  under [Creative Common 0](https://creativecommons.org/share-your-work/public-domain/cc0/)

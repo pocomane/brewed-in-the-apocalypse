@@ -24,9 +24,7 @@ character; delete an old traint when there are more than 16.
 __Harms__ An harm is a word or small sentence that represent physical injuries,
 mental stress, or any other negative condition that make sense for the
 ambientation.  It should also cause effects in the fiction. Each harm has a
-number associated to it, that indicate how much will affect the roll. When it
-reach 0, the harm is deleted. The scenarist will say when increment by 1 an
-harm of a character, or when assign a new harm starting with value 1.
+number associated to it, from 0 up, that indicate how much will affect the roll.
 
 The harms can be decreased, or removed if reach 0, when something happens in
 the fiction that can cure or treat the status associated to the harms.
@@ -63,7 +61,7 @@ the outcome of the action:
   avoid it reacting in any way.
 
 As part of the complication or the bad thing, the scenarist may assign or
-increment a character's harm.
+increment by 1 a character's harm.
 
 __Experience__ When something important happen for the fiction, the scenarist
 will ask to all the players do add a new trait to the character.
@@ -71,5 +69,5 @@ will ask to all the players do add a new trait to the character.
 __Handle difficult__ To handle the difficulty of an action, the scenarist can
 split it in multiple roll, justifing thin in the fiction. The scenarist can
 also make clear that due to the danger fo situation, the consequences will be
-very strong.
+very heavy. Also multiple harm increase are possibile.
 

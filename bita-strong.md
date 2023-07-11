@@ -20,11 +20,9 @@ character; delete an old trait when there are more than 16.
 
 __Harms__ An harm is a word or small sentence that represent physical injuries,
 mental stress, or any other negative condition that make sense for the
-ambientation.  It should also cause effects in the fiction. Each harm has a
-number associated to it, from 0 up, that indicate how much will affect the roll.
-
-The harms can be decreased, or removed if reach 0, when something happens in
-the fiction that can cure or treat the status associated to the harms.
+ambientation.  Each harm has a number associated to it, from 1 up, that
+indicate how much it may affect a roll. It should also cause effects in the
+fiction. 
 
 __Item, abilities, etc__ During the game the scenarist may ask to write or
 modify other things in the character sheet. If the scenarist do not give them
@@ -66,8 +64,10 @@ the outcome of the action:
   reached the goal; if applicable something good may happen too e.g. object
   discovered, new information, new status, etc.
 
-As part of the complication or the trouble, the scenarist may assign or
-increment by 1 a character's harm.
+As part of the complication or the trouble , the scenarist may assign or
+increment by 1 a character's harm.  When the players do in the fiction
+something that can cure an harm, the number is decreased by 1, and the harm is
+removed if it reaches 0. Sometimes a roll is needed for this.
 
 __Release__ v0.1 released in 2023  under [Creative Common 0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 

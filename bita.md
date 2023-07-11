@@ -44,8 +44,8 @@ contains a way to create a custom ambientation playbook. In the rest we will
 consider that the players and the scenarist choosed a standard ambientation
 playbook.
 
-The playbook contain a short description of the setting, made of few short
-sentence about something true in the world. Moreover it contains few themes do
+The playbook contains a short description of the setting, made of few short
+sentences about something true in the world. Moreover it contains few themes do
 not be included in the scenario. Obviously you can ignore them, but creating
 with some constraints is more satisfying, and helps you to better frame the
 setting between similar ones.
@@ -55,7 +55,7 @@ and discovered during the play. However some ambientation may have more lore
 details, presented at the very beginnig as prose paragraphs.
 
 Then each player will chose one of the character in the playbook. They, like
-the setting, are described by few sentence. The playbook contains also the
+the setting, are described by few sentences. The playbook contains also the
 initial goals of the caracters. This is just the initial scenario to kickoff
 the game, the mission can be changed as soon as the players found something
 more interessing. If all this limitations seem too strongs, you can generate
@@ -71,7 +71,10 @@ list proposed in the playbook. If you want invent new one, use the list as
 inspiration.
 
 The player should keep some space on the sheet to record Harm assigned by the
-scenarist, object ey will find, future notes, etc.
+scenarist, object ey will find, future notes, etc. Since the Traits, the Harm and
+the Fortune points are the only things having mechanical effect, make clear what
+they are in the sheet, for example putting a "+" before Traits, a "-" before
+Harms and an underline on the Fortune points.
 
 Each player choose and print the name of the character on the sheet.
 
@@ -242,23 +245,26 @@ result. The scenarist __Hard move__ should fundamentally change the situation an
 demand new kind of actions. The __Soft move__ should give to the player new
 things to react to.
 
-Finally, a quick note about the items. During the game the characters may found
-object, vehicles, and other kind of resoruces. These does not have any
-mechanical effect, however the scenarist should consider them when deciding
-what action may the characters do, and when ey decide the outcome of the rolls.
-Also the quality of the item is accounted in the same way.
+Finally, a quick note about the items, abilities, etc. . All these, as anything
+in the character sheet except Traits, Harm and Fortune points (or other
+exceptions described in the chosen ambientation playbook), do not have any
+mechanical effect. However they still have effect in the fiction and the
+scenarist must consider them when deciding what the characters can do, if ey
+need to roll, and which are the consequences of the action.  In the same way
+the scenarist may ask to delete or reduce the number of any resource, when it
+make sense in the fiction.
 
 ```
 Bob: Bart shots to Nick.
 
-Scenarist: He can not... he loose the gun in the previous scene. But you have a
-rusty knife, if you want you can make a roll to try to wound him with it.
+Scenarist: He can not... look on your character sheet: he do not have a gun
+anymore sice he loose it in the previous scene. But you have a rusty knife, if
+you want you can make a roll to try to wound him with it.
 
-Bob: ok, I try. I do not have any applicable trait, but I got 10 that is a
-success in any case.
+Bob agrees to use the knife, than rolls the dices and got a success.
 
-Scenarist: ok, you hurt him, but since the knife is very rusty and not shar at
-all, the wound is a very superficial one.
+Scenarist: ok, you hurt him, but since the knife is very rusty it breaks, delete
+it from the character sheet.
 ```
 
 # Common move mechanics
@@ -667,9 +673,9 @@ deck and take the book without no one noticing her.  Alice, what Anne does
 next?
 ```
 
-Normally, the scenarist decides if an NPC fails or is successful in taking any
-action. However the player may influence the outcome if the following moves are
-triggered.
+Normally, the scenarist decides if a NPC fails or is successful in taking any
+action. However the players may influence the outcome if the following moves
+are triggered.
 
 __Helping NPCs__ - When you help someone and you have to roll:
 

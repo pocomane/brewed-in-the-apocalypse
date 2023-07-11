@@ -67,5 +67,9 @@ increment by 1 a character harm.  When the players do in the fiction something
 that can cure an harm, the number is decreased by 1, and the harm is removed if
 it reaches 0. Sometimes a roll is needed for this.
 
+__Death__ Optionally, during the setup, decide a value for the sum of the
+harms, e.g. 8, that will trigger the character death. A player may always
+create a new character starting with the same number of traits of the others.
+
 __Release__ v0.1 released in 2023  under [Creative Common 0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 

@@ -15,13 +15,6 @@ local common_css = [[
         ul li {
            list-style-position: inside;
         }
-        strong {
-          font-weight: normal;
-          text-transform: uppercase;
-          font: 10pt "Sans";
-          margin-left: 5pt;
-          margin-right: 5pt;
-        }
         h2 {
           text-align: center;
           text-transform: uppercase;
@@ -82,6 +75,13 @@ local standard_css = [[
         h1:first-letter {
           font: 18pt "Sans";
         }
+        strong {
+          font-weight: normal;
+          text-transform: uppercase;
+          font: 10pt "Sans";
+          margin-left: 5pt;
+          margin-right: 5pt;
+        }
 ]]
 
 local standard_html = [[
@@ -120,6 +120,10 @@ local compact_css = [[
           text-align: center;
           text-transform: uppercase;
           font: 10pt "Sans";
+          background-color: #000000;
+          color: #ffffff;
+          border: 4pt solid #000000;
+          border-bottom: 2pt solid #000000;
         }
         h1:first-letter {
           font: 12pt "Sans";
@@ -131,6 +135,15 @@ local compact_css = [[
         ul {
           margin-top: 4pt;
           margin-bottom: 4pt;
+        }
+        strong {
+          font-weight: normal;
+          text-transform: uppercase;
+          font: 10pt "Sans";
+          background-color: #000000;
+          color: #ffffff;
+          border: 3pt solid #000000;
+          border-bottom: 1pt solid #000000;
         }
 ]]
 

@@ -42,6 +42,14 @@ of failing or succeeding are too small, or if the consequences of failing are
 not interesting. This is valid also for action that may cure the harms: if they
 are very likely to succeed, skip the  roll.
 
+To handle the difficulty of an action, the scenarist can split it in multiple
+roll, justifying it in the fiction. The scenarist can also make clear that due
+to the danger of the situation, the consequences will be very heavy. Also
+multiple harm increase are possible.
+
+__Experience__ When something important happen for the fiction, the scenarist
+will ask to all the players do add a new trait to the character.
+
 __Roll__ When the roll is needed, the scenarist decides which harms of the
 character are relevant while the player selects the relevant traits.  Then the
 player rolls 2 standard 6-side dices, sums the results, adds the number of
@@ -60,14 +68,6 @@ the outcome of the action:
 
 As part of the complication or the bad thing, the scenarist may assign or
 increment by 1 a character's harm.
-
-__Experience__ When something important happen for the fiction, the scenarist
-will ask to all the players do add a new trait to the character.
-
-__Handle difficult__ To handle the difficulty of an action, the scenarist can
-split it in multiple roll, justifying thin in the fiction. The scenarist can
-also make clear that due to the danger of the situation, the consequences will
-be very heavy. Also multiple harm increase are possible.
 
 __Release__ v0.1 released in 2023  under [Creative Common 0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 

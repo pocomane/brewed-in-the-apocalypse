@@ -62,9 +62,9 @@ the outcome of the action:
 - 9-10-11 is a weak result, the scenarist may decide to let the characters fail
   but giving some compensation, or to let they succeed with a complication that
   the players can react to.
-- 8 or less is a failure, the scenarist will tell how the character failed, and
-  a trouble will happen that is irrevocable, i.e. the player can not avoid it
-  reacting in any way.
+- 8 or less is a failure, the scenarist will tell about the failure, and about
+  a new trouble that is irrevocable i.e. the player can not avoid it reacting
+  in any way.
 
 As part of the complication or the trouble, the scenarist may assign or
 increment by 1 a character's harm.

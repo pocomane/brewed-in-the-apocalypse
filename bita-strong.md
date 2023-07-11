@@ -52,7 +52,8 @@ traits and substracts the total value of the harms. The result will determinate
 the outcome of the action:
 
 - With 12 or more is a full success, the scenarist will tell how the character
-  reached the goal.
+  reached the goal; if appliable something good mey happen too e.g. object
+  discovered, new informations, new satus, etc.
 - With 9-10-11 is a weak result, the scenarist may decide to let the characters
   fail but giving some compensation, or to let they succeed with a complication
   that the players can react to.

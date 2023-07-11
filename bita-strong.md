@@ -63,10 +63,10 @@ the outcome of the action:
   fail but giving some compensation, or to let they succeed with a complication
   that the players can react to.
 - With 8 or less is a failure, the scenarist will tell how the character failed,
-  and then will happen something bad and irrevocable, i.e. the player can not
-  avoid it reacting in any way.
+  and a trouble will happen that is irrevocable, i.e. the player can not avoid
+  it reacting in any way.
 
-As part of the complication or the bad thing, the scenarist may assign or
+As part of the complication or the trouble, the scenarist may assign or
 increment by 1 a character's harm.
 
 __Release__ v0.1 released in 2023  under [Creative Common 0](https://creativecommons.org/share-your-work/public-domain/cc0/)

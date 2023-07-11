@@ -4,9 +4,6 @@
 This is a role playing game for 3-6 persons. One person will be called
 "Scenarist", while the others will be called "Players".
 
-Version 0.1. This work is released in 2023 under
-[Creative Common 0](https://creativecommons.org/share-your-work/public-domain/cc0/).
-
 __Setup__ The players write 8 traits on the character sheet, then they write
 the character name.  They should also keep some space for harms, notes, and
 anything wlse asked by the scenarist.
@@ -71,4 +68,6 @@ __Handle difficult__ To handle the difficulty of an action, the scenarist can
 split it in multiple roll, justifing thin in the fiction. The scenarist can
 also make clear that due to the danger fo situation, the consequences will be
 very heavy. Also multiple harm increase are possibile.
+
+__Release__ v0.1 released in 2023  under [Creative Common 0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 

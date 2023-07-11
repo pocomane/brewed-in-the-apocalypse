@@ -69,6 +69,7 @@ local standard_css = [[
         }
         body {
           column-count: 2;
+          column-fill: auto;
           font: 10pt "Sans";
           line-height: 14pt;
           text-align: justify;
@@ -110,6 +111,7 @@ local compact_css = [[
         }
         body {
           column-count: 3;
+          column-fill: auto;
           font: 10pt "Sans";
           line-height: 14pt;
           text-align: justify;

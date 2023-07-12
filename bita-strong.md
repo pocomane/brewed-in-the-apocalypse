@@ -18,10 +18,16 @@ When adding a trait: it must conceptually be linked to 2 previous ones (skip
 for the first 4 traits); the same trait can not be repeated for the same
 character; a trait must be deleted when there are more than 16.
 
-__Harms__ An harm is one or few words followed by a number. It represents
-physical injuries, mental stress, or any other negative condition that makes
-sense for the ambientation.  The number indicates how much it may affect a
-roll. The harms should cause effects in the fiction too.
+__Harms__ An harm is one or few words that represent physical injuries, mental
+stress, or any other negative condition that makes sense for the ambientation.
+The harm may affect the character rolls, and should cause effects in the
+fiction too.  An harm repeated multiple times will affect it more; feel free to
+use a number instead of rewriting the same harm multiple time.
+
+As part of the complication or the trouble that may follow a roll, the
+scenarist may assign an harm to the character.  When the players do in the
+fiction something that can cure an harm, a single harm can be deleted.
+A roll may be needed for this.
 
 __Items, abilities, etc__ During the game the scenarist can require to write
 other things on the character sheet. If the scenarist does not give them any
@@ -60,12 +66,6 @@ by the dice value sum + number of traits - harm value sum:
 - 12 or more is a full success, the scenarist will tell how the character
   reached the goal; if applicable something good may happen too e.g. an object is
   discovered, new information is collected, etc.
-
-As part of the complication or the trouble, the scenarist may assign to the
-character a new harm with value 1, or increment by 1 a previous harm.  When the
-players do in the fiction something that can cure an harm, the number is
-decreased by 1. Sometimes a roll is needed for this. An harm is removed when it
-reaches 0. 
 
 __Death__ Optionally, during the setup, decide a value for the sum of the
 harms, e.g. 8, that will trigger the character death. A player can always

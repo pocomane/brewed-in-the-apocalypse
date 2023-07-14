@@ -5,7 +5,7 @@ This is a role playing game for 3-6 persons. One person will be called
 "Scenarist", while the others will be called "Players".
 
 To play, you need 2 standard 6-sides dice (2 for each player would be better),
-some white sheets, a pencil and and eraser (a pencil for each player would be
+some white sheets, a pencil and eraser (a pencil for each player would be
 better).
 
 Brewed in the Apocalypse - revision 0.1.
@@ -22,12 +22,12 @@ It is strongly inspired by:
 
 TODO list:
 
-- Rewrite the examples adressing the Character, not the Player
+- Rewrite the examples addressing the Character, not the Player
 - Some ambientation playbook must be added.
 - Some examples must be written.
 - The content must be made more concise in various point.
 - All the english text must be revised.
-- The final sections (maked as very preliminary draft) have to be rewritten from
+- The final sections (marked as very preliminary draft) have to be rewritten from
   scratch.
 
 In this manual we use the Spivak pronouns ey/em/eir/emself for genre neutral
@@ -37,11 +37,11 @@ we found that it adds confusion in lot of sentences.
 # Setup
 
 Before the first session starts, an ambientation playbook is selected all
-togheter and a scenarist is designed. You can use one of that included in this
-manual, or an external one. If you want to use an orginal ambientation, you can
+together and a scenarist is designed. You can use one of that included in this
+manual, or an external one. If you want to use an original ambientation, you can
 refer to the "Your World" playbook included with this manual. It practically
 contains a way to create a custom ambientation playbook. In the rest we will
-consider that the players and the scenarist choosed a standard ambientation
+consider that the players and the scenarist choose a standard ambientation
 playbook.
 
 The playbook contains a short description of the setting, made of few short
@@ -52,18 +52,18 @@ setting between similar ones.
 
 That is all. The setting is kept compact by purpose: the rest should be defined
 and discovered during the play. However some ambientation may have more lore
-details, presented at the very beginnig as prose paragraphs.
+details, presented at the very beginning as prose paragraphs.
 
 Then each player will chose one of the character in the playbook. They, like
 the setting, are described by few sentences. The playbook contains also the
-initial goals of the caracters. This is just the initial scenario to kickoff
+initial goals of the characters. This is just the initial scenario to kickoff
 the game, the mission can be changed as soon as the players found something
-more interessing. If all this limitations seem too strongs, you can generate
+more interesting. If all this limitations seem too strong, you can generate
 new character, using the relative section of the "Your World" playbook, also if
 another playbook was selected.
 
-After that, the players take a sheet to record al what happen to their
-character, both in fiction and machanical. They start writing on the character
+After that, the players take a sheet to record all what happen to their
+character, both in fiction and mechanical. They start writing on the character
 sheet 8 traits and 2 fortune points.  These can be seen as applying 8 times the
 move __Add a trait__ and 2 times __Add a fortune point__ , refer to the
 relevant section for details. We suggest to start selecting traits from the
@@ -79,7 +79,7 @@ Harms and an underline on the Fortune points.
 Each player choose and print the name of the character on the sheet.
 
 Than the scenarist will ask each player to present eir character by
-turns. The player should adds also some estethic or psicologic details. If
+turns. The player should adds also some aesthetic or psychological details. If
 their do not do it, the scenarist can ask some questions about it.
 
 # Playing the game
@@ -100,15 +100,14 @@ To describe all these interactions, we use the concept of "Move". A move has a
 title written __like this__ and can be a player move or a scenarist move. In
 any case it is just a rule containing a trigger text and a result text.
 
-The trigger prescrives when the rule will come into play, while the result text
+The trigger prescribes when the rule will come into play, while the result text
 explain what the people can than add to the fiction, and what is needed to do
 mechanically. One of the possible results is to move the discussion between the
 persons around the table.
 
 The players and the scenarist must perform what the result text demands when it
 is triggered. They can not decide to skip the result if triggered, and can not
-decide to obatin the results without having eir character make in the fiction
-what the trigger demands.
+obatain the results until the trigger happened.
 
 To gain confidence with the move concept, we here review some ones that probably
 could be completely omitted as obvious them are. A session itself is started by
@@ -117,7 +116,7 @@ the __Describe the scene__ move of the scenarist:
 __Describe the scene__ when you have to start the session, you can resume an
 old scene, if any, or describe a completely new one.  You do it telling some
 new event in the scene or reveal some new truth to the players about the scene
-or something or someone is inside it. Nothing should cleary bring to troubles
+or something or someone is inside it. Nothing should clearly bring to troubles
 for the player, neither if it is completely ignored by the characters.
 Occasionally good things may happen for the players.
 
@@ -141,7 +140,7 @@ player move:
 
 __Tell what the character does__ - when the scenarist asks what your character
 does, you tell your character actions, what ey says, feels, etc. You do it also
-when the scenarist asks it to a group your characted is member of, no one is
+when the scenarist asks it to a group your character is member of, no one is
 still speaking, and you find out something interesting to tell.
 
 Here, since it is a player move, "you" just means "the player". So the player
@@ -149,19 +148,19 @@ have to reply to the "What do you do" telling the action of eir character. Howev
 something in the scene may be not clear to em, so there is this other player
 move:
 
-__Ask for other deatils__ when you are speaking about the actions of your
-character, if there is somthing not clear in scene or that you think is
-interesting to know about, ask to the scenarist before conitnuing telling what
+__Ask for other details__ when you are speaking about the actions of your
+character, if there is something not clear in scene or that you think is
+interesting to know about, ask to the scenarist before continuing telling what
 your character does.
 
-and how you can easly guess now, this other move for the scenarist:
+and how you can easily guess now, this other move for the scenarist:
 
 __Describe some details__ when a player asks to you to better describe some
 details about the current scene, just do it, unless ey is asking for something
 eir character is not supposed to know, see or understand.
 
 Note that when the scenarist ends the __Describe some details__ move, so it
-is triggered again the __Ask waht they do__ , that actually has a special case
+is triggered again the __Ask what they do__ , that actually has a special case
 if it is triggered by __Describe some details__ move. This gives you a sense
 of the "Snowball" of moves the discussion is made of.
 
@@ -170,16 +169,16 @@ clues, or some mechanical things to to, how we will see. Another common thing
 is that they may be triggered on something happen in the fiction, other than
 in the real world. Here some other trivial scenarist moves:
 
-__Ask the player to act in turn__ - when two or more players start to speack
+__Ask the player to act in turn__ - when two or more players start to speak
 one over another, stop them, summarize the situation and ask to a single player
 what ey does.
 
-__Ask how the character does__ - when a player is sayng what the character
+__Ask how the character does__ - when a player is saying what the character
 does, but ey is too vague about the precise actions, ask em, in a kindly way, to
 specify better. This action applies also when the statement required by another
 move (like the __Taking an advantage__ move) is too vague.
 
-__Make clear how it works__ when it seems that a player misundestanded
+__Make clear how it works__ when it seems that a player misunderstood
 something in the scene, kindly remember to em how it works, and what can or can
 not be the consequence of eir action.
 
@@ -193,7 +192,7 @@ can be quickly found ???
 # Hosting the game
 
 The scenarist have a crucial role in the creation of the story, so ey
-should follow some sort of guidelines to be sure the experince be somehow
+should follow some sort of guidelines to be sure the experience be somehow
 consistent.
 
 The long term goal of the scenarist is in the following Agendas:
@@ -206,8 +205,8 @@ simple by purpose.  More details about the world and the backstory will be
 discovered during the play, defined both by scenarist and player actions.  The
 preparation of big portions of materials is discouraged.  An interesting prompt
 from a player should never be ignored to let the story follow some
-predeterminated tracked, unless it is temporary, just to close some matter
-already almost done.
+predetermined track, unless it is temporary, just to close some matter already
+almost done.
 
 Moreover, early in the first session (but for some ambientations these can
 extend to the whole game), the scenarist should also juggle two additional,
@@ -228,7 +227,7 @@ Principles:
 - Respond with challenging circumstances and occasional rewards.
 - Do not play against the players.
 - Be a fan of the player’ characters.
-- Think offscreen, too.
+- Think off screen, too.
 
 TODO : better rephrase the last three, or at least explain them better
 
@@ -240,8 +239,8 @@ situation (like in "And how your character is dressed").
 
 The moves (both player and scenarist ones) should continually push the game
 forward in interesting ways. New opportunities should be added when a player
-succeeds in a move, and interesting dilemma should emerge from a compromise
-result. The scenarist __Hard move__ should fundamentally change the situation and
+succeeds in a move, and interesting dilemma should emerge from the trade-offs.
+The scenarist __Hard move__ should fundamentally change the situation and
 demand new kind of actions. The __Soft move__ should give to the player new
 things to react to.
 
@@ -257,11 +256,11 @@ make sense in the fiction.
 ```
 Bob: Bart shots to Nick.
 
-Scenarist: He can not... look on your character sheet: he do not have a gun
-anymore sice he loose it in the previous scene. But you have a rusty knife, if
+Scenarist: He can not... look on your character sheet: he does not have a gun
+anymore since he loose it in the previous scene. But you have a rusty knife, if
 you want you can make a roll to try to wound him with it.
 
-Bob agrees to use the knife, than rolls the dices and got a success.
+Bob agrees to use the knife, than rolls the dices and got a trade-off.
 
 Scenarist: ok, you hurt him, but since the knife is very rusty it breaks, delete
 it from the character sheet.
@@ -272,16 +271,16 @@ it from the character sheet.
 Some rules share common mechanics that would be noisy to explain every times in
 details, so we describe them once here.
 
-It is a scenarist responsability to check if a move is triggered, and
+It is a scenarist responsibility to check if a move is triggered, and
 communicate it to the other player, and ask for the specific action to be
-performed, if any. If a player did not relize that what ey said would trigger a
+performed, if any. If a player did not realize that what ey said would trigger a
 move, the scenarist should leave to the player the opportunity to rollback and
 to said something else.
 
 First, as you will see the characters may ending having different special moves
 other than the common ones shared by all of them. This may suggest that having
-a move enable somwhow the character to perform some action. This is not the
-case. If a character may or may not perform an action is prescibed only by the
+a move enable somehow the character to perform some action. This is not the
+case. If a character may or may not perform an action is prescribed only by the
 fiction. If a character may do something, when ey do it, the move is triggered.
 Different set of moves is introduced only to differentiate the outcomes per
 player.
@@ -291,20 +290,20 @@ Bob - ok in this ambientation there is a move triggered "When you try to
 cast a fireball...", so I try to cast one to hurt the troll, moving the hand in
 the air...
 
-Scenarist - No, no wait, the move is there to say what normaly happens when
+Scenarist - No, no wait, the move is there to say what normally happens when
 casting a fireball, but you have to be a Red Mage to cast a fireball. You are
-an Archer, so if you want you can just trhow an arrow...
+an Archer, so if you want you can just throw an arrow...
 ```
 
 In general the players can not repeat the same move again and again searching
-for best results. The core check mechanics already discorages this since every
+for best results. The core check mechanics already discourages this since every
 non-optimal result gives the scenarist the chance to add some trouble for the
 player. However the scenarist should just disallowing it until there is a
 significant change in the situation, unless is the fiction itself that demands
 for a repetitive action.
 
 ```
-Bob - I failed before, but I want try again to convice her.
+Bob - I failed before, but I want try again to convince her.
 
 Scenarist - There is nothing changed in the situation, she will still refuse.
 So you can not do it again for now
@@ -313,7 +312,7 @@ So you can not do it again for now
 ```
 Alice - I try to hit him again, I hope to kill him this time
 
-Scenarist - Yes you already wounded his neck, so if you ara successfull probably
+Scenarist - Yes you already wounded his neck, so if you are successful probably
 you will kill him. Make a roll.
 ```
 
@@ -324,19 +323,19 @@ know the answer.
 
 Such moves gives to the players a list of questions to choose from.  If they
 ask something not in the list, the scenarist should anyway give the
-informations that are evident from the situation, or ey can say "You do not
+information that are evident from the situation, or ey can say "You do not
 know" if it is impossible for the character to know. Then the scenarist should
 highlight that the question is not one in the list, so the players can still
 ask one of them.
 
 ```
 The group is in a wild region, and the scenarist has not decided yet if they
-will enconter some beast or a rival faction preparing an ambush. As consequence
+will encounter some beast or a rival faction preparing an ambush. As consequence
 of a move, Alice asks:
 
 Alice - How many enemy outposts are there?
 
-Scenarist - None, there are no obstables to your sight, except some tall grass,
+Scenarist - None, there are no obstacles to your sight, except some tall grass,
 so if there was some outposts you would see them. However this question is not in
 the list, I just said what you see, so you can still ask me something in the
 list".
@@ -345,7 +344,7 @@ Alice - Which is the biggest threat in the area?
 
 Scenarist - There is something moving in the grass, at 20-25 meters. It passes
 for one moment in a zone with a more sparse vegetation and your character can
-recognize it: is a big felin.
+recognize it: is a big feline.
 ```
 
 Some other moves differs if the target is a PC or an NPC, they are presented as
@@ -355,7 +354,7 @@ If a move says to trigger another move, skip the trigger condition of the new
 one, and execute the rest of the text. This is a second way every move can be
 triggered.  When the trigger text just repeat the title of a move, this means
 that the move is not triggered directly be some action in the fiction, but come
-into play only when another move explicetely asks for it.
+into play only when another move explicitly asks for it.
 
 ```
 The __Hard move__ says to make an __Tell something bad__. The latter just
@@ -368,11 +367,11 @@ first if you want ...
 Some player moves may fails. These can be distinguished because in the trigger
 there is the condition "If you have to roll" .  When an action trigger a move
 without such condition the player just do what the rest of the text demands. If
-instead the move has such presciption, the scenarist have to decide if the roll
+instead the move has such prescription, the scenarist have to decide if the roll
 is actually needed.
 
 If an action is very simple to accomplish or very likely to be successful, the
-scenarist can decide to continue dirctly with the success text.  Another case
+scenarist can decide to continue directly with the success text.  Another case
 in which the scenarist can choose to go to the success text directly, is when
 the consequences of a failure are not interesting at all. In all the other
 cases, the roll can continue.
@@ -380,7 +379,7 @@ cases, the roll can continue.
 ```
 Bob: Bart want to go upstairs, I have to make a check?
 
-Scenarist: No, he is whelty, neither tired, he can not fail!
+Scenarist: No, he is healthy, neither tired, he can not fail!
 ```
 
 ```
@@ -388,10 +387,10 @@ Bob - Bart is going to drink the glass of water, but he have a hand wounds, so I
 to make a check?
 
 Scenarist: well, also if he fails, I do not see any interesting consequences...
-so just continue, Bart is successfull.
+so just continue, Bart is successful.
 ```
 
-Similary, if an action is too much likely to fail, the scenarist should just
+Similarly, if an action is too much likely to fail, the scenarist should just
 said it is impossible. If the player insist to do it, just do what the failure
 text of the player move demands.
 
@@ -419,15 +418,15 @@ If the scenarist decided that the roll is needed, first ey briefly describes the
 risks of the situation. Then ey decides the relevant harms, while the player
 selects the relevant trait and how many Fortune point to spend, between 0 and
 2 .  Then the player rolls 2 standard 6-side dices, sums the results, adds the
-number of traits and fortune points and substracts the harms. The result will
+number of traits and fortune points and subtracts the harms. The result will
 say which text in the move continue to read:
 
+- With 8 or less the "Failure" text is read, if any.
+- With 9-10-11 the "Trade-off" text is read, if any.
 - With 12 or more the "Success" text is read.
-- With 9-10-11 the "Compromise" text is read.
-- With 8 or less the "Failure" text demands is read.
 
 Moreover the scenarist will always make an __Hard move__ after a failure,
-or __Propose a cost__ after a compromise if the text is missing (as explained
+or __Show the cost__ after a trade-off if the text is missing (as explained
 in the relative moves).
 
 TODO - classically in a Apocalypse World the three ranges are 6-/7-8-9/10+ but
@@ -437,24 +436,24 @@ BITA instead you can not go under 0 traits, there are harms, and normally at beg
 is common to use 1-2-3 traits for all the roll - TODO - return to classic ranges ?
 
 The only constraint on which trait the player may select, is that ey must be
-able to play the scene in a way that makes evident all the choosen ones.
-Normally, with the 8 initial trais, in every roll you would be able to play 1
+able to play the scene in a way that makes evident all the chosen ones.
+Normally, with the 8 initial traits, in every roll you would be able to play 1
 or 2 of them, unless the player is forced to make an action that is completely
 out of the character.  4 or more traits are played instead during actions for
-wich the character have a very good fit. Obviously, in the late game these
+which the character have a very good fit. Obviously, in the late game these
 number can increase consistently.
 
 ```
-Bob - Bart look at the motocycle engind to understand the problem and to fix
+Bob - Bart look at the motorcycle engine to understand the problem and to fix
 it.
 
-Scenarist - Ok, here the issue is knowning how an engine works to understand,
+Scenarist - Ok, here the issue is knowing how an engine works to understand,
 what do not touch, and what to touch to fix it. Roll for it.
 
 Bob - I will use the traits Intelligent, Smart and Quick understanding, so I have a
 bonus of 3
 
-Scenarist - yes, but you have a "Mental stess" harm of 1, so you can add only 2 to
+Scenarist - yes, but you have a "Mental stress" harm of 1, so you can add only 2 to
 your roll
 
 Bob - Ok. I got 8. So the result is 10.
@@ -485,7 +484,7 @@ the player character. Here there are some clues:
 - Give them a difficult decision to make.
 - Tell them the requirement and the possible consequences, then ask.
 - Turn their move back on them.
-- Reveal an inconvenient thruth
+- Reveal an inconvenient truth
 - Offer an opportunity, with or without a cost.
 
 __Soft move__ - when the player look at you expectantly, you can make
@@ -497,19 +496,19 @@ Try to make __Soft move__ that give to the player new things to react to.
 
 ```
 Scenarist - you reach the gate, there are three guards watching it, they are
-well equiped. What do you do?
+well equipped. What do you do?
 
 The players starts to talk a little, but they do not have any ideas, so they
 look at the scenarist
 
-Scenarist - Ok, it is a bit sospiciuos that you are all there doing nothing, so
+Scenarist - Ok, it is a bit suspicious that you are all there doing nothing, so
 one guard leave his position, and slowly approaches to you, looking visibly
 concerned.  What do you do?
 ```
 
 __Assign an harm__ - when you have to assign an harm, ask to the target to add
 a new harm to the sheet of eir character with value 1, or to increment a
-previous harm by 1. Obviously the choosen harm must follow by the fiction.
+previous harm by 1. Obviously the chosen harm must follow by the fiction.
 
 The harms are words or small sentences that represent physical injuries, mental
 stress, or any other negative condition that make sense for the ambientation.
@@ -536,45 +535,46 @@ generated by a __Soft move__ has been handled by the players, make the
 situation evolve with an __Hard move__ .
 
 TODO - is this enough to handle "Make an __Hard move__ when the players hand
-you the perfect opportuinity on a golden plate." (togheter with roll failure) ???
+you the perfect opportunity on a golden plate." (together with roll failure) ???
 
 ```
 The characters are in a bus out of control. They starts to propose each outer
 possible things to do, but no one take an action.
 
 Scenarist - Ok, the time is out: the bus go off road. It crash on a wall.
-Fortunately it was not so fast, so you did not get serious ingiuries. But
-oblviously now you need to find another way to reach your destination.
+Fortunately it was not so fast, so you did not get serious injuries. But
+obviously now you need to find another way to reach your destination.
 ```
 
-__Propose a cost__ when a player got a compromise result in roll, and no
-compromise text is in the move, you propose a cost to select between the good
-and the bad outcome, you can proceed in one of the following ways:
+__Show the cost__ when a player got a trade-off in a roll, and no trade-off
+text is in the move, you can proceed in one of the following ways:
 
-- Go directly for the good outcome and then do a __Soft move__ , ispired by the
-  fiction of the bad outcome.
-- Offer to the player a hard bargain or a cost; the player has do decide if to
-  accept the cost and to go to good outcome, or to decline and to go to the bad
-  one.
+- Perform a __Reward the character__ move, then go for the bad outcome.
+- Go directly for the good outcome, then do a __Soft move__ .
+- Go directly for the good outcome, but let the character pay a cost
+  immediately; occasionally you may ask to the player to accept the cost, and if
+  ey disagrees, go for another option.
+
+TODO : explain what pay a cost means
 
 ```
-Scenarist - Bob, you got a compromise result. Bart quickly understand that the
-fuel pump was detached. He can easly put it in place, but since all the part
-are still very hot.  he will be injuried. Bob, does Bart procedees?
+Scenarist - Bob, you got a trade-off. Bart quickly understand that the
+fuel pump was detached. He can easily put it in place, but since all the part
+are still very hot.  he will be wounded. Bob, does Bart proceeds?
 
 Bob - Yes.
 
 Scenarist - Ok sign a "Hand burn" as an harm on the character sheet.
 ```
 
-__Reward the character__ - When a player got a success in a roll, you can
-decide to reward em or the whole group with a bonus to carry forward.  This
-should be awarded only on exceptional circumstances: particular good rolls or
-interpretations, action with big impact on the sory, etc.  The bonus may
-be one of the following:
+__Reward the character__ - When a player got a success in a roll and you think
+is appropriate, you reward em or the whole group with a bonus to carry forward.
+This should be awarded only on exceptional circumstances: particular good rolls
+or interpretations, action with big impact on the story, etc.  The bonus may be
+one of the following:
 
 - __Add a fortune point__ .
-- __Make characters evolve__ , ALL the characters togheter.
+- __Make characters evolve__ , ALL the characters together.
 - __Describe the scene__ with some event or information good for the player.
 
 __Make the characters evolve__ - When a quest ends, or when a lot of time
@@ -599,7 +599,7 @@ The fortune point can be spent to give you a mechanical bonus to your future
 rolls.
 
 __Add a trait__ - when you have to add a trait, add into the trait section of
-your character sheet a a word, or a very small sentence, that describe a
+your character sheet a word, or a very small sentence, that describe a
 quality, an ability, or a tendency of the character. If the character had more
 than 16 traits, one must be deleted first.  The new trait that must be linked
 to other two already in the character sheet, unless it is one of the first 4 of
@@ -631,7 +631,7 @@ situations. And a trait that is always used is not fun to play.
 If you really want a strong bonus in some areas, consider to put similar traits
 that will probably always be used together.
 
-The "link" constrain is here just to write trais that are somehow coherent. It
+The "link" constrain is here just to write traits that are somehow coherent. It
 does not came in play in no way.  The other obvious constraint for any trait is
 that it respect the spirit of the ambientation and the tone of the play.
 
@@ -640,17 +640,17 @@ After the first four traits, Bob want to add "Perfect" likning it with "Smart"
 and "Intelligent"
 
 Alice notes that "Perfect" is too much generic, and also if put in play, it
-will not means that the character will be pefectly successful. She propose to
-change it with "Understand quickly" if he ment it as a boost for the previuous
+will not means that the character will be perfectly successful. She propose to
+change it with "Understand quickly" if he ment it as a boost for the previous
 intellectual traits; also because just linking does not have such mechanical
 effect.
 
-Bob agrees, and adds "Undestand quiclky" as a traits likned to "Smart" and
+Bob agrees, and adds "Understand quickly" as a traits linked to "Smart" and
 "Intelligent"
 ```
 
 The most basic move that allows interaction is "Taking Action": it is a sort of
-fallback for uncetain situations not covered by other moves. Practically you
+fallback for uncertain situations not covered by other moves. Practically you
 can play also with this move alone deleting any other one requiring a roll, but
 other moves will bring colors to the game.
 
@@ -667,8 +667,8 @@ Scenarist - Ok, you need a roll to be sure to not be noticed.
 
 Alice - Yes, I will use the trait Agile and Fast. I got 8 plus 2, then 10.
 
-Scenarist - Ok, a collegue comes to chat with the librarian, and they slowly
-walk to the coffe machine. When they are quite far away, Anne go behind the
+Scenarist - Ok, a colleague comes to chat with the librarian, and they slowly
+walk to the coffee machine. When they are quite far away, Anne go behind the
 deck and take the book without no one noticing her.  Alice, what Anne does
 next?
 ```
@@ -697,10 +697,10 @@ Bob - Wait, Bart was near him, so he put himself in front of the door.
 
 Scenarist - Ok, but Nick is fast, please make a roll
 
-Bob - ok, I got 3, plus... well, nothing, Bart does not have any usefull trais.
+Bob - ok, I got 3, plus... well, nothing, Bart does not have any useful traits.
 
-Scenarist - So Nick sucessfully escape from the door, and pushes Bart, that fall
-down hurting is shoulder on the door fram. Sign "Shoulder pain 1", as harm.
+Scenarist - So Nick successfully escape from the door, and pushes Bart, that fall
+down hurting is shoulder on the door frame. Sign "Shoulder pain 1", as harm.
 ```
 
 __Helping PCs__ - When you help someone and you have to roll. You can not
@@ -708,28 +708,28 @@ help someone helping or hindering an PC.  If multiple character are helping,
 add only the maximum value.
 
 - On success, add 2 from the next roll of the PCs.
-- On compromize, add 1 from the next roll of the PCs.
+- On compromise, add 1 from the next roll of the PCs.
 
 __Hindering PCs__ - When you hinder someone and you have to roll:
 
-- On success, substract 2 from the next roll of the PCs.
-- On compromise, substract 1 from the next roll of the PCs.
+- On success, subtract 2 from the next roll of the PCs.
+- On trade-off, subtract 1 from the next roll of the PCs.
  
 The __Hinder PCs__ can be done also when that person is acting against you
 directly (this is the way to represent an opposition roll). You can not hinder
-someone helping or hildering an PC.  If multiple character are hindering,
-substract only the maximum value.
+someone helping or hindering an PC.  If multiple character are hindering,
+subtract only the maximum value.
 
 ```
-Alice - Anne is not agree, so she tries to enstablish herself. For safety she trie
-first to theg the gun from the Bart's holster.
+Alice - Anne is not agree, so she tries to establish herself. For safety she tries
+first to take the gun from the Bart's holster.
 
 Bob - Well I think Bart will see her coming, so he is ready to hold the gun.
 
 Scenarist - Yes I think too, Bob make a roll to hinder Anne.
 
-Bob - ok, the intelligent, smart, and quick undestanding will help Bart to known
-beforehend what Alice is doing, so I will add 3. I got 6, plus 3, 9.
+Bob - ok, the intelligent, smart, and quick understanding will help Bart to known
+beforehand what Alice is doing, so I will add 3. I got 6, plus 3, 9.
 
 Scenarist - ok, you oppose effectively to Anne, now Alice make a roll with a -2
 malus
@@ -745,10 +745,10 @@ In the following moves, it would be great if the __Hard move__ that the
 scenarist will do after a failure roll were liked to the question just asked. 
 
 __Read a person__ - When in a charged situation you try to get some
-informations from a person and you have to roll:
+information from a person and you have to roll:
 
 - On Success ask the controlling player 3 question from the list
-- On Compromise ask the controlling player 1 question from the list
+- On trade-off ask the controlling player 1 question from the list
 - On Failure ask the controlling player 1 question from the list
 
 Questions about the person (the player have to fill the _ before to ask):
@@ -762,12 +762,12 @@ Questions about the person (the player have to fill the _ before to ask):
 __Asses the situation__ - When you read a charged situation and you have to roll:
 
 - On Success ask to the scenarist 3 questions from the list
-- On Compromise ask to the scenarist 1 question from the list
+- On trade-off ask to the scenarist 1 question from the list
 - On Failure ask to the scenarist 1 question from the list
 
 Questions about the situation (the player have to fill the _ before to ask):
 
-- How could we best end qucikly?
+- How could we best end quickly?
 - Which enemy is most vulnerable to me? 
 - Which enemy is the biggest threat? 
 - What should I be on the lookout for? 
@@ -783,7 +783,7 @@ what you want them to do, give them a reason, then:
 
 - On Success, they’ll go along with you, unless or until some fact or action
   betrays the reason you gave them.
-- On Compromise, they’ll go along with you, but they need some concrete
+- On trade-off, they’ll go along with you, but they need some concrete
   assurance, corroboration, or evidence first.
 
 ```
@@ -792,7 +792,7 @@ Bob - I ask Nick to open the door and let us to enter. Can I roll?
 Scenarist - Well, you are not using nothing to convince him. You are just
 asking.
 
-Bob - Ok, Bart sayd "Hey Nick, are you not tired to work for Rick ? Let me enter
+Bob - Ok, Bart says "Hey Nick, are you not tired to work for Rick ? Let me enter
 I have a job for your, a very interesting one.
 
 Scenarist - ok make a roll
@@ -808,19 +808,19 @@ __Convince someone PC__ - When you try to convince, manipulate, bluff or
 fast-talk an PC, and you have to roll: tell em what you want em to do, give
 em a reason
 
-- On Success the other player have to choise what to do getting a reward when
+- On Success the other player have to choose what to do getting a reward when
   accepting and a penalty when refusing
-- On Compormise you decided if to offer the reward or the penalty, then the
-  other player choise what to do
+- On compromise you decided if to offer the reward or the penalty, then the
+  other player chooses what to do
 
-Reward and penalty for the Convice PC move:
+Reward and penalty for the convince PC move:
 
 - If the other player refuse, the scenarist will __Assign an harm__ to em
 - If the other player accept, then ey can __Add a fortune point__ two times
 
 ```
 The situation is the same of the __Convince someone NPC__ example, but behind
-the doors there is Anne, tha Alice's character. After the roll:
+the doors there is Anne, the Alice's character. After the roll:
 
 Scenarist - Ok, with 8 you can decide one consequence of the Alice decision.
 Harm or Fortune points ?
@@ -838,12 +838,12 @@ status associated to one or more harm and you have to roll:
 
 - On Success, decrease up to 3 times one or more related harms, delete the ones
   that reach 0
-- On Compromise, decrease up to 2 times one single related harms, delete it if
+- On trade-off, decrease up to 2 times one single related harms, delete it if
   it reaches 0
 - On Fail, decrease one related harms, delete it if it reaches 0
 
 ```
-Alice - Anne take Bart on her shoulder and tryes to reach the back door.
+Alice - Anne take Bart on her shoulder and tries to reach the back door.
 
 Scenarist - ok, make a roll.
 
@@ -851,21 +851,21 @@ Alice - I have 2 relevant traits and I got 3, so I think I can not reach it.
 
 Scenarist - No, and you also get wound, sign it non the sheet.
 
-Alice - Ok, but I think that Anne has demostrated to all the group that she care about them; I should
+Alice - Ok, but I think that Anne has demonstrated to all the group that she care about them; I should
 remove the "Betray 1" harm.
 
 Scenarist - I fully agree!
 ```
 
  __Taking an advantages__ - when you are doing something to make a future
-action more simple or probable to succed, explicitely said what action or kind
+action more simple or probable to succeed, explicitly said what action or kind
 of actions you are trying to favor, and you have to roll.
 - On Success write a +2 bonus on the character sheet; take also a short note of
   the action or kind of actions you are trying to favor.  If you have to roll
 for that action, you can add a +2 to the roll and then delete the bonus.
 
 ```
-Alice - Anne tryes to go on the roof, to get a better view of the situation. In
+Alice - Anne tries to go on the roof, to get a better view of the situation. In
 this way we can get some advantages on check about shooting, or escaping.
 
 Scenarist - ok, there are enemies keeping the house under control, so make a roll.
@@ -878,7 +878,7 @@ that such position may help.
 
 __Add a special move__ when you have to add a special move, the scenarist will
 show you a list of moves. Choose one that is not already on your character sheet
-and add it to tha character sheet.  If the character had more than 6 special
+and add it to the character sheet.  If the character had more than 6 special
 moves, one must be deleted first. The scenarist may ask you to customize the move.
 
 The move list is provided in the ambientation playbook, however if the
@@ -890,29 +890,29 @@ was selected.
 
 There is no mechanic to handle the difficulty of the roll, in sense that each
 check have the same probability to be successful, and the same probability to
-generete complication. However the sceniarist has at least two way to handle
+generate complication. However the scenarist has at least two way to handle
 more difficult actions, that may be combined.
 
 When an action is more difficult because it can generate serious problems, the
 scenarist may just point it out, asking if the player are sure to want to
 continue.  If the player agrees and the result is a failure, the __Hard move__
 may be very very hard. Multiple harms, dying, quests forever closed, etc. Also
-the Compromise branch could be very bad.
+the trade-off branch could be very bad.
 
 ```
 Bob - Bart pulls out the guns...
 
 Scenarist - hey, wait wait. If you want you can continue, but I want to be clear,
-if you will have to roll for what you are doin (and probably you will), and you
+if you will have to roll for what you are doing (and probably you will), and you
 got a failure, I have to be very very bad. I mean, you are in front of a war lord
 and two of his trusted henchman, Bart could also die in such situation...
 
 Bob - ok, ok, Bart, already has the hands on the guns, but then he cool down,
-make a lught, and said "Oh, camon' guys, we have a deal!"
+make a laugh, and said "Oh, come on guys, we have a deal!"
 ```
 
 If the action instead is difficult meaning that the chance are very low, but
-still the scenarist want to give a possibility to the playe, ey can
+still the scenarist want to give a possibility to the player, ey can
 point out that the action can not be accomplished by a single roll, but the
 player must perform two or more of them. It will be successful only if all the
 rolls are successful or Combination, and every Combination will throw in a cost
@@ -922,14 +922,14 @@ The chain roll, as anything else, must be justified in the fiction, so the
 scenarist should always give a lot of details about the danger of a situation,
 
 ```
-Alice - Anne tryies to blind the dragon with her sword.
+Alice - Anne tries to blind the dragon with her sword.
 
 Scenarist - I do not think it could be so simple. To do it, you have first to
 go close to him avoiding the flame, than you have to climb on the dragon's back.
 Then you have to reach the head without falling down. Than you have to hit
 the eye, maybe multiple times. They are at least 4 rolls, if anyone is a
 failure you have to restart... and obviously you can get harms, loose weapons,
-etc, at every stage. Obiviously this is just a suggestion, maybe you can find a
+etc, at every stage. Obviously this is just a suggestion, maybe you can find a
 better plan.
 
 Alice - Actually I like it. OK, LET'S START.
@@ -952,7 +952,7 @@ which trait to use, when mark an harm, etc.
 Instead, to use the Scenarist system with other mechanics, map the check in
 that system to the three outcome Success, Failure and Comporomise. For example,
 in a d20 system you can see a roll equal to the trhesdhould +/- 1 to be a
-Compromise, higher is a Success, lower a failure. The only other thing you have
+trade-off, higher is a Success, lower a failure. The only other thing you have
 to decide is what to do instead of giving an harm but probably your system
 still have a way to handle the status changes (that is what the harms are after
 all).
@@ -1180,7 +1180,7 @@ The player may fill the _ before writing the moves on the character sheet.
 ```
 
 The general schema of new moves with rolls is "When [trigger text] then ask to
-roll; on success [succes text]; on compromise [compormise text]; on failure
+roll; on success [succes text]; on trade-off [compormise text]; on failure
 [failure text].". Here there are some consideration about the various part.
 
 The trigger text should not be too much specific or general, while at least the
@@ -1190,7 +1190,7 @@ perform certain action (the trigger) in the fiction, in order to get a sort
 of known reward (the result texts).
 
 Moreover the result text needs to have creative clue to make the situation
-change: a success/compromise text that just said "You did it" should be avoid.
+change: a success/trade-off text that just said "You did it" should be avoid.
 The implicit __Reward the character__ is the last chance to make the situation
 evolve, but it is a lot less effective than the __Hard move__ of the failure
 text. In this sense the success text of the basic __Taking action__ move is
@@ -1209,7 +1209,7 @@ __Steal from a personal area__: when you are trying to steal something from a
 personal area of somebody, and you have to roll:
 - On success, you take what you want and the scenarist will tell how you
   discovery something important about the person you are robbering.
-- On compromise, you did not get what you want, but you still discover
+- On trade-off, you did not get what you want, but you still discover
   something important.
 ```
 
@@ -1224,7 +1224,7 @@ choosing from one or another based on the kind of result.
 
 ```
 __Feel the engine__ when the character put the hand on the chassis of veicle with
-the engine powered, and ey have to roll: 2 (on success) or 1 (on compromise or
+the engine powered, and ey have to roll: 2 (on success) or 1 (on trade-off or
 failure) question from the list. The scenarist will respond to them.
 
 - Will this veichle be able to reach _ ?

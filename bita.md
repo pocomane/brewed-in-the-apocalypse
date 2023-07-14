@@ -62,6 +62,8 @@ more interesting. If all this limitations seem too strong, you can generate
 new character, using the relative section of the "Your World" playbook, also if
 another playbook was selected.
 
+TODO : remove the fortune points ?
+
 After that, the players take a sheet to record all what happen to their
 character, both in fiction and mechanical. They start writing on the character
 sheet 8 traits and 2 fortune points.  These can be seen as applying 8 times the
@@ -189,6 +191,15 @@ similar alternative.
 TODO : add the page reference when referring to a move so that the move description
 can be quickly found ???
 
+To conclude with the obvious things: the moves did not regulate all the
+discussion. If someone want to speak of something outside the giction, and it
+do not annoy anyone at the table, ey can just do it. Also if ey want to give
+suggestion on how the fiction should go, ey can do it without having a move to
+explicitly allowing it.  Also some information about the fiction the may be
+releved (probably by the scenarist) during this non-regulated discussion.  But
+all of this should be considered to be hypotetical. Future move can make
+something else happen or may reveal that such information were false.
+
 # Hosting the game
 
 The scenarist have a crucial role in the creation of the story, so ey
@@ -240,9 +251,6 @@ situation (like in "And how your character is dressed").
 The moves (both player and scenarist ones) should continually push the game
 forward in interesting ways. New opportunities should be added when a player
 succeeds in a move, and interesting dilemma should emerge from the trade-offs.
-The scenarist __Hard move__ should fundamentally change the situation and
-demand new kind of actions. The __Soft move__ should give to the player new
-things to react to.
 
 Finally, a quick note about the items, abilities, etc. . All these, as anything
 in the character sheet except Traits, Harm and Fortune points (or other
@@ -268,20 +276,20 @@ it from the character sheet.
 
 # Common move mechanics
 
-Some rules share common mechanics that would be noisy to explain every times in
-details, so we describe them once here.
+Some moves share common mechanics that would be noisy to explain every times,
+so we describe them once here.
 
 It is a scenarist responsibility to check if a move is triggered, and
-communicate it to the other player, and ask for the specific action to be
-performed, if any. If a player did not realize that what ey said would trigger a
-move, the scenarist should leave to the player the opportunity to rollback and
-to said something else.
+communicate it to the other player, and to ask for the specific action to be
+performed, if any. If a player did not really wanted to trigger the move, the
+scenarist should leave to em the opportunity to rollback and to said something
+else.
 
-First, as you will see the characters may ending having different special moves
-other than the common ones shared by all of them. This may suggest that having
-a move enable somehow the character to perform some action. This is not the
-case. If a character may or may not perform an action is prescribed only by the
-fiction. If a character may do something, when ey do it, the move is triggered.
+As you will see the characters may ending having different special moves other
+than the common ones shared by all of them. This may suggest that having a move
+enable somehow the character to perform some action. This is not the case. If a
+character may or may not perform an action is prescribed only by the fiction.
+If a character can do something, when ey do it, the move is triggered.
 Different set of moves is introduced only to differentiate the outcomes per
 player.
 
@@ -298,21 +306,22 @@ an Archer, so if you want you can just throw an arrow...
 In general the players can not repeat the same move again and again searching
 for best results. The core check mechanics already discourages this since every
 non-optimal result gives the scenarist the chance to add some trouble for the
-player. However the scenarist should just disallowing it until there is a
-significant change in the situation, unless is the fiction itself that demands
-for a repetitive action.
+player. However the scenarist should cleary state that it would not result in
+a new roll, since there is no reason that something different happens. The
+scenarist should actually allow another roll only if it is the fiction itself
+that demands for a repetitive action.
 
 ```
-Bob - I failed before, but I want try again to convince her.
+Bob - I failed before, but I want try to convince her again.
 
-Scenarist - There is nothing changed in the situation, she will still refuse.
-So you can not do it again for now
+Scenarist - There is nothing changed in the situation, she will still refuse,
+without a need for a roll.
 ```
 
 ```
 Alice - I try to hit him again, I hope to kill him this time
 
-Scenarist - Yes you already wounded his neck, so if you are successful probably
+Scenarist - Yes, you already wounded his neck, so if you are successful probably
 you will kill him. Make a roll.
 ```
 
@@ -322,11 +331,10 @@ answered, that become absolutely true in the fiction and the characters will
 know the answer.
 
 Such moves gives to the players a list of questions to choose from.  If they
-ask something not in the list, the scenarist should anyway give the
-information that are evident from the situation, or ey can say "You do not
-know" if it is impossible for the character to know. Then the scenarist should
-highlight that the question is not one in the list, so the players can still
-ask one of them.
+ask something not in the list, the scenarist should sitll give any details the
+character can know, as the __Describe some details__ prescribed.  Then the
+scenarist should highlight that the question is not one in the list, so the
+players can still ask one of them.
 
 ```
 The group is in a wild region, and the scenarist has not decided yet if they
@@ -344,7 +352,7 @@ Alice - Which is the biggest threat in the area?
 
 Scenarist - There is something moving in the grass, at 20-25 meters. It passes
 for one moment in a zone with a more sparse vegetation and your character can
-recognize it: is a big feline.
+recognize it: is a big feline. It did not mind you, for now...
 ```
 
 Some other moves differs if the target is a PC or an NPC, they are presented as
@@ -357,24 +365,25 @@ that the move is not triggered directly be some action in the fiction, but come
 into play only when another move explicitly asks for it.
 
 ```
-The __Hard move__ says to make an __Tell something bad__. The latter just
-says "When you have to tell something bad..." as trigger text, so it is designed
-to be called from other moves only.  This trigger text, like any other that
-would be in this situation, is ignored. Just continue reading the rest: ...
-first if you want ...
+The __Make the worst happen__ says to make an __Assign an harm__. The
+latter just says "When you have to assign an harm..." as trigger text, so
+it is designed to be called from other moves only.  This trigger text, like any
+other that would be in this situation, is ignored. Just continue reading the
+rest: ... ask to the target ...
 ```
 
-Some player moves may fails. These can be distinguished because in the trigger
-there is the condition "If you have to roll" .  When an action trigger a move
-without such condition the player just do what the rest of the text demands. If
-instead the move has such prescription, the scenarist have to decide if the roll
-is actually needed.
+Finally, one of the most important mechanics: the roll.
+
+Some player moves may fails, or may arise complications. These moves can be
+distinguished because in the trigger there is the condition "If you have to
+roll" .  When an action trigger a move without such condition the player just
+do what the rest of the text demands. If instead the move has such
+prescription, the scenarist have to decide if the roll is actually needed.
 
 If an action is very simple to accomplish or very likely to be successful, the
 scenarist can decide to continue directly with the success text.  Another case
 in which the scenarist can choose to go to the success text directly, is when
-the consequences of a failure are not interesting at all. In all the other
-cases, the roll can continue.
+the consequences of a failure are not interesting at all.
 
 ```
 Bob: Bart want to go upstairs, I have to make a check?
@@ -414,20 +423,21 @@ Scenarist: Ok, she fails, and she break her hand, record the harm in the charact
 sheet please.
 ```
 
-If the scenarist decided that the roll is needed, first ey briefly describes the
-risks of the situation. Then ey decides the relevant harms, while the player
-selects the relevant trait and how many Fortune point to spend, between 0 and
-2 .  Then the player rolls 2 standard 6-side dices, sums the results, adds the
-number of traits and fortune points and subtracts the harms. The result will
-say which text in the move continue to read:
+In all the other cases, the roll can continue.  First the scenarist briefly
+describes the risks of the situation. Then ey decides the relevant harms, while
+the player selects the relevant trait and how many Fortune point to spend,
+between 0 and 2 .  Then the player rolls 2 standard 6-side dices, sums the
+results, adds the number of traits and fortune points and subtracts the harms.
+The result will say which kind of outcome the character will get:
 
-- With 8 or less the "Failure" text is read, if any.
-- With 9-10-11 the "Trade-off" text is read, if any.
-- With 12 or more the "Success" text is read.
+- With 8 or less  the player get a "Failure" outcome.
+- With 9-10-11    the player get a "Trade-off" outcome.
+- With 12 or more the player get a "Success" outcome.
 
-Moreover the scenarist will always make an __Hard move__ after a failure,
-or __Show the cost__ after a trade-off if the text is missing (as explained
-in the relative moves).
+The text relative to that outcome is read and executed, then the
+scenarist may do one of the following moves, as esplained in their trigger:
+a __Make the worst happen__ or a __Show the cost__ or a __Reward the character__
+move.
 
 TODO - classically in a Apocalypse World the three ranges are 6-/7-8-9/10+ but
 it has the 5 statistics going from -3 to +3 - The starting sum 3 (in mean) 35%
@@ -464,14 +474,11 @@ easly put it in place.
 
 # Scenarist moves
 
-__Tell something bad__ - when you have to tell something bad, you can do one of
-the following:
-
-- play an NPC, describing what ey does and says
-- describe some change in the world or in the scene
-
-Anything you describe should contain something that make the situation worse for
-the player character. Here there are some clues:
+__Show imminent troubles__ - when you asked to all the players in the scene
+what they do, and if they stop after a while without triggering any move, add
+to the scene something that give to the player new things to react to.  What
+you say may set you up for a future __Tell the consequences__ . You can
+introduce such complication playing as an NPC. Here there are some clues:
 
 - Separate them.
 - Put them together.
@@ -486,13 +493,6 @@ the player character. Here there are some clues:
 - Turn their move back on them.
 - Reveal an inconvenient truth
 - Offer an opportunity, with or without a cost.
-
-__Soft move__ - when the player look at you expectantly, you can make
-a __Describe the scene__ or a __Tell something bad__ move. If you select the
-latter, make sure that anything you do gives the player an opportunity to
-react; what you say may however set you up for a future __Hard move__ .
-
-Try to make __Soft move__ that give to the player new things to react to.
 
 ```
 Scenarist - you reach the gate, there are three guards watching it, they are
@@ -522,20 +522,23 @@ players to reach their goals, it is simply ignored.
 He harms can be removed when something related happen in the fiction, as
 explained in the __Remove an harm__ move.
 
-__Hard move__ - when a player got a failure in a roll and after the execution
-of a failure text if any, do a __Assign an harm__  or __Tell something bad__
-move.  anything you do is irrevocable, i.e. the player can not avoid it
-reacting in any way.  All what you say must follow logically from the fiction.
+__Make the worst happen__ when a player got a failure in a roll and after the
+execution of a failure text if any, do a __Assign an harm__  or __Tell
+something bad__ move.  anything you do is irrevocable, i.e. the player can not
+avoid it reacting in any way.  What you say should fundamentally change the
+situation and demand new kind of actions.  All what you say must follow
+logically from the fiction.
 
-Try to make __Hard move__ that fundamentally changes the situation and demands
-new kind of actions. 
+Try to make __Make the worst happen__ that fundamentally changes the situation
+and demands new kind of actions. 
 
 __Tell the consequences__ - when too much time is elapsed without the fiction
-generated by a __Soft move__ has been handled by the players, make the
-situation evolve with an __Hard move__ .
+generated by a __Show imminent troubles__ has been handled by the players, make
+the situation evolve with an __Make the worst happen__ .
 
-TODO - is this enough to handle "Make an __Hard move__ when the players hand
-you the perfect opportunity on a golden plate." (together with roll failure) ???
+TODO - is this enough to handle "Make an __Make the worst happen__ when the
+players hand you the perfect opportunity on a golden plate." (together with
+roll failure) ???
 
 ```
 The characters are in a bus out of control. They starts to propose each outer
@@ -550,7 +553,8 @@ __Show the cost__ when a player got a trade-off in a roll, and no trade-off
 text is in the move, you can proceed in one of the following ways:
 
 - Perform a __Reward the character__ move, then go for the bad outcome.
-- Go directly for the good outcome, then do a __Soft move__ .
+- Go directly for the good outcome, then do a __Show imminent troubles__
+  targeting the character of that player, or a group ey is memeber of.
 - Go directly for the good outcome, but let the character pay a cost
   immediately; occasionally you may ask to the player to accept the cost, and if
   ey disagrees, go for another option.
@@ -571,11 +575,9 @@ __Reward the character__ - When a player got a success in a roll and you think
 is appropriate, you reward em or the whole group with a bonus to carry forward.
 This should be awarded only on exceptional circumstances: particular good rolls
 or interpretations, action with big impact on the story, etc.  The bonus may be
-one of the following:
-
-- __Add a fortune point__ .
-- __Make characters evolve__ , ALL the characters together.
-- __Describe the scene__ with some event or information good for the player.
+one or more of the following: __Add a fortune point__ , __Make characters evolve__
+or a __Describe the scene__ that will make the story go ahead, maybe with some
+event or information good for the player.
 
 __Make the characters evolve__ - When a quest ends, or when a lot of time
 passed without this move was triggered, you ask ALL the player to
@@ -708,7 +710,7 @@ help someone helping or hindering an PC.  If multiple character are helping,
 add only the maximum value.
 
 - On success, add 2 from the next roll of the PCs.
-- On trade off, add 1 from the next roll of the PCs.
+- On trade-off, add 1 from the next roll of the PCs.
 
 __Hindering PCs__ - When you hinder someone and you have to roll:
 
@@ -741,8 +743,9 @@ pushes her away. Alice does not get hurt but the others did not approve her
 behaviour: write on her sheet Betray 1
 ```
 
-In the following moves, it would be great if the __Hard move__ that the
-scenarist will do after a failure roll were liked to the question just asked. 
+In the following moves, it would be great if the __Make the worst happen__ that
+the scenarist will do after a failure roll were liked to the question just
+asked. 
 
 __Read a person__ - When in a charged situation you try to get some
 information from a person and you have to roll:
@@ -810,7 +813,7 @@ em a reason
 
 - On Success the other player have to choose what to do getting a reward when
   accepting and a penalty when refusing
-- On trade off you decided if to offer the reward or the penalty, then the
+- On trade-off you decided if to offer the reward or the penalty, then the
   other player chooses what to do
 
 Reward and penalty for the convince PC move:
@@ -895,9 +898,9 @@ more difficult actions, that may be combined.
 
 When an action is more difficult because it can generate serious problems, the
 scenarist may just point it out, asking if the player are sure to want to
-continue.  If the player agrees and the result is a failure, the __Hard move__
-may be very very hard. Multiple harms, dying, quests forever closed, etc. Also
-the trade-off branch could be very bad.
+continue.  If the player agrees and the result is a failure, the __Make the
+worst happen__ may be very very hard. Multiple harms, dying, quests forever
+closed, etc. Also the trade-off branch could be very bad.
 
 ```
 Bob - Bart pulls out the guns...
@@ -958,8 +961,8 @@ still have a way to handle the status changes (that is what the harms are after
 all).
 
 If you have a critic success or fail system you have to add some Scenarist move
-like "On critical succes, give award" and "On critical fail, make the hard move
-worse". There are no ready recipe here.
+like "On critical succes, give award" and "On critical fail, make the __Make
+the worst happen__ still worse". There are no ready recipe here.
 
 # Master less or Master full
 
@@ -1192,10 +1195,11 @@ of known reward (the result texts).
 Moreover the result text needs to have creative clue to make the situation
 change: a success/trade-off text that just said "You did it" should be avoid.
 The implicit __Reward the character__ is the last chance to make the situation
-evolve, but it is a lot less effective than the __Hard move__ of the failure
-text. In this sense the success text of the basic __Taking action__ move is
-exactly what you should NOT do in a good move. That move is like that just
-because it needs to be a fallback for cases where not other moves are avaiable.
+evolve, but it is a lot less effective than the __Make the worst happen__ of
+the failure text. In this sense the success text of the basic __Taking action__
+move is exactly what you should NOT do in a good move. That move is like that
+just because it needs to be a fallback for cases where not other moves are
+avaiable.
 
 For the moves that can be customized, or created, on the fly, try to make the
 customization derive from the last actions of the character in the fiction.

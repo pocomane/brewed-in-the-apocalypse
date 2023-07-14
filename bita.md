@@ -708,7 +708,7 @@ help someone helping or hindering an PC.  If multiple character are helping,
 add only the maximum value.
 
 - On success, add 2 from the next roll of the PCs.
-- On compromise, add 1 from the next roll of the PCs.
+- On trade off, add 1 from the next roll of the PCs.
 
 __Hindering PCs__ - When you hinder someone and you have to roll:
 
@@ -810,7 +810,7 @@ em a reason
 
 - On Success the other player have to choose what to do getting a reward when
   accepting and a penalty when refusing
-- On compromise you decided if to offer the reward or the penalty, then the
+- On trade off you decided if to offer the reward or the penalty, then the
   other player chooses what to do
 
 Reward and penalty for the convince PC move:

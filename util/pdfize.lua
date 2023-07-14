@@ -8,6 +8,10 @@ local common_css = [[
           page-break-after: always;
         }
         */
+        @font-face {
+          font-family: "thefont";
+          src: url(../thefont.ttf) format("truetype");
+        }
         ul {
           //list-style-type: none;
           padding-left: 0pt;
@@ -18,29 +22,29 @@ local common_css = [[
         h2 {
           text-align: center;
           text-transform: uppercase;
-          font: 10pt "Sans";
+          font-size: 10pt;
         }
         h3 {
           text-transform: uppercase;
-          font: 10pt "Sans";
+          font-size: 10pt;
         }
         h2:first-letter {
-          font: 14pt "Sans";
+          font-size: 14pt;
         }
         h3:first-letter {
-          font: 14pt "Sans";
+          font-size: 14pt;
         }
         h1:first-letter {
-          font: 18pt "Sans";
+          font-size: 18pt;
         }
         h2:first-letter {
-          font: 16pt "Sans";
+          font-size: 16pt;
         }
         h3:first-letter {
-          font: 14pt "Sans";
+          font-size: 14pt;
         }
         .example {
-          font: 10pt "Sans";
+          font-size: 10pt;
           border: 1pt solid;
           padding: 6pt 6pt 6pt 6pt;
           margin: 0pt 0pt 6pt 0pt;
@@ -61,24 +65,25 @@ local standard_css = [[
           margin-top: 60pt;
         }
         body {
+          font-family: thefont;
           column-count: 2;
           column-fill: auto;
-          font: 10pt "Sans";
+          font-size: 10pt;
           line-height: 14pt;
           text-align: justify;
         }
         h1 {
           text-align: center;
           text-transform: uppercase;
-          font: 16pt "Sans";
+          font-size: 16pt;
         }
         h1:first-letter {
-          font: 18pt "Sans";
+          font-size: 18pt;
         }
         strong {
           font-weight: normal;
           text-transform: uppercase;
-          font: 10pt "Sans";
+          font-size: 10pt;
           margin-left: 5pt;
           margin-right: 5pt;
         }
@@ -110,23 +115,24 @@ local compact_css = [[
           margin-top: 60pt;
         }
         body {
+          font-family: thefont;
           column-count: 3;
           column-fill: auto;
-          font: 10pt "Sans";
+          font-size: 10pt;
           line-height: 14pt;
           text-align: justify;
         }
         h1 {
           text-align: center;
           text-transform: uppercase;
-          font: 10pt "Sans";
+          font-size: 10pt;
           background-color: #000000;
           color: #ffffff;
           border: 4pt solid #000000;
           border-bottom: 2pt solid #000000;
         }
         h1:first-letter {
-          font: 12pt "Sans";
+          font-size: 12pt;
         }
         p {
           margin-top: 4pt;
@@ -142,7 +148,7 @@ local compact_css = [[
         strong {
           font-weight: normal;
           text-transform: uppercase;
-          font: 10pt "Sans";
+          font-size: 10pt;
           background-color: #000000;
           color: #ffffff;
           border: 3pt solid #000000;

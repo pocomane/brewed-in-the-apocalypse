@@ -57,15 +57,19 @@ character are relevant while the player selects the relevant traits.  Then the
 player rolls 2 standard 6-side dices and calculates. The outcome is determinated
 by the dice value sum + number of traits - harm value sum:
 
-- 8 or less is a failure, the scenarist will tell about the failure and how it
-  generates a new trouble that is irrevocable i.e. the player can not avoid it
-  reacting in any way.
+- 8 or less is a failure, the scenarist will tell about the failure, then
+  THE WORST HAPPENS.
 - 9-10-11 is a weak result, the scenarist may decide to let the character fail
   but giving some compensation, or to let they succeed with a complication that
   the players can react to.
 - 12 or more is a full success, the scenarist will tell how the character
   reached the goal; if applicable something good may happen too e.g. an object is
   discovered, new information is collected, etc.
+
+__The worst happens__ When a player got a failure in a roll, or when in the
+scene there is an open question not handled by the players for too much, the
+scenarist will make the situation evolves in a new trouble that is irrevocable,
+i.e. the players can not avoid it reacting in any way.
 
 __Death__ Optionally, during the setup, decide a value for the sum of the
 harms, e.g. 8, that will trigger the character death. A player can always

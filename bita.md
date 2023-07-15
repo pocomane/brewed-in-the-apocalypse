@@ -372,6 +372,26 @@ other that would be in this situation, is ignored. Just continue reading the
 rest: ... ask to the target ...
 ```
 
+Some moves do not imply the time pass in the fiction. If there are some imminent
+deadline, such moves should not be use as justification to let the characters
+miss the deadline. If the characters are speaking to each other, deciding what
+to do, this may let the time pass.
+
+```
+Scenarist - your hat falls down and the rock wall is quickly descending, what
+do you do?
+
+Bob - I do not understand, is Bart outside the temple, and is the hat still
+inside?
+
+Scenarist - Yes, however the time is over, so the wall closes...
+
+Bob - wait, wait, you were just doing a __Describe some details__ move, there
+was no action involving. The time can not pass!
+
+Scenarist - Yes, sorry, you are right. So, what do you do?
+```
+
 Finally, one of the most important mechanics: the roll.
 
 Some player moves may fails, or may arise complications. These moves can be
@@ -598,6 +618,7 @@ the time to make the characters grow, all can add a trait or a special move to
 the character sheet. Try to make them coherent with how they feels after the
 murdered.
 ```
+
 
 # Player moves
 

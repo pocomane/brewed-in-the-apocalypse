@@ -455,7 +455,7 @@ The result will say which kind of outcome the character will get:
 - With 12 or more the player get a "Success" outcome.
 
 The text relative to that outcome is read and executed, then the
-scenarist may do one of the following moves, as esplained in their trigger:
+scenarist may do one of the following moves, as explained in their trigger:
 a __Make the worst happen__ or a __Show the cost__ or a __Reward the character__
 move.
 

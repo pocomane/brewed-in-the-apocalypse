@@ -75,5 +75,60 @@ __Death__ Optionally, during the setup, decide a value for the sum of the
 harms, e.g. 8, that will trigger the character death. A player can always
 create a new character starting with the same number of traits of the others.
 
-__Release__ v0.1 released in 2023  under [Creative Common 0](https://creativecommons.org/share-your-work/public-domain/cc0/)
+```html,page,break
+
+```
+
+# Lady Whitehorse
+
+__Steampunk__ No magic, psychic or divine. No big Nations or regime. No sentient
+android. Until now, there is no vehicle, flying too, that is faster then a
+steam train.
+
+- Mostly medieval, with steam-powered mechanics.
+- The steam is enclosed in sperichal container: one of a soccer ball size may
+  power a motocycle-like vehicles for about four hour.
+- Portable weapons are based on the charginginf of elastic elements. The steam
+  is used only for automatically reload. For example a small crossbow can automatically
+  reload ten dart, one every 5 seconds. Bigger weapon can use the steam to directly
+  shoot the proietile.
+- Mechanical limb are possible, the steam sphere is normally carried like a
+  backpack. The army have access to Mechas.
+
+__Characters__
+
+- Celeste Whitehorse is heir of the Whitehorse reign. She carry few golden
+  coin and a ring that can prove her identity. Initial traits: Noble,
+  Deception, Silent movements, Fencing, Hide, Dance, Command-inclined, Charm.
+- Kate Church was the head of the royal guard, now Celeste's bodyguard. She has a
+  mechanical arm. Normally uses the steam sphere as a armor shoulder, but currently
+  she is disguising it as an hump. Initial traits: Living Weapon,
+  tactical assessing, Steal, Hide, Long resistance, Fast, Brutal, Restrain.
+- Ed Clockside is a steam engineer, and Celeste's childhood friend. He carry a
+  bag with a lot of tools to deal with mechanical stuff. Initial traits: Pilot,
+  Repair, Mechanics, Locks, Dextrous, Sabotage, Quinck understanding, Mechanics
+  assessing.
+
+__Harms examples__ hand wound (shoulder, legs, etc), mental stress, low
+concentration, manageability, easily recognizable, cumbersome mechanics,
+imprecision due to mechanical defect.
+
+__Story so far__ A coup in the Whitehorse reign led to the death of almost all
+the Whitehorse family.  Celeste helped by Kate and Ed, managed to escape that
+fate. They are now trying to reach the near reign of Arkham, where Celeste
+knows an high member of the aristocracy.
+
+The first scene is on a train that connects the two reign. They are all in
+disguise.  The train is stopped in the middle of the travel by the New
+Whitehorse Army. For sure Celeste is on their list. Two guards enter in the
+train car where all the PCs are now, making controls. The rest of the army unit
+waits outside the train.
+
+__
+
+__Note__ The ambientation is vague by purpose: discover and invend during the
+game!
+
+__Release__ game and ambientation v0.1 released in 2023  under [Creative Common
+0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 

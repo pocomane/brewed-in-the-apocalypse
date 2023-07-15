@@ -3,11 +3,9 @@
 package.path = package.path .. ';util/?.lua'
 
 local common_css = [[
-        /*
         .PageBreak {
           page-break-after: always;
         }
-        */
         @font-face {
           font-family: "thefont";
           src: url(../thefont.ttf) format("truetype");
@@ -201,6 +199,8 @@ local function make_single_pdf(src, dst, mode)
     if e then error(e) end
     local content = f:read('a')
     f:close()
+
+    content = content:gsub('([\n\r]+)```html,page,break[\n\r]+```', '%1<div class="PageBreak"></div>')
 
     local x
     if not  mode or 'default' == mode then

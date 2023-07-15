@@ -95,18 +95,20 @@ steam train.
 - Mechanical limb are possible, the steam sphere is normally carried like a
   backpack. The army have access to Mechas.
 
+That is all: discover and invent the rest during the game!
+
 __Characters__
 
-- Celeste Whitehorse is heir of the Whitehorse reign. She carry few golden
-  coin and a ring that can prove her identity. Initial traits: Noble,
+- Celeste Whitehorse is the heir of the Whitehorse reign. She carries few golden
+  coins and a ring that can prove her identity. Initial traits: Noble,
   Deception, Silent movements, Fencing, Hide, Dance, Command-inclined, Charm.
 - Kate Church was the head of the royal guard, now Celeste's bodyguard. She has a
-  mechanical arm. Normally uses the steam sphere as a armor shoulder, but currently
-  she is disguising it as an hump. Initial traits: Living Weapon,
-  tactical assessing, Steal, Hide, Long resistance, Fast, Brutal, Restrain.
-- Ed Clockside is a steam engineer, and Celeste's childhood friend. He carry a
+  mechanical arm. Normally she uses the steam sphere as a armor shoulder, but
+  currently she is disguising it as an hump. Initial traits: Living Weapon,
+  tactical assessing, Steal, Stealth, Long resistance, Fast, Brutal, Restrain.
+- Ed Clockside is a steam engineer, and Celeste's childhood friend. He carries a
   bag with a lot of tools to deal with mechanical stuff. Initial traits: Pilot,
-  Repair, Mechanics, Locks, Dextrous, Sabotage, Quinck understanding, Mechanics
+  Repair, Mechanics, Locks, Dextrous, Sabotage, Quick understanding, Mechanics
   assessing.
 
 __Harms examples__ hand wound (shoulder, legs, etc), mental stress, low
@@ -125,9 +127,6 @@ train car where all the PCs are now, making controls. The rest of the army unit
 waits outside the train.
 
 __
-
-__Note__ The ambientation is vague by purpose: discover and invend during the
-game!
 
 __Release__ game and ambientation v0.1 released in 2023  under [Creative Common
 0](https://creativecommons.org/share-your-work/public-domain/cc0/)

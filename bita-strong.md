@@ -97,6 +97,10 @@ steam train.
 
 That is all: discover and invent the rest during the game!
 
+__Harms examples__ hand wound (shoulder, legs, etc), mental stress, low
+concentration, manageability, easily recognizable, cumbersome mechanics,
+imprecision due to mechanical defect.
+
 __Characters__
 
 - Celeste Whitehorse is the heir of the Whitehorse reign. She carries few golden
@@ -110,10 +114,6 @@ __Characters__
   bag with a lot of tools to deal with mechanical stuff. Initial traits: Pilot,
   Repair, Mechanics, Locks, Dextrous, Sabotage, Quick understanding, Mechanics
   assessing.
-
-__Harms examples__ hand wound (shoulder, legs, etc), mental stress, low
-concentration, manageability, easily recognizable, cumbersome mechanics,
-imprecision due to mechanical defect.
 
 __Story so far__ A coup in the Whitehorse reign led to the death of almost all
 the Whitehorse family.  Celeste helped by Kate and Ed, managed to escape that

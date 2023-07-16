@@ -115,12 +115,16 @@ To gain confidence with the move concept, we here review some ones that probably
 could be completely omitted as obvious them are. A session itself is started by
 the __Describe the scene__ move of the scenarist:
 
-__Describe the scene__ when you have to start the session, you can resume an
-old scene, if any, or describe a completely new one.  You do it telling some
-new event in the scene or reveal some new truth to the players about the scene
-or something or someone is inside it. Nothing should clearly bring to troubles
-for the player, neither if it is completely ignored by the characters.
-Occasionally good things may happen for the players.
+__Describe the scene__ when you have to start the session, you can resume the
+last scene or an older one, or start a completely new one.  You do it telling
+some new event in the scene or reveal some new truth to the players about the
+something or someone is inside the scene. Nothing should clearly bring to
+troubles for the player, neither if it is completely ignored by the characters.
+There however may be an opportunity for the players: something that can bring
+to good things for the players if they handle well the situation.  Occasionally
+the good things may happen without any player action.
+
+TODO : describe what a "Scene" is, what it means it is "Suspended" or "closed" ???
 
 "When ... session" is the trigger, so the rest must be done at the beginning of
 a session. Note that since this is a scenarist move, "You" in the text is
@@ -128,8 +132,6 @@ the scenarist. Here the move just said that the scenarist can say anything
 ey like about the fiction, until there are no imminent threats for the
 characters. How the discussion is moved to the players? There are this other
 scenarist move:
-
-TODO : describe what a "Scene" is, what it means it is "Suspended" or "closed" ???
 
 __Ask what they do__ - when you are speaking and you have nothing to say
 anymore, ask to one ore more characters in the current scene what they do next.
@@ -499,10 +501,15 @@ what they do, and if they stop after a while without triggering any move, add
 to the scene something that give to the player new things to react to.  You can
 introduce such complication playing as an NPC.
 
-If in the scene there is already something that should be handled, e.g. the
+In the following circumstances, you can do another move instead of
+this __Show imminent troubles__ :
+
+- If you think the situation is already complex, you can do a __Describe the scene__
+move
+- If in the scene there is already something that should be handled, e.g. the
 consequences of a previous __Show imminent troubles__ , and you think that it
 was passed too much time without the characters took care of it, you can
-make a __Make the worst happen__ instead of this __Show imminent troubles__ .
+make a __Make the worst happen__
 
 TODO - is this enough to handle "Make an __Make the worst happen__ when the
 players hand you the perfect opportunity on a golden plate." (together with
@@ -604,8 +611,7 @@ is appropriate, you reward em or the whole group with a bonus to carry forward.
 This should be awarded only on exceptional circumstances: particular good rolls
 or interpretations, action with big impact on the story, etc.  The bonus may be
 one or more of the following: __Add a fortune point__ , __Make characters evolve__
-or a __Describe the scene__ that will make the story go ahead, maybe with some
-event or information good for the player.
+or a __Describe the scene__ with something good for the player.
 
 __Make the characters evolve__ - When a quest ends, or when a lot of time
 passed without this move was triggered, you ask ALL the player to

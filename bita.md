@@ -18,7 +18,7 @@ It is strongly inspired by:
 - Apocalypse World by D. Vincent Baker and Meguey Baker (2010)
 - Not the End by Claudio Pustorino (2020)
 - Simple World by Alder Avery (2013)
-- Masks - A new Generation by Brendan Conway (2016)
+- Fantasy World by Alessandro Piroddi and Luca Maiorani (2023)
 
 TODO list:
 
@@ -145,19 +145,14 @@ player move:
 __Tell what the character does__ - when the scenarist asks what your character
 does, you tell your character actions, what ey says, feels, etc. You do it also
 when the scenarist asks it to a group your character is member of, no one is
-still speaking, and you find out something interesting to tell.
+still speaking, and you find out something interesting to tell.  If there is
+something not clear in scene or that you think is interesting to know about,
+ask it to the scenarist.
 
 Here, since it is a player move, "you" just means "the player". So the player
-have to reply to the "What do you do" telling the action of eir character. However
-something in the scene may be not clear to em, so there is this other player
-move:
-
-__Ask for other details__ when you are speaking about the actions of your
-character, if there is something not clear in scene or that you think is
-interesting to know about, ask to the scenarist before continuing telling what
-your character does.
-
-and how you can easily guess now, this other move for the scenarist:
+have to reply to the "What do you do" telling the action of eir character. There
+is also an option to ask more details, so how you can easily guess now, there
+is this other move for the scenarist:
 
 __Describe some details__ when a player asks to you to better describe some
 details about the current scene, just do it, unless ey is asking for something
@@ -210,10 +205,12 @@ consistent.
 
 The long term goal of the scenarist is in the following Agendas:
 
-- Make the player's character lives not boring.
 - Play to find out what happens.
+- Describe a world that make sense.
+- Be honest with the players.
+- Make the player's character lives not boring.
 
-The latter is particular important. Initially the ambietation should be kept
+The first is particular important. Initially the ambietation should be kept
 simple by purpose.  More details about the world and the backstory will be
 discovered during the play, defined both by scenarist and player actions.  The
 preparation of big portions of materials is discouraged.  An interesting prompt
@@ -231,7 +228,6 @@ sometimes conflicting, responsibilities:
 During the game, whatever the scenarist said should follow the following
 Principles:
 
-- Make the world seem real.
 - Create interesting dilemmas, not interesting plots.
 - Address yourself to the characters, not the player.
 - Make your move, but misdirect and never speak its name.
@@ -392,6 +388,17 @@ Bob - wait, wait, you were just doing a __Describe some details__ move, there
 was no action involving. The time can not pass!
 
 Scenarist - Yes, sorry, you are right. So, what do you do?
+```
+
+When the player describe the actions of eir character, ey should give as much
+clues as ey can on HOW the character perform the action. These details are
+needed to decide which move is triggered, which the traits and harms to use,
+and they are crucial for the scenarist to tell the outcomes. If the action is
+too vague, the scenarist may ask more details until it is clear the move, and
+until ey have some clue to let the story go on.
+
+```
+TODO : add an example !
 ```
 
 Finally, one of the most important mechanics: the roll.
@@ -624,7 +631,6 @@ the time to make the characters grow, all can add a trait or a special move to
 the character sheet. Try to make them coherent with how they feels after the
 murdered.
 ```
-
 
 # Player moves
 
@@ -957,7 +963,9 @@ rolls are successful or Combination, and every Combination will throw in a cost
 to pay.  Just one fail and the whole sequence is a fail.
 
 The chain roll, as anything else, must be justified in the fiction, so the 
-scenarist should always give a lot of details about the danger of a situation,
+scenarist should always give a lot of details about the danger of a situation.
+Each step of the chain should ask the player for different action respect the
+other steps.
 
 ```
 Alice - Anne tries to blind the dragon with her sword.

@@ -201,6 +201,7 @@ local function make_single_pdf(src, dst, mode)
     f:close()
 
     content = content:gsub('([\n\r]+)```html,page,break[\n\r]+```', '%1<div class="PageBreak"></div>')
+    content = content:gsub('([\n\r]+)```html,move,diagram[\n\r]+```', '%1<img src="../move_diagram.svg" style="column-span:all;width:200%%;"></img>')
 
     local x
     if not  mode or 'default' == mode then

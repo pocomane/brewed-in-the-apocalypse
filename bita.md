@@ -89,18 +89,32 @@ their do not do it, the scenarist can ask some questions about it.
 The game is like a conversation. The players contribute describing what their
 controlled character, the PC, does, asking questions, and speaking in
 character. The scenarist describes the scene, the actions of non-playing
-characters, the NPC, and what is happening in the game world. If a player says
-something that seems untrue or unreasonable, the scenarist can highlight it and
-suggest alternatives. Sometime the rules of the game will prescribes to do
-something else to make the story go ahead, like dice roll, or asking questions
-to the people in the real world.
+characters, the NPC, and what is happening in the game world.  Sometime the
+rules of the game will prescribes to do something else to make the story go
+ahead, like dice roll, or asking questions to the people in the real world.
 
 We call "Fiction" all what happen in the story, while "Mechanics" are all the
-things that players and scenarist need to perform in the real world.
+things that players and scenarist need to perform in the real world, and that
+have some consequences in the fiction.
 
-To describe all these interactions, we use the concept of "Move". A move has a
-title written __like this__ and can be a player move or a scenarist move. In
-any case it is just a rule containing a trigger text and a result text.
+Sometimes the scenarist will highlight that something said by a player is
+untrue or unreasonable, suggesting alternatives.  The scenarist should consider
+all the in-fiction details about the ambientation, the character and the
+situation, to decide if something is reasonable or not. Sometimes these details
+are said to giving a "Fictional positioning" to the character.
+
+```
+Probably to cast fireball you have just to be a Mage.  Or in some ambientation
+being a Mage is not enough: you need a wand too. And if in the previous scene
+you did lost it, you can not cast it. These are purely consideration about the
+fiction, there is no mechanics, maybe just a note on a sheete to remember that
+the wand was lost.
+```
+
+To describe the interactions between the persons playing to this game, we use
+the concept of "Move". A move has a title written __like this__ and can be a
+player move or a scenarist move. In any case it is just a rule containing a
+trigger text and a result text.
 
 The trigger prescribes when the rule will come into play, while the result text
 explain what the people can than add to the fiction, and what is needed to do
@@ -118,11 +132,11 @@ the __Describe the scene__ move of the scenarist:
 __Describe the scene__ when you have to start the session, you can resume the
 last scene or an older one, or start a completely new one.  You do it telling
 some new event in the scene or reveal some new truth to the players about the
-something or someone is inside the scene. Nothing should clearly bring to
-troubles for the player, neither if it is completely ignored by the characters.
-There however may be an opportunity for the players: something that can bring
-to good things for the players if they handle well the situation.  Occasionally
-the good things may happen without any player action.
+world. Nothing should clearly bring to troubles for the player, neither if it
+is completely ignored by the characters.  However, there may be an opportunity
+for the players: something that can bring to good things for the players if
+they handle well the situation.  Occasionally the good things may happen
+without any player action.
 
 TODO : describe what a "Scene" is, what it means it is "Suspended" or "closed" ???
 
@@ -135,8 +149,6 @@ scenarist move:
 
 __Ask what they do__ - when you are speaking and you have nothing to say
 anymore, ask to one ore more characters in the current scene what they do next.
-Try to ask it to the most obvious player, for example the one that just asked
-you to __Describe some details__ if that is the reason why you was speaking.
 
 So at end of the __Describe the scene__ , when the scenarist has nothing more
 to say, just conclude with "What do you do" ? Then here there is the first
@@ -189,13 +201,13 @@ TODO : add the page reference when referring to a move so that the move descript
 can be quickly found ???
 
 To conclude with the obvious things: the moves did not regulate all the
-discussion. If someone want to speak of something outside the giction, and it
+discussion. If someone want to speak of something outside the fiction, and it
 do not annoy anyone at the table, ey can just do it. Also if ey want to give
 suggestion on how the fiction should go, ey can do it without having a move to
 explicitly allowing it.  Also some information about the fiction the may be
-releved (probably by the scenarist) during this non-regulated discussion.  But
-all of this should be considered to be hypotetical. Future move can make
-something else happen or may reveal that such information were false.
+revealed (probably by the scenarist) during this non-regulated discussion.  But
+all of this should be considered to be hypothetical until some move makes
+them happen or reveal them true.
 
 # Hosting the game
 
@@ -253,11 +265,10 @@ succeeds in a move, and interesting dilemma should emerge from the trade-offs.
 Finally, a quick note about the items, abilities, etc. . All these, as anything
 in the character sheet except Traits, Harm and Fortune points (or other
 exceptions described in the chosen ambientation playbook), do not have any
-mechanical effect. However they still have effect in the fiction and the
-scenarist must consider them when deciding what the characters can do, if ey
-need to roll, and which are the consequences of the action.  In the same way
-the scenarist may ask to delete or reduce the number of any resource, when it
-make sense in the fiction.
+mechanical effect. However the scenarist must consider them when deciding what
+the characters can do and which are the consequences of the action.  In the
+same way the scenarist may ask to delete or reduce the number of any resource,
+when it make sense in the fiction.
 
 ```
 Bob: Bart shots to Nick.
@@ -310,7 +321,7 @@ scenarist should actually allow another roll only if it is the fiction itself
 that demands for a repetitive action.
 
 ```
-Bob - I failed before, but I want try to convince her again.
+Bob - I failed before, but I want try to sway her again.
 
 Scenarist - There is nothing changed in the situation, she will still refuse,
 without a need for a roll.
@@ -401,18 +412,22 @@ until ey have some clue to let the story go on.
 TODO : add an example !
 ```
 
-Finally, one of the most important mechanics: the roll.
+# The roll mechanics
 
-Some player moves may fails, or may arise complications. These moves can be
-distinguished because in the trigger there is the condition "If you have to
-roll" .  When an action trigger a move without such condition the player just
-do what the rest of the text demands. If instead the move has such
+There is a last common mechanics of the moves that we want to present by its
+own, since it is very central to the system: the roll.
+
+Some player moves have chance to fail, or to arise complications. These moves
+can be distinguished because in the trigger there is the condition "If you have
+to roll" .  When an action trigger a move without such condition the player
+just do what the rest of the text demands. If instead the move has such
 prescription, the scenarist have to decide if the roll is actually needed.
 
-If an action is very simple to accomplish or very likely to be successful, the
-scenarist can decide to continue directly with the success text.  Another case
-in which the scenarist can choose to go to the success text directly, is when
-the consequences of a failure are not interesting at all.
+If an action is very simple to accomplish or very likely to be successful
+considering fictional positioning, the scenarist can decide to continue
+directly with the success text.  Another case in which the scenarist can choose
+to go to the success text directly, is when the consequences of a failure are
+not interesting at all.
 
 ```
 Bob: Bart want to go upstairs, I have to make a check?
@@ -464,10 +479,10 @@ The result will say which kind of outcome the character will get:
 - With 12 or more the player get a "Success" outcome.
 
 If there is text in the move relative to that outcome, it is read and executed.
-A missing text means that the specific outcome does not change the situation,
-but, remember that there are some scenarist moves that can still be triggered,
-e.g. __Make the worst happen__, __Show the cost__ and __Reward the character__
-moves.
+A missing text means that the specific outcome does not change the situation.
+In any case, remember that there are scenarist moves that can be triggered both
+with or without outcome text; look at __Make the worst happen__, __Show the cost__
+and __Reward the character__ moves.
 
 TODO - classically in a Apocalypse World the three ranges are 6-/7-8-9/10+ but
 it has the 5 statistics going from -3 to +3 - The starting sum 3 (in mean) 35%
@@ -821,19 +836,21 @@ Questions about the situation (the player have to fill the _ before to ask):
 
 An example of these moves are already given in the core mechanics sections.
 
-__Convince someone NPC__ - When you leverage something to try to convince,
-manipulate, bluff, fast-talk or lie to someone and you have to roll: tell them
-what you want them to do, give them a reason, then:
+__Sway a NPC__ - When you try to convince someone leveraging something, and you
+have to roll, you tell what you want them to do, you give them a reason, then:
 
 - On Success, they’ll go along with you, unless or until some fact or action
   betrays the reason you gave them.
 - On trade-off, they’ll go along with you, but they need some concrete
   assurance, corroboration, or evidence first.
 
+This move applies also when you tray to manipulate, bluff, fast-talk, lie or
+threaten with the violence someone.
+
 ```
 Bob - I ask Nick to open the door and let us to enter. Can I roll?
 
-Scenarist - Well, you are not using nothing to convince him. You are just
+Scenarist - Well, you are not using nothing to sway him. You are just
 asking.
 
 Bob - Ok, Bart says "Hey Nick, are you not tired to work for Rick ? Let me enter
@@ -848,22 +865,22 @@ Scenarist - Nick says "A job? I am expensive, Bart, too much for you
 Bob - Bart opens the carry case, putting all the money in front of the peephole
 ```
 
-__Convince someone PC__ - When you try to convince, manipulate, bluff or
-fast-talk an PC, and you have to roll: tell em what you want em to do, give
-em a reason
+__Sway a PC__ - When you try to convince someone leveraging something, and you
+have to roll, you tell what you want them to do, you give them a reason, then:
 
-- On Success the other player have to choose what to do getting a reward when
-  accepting and a penalty when refusing
-- On trade-off you decided if to offer the reward or the penalty, then the
-  other player chooses what to do
+- On Success the other player have to choose to get a reward and do what you
+  want, or get penalty and refusing to do it
+- On trade-off you decided if to offer the reward alone or the penalty alone,
+  then the other player chooses what to do
 
-Reward and penalty for the convince PC move:
+This move applies also when you tray to manipulate, bluff, fast-talk, lie or
+threaten with the violence someone. The reward and the penalty are:
 
 - If the other player refuse, the scenarist will __Assign an harm__ to em
 - If the other player accept, then ey can __Add a fortune point__ two times
 
 ```
-The situation is the same of the __Convince someone NPC__ example, but behind
+The situation is the same of the __Sway a NPC__ example, but behind
 the doors there is Anne, the Alice's character. After the roll:
 
 Scenarist - Ok, with 8 you can decide one consequence of the Alice decision.

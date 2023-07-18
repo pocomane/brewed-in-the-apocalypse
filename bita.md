@@ -463,10 +463,11 @@ The result will say which kind of outcome the character will get:
 - With 9-10-11    the player get a "Trade-off" outcome.
 - With 12 or more the player get a "Success" outcome.
 
-The text relative to that outcome is read and executed, then the
-scenarist may do one of the following moves, as explained in their trigger:
-a __Make the worst happen__ or a __Show the cost__ or a __Reward the character__
-move.
+If there is text in the move relative to that outcome, it is read and executed.
+A missing text means that the specific outcome does not change the situation,
+but, remember that there are some scenarist moves that can still be triggered,
+e.g. __Make the worst happen__, __Show the cost__ and __Reward the character__
+moves.
 
 TODO - classically in a Apocalypse World the three ranges are 6-/7-8-9/10+ but
 it has the 5 statistics going from -3 to +3 - The starting sum 3 (in mean) 35%
@@ -613,23 +614,22 @@ Bob - Yes.
 Scenarist - Ok sign a "Hand burn" as an harm on the character sheet.
 ```
 
-__Reward the character__ - When a player got a success in a roll and you think
-is appropriate, you reward em or the whole group with a bonus to carry forward.
-This should be awarded only on exceptional circumstances: particular good rolls
-or interpretations, action with big impact on the story, etc.  The bonus may be
-one or more of the following: __Add a fortune point__ , __Make characters evolve__
-or a __Describe the scene__ with something good for the player.
+__Reward the character__ - When a player got a success in a roll but the
+success does not make the situation evolves enough, you make a __Describe the scene__
+move with something good for the player.
 
-__Make the characters evolve__ - When a quest ends, or when a lot of time
-passed without this move was triggered, you ask ALL the player to
-trigger __Add a trait__  or __Add a special move__ (they individually choose
-which one)
+__Make the characters evolve__ - When a quest ends, or somthing important for
+the plot happens, or when a lot of time passed without this move was triggered,
+you ask ALL the player to trigger __Add a trait__  or __Add a special move__
+(they individually choose which one).
 
 ```
-Scenarist - Ok, Bart finally killed the man who killed his family. This is
-the time to make the characters grow, all can add a trait or a special move to
-the character sheet. Try to make them coherent with how they feels after the
-murdered.
+Scenarist - Ok, Bart you got a success. Not only you manage to hit the man that
+killed your family, but due to your rage and brutal behavior, he is thrown down
+from the tower. You hear a scream, a thud, and nothing else.  This is an
+important step in the story, so all the players can add a trait or a special
+move to eir character sheet. Try to make them coherent with how they feels
+after this umpteenth murdered.
 ```
 
 # Player moves

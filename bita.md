@@ -481,8 +481,7 @@ The result will say which kind of outcome the character will get:
 If there is text in the move relative to that outcome, it is read and executed.
 A missing text means that the specific outcome does not change the situation.
 In any case, remember that there are scenarist moves that can be triggered both
-with or without outcome text; look at __Make the worst happen__, __Show the cost__
-and __Reward the character__ moves.
+with or without outcome text; look at __Tell the consequences__ move.
 
 TODO - classically in a Apocalypse World the three ranges are 6-/7-8-9/10+ but
 it has the 5 statistics going from -3 to +3 - The starting sum 3 (in mean) 35%
@@ -519,40 +518,20 @@ easly put it in place.
 
 # Scenarist moves
 
-__Show imminent troubles__ - when you asked to all the players in the scene
+__Tell imminent troubles__ - when you asked to all the players in the scene
 what they do, and if they stop after a while without triggering any move, add
 to the scene something that give to the player new things to react to.  You can
 introduce such complication playing as an NPC.
 
-In the following circumstances, you can do another move instead of
-this __Show imminent troubles__ :
+You can use the same clues of the __Make the worst happen__ , but do not make
+them irrevocable, leave instead to the players the possibility to react.
 
-- If you think the situation is already complex, you can do a __Describe the scene__
-move
-- If in the scene there is already something that should be handled, e.g. the
-consequences of a previous __Show imminent troubles__ , and you think that it
-was passed too much time without the characters took care of it, you can
-make a __Make the worst happen__
+ If you think the situation is already complex, you can do a __Describe the
+scene__ move instead.
 
 TODO - is this enough to handle "Make an __Make the worst happen__ when the
 players hand you the perfect opportunity on a golden plate." (together with
 roll failure) ???
-
-Here there are some clues:
-
-- Separate them.
-- Put them together.
-- Capture someone.
-- Put someone in a spot or in a high-stakes situation.
-- Announce in-scene badness.
-- Announce off-screen badness.
-- Take away something from them.
-- Exploit the bad side of something they have.
-- Give them a difficult decision to make.
-- Tell them the requirement and the possible consequences, then ask.
-- Turn their move back on them.
-- Reveal an inconvenient truth
-- Offer an opportunity, with or without a cost.
 
 ```
 Scenarist - you reach the gate, there are three guards watching it, they are
@@ -591,52 +570,82 @@ players to reach their goals, it is simply ignored.
 He harms can be removed when something related happen in the fiction, as
 explained in the __Remove an harm__ move.
 
-__Make the worst happen__ when a player got a failure in a roll and after the
-execution of a failure text if any, add something in the scene that
-fundamentally changes the situation, for the worse, and demands new kind of
-actions to the characters.  Anything you do is irrevocable, i.e. the player can
-not avoid it reacting in any way.  All what you say must follow logically from
-the fiction.  You can additionally __Assign an harm__ to the character. If
-there are already too much things the players have to take care of, you can
-skip the complication, and do a __Assign an harm__ move only.
+__Make the worst happen__ when the characters ignore a problematic
+situation for too much time or when they give you the perfect opportunity, you
+can do one of two from the following list
 
-You can use the same clues of the __Show imminent troubles__ , but make them
-irrevocable.
+- Add an __Assign an harm__ move
+- Add something in the scene that fundamentally changes the situation, for the
+  worse. What you add must be irrevocable, i.e. the player can not avoid it
+  reacting in any way, and the new situation should demands new kind of actions
+  to the characters.  You can.  You can use the same clues of
+  the __Tell imminent troubles__ , but make them irrevocable.
+
+You should skip the latter, only when there are alredy too much problematic
+events to handle in the fiction. The consequences of a
+previous __Tell imminent troubles__ are a perfect example of "Problematic
+situation".
+
+TODO - explain better "too much time" ??? explain better "perfect opportunity" ?
+
+Here there are some clues:
+
+- Separate them.
+- Put them together.
+- Capture someone.
+- Put someone in a spot or in a high-stakes situation.
+- Take away something from them.
+- Exploit the bad side of something they have.
+- Turn their move back on them.
+- Reveal an inconvenient truth
+- Give them a difficult decision to make.
+- Offer an opportunity, with or without a cost. ???
+- Tell them the requirement and the possible consequences, then ask. ???
+- Announce in-scene badness. ???
+- Announce off-screen badness. ???
 
 ```
 TODO : add an example
 ```
 
-__Show the cost__ when a player got a trade-off in a roll, and no trade-off
-text is in the move, you can proceed in one of the following ways:
+__Tell the consequences__ when a roll was performed:
+- On success, if no outcome text is present or if the situation is not evolved
+  enough, other than givinig what the player was trying to optain, make
+  a __Describe the scene__ move with something good for the player.
+- On trad-off, if no outcome text is present or if the situation is not evolved
+  enough, select one item from the the trade-off option list.
+- On a failure, after the execution of a failure text if any, always make
+  a __Make the worst happen__
 
-- Perform a __Reward the character__ move, then go for the bad outcome.
-- Go directly for the good outcome, then do a __Show imminent troubles__
-  targeting the character of that player, or a group ey is memeber of.
-- Go directly for the good outcome, but let the character pay a cost
-  immediately; occasionally you may ask to the player to accept the cost, and if
-  ey disagrees, go for another option.
-
-TODO : explain what pay a cost means
+Trade-off option list:
+- Select the bad autcome, then do a __Describe the scene__ move with something
+  good for the player; if not failure text is present, the character simply
+  does not get what ey want, but just what was enstablished in the __Describe the scene__ .
+- Select the good outcome, then do a __Tell imminent troubles__ targeting the
+  character of that player, or a group ey is memeber of.
+- Ask to the player if for em is ok to get a success, but having you making
+  a __Make the worst happen__ ; to convince em you can give more or less details
+  about what it will happen. If the player refuse, select onother option,
+  from this list.
 
 ```
 Scenarist - Bob, you got a trade-off. Bart quickly understand that the
 fuel pump was detached. He can easily put it in place, but since all the part
-are still very hot.  he will be wounded. Bob, does Bart proceeds?
+are still very hot, he will be wounded. You agree, or I will found something else?
 
-Bob - Yes.
+Bob - No, Bart already have a lot of harms.
 
-Scenarist - Ok sign a "Hand burn" as an harm on the character sheet.
+Scenarist - Ok, let's say you are successful anyway. You attach the pump avoiding
+the hot parts. But to do it you have to contentrate very much, and you do not
+notice a motorcyclist who stopped, and now is just behind you. He place an hand
+on your shoulder and...
 ```
 
-__Reward the character__ - When a player got a success in a roll but the
-success does not make the situation evolves enough, you make a __Describe the scene__
-move with something good for the player.
-
-__Make the characters evolve__ - When a quest ends, or somthing important for
-the plot happens, or when a lot of time passed without this move was triggered,
-you ask ALL the player to trigger __Add a trait__  or __Add a special move__
-(they individually choose which one).
+__Make the characters evolve__ - When a quest ended, or somthing important for
+the plot happened, or when a lot of time passed without this move was
+triggered, you ask ALL the player to trigger __Add a trait__  or __Add a
+special move__ (they individually choose which one). You do it when there is a
+calm situation, then when all finished, __Describe a scene__ .
 
 ```
 Scenarist - Ok, Bart you got a success. Not only you manage to hit the man that
@@ -1252,14 +1261,15 @@ in other way. This trasforms the moves into small pushes for the player to
 perform certain action (the trigger) in the fiction, in order to get a sort
 of known reward (the result texts).
 
+TODO : rewrite the following paragraph
+
 Moreover the result text needs to have creative clue to make the situation
 change: a success/trade-off text that just said "You did it" should be avoid.
-The implicit __Reward the character__ is the last chance to make the situation
-evolve, but it is a lot less effective than the __Make the worst happen__ of
-the failure text. In this sense the success text of the basic __Taking action__
-move is exactly what you should NOT do in a good move. That move is like that
-just because it needs to be a fallback for cases where not other moves are
-avaiable.
+The __Tell the consequences__ is a sort of safety net to let the story go on,
+but a move that relay on such mechanism only, by itself it is a bad dedigned
+move.  In this sense the success text of the basic __Taking action__ move is
+exactly what you should NOT do in a good move. That move is like that just
+because it needs to be a fallback for cases where not other moves are avaiable.
 
 For the moves that can be customized, or created, on the fly, try to make the
 customization derive from the last actions of the character in the fiction.

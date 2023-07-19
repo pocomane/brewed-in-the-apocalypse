@@ -123,7 +123,7 @@ persons around the table.
 
 The players and the scenarist must perform what the result text demands when it
 is triggered. They can not decide to skip the result if triggered, and can not
-obatain the results until the trigger happened.
+obtain the results until the trigger happened.
 
 To gain confidence with the move concept, we here review some ones that probably
 could be completely omitted as obvious them are. A session itself is started by
@@ -315,7 +315,7 @@ an Archer, so if you want you can just throw an arrow...
 In general the players can not repeat the same move again and again searching
 for best results. The core check mechanics already discourages this since every
 non-optimal result gives the scenarist the chance to add some trouble for the
-player. However the scenarist should cleary state that it would not result in
+player. However the scenarist should clearly state that it would not result in
 a new roll, since there is no reason that something different happens. The
 scenarist should actually allow another roll only if it is the fiction itself
 that demands for a repetitive action.
@@ -335,12 +335,12 @@ you will kill him. Make a roll.
 ```
 
 Some moves makes the players ask questions to the scenarist. Sometimes ey
-already knowns the answer, but ey can always change eir mind. After it is
+already knows the answer, but ey can always change eir mind. After it is
 answered, that become absolutely true in the fiction and the characters will
 know the answer.
 
 Such moves gives to the players a list of questions to choose from.  If they
-ask something not in the list, the scenarist should sitll give any details the
+ask something not in the list, the scenarist should still give any details the
 character can know, as the __Describe some details__ prescribed.  Then the
 scenarist should highlight that the question is not one in the list, so the
 players can still ask one of them.
@@ -412,22 +412,30 @@ until ey have some clue to let the story go on.
 TODO : add an example !
 ```
 
-# The roll mechanics
+# Handle the uncertain - scenarist move
 
-There is a last common mechanics of the moves that we want to present by its
-own, since it is very central to the system: the roll.
+Most of the move are presented in the relative sections for the scenarist and
+the players; however we want discuss in this dedicated section a scenarist move
+that is central for all the game.
 
-Some player moves have chance to fail, or to arise complications. These moves
-can be distinguished because in the trigger there is the condition "If you have
-to roll" .  When an action trigger a move without such condition the player
-just do what the rest of the text demands. If instead the move has such
-prescription, the scenarist have to decide if the roll is actually needed.
+__Handle the uncertain__ when a player move with the "If you have to roll"
+prescription is triggered, you perform the following steps in order:
 
-If an action is very simple to accomplish or very likely to be successful
-considering fictional positioning, the scenarist can decide to continue
-directly with the success text.  Another case in which the scenarist can choose
-to go to the success text directly, is when the consequences of a failure are
-not interesting at all.
+1. Decide if you can skip the rest.
+2. Let the player roll with the right modifier.
+3. The player does what the move demands.
+4. Tell the consequences
+
+This kind of moves represent character actions whose consequences have some degree
+of uncertainty. This can be because they may generate complications, or because
+they are difficult do accomplish and so may fail.  Let's see the various steps.
+
+Sometimes the uncertain can be ignored, and so you can skip the rest of the
+move. The most simple reason for this is that an action is actually simple to
+accomplish or very likely to be successful considering fictional positioning.
+In this case continue directly with the success text of the move. Do the same
+if Another case in which the scenarist can choose the consequences of a failure
+are not interesting at all.
 
 ```
 Bob: Bart want to go upstairs, I have to make a check?
@@ -467,21 +475,22 @@ Scenarist: Ok, she fails, and she break her hand, record the harm in the charact
 sheet please.
 ```
 
-In all the other cases, the roll can continue.  First the scenarist briefly
-describes the risks of the situation. Then ey decides the relevant harms, while
-the player selects the relevant trait and how many Fortune point to spend,
-between 0 and 2 .  Then the player rolls 2 standard 6-side dices, sums the
-results, adds the number of traits and fortune points and subtracts the harms.
-The result will say which kind of outcome the character will get:
+If you decide to proceed with the second step, you briefly describes the risks of
+the situation, and you select the character harms that are the relevant for the
+situation.  Then you ask to the player which are the relevant trait and how
+many Fortune point to spend, between 0 and 2 .  Then the player rolls 2
+standard 6-side dices, sums the results, adds the number of traits and fortune
+points and subtracts the harms.  The result will say which kind of outcome the
+character will get:
 
 - With 8 or less  the player get a "Failure" outcome.
 - With 9-10-11    the player get a "Trade-off" outcome.
 - With 12 or more the player get a "Success" outcome.
 
-If there is text in the move relative to that outcome, it is read and executed.
-A missing text means that the specific outcome does not change the situation.
-In any case, remember that there are scenarist moves that can be triggered both
-with or without outcome text; look at __Tell the consequences__ move.
+
+In the third step, if there is text in the move relative to that outcome, it is
+read and what it demands is done.  A missing text means that the specific
+outcome does not change the situation.
 
 TODO - classically in a Apocalypse World the three ranges are 6-/7-8-9/10+ but
 it has the 5 statistics going from -3 to +3 - The starting sum 3 (in mean) 35%
@@ -516,7 +525,44 @@ Scenarist - So Bart quickly understand that the fuel pump was detached, and he
 easly put it in place.
 ```
 
-# Scenarist moves
+In the forth and last step, you can tell the consequences of the action (
+the __Make the worst happen__ and __Tell imminent troubles__ moves are described
+in the section about the other scenarist moves):
+
+- On success, if no outcome text is present or if the situation is not evolved
+  enough, other than giving what the player was trying to obtain, make
+  a __Describe the scene__ move with something good for the player.
+- On trad-off, if no outcome text is present or if the situation is not evolved
+  enough, select one item from the trade-off option list.
+- On a failure, after the execution of a failure text if any, always make
+  a __Make the worst happen__
+
+Trade-off option list:
+
+- Select the bad outcome, then do a __Describe the scene__ move with something
+  good for the player; if not failure text is present, the character simply
+  does not get what ey want, but just what was established in the __Describe the scene__ .
+- Select the good outcome, then do a __Tell imminent troubles__ targeting the
+  character of that player, or a group ey is member of.
+- Ask to the player if for em is ok to get a success, but having you making
+  a __Make the worst happen__ ; to convince em you can give more or less details
+  about what it will happen. If the player refuse, select another option,
+  from this list.
+
+```
+Scenarist - Bob, you got a trade-off. Bart quickly understand that the
+fuel pump was detached. He can easily put it in place, but since all the part
+are still very hot, he will be wounded. You agree, or I will found something else?
+
+Bob - No, Bart already have a lot of harms.
+
+Scenarist - Ok, let's say you are successful anyway. You attach the pump avoiding
+the hot parts. But to do it you have to contentrate very much, and you do not
+notice a motorcyclist who stopped, and now is just behind you. He place an hand
+on your shoulder and...
+```
+
+# Other scenarist moves
 
 __Tell imminent troubles__ - when you asked to all the players in the scene
 what they do, and if they stop after a while without triggering any move, add
@@ -606,39 +652,6 @@ Here there are some clues:
 
 ```
 TODO : add an example
-```
-
-__Tell the consequences__ when a roll was performed:
-- On success, if no outcome text is present or if the situation is not evolved
-  enough, other than givinig what the player was trying to optain, make
-  a __Describe the scene__ move with something good for the player.
-- On trad-off, if no outcome text is present or if the situation is not evolved
-  enough, select one item from the the trade-off option list.
-- On a failure, after the execution of a failure text if any, always make
-  a __Make the worst happen__
-
-Trade-off option list:
-- Select the bad autcome, then do a __Describe the scene__ move with something
-  good for the player; if not failure text is present, the character simply
-  does not get what ey want, but just what was enstablished in the __Describe the scene__ .
-- Select the good outcome, then do a __Tell imminent troubles__ targeting the
-  character of that player, or a group ey is memeber of.
-- Ask to the player if for em is ok to get a success, but having you making
-  a __Make the worst happen__ ; to convince em you can give more or less details
-  about what it will happen. If the player refuse, select onother option,
-  from this list.
-
-```
-Scenarist - Bob, you got a trade-off. Bart quickly understand that the
-fuel pump was detached. He can easily put it in place, but since all the part
-are still very hot, he will be wounded. You agree, or I will found something else?
-
-Bob - No, Bart already have a lot of harms.
-
-Scenarist - Ok, let's say you are successful anyway. You attach the pump avoiding
-the hot parts. But to do it you have to contentrate very much, and you do not
-notice a motorcyclist who stopped, and now is just behind you. He place an hand
-on your shoulder and...
 ```
 
 __Make the characters evolve__ - When a quest ended, or somthing important for
@@ -956,18 +969,23 @@ scenarist or the player want to create completely new ones, they may use the
 suggestion in the "Your World" ambientation playbook, also if another playbook
 was selected.
 
-# Handle difficult actions
+# Represent the difficulty
 
-There is no mechanic to handle the difficulty of the roll, in sense that each
-check have the same probability to be successful, and the same probability to
-generate complication. However the scenarist has at least two way to handle
-more difficult actions, that may be combined.
+There is no mechanic way to represent actions that need the same traits to be
+accomplished, but have different level of difficulty or risky consequences. In
+other world, if the player selects the same traits for two rolls, they have
+have the same probability to be successful, and the same probability to
+generate complication.
 
-When an action is more difficult because it can generate serious problems, the
-scenarist may just point it out, asking if the player are sure to want to
-continue.  If the player agrees and the result is a failure, the __Make the
-worst happen__ may be very very hard. Multiple harms, dying, quests forever
-closed, etc. Also the trade-off branch could be very bad.
+However the scenarist can represent the difficulty of an action at least in two
+ways, that may be combined.
+
+When an action is difficult because it can generate serious problems, the
+scenarist may just generate more serious consequences. In extreme cases, the
+scenarist may point it out to the players, asking if they are sure to continue,
+increasing the tension.  If the player agrees and the result is a failure,
+the __Make the worst happen__ may be very very hard. Multiple harms, dying,
+quests forever closed, etc. Also the trade-off branch could be very bad.
 
 ```
 Bob - Bart pulls out the guns...
@@ -985,18 +1003,23 @@ If the action instead is difficult meaning that the chance are very low, but
 still the scenarist want to give a possibility to the player, ey can
 point out that the action can not be accomplished by a single roll, but the
 player must perform two or more of them. It will be successful only if all the
-rolls are successful or Combination, and every Combination will throw in a cost
-to pay.  Just one fail and the whole sequence is a fail.
+rolls are successful or trade-offs, and every trade-off will throw in a cost to
+pay.  Just one fail and the whole sequence is a fail.
 
-The chain roll, as anything else, must be justified in the fiction, so the 
-scenarist should always give a lot of details about the danger of a situation.
-Each step of the chain should ask the player for different action respect the
-other steps.
+The chain roll, as anything else, must be justified in the fiction. Often this
+means that the scenarist should give a lot of details about the danger of a
+situation, so that each step of the chain is there so overcome one danger.  All
+the details should be known by the players before they have the chance to make
+difficult actions, so the scenarist should continuously add them in every
+situation ey think the risks are high.
+
+Finally, each step of the chain should ask the player for different action
+respect the other steps.
 
 ```
 Alice - Anne tries to blind the dragon with her sword.
 
-Scenarist - I do not think it could be so simple. To do it, you have first to
+Scenarist - You are forgetting the flame and its height. To do it you have first to
 go close to him avoiding the flame, than you have to climb on the dragon's back.
 Then you have to reach the head without falling down. Than you have to hit
 the eye, maybe multiple times. They are at least 4 rolls, if anyone is a
@@ -1022,15 +1045,15 @@ the scenarist and the player): the Game Master will tell when make a roll,
 which trait to use, when mark an harm, etc.
 
 Instead, to use the Scenarist system with other mechanics, map the check in
-that system to the three outcome Success, Failure and Comporomise. For example,
-in a d20 system you can see a roll equal to the trhesdhould +/- 1 to be a
+that system to the three outcome Success, Failure and Trade-off. For example,
+in a d20 system you can see a roll equal to the threshold +/- 1 to be a
 trade-off, higher is a Success, lower a failure. The only other thing you have
 to decide is what to do instead of giving an harm but probably your system
 still have a way to handle the status changes (that is what the harms are after
 all).
 
 If you have a critic success or fail system you have to add some Scenarist move
-like "On critical succes, give award" and "On critical fail, make the __Make
+like "On critical success, give award" and "On critical fail, make the __Make
 the worst happen__ still worse". There are no ready recipe here.
 
 # Master less or Master full

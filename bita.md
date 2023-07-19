@@ -17,7 +17,6 @@ It is strongly inspired by:
 
 - Apocalypse World by D. Vincent Baker and Meguey Baker (2010)
 - Not the End by Claudio Pustorino (2020)
-- Simple World by Alder Avery (2013)
 - Fantasy World by Alessandro Piroddi and Luca Maiorani (2023)
 
 TODO list:
@@ -98,8 +97,8 @@ have some consequences in the fiction.
 Sometimes the scenarist will highlight that something said by a player is
 untrue or unreasonable, suggesting alternatives.  The scenarist should consider
 all the in-fiction details about the ambientation, the character and the
-situation, to decide if something is reasonable or not. Sometimes these details
-are said to giving a "Fictional positioning" to the character.
+situation, to decide if something is reasonable or not. Someones refers to this
+saying that such details give a "Fictional positioning" to the character.
 
 ```
 Probably to cast fireball you have just to be a Mage.  Or in some ambientation
@@ -109,15 +108,15 @@ fiction, there is no mechanics, maybe just a note on a sheete to remember that
 the wand was lost.
 ```
 
-To describe the interactions between the persons playing to this game, we use
+To describe the interactions between the people playing to this game, we use
 the concept of "Move". A move has a title written __like this__ and can be a
 player move or a scenarist move. In any case it is just a rule containing a
 trigger text and a result text.
 
-The trigger prescribes when the rule will come into play, while the result text
-explain what the people can than add to the fiction, and what is needed to do
-mechanically. One of the possible results is to move the discussion between the
-persons around the table.
+The trigger prescribes when the rule will come into play, while the result
+defines what the people can than add to the fiction, and what is needed to do
+mechanically, if something. One of the possible results is to move the
+discussion between the persons around the table.
 
 The players and the scenarist must perform what the result text demands when it
 is triggered. They can not decide to skip the result if triggered, and can not
@@ -138,12 +137,12 @@ without any player action.
 
 TODO : describe what a "Scene" is, what it means it is "Suspended" or "closed" ???
 
-"When ... session" is the trigger, so the rest must be done at the beginning of
-a session. Note that since this is a scenarist move, "You" in the text is
-the scenarist. Here the move just said that the scenarist can say anything
-ey like about the fiction, until there are no imminent threats for the
-characters. How the discussion is moved to the players? There are this other
-scenarist move:
+"When ... session" is the trigger, so the rest, the result text, must be done
+at the beginning of a session. Note that since this is a scenarist move, "You"
+in the text is the scenarist. Here the move just said that the scenarist can
+say anything ey like about the fiction, until there are no imminent threats for
+the characters. How the discussion is moved to the players? There are this
+other scenarist move:
 
 __Ask what they do__ - when you are speaking and you have nothing to say
 anymore, ask to one ore more characters in the current scene what they do next.
@@ -168,15 +167,14 @@ __Describe some details__ when a player asks to you to better describe some
 details about the current scene, just do it, unless ey is asking for something
 eir character is not supposed to know, see or understand.
 
-Note that when the scenarist ends the __Describe some details__ move, so it
-is triggered again the __Ask what they do__ , that actually has a special case
-if it is triggered by __Describe some details__ move. This gives you a sense
-of the "Snowball" of moves the discussion is made of.
+Note that when the scenarist ends the __Describe some details__ move, it is
+triggered again the __Ask what they do__ , that actually has a special case
+exactly for the __Describe some details__ move. This gives you a sense of the
+"Snowball" of moves the discussion is made of.
 
 As already said, these are trivial moves, more advanced one may contain fiction
-clues, or some mechanical things to to, how we will see. Another common thing
-is that they may be triggered on something happen in the fiction, other than
-in the real world. Here some other trivial scenarist moves:
+clues, or some mechanical things to to, as we will see. For the moment, Here
+some other trivial scenarist moves:
 
 __Ask the player to act in turn__ - when two or more players start to speak
 one over another, stop them, summarize the situation and ask to a single player
@@ -260,27 +258,6 @@ The moves (both player and scenarist ones) should continually push the game
 forward in interesting ways. New opportunities should be added when a player
 succeeds in a move, and interesting dilemma should emerge from the trade-offs.
 
-Finally, a quick note about the items, abilities, etc. . All these, as anything
-in the character sheet except Traits, Harm and Fortune points (or other
-exceptions described in the chosen ambientation playbook), do not have any
-mechanical effect. However the scenarist must consider them when deciding what
-the characters can do and which are the consequences of the action.  In the
-same way the scenarist may ask to delete or reduce the number of any resource,
-when it make sense in the fiction.
-
-```
-Bob: Bart shots to Nick.
-
-Scenarist: He can not... look on your character sheet: he does not have a gun
-anymore since he loose it in the previous scene. But you have a rusty knife, if
-you want you can make a roll to try to wound him with it.
-
-Bob agrees to use the knife, than rolls the dices and got a trade-off.
-
-Scenarist: ok, you hurt him, but since the knife is very rusty it breaks, delete
-it from the character sheet.
-```
-
 # Common move mechanics
 
 Some moves share common mechanics that would be noisy to explain every times,
@@ -291,6 +268,10 @@ communicate it to the other player, and to ask for the specific action to be
 performed, if any. If a player did not really wanted to trigger the move, the
 scenarist should leave to em the opportunity to rollback and to said something
 else.
+
+Until now we saw move with trigger in the real world, but it is very common,
+particulary for player moves, to have a move triggered when something happened
+in the fiction.
 
 As you will see the characters may ending having different special moves other
 than the common ones shared by all of them. This may suggest that having a move
@@ -309,6 +290,52 @@ Scenarist - No, no wait, the move is there to say what normally happens when
 casting a fireball, but you have to be a Red Mage to cast a fireball. You are
 an Archer, so if you want you can just throw an arrow...
 ```
+
+If a move says to trigger another move, skip the trigger condition of the new
+one, and execute the rest of the text. This is a second way every move can be
+triggered.  When the trigger text just repeat the title of a move, this means
+that the move is not triggered directly be some action in the fiction, but come
+into play only when another move explicitly asks for it.
+
+```
+The __Make the worst happen__ says to make an __Assign an harm__. The
+latter just says "When you have to assign an harm..." as trigger text, so
+it is designed to be called from other moves only.  This trigger text, like any
+other that would be in this situation, is ignored. Just continue reading the
+rest: ... ask to the target ...
+```
+
+Some moves do not imply the time pass in the fiction. If there are some imminent
+deadline, such moves should not be use as justification to let the characters
+miss the deadline. If the characters are speaking to each other, deciding what
+to do, this may let the time pass.
+
+```
+Scenarist - your hat falls down and the rock wall is quickly descending, what
+do you do?
+
+Bob - I do not understand, is Bart outside the temple, and is the hat still
+inside?
+
+Scenarist - Yes, however the time is over, so the wall closes...
+
+Bob - wait, wait, you were just doing a __Describe some details__ move, there
+was no action involving. The time can not pass!
+
+Scenarist - Yes, sorry, you are right. So, what do you do?
+```
+
+When the player describe the actions of eir character, ey should give as much
+clues as ey can on HOW the character perform the action. These details are
+needed to decide which move is triggered, which the traits and harms to use,
+and they are crucial for the scenarist to tell the outcomes. If the action is
+too vague, the scenarist may ask more details until it is clear the move, and
+until ey have some clue to let the story go on.
+
+```
+TODO : add an example !
+```
+
 
 In general the players can not repeat the same move again and again searching
 for best results. The core check mechanics already discourages this since every
@@ -365,49 +392,25 @@ recognize it: is a big feline. It did not mind you, for now...
 Some other moves differs if the target is a PC or an NPC, they are presented as
 different moves with PC/NPC in the title.
 
-If a move says to trigger another move, skip the trigger condition of the new
-one, and execute the rest of the text. This is a second way every move can be
-triggered.  When the trigger text just repeat the title of a move, this means
-that the move is not triggered directly be some action in the fiction, but come
-into play only when another move explicitly asks for it.
+Finally, a quick note about the items, abilities, etc. . All these, as anything
+in the character sheet except Traits, Harm and Fortune points (or other
+exceptions described in the chosen ambientation playbook), do not have any
+mechanical effect. However the scenarist must consider them when deciding what
+the characters can do and which are the consequences of the action.  In the
+same way the scenarist may ask to delete or reduce the number of any resource,
+when it make sense in the fiction.
 
 ```
-The __Make the worst happen__ says to make an __Assign an harm__. The
-latter just says "When you have to assign an harm..." as trigger text, so
-it is designed to be called from other moves only.  This trigger text, like any
-other that would be in this situation, is ignored. Just continue reading the
-rest: ... ask to the target ...
-```
+Bob: Bart shots to Nick.
 
-Some moves do not imply the time pass in the fiction. If there are some imminent
-deadline, such moves should not be use as justification to let the characters
-miss the deadline. If the characters are speaking to each other, deciding what
-to do, this may let the time pass.
+Scenarist: He can not... look on your character sheet: he does not have a gun
+anymore since he loose it in the previous scene. But you have a rusty knife, if
+you want you can make a roll to try to wound him with it.
 
-```
-Scenarist - your hat falls down and the rock wall is quickly descending, what
-do you do?
+Bob agrees to use the knife, than rolls the dices and got a trade-off.
 
-Bob - I do not understand, is Bart outside the temple, and is the hat still
-inside?
-
-Scenarist - Yes, however the time is over, so the wall closes...
-
-Bob - wait, wait, you were just doing a __Describe some details__ move, there
-was no action involving. The time can not pass!
-
-Scenarist - Yes, sorry, you are right. So, what do you do?
-```
-
-When the player describe the actions of eir character, ey should give as much
-clues as ey can on HOW the character perform the action. These details are
-needed to decide which move is triggered, which the traits and harms to use,
-and they are crucial for the scenarist to tell the outcomes. If the action is
-too vague, the scenarist may ask more details until it is clear the move, and
-until ey have some clue to let the story go on.
-
-```
-TODO : add an example !
+Scenarist: ok, you hurt him, but since the knife is very rusty it breaks, delete
+it from the character sheet.
 ```
 
 # Handle the uncertain - scenarist move
@@ -522,9 +525,9 @@ Scenarist - So Bart quickly understand that the fuel pump was detached, and he
 easily put it in place.
 ```
 
-In the forth and last step, you can tell the consequences of the action (
-the __Make the worst happen__ and __Tell imminent troubles__ moves are described
-in the section about the other scenarist moves):
+In the forth and last step, you can add some details that makes the scene
+evolve ( the __Make the worst happen__ and __Tell imminent troubles__ moves are
+described in the section about the other scenarist moves):
 
 - On success, if no outcome text is present or if the situation is not evolved
   enough, other than giving what the player was trying to obtain, make
@@ -624,7 +627,7 @@ can do one of two from the following list
   to the characters.  You can.  You can use the same clues of
   the __Tell imminent troubles__ , but make them irrevocable.
 
-You should skip the latter, only when there are alredy too much problematic
+You should skip the latter, only when there are already too much problematic
 events to handle in the fiction. The consequences of a
 previous __Tell imminent troubles__ are a perfect example of "Problematic
 situation".
@@ -651,11 +654,11 @@ Here there are some clues:
 TODO : add an example
 ```
 
-__Make the characters evolve__ - When a quest ended, or somthing important for
-the plot happened, or when a lot of time passed without this move was
-triggered, you ask ALL the player to trigger __Add a trait__  or __Add a
-special move__ (they individually choose which one). You do it when there is a
-calm situation, then when all finished, __Describe a scene__ .
+__Make the characters evolve__ - When it is a calm situation and a quest ended,
+or something important for the plot happened, or when a lot of time passed
+without this move was triggered, you ask ALL the player to trigger __Add a trait__
+or __Add a special move__ (they individually choose which one). When all
+finished, __Describe a scene__ .
 
 ```
 Scenarist - Ok, Bart you got a success. Not only you manage to hit the man that
@@ -667,64 +670,6 @@ after this umpteenth murdered.
 ```
 
 # Player moves
-
-__Add a fortune point__ - when you have to add a fortune point, increase by
-1 the number of fortune point on the character sheet. If you already have
-6 fortune points or more, you do not increment it.
-
-The fortune point can be spent to give you a mechanical bonus to your future
-rolls.
-
-__Add a trait__ - when you have to add a trait, add into the trait section of
-your character sheet a word, or a very small sentence, that describe a
-quality, an ability, or a tendency of the character. If the character had more
-than 16 traits, one must be deleted first.  The new trait that must be linked
-to other two already in the character sheet, unless it is one of the first 4 of
-the character.  All the trait ever written on a character sheet must be
-different each other.
-
-The traits will give you a mechanical bonus to any roll when acting according
-to the traits. They should also describe how the character acts in the fiction,
-however two traits may be quite opposite, resulting in a character acting
-against one of them while trying to respect the other.  This is perfectly ok:
-the character have multiple faces and did not have to act always at same way.
-Note that a trait can generate negative effect in the fiction, but it can never
-be used to give a malus during a roll.  Also if it has negative acceptation, it
-will enter in play only if it is useful for the goals, otherwise it will be
-simply ignored.  You can invent completely new traits, just be sure that all
-the other persons at the table are agree on using them.
-
-```
-Bob chose the first four traits of his character to be "Smart", "Intelligent"
-"Robotics enthusiast" and "Drives anything with an engine".
-```
-
-Each player freely select the traits of eir character, but we suggest to
-discuss with all the others to make them not too much generic or specific.
-Moreover consider that strong stress in a single trait does not means that it
-will give you a strong bonus, just, maybe, that it will be used in a lot of
-situations. And a trait that is always used is not fun to play.
-
-If you really want a strong bonus in some areas, consider to put similar traits
-that will probably always be used together.
-
-The "link" constrain is here just to write traits that are somehow coherent. It
-does not came in play in no way.  The other obvious constraint for any trait is
-that it respect the spirit of the ambientation and the tone of the play.
-
-```
-After the first four traits, Bob want to add "Perfect" likning it with "Smart"
-and "Intelligent"
-
-Alice notes that "Perfect" is too much generic, and also if put in play, it
-will not means that the character will be perfectly successful. She propose to
-change it with "Understand quickly" if he ment it as a boost for the previous
-intellectual traits; also because just linking does not have such mechanical
-effect.
-
-Bob agrees, and adds "Understand quickly" as a traits linked to "Smart" and
-"Intelligent"
-```
 
 The most basic move that allows interaction is "Taking Action": it is a sort of
 fallback for uncertain situations not covered by other moves. Practically you
@@ -913,6 +858,25 @@ Alice - Anne opens the door and says "I hope you have something more a vague
 promise of a job...
 ```
 
+ __Taking an advantages__ - when you are doing something to make a future
+action more simple or probable to succeed, explicitly said what action or kind
+of actions you are trying to favor, and you have to roll.
+- On Success write a +2 bonus on the character sheet; take also a short note of
+  the action or kind of actions you are trying to favor.  If you have to roll
+for that action, you can add a +2 to the roll and then delete the bonus.
+
+```
+Alice - Anne tries to go on the roof, to get a better view of the situation. In
+this way we can get some advantages on check about shooting, or escaping.
+
+Scenarist - ok, there are enemies keeping the house under control, so make a roll.
+
+Alice - Anne uses the traits "Agile" and "Silent", so I got 8 plus 2, 10.
+
+Scenarist - ok, until Alice is on the roof, you all have +2 bonus on every check
+that such position may help.
+```
+
 __Remove an harm__ - when you make some action that can cure or treat some
 status associated to one or more harm and you have to roll:
 
@@ -937,25 +901,6 @@ care about them; I should remove the "Betray 1" harm.
 Scenarist - I fully agree!
 ```
 
- __Taking an advantages__ - when you are doing something to make a future
-action more simple or probable to succeed, explicitly said what action or kind
-of actions you are trying to favor, and you have to roll.
-- On Success write a +2 bonus on the character sheet; take also a short note of
-  the action or kind of actions you are trying to favor.  If you have to roll
-for that action, you can add a +2 to the roll and then delete the bonus.
-
-```
-Alice - Anne tries to go on the roof, to get a better view of the situation. In
-this way we can get some advantages on check about shooting, or escaping.
-
-Scenarist - ok, there are enemies keeping the house under control, so make a roll.
-
-Alice - Anne uses the traits "Agile" and "Silent", so I got 8 plus 2, 10.
-
-Scenarist - ok, until Alice is on the roof, you all have +2 bonus on every check
-that such position may help.
-```
-
 __Add a special move__ when you have to add a special move, the scenarist will
 show you a list of moves. Choose one that is not already on your character sheet
 and add it to the character sheet.  If the character had more than 6 special
@@ -965,6 +910,65 @@ The move list is provided in the ambientation playbook, however if the
 scenarist or the player want to create completely new ones, they may use the
 suggestion in the "Your World" ambientation playbook, also if another playbook
 was selected.
+
+
+__Add a fortune point__ - when you have to add a fortune point, increase by
+1 the number of fortune point on the character sheet. If you already have
+6 fortune points or more, you do not increment it.
+
+The fortune point can be spent to give you a mechanical bonus to your future
+rolls.
+
+__Add a trait__ - when you have to add a trait, add into the trait section of
+your character sheet a word, or a very small sentence, that describe a
+quality, an ability, or a tendency of the character. If the character had more
+than 16 traits, one must be deleted first.  The new trait that must be linked
+to other two already in the character sheet, unless it is one of the first 4 of
+the character.  All the trait ever written on a character sheet must be
+different each other.
+
+The traits will give you a mechanical bonus to any roll when acting according
+to the traits. They should also describe how the character acts in the fiction,
+however two traits may be quite opposite, resulting in a character acting
+against one of them while trying to respect the other.  This is perfectly ok:
+the character have multiple faces and did not have to act always at same way.
+Note that a trait can generate negative effect in the fiction, but it can never
+be used to give a malus during a roll.  Also if it has negative acceptation, it
+will enter in play only if it is useful for the goals, otherwise it will be
+simply ignored.  You can invent completely new traits, just be sure that all
+the other persons at the table are agree on using them.
+
+```
+Bob chose the first four traits of his character to be "Smart", "Intelligent"
+"Robotics enthusiast" and "Drives anything with an engine".
+```
+
+Each player freely select the traits of eir character, but we suggest to
+discuss with all the others to make them not too much generic or specific.
+Moreover consider that strong stress in a single trait does not means that it
+will give you a strong bonus, just, maybe, that it will be used in a lot of
+situations. And a trait that is always used is not fun to play.
+
+If you really want a strong bonus in some areas, consider to put similar traits
+that will probably always be used together.
+
+The "link" constrain is here just to write traits that are somehow coherent. It
+does not came in play in no way.  The other obvious constraint for any trait is
+that it respect the spirit of the ambientation and the tone of the play.
+
+```
+After the first four traits, Bob want to add "Perfect" likning it with "Smart"
+and "Intelligent"
+
+Alice notes that "Perfect" is too much generic, and also if put in play, it
+will not means that the character will be perfectly successful. She propose to
+change it with "Understand quickly" if he ment it as a boost for the previous
+intellectual traits; also because just linking does not have such mechanical
+effect.
+
+Bob agrees, and adds "Understand quickly" as a traits linked to "Smart" and
+"Intelligent"
+```
 
 # Represent the difficulty
 

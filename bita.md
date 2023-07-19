@@ -38,11 +38,10 @@ we found that it adds confusion in lot of sentences.
 
 Before the first session starts, an ambientation playbook is selected all
 together and a scenarist is designed. You can use one of that included in this
-manual, or an external one. If you want to use an original ambientation, you can
-refer to the "Your World" playbook included with this manual. It practically
-contains a way to create a custom ambientation playbook. In the rest we will
-consider that the players and the scenarist choose a standard ambientation
-playbook.
+manual, or an external one. If you want to create an original ambientation, you
+can refer to the "Your World" playbook included with this manual. In the rest
+we will consider that the players and the scenarist choose a standard
+ambientation playbook.
 
 The playbook contains a short description of the setting, made of few short
 sentences about something true in the world. Moreover it contains few themes do
@@ -52,37 +51,36 @@ setting between similar ones.
 
 That is all. The setting is kept compact by purpose: the rest should be defined
 and discovered during the play. However some ambientation may have more lore
-details, presented at the very beginning as prose paragraphs.
+details, presented at the very beginning as prose paragraphs.  Then each player
+takes a sheet to record all what happen to their character, both in fiction and
+mechanical.
 
-Then each player will chose one of the character in the playbook. They, like
-the setting, are described by few sentences. The playbook contains also the
-initial goals of the characters. This is just the initial scenario to kickoff
-the game, the mission can be changed as soon as the players found something
-more interesting. If all this limitations seem too strong, you can generate
-new character, using the relative section of the "Your World" playbook, also if
-another playbook was selected.
+Then each player will chose one character from the playbook, and they will copy
+all the information on their character sheet. Like the setting, the characters
+are described by few sentences, to leave the space for the player to add new
+details during the game. The playbook contains also the initial goals of the
+characters, and a description of the initial scene. This is meant just kickoff
+the game, new goals can be selected as soon as the players found something more
+interesting.
+
+TODO : add scenarist moves for adding details to the character sheet ?
+
+If all this limitations seem too strong, you can generate new character, using
+the relative section of the "Your World" playbook, also if another playbook was
+selected. Or for a quick version, the players can just write on their
+character sheetS 8 traits and 2 fortune points.  These can be seen as applying
+8 times the move __Add a trait__ and 2 times __Add a fortune point__ , refer to
+the relevant section for details. We suggest to start selecting and mixing
+traits from the characters in in the ambientation playbook. Or at least use them
+as inspiration.
 
 TODO : remove the fortune points ?
-
-After that, the players take a sheet to record all what happen to their
-character, both in fiction and mechanical. They start writing on the character
-sheet 8 traits and 2 fortune points.  These can be seen as applying 8 times the
-move __Add a trait__ and 2 times __Add a fortune point__ , refer to the
-relevant section for details. We suggest to start selecting traits from the
-list proposed in the playbook. If you want invent new one, use the list as
-inspiration.
 
 The player should keep some space on the sheet to record Harm assigned by the
 scenarist, object ey will find, future notes, etc. Since the Traits, the Harm and
 the Fortune points are the only things having mechanical effect, make clear what
 they are in the sheet, for example putting a "+" before Traits, a "-" before
 Harms and an underline on the Fortune points.
-
-Each player choose and print the name of the character on the sheet.
-
-Than the scenarist will ask each player to present eir character by
-turns. The player should adds also some aesthetic or psychological details. If
-their do not do it, the scenarist can ask some questions about it.
 
 # Playing the game
 
@@ -421,21 +419,20 @@ that is central for all the game.
 __Handle the uncertain__ when a player move with the "If you have to roll"
 prescription is triggered, you perform the following steps in order:
 
-1. Decide if you can skip the rest.
+1. Decide if you can skip the roll.
 2. Let the player roll with the right modifier.
-3. The player does what the move demands.
-4. Tell the consequences
+3. Wait the player does what the move demands.
+4. Tell the consequences.
 
 This kind of moves represent character actions whose consequences have some degree
 of uncertainty. This can be because they may generate complications, or because
 they are difficult do accomplish and so may fail.  Let's see the various steps.
 
-Sometimes the uncertain can be ignored, and so you can skip the rest of the
-move. The most simple reason for this is that an action is actually simple to
-accomplish or very likely to be successful considering fictional positioning.
-In this case continue directly with the success text of the move. Do the same
-if Another case in which the scenarist can choose the consequences of a failure
-are not interesting at all.
+First, sometimes the uncertain can be ignored, and so you can skip the rest of
+the move. The most simple reason for this is that an action is actually simple
+to accomplish or very likely to be successful considering fictional
+positioning.  In this case you can decide it is a success and skip the second
+step.  Do the same if the consequences of a failure are not interesting at all.
 
 ```
 Bob: Bart want to go upstairs, I have to make a check?
@@ -452,14 +449,14 @@ so just continue, Bart is successful.
 ```
 
 Similarly, if an action is too much likely to fail, the scenarist should just
-said it is impossible. If the player insist to do it, just do what the failure
-text of the player move demands.
+said it is impossible. If the player insist to do it, just said it is a failure
+and skip the second step.  This "Impossibility" veto must be used judiciously
+and sparingly.
 
 If the player just continues to speak, skipping or performing a roll contrary
 to what the scenarist thinks is appropriate, the scenarist can stop the action,
 point out what the player should do.
 
-The scenarist must use their "Impossibility" veto judiciously and sparingly.
 
 ```
 Alice: Anne is angry, she want to break the wall with a punch. I use the
@@ -475,22 +472,17 @@ Scenarist: Ok, she fails, and she break her hand, record the harm in the charact
 sheet please.
 ```
 
-If you decide to proceed with the second step, you briefly describes the risks of
-the situation, and you select the character harms that are the relevant for the
-situation.  Then you ask to the player which are the relevant trait and how
-many Fortune point to spend, between 0 and 2 .  Then the player rolls 2
-standard 6-side dices, sums the results, adds the number of traits and fortune
-points and subtracts the harms.  The result will say which kind of outcome the
-character will get:
+If you decide to keep the the second step, it is the core "Roll". You briefly
+describes the risks of the situation, and you select the character harms that
+are the relevant for the situation.  Then you ask to the player which are the
+relevant trait and how many Fortune point to spend, between 0 and 2 .  Then the
+player rolls 2 standard 6-side dices, sums the results, adds the number of
+traits and fortune points and subtracts the harms.  The result will say which
+kind of outcome the character will get:
 
 - With 8 or less  the player get a "Failure" outcome.
 - With 9-10-11    the player get a "Trade-off" outcome.
 - With 12 or more the player get a "Success" outcome.
-
-
-In the third step, if there is text in the move relative to that outcome, it is
-read and what it demands is done.  A missing text means that the specific
-outcome does not change the situation.
 
 TODO - classically in a Apocalypse World the three ranges are 6-/7-8-9/10+ but
 it has the 5 statistics going from -3 to +3 - The starting sum 3 (in mean) 35%
@@ -505,6 +497,11 @@ or 2 of them, unless the player is forced to make an action that is completely
 out of the character.  4 or more traits are played instead during actions for
 which the character have a very good fit. Obviously, in the late game these
 number can increase consistently.
+
+In the third step, if the move contains a text for the selected outcome (both
+the roll one, or the one forced by the scenarist), it is read and what it
+demands is done.  A missing text means that the specific outcome does not
+change the situation.
 
 ```
 Bob - Bart look at the motorcycle engine to understand the problem and to fix
@@ -522,7 +519,7 @@ your roll
 Bob - Ok. I got 8. So the result is 10.
 
 Scenarist - So Bart quickly understand that the fuel pump was detached, and he
-easly put it in place.
+easily put it in place.
 ```
 
 In the forth and last step, you can tell the consequences of the action (
@@ -557,9 +554,9 @@ are still very hot, he will be wounded. You agree, or I will found something els
 Bob - No, Bart already have a lot of harms.
 
 Scenarist - Ok, let's say you are successful anyway. You attach the pump avoiding
-the hot parts. But to do it you have to contentrate very much, and you do not
+the hot parts. But to do it you have to concentrate very much, and you do not
 notice a motorcyclist who stopped, and now is just behind you. He place an hand
-on your shoulder and...
+on your shoulder and turns you toward him, what do you do?
 ```
 
 # Other scenarist moves

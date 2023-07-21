@@ -22,7 +22,7 @@ It is strongly inspired by:
 TODO list:
 
 - Rewrite the examples addressing the Character, not the Player
-- Some ambientation playbook must be added.
+- Some setting playbook must be added.
 - Some examples must be written.
 - The content must be made more concise in various point.
 - All the english text must be revised.
@@ -35,24 +35,34 @@ we found that it adds confusion in lot of sentences.
 
 # Setup
 
-Before the first session starts, an ambientation playbook is selected all
-together and a scenarist is designed. You can use one of that included in this
-manual, or an external one. If you want to create an original ambientation, you
-can refer to the "Your World" playbook included with this manual. In the rest
-we will consider that the players and the scenarist choose a standard
-ambientation playbook.
+Before the first session starts, a scenarist is designed and a setting playbook
+is selected all together. It contains the ambientation, characters and initial
+scene of the game, and maybe additional rules. We will call it just "Playbook".
+You can use one included in this manual, or an external one. If you want to
+create an original setting, you can refer to the "Your World" playbook
+included with this manual, that helps you defining your own setting,
+practically writing an original playbook. In the rest we will consider that the
+players and the scenarist choose a standard playbook, with all ready to start
+playing.
 
-The playbook contains a short description of the setting, made of few short
-sentences about something true in the world. Moreover it contains few themes do
-not be included in the scenario. Obviously you can ignore them, but creating
-with some constraints is more satisfying, and helps you to better frame the
-setting between similar ones.
+The playbook contains a short description of the setting; the scenarist should
+read them to the players.  The setting should have been kept compact by
+purpose: the rest should be defined and discovered during the play. However
+some setting may have more lore details, presented at the very beginning as
+prose paragraphs.
 
-That is all. The setting is kept compact by purpose: the rest should be defined
-and discovered during the play. However some ambientation may have more lore
-details, presented at the very beginning as prose paragraphs.  Then each player
-takes a sheet to record all what happen to their character, both in fiction and
-mechanical.
+Make sure that all the players, as well as the scenarist, have pencils and some
+white sheets of paper to take notes about anything. This is particular
+important for the scenarist to be sure to remember how the important things are
+connected, however these notes have no effects in the mechanics or the fiction.
+The game status that instead have such effects, is kept in the "Character
+sheet" managed by each player.
+
+On these, all the mechanically relevant elements are preceded by a symbols as
+described in the relative section. Any  text that does not have any symbols, is
+just a note of the player that does not have any mechanical or fictional
+consequence.  It may be useful to separate each kind of element in a dedicated
+list but always keep the described symbols.
 
 Then each player will chose one character from the playbook, and they will copy
 all the information on their character sheet. Like the setting, the characters
@@ -62,24 +72,9 @@ characters, and a description of the initial scene. This is meant just kickoff
 the game, new goals can be selected as soon as the players found something more
 interesting.
 
-TODO : add scenarist moves for adding details to the character sheet ?
-
 If all this limitations seem too strong, you can generate new character, using
 the relative section of the "Your World" playbook, also if another playbook was
-selected. Or for a quick version, the players can just write on their
-character sheetS 8 traits and 2 fortune points.  These can be seen as applying
-8 times the move __Add a trait__ and 2 times __Add a fortune point__ , refer to
-the relevant section for details. We suggest to start selecting and mixing
-traits from the characters in in the ambientation playbook. Or at least use them
-as inspiration.
-
-TODO : remove the fortune points ?
-
-The player should keep some space on the sheet to record Harm assigned by the
-scenarist, object ey will find, future notes, etc. Since the Traits, the Harm and
-the Fortune points are the only things having mechanical effect, make clear what
-they are in the sheet, for example putting a "+" before Traits, a "-" before
-Harms and an underline on the Fortune points.
+selected.
 
 # Playing the game
 
@@ -96,12 +91,12 @@ have some consequences in the fiction.
 
 Sometimes the scenarist will highlight that something said by a player is
 untrue or unreasonable, suggesting alternatives.  The scenarist should consider
-all the in-fiction details about the ambientation, the character and the
+all the in-fiction details about the setting, the character and the
 situation, to decide if something is reasonable or not. Someones refers to this
 saying that such details give a "Fictional positioning" to the character.
 
 ```
-Probably to cast fireball you have just to be a Mage.  Or in some ambientation
+Probably to cast fireball you have just to be a Mage.  Or in some setting
 being a Mage is not enough: you need a wand too. And if in the previous scene
 you did lost it, you can not cast it. These are purely consideration about the
 fiction, there is no mechanics, maybe just a note on a sheete to remember that
@@ -227,7 +222,7 @@ from a player should never be ignored to let the story follow some
 predetermined track, unless it is temporary, just to close some matter already
 almost done.
 
-Moreover, early in the first session (but for some ambientations these can
+Moreover, early in the first session (but for some setting these can
 extend to the whole game), the scenarist should also juggle two additional,
 sometimes conflicting, responsibilities:
 
@@ -247,7 +242,7 @@ Principles:
   character should known, etc.
 - With your moves, try to continually push the game forward in interesting
   ways; new opportunities should be added when a player succeeds in a move, and
-  interesting dilemma should emerge from the trade-offs.
+  interesting dilemma should emerge from the twists.
 - Respond to the character actions with challenging circumstances and
   occasional rewards.
 - Continously ask question to the players, and build on their answers; you may
@@ -295,7 +290,7 @@ Different set of moves is introduced only to differentiate the outcomes per
 player.
 
 ```
-Bob - ok in this ambientation there is a move triggered "When you try to
+Bob - ok in this setting there is a move triggered "When you try to
 cast a fireball...", so I try to cast one to hurt the troll, moving the hand in
 the air...
 
@@ -405,14 +400,6 @@ recognize it: is a big feline. It did not mind you, for now...
 Some other moves differs if the target is a PC or an NPC, they are presented as
 different moves with PC/NPC in the title.
 
-Finally, a quick note about the items, abilities, etc. . All these, as anything
-in the character sheet except Traits, Harm and Fortune points (or other
-exceptions described in the chosen ambientation playbook), do not have any
-mechanical effect. However the scenarist must consider them when deciding what
-the characters can do and which are the consequences of the action.  In the
-same way the scenarist may ask to delete or reduce the number of any resource,
-when it make sense in the fiction.
-
 ```
 Bob: Bart shots to Nick.
 
@@ -420,7 +407,7 @@ Scenarist: He can not... look on your character sheet: he does not have a gun
 anymore since he loose it in the previous scene. But you have a rusty knife, if
 you want you can make a roll to try to wound him with it.
 
-Bob agrees to use the knife, than rolls the dices and got a trade-off.
+Bob agrees to use the knife, than rolls the dices and got a twist.
 
 Scenarist: ok, you hurt him, but since the knife is very rusty it breaks, delete
 it from the character sheet.
@@ -478,7 +465,7 @@ point out what the player should do.
 Alice: Anne is angry, she want to break the wall with a punch. I use the
 traits: Big, strong...
 
-Scenarist: Wait, I do not think that's possible in this ambientation, Anne is
+Scenarist: Wait, I do not think that's possible in this setting, Anne is
 not a superhero. But she could instead kick at the door. She has good chances to
 break it.
 
@@ -497,7 +484,7 @@ traits and fortune points and subtracts the harms.  The result will say which
 kind of outcome the character will get:
 
 - With 8 or less  the player get a "Failure" outcome.
-- With 9-10-11    the player get a "Trade-off" outcome.
+- With 9-10-11    the player get a "Twist" outcome.
 - With 12 or more the player get a "Success" outcome.
 
 TODO - classically in a Apocalypse World the three ranges are 6-/7-8-9/10+ but
@@ -546,11 +533,11 @@ described in the section about the other scenarist moves):
   enough, other than giving what the player was trying to obtain, make
   a __Describe the scene__ move with something good for the player.
 - On trad-off, if no outcome text is present or if the situation is not evolved
-  enough, select one item from the trade-off option list.
+  enough, select one item from the twist option list.
 - On a failure, after the execution of a failure text if any, always make
   a __Make the worst happen__
 
-Trade-off option list:
+Twist option list:
 
 - Select the bad outcome, then do a __Describe the scene__ move with something
   good for the player; if not failure text is present, the character simply
@@ -563,7 +550,7 @@ Trade-off option list:
   from this list.
 
 ```
-Scenarist - Bob, you got a trade-off. Bart quickly understand that the
+Scenarist - Bob, you got a twist. Bart quickly understand that the
 fuel pump was detached. He can easily put it in place, but since all the part
 are still very hot, he will be wounded. You agree, or I will found something else?
 
@@ -618,13 +605,16 @@ a new harm to the sheet of eir character with value 1, or to increment a
 previous harm by 1. Obviously the chosen harm must follow by the fiction.
 
 The harms are words or small sentences that represent physical injuries, mental
-stress, or any other negative condition that make sense for the ambientation.
+stress, or any other negative condition that make sense for the setting.
 They should also cause effects in the fiction. Each harm has a number associated
 to it, from 1 up, that indicate how much will affect the check. When it reach
 0, the harm is deleted.
 
 The harms may never be used to give a bonus to an action. If it would help the
 players to reach their goals, it is simply ignored.
+
+To make clear that it is an harm, write the `-` symbol before it in the character
+sheet.
 
 He harms can be removed when something related happen in the fiction, as
 explained in the __Remove an harm__ move.
@@ -680,6 +670,33 @@ from the tower. You hear a scream, a thud, and nothing else.  This is an
 important step in the story, so all the players can add a trait or a special
 move to eir character sheet. Try to make them coherent with how they feels
 after this umpteenth murdered.
+```
+
+__Change a tag__ - when the status of a character changes in a way that may
+affect the mechanics or the fiction in the future, and it is not already
+highlighted by a trait or an harm, ask to the player to change a tag on the
+character sheet.  A tag is one or few words that have effects in the fiction, and
+potentially in the mechanics, e.g.:
+
+- A status, ability, skill, vantage, disadvantage, illness, incapacity, etc, that
+  does not follow the mechanics of the traits or the harms, but can still
+  contribute to the fictional positioning of the character, or may have other
+  mechanics described in the playbook.
+- An object owned and carried on by the character.
+- A knowledge that can be used in specific circumstances by the character.
+
+Optionally a tag may have a number associated to indicate the quantity or the
+strength of the status. Changing a tag means adding, removing or altering its
+numerical value, if any. You decide how the tag is changed based on what happened
+in the fiction.
+
+To make clear that it is a tag, write the `#` symbol before it in the character
+sheet.
+
+```
+Scenarist - The Eleven Sage blesses Anne. Now her can understand and read, but
+not speak or write in it, the language of the elves. Alice, write the tag
+"Understand elven language" on the character sheet.
 ```
 
 # Player moves
@@ -743,12 +760,12 @@ help someone helping or hindering an PC.  If multiple character are helping,
 add only the maximum value.
 
 - On success, add 2 from the next roll of the PCs.
-- On trade-off, add 1 from the next roll of the PCs.
+- On twist, add 1 from the next roll of the PCs.
 
 __Hindering PCs__ - When you hinder someone and you have to roll:
 
 - On success, subtract 2 from the next roll of the PCs.
-- On trade-off, subtract 1 from the next roll of the PCs.
+- On twist, subtract 1 from the next roll of the PCs.
  
 The __Hinder PCs__ can be done also when that person is acting against you
 directly (this is the way to represent an opposition roll). You can not hinder
@@ -784,7 +801,7 @@ __Read a person__ - When in a charged situation you try to get some
 information from a person and you have to roll:
 
 - On Success ask the controlling player 3 question from the list
-- On trade-off ask the controlling player 1 question from the list
+- On Twist ask the controlling player 1 question from the list
 - On Failure ask the controlling player 1 question from the list
 
 Questions about the person (the player have to fill the _ before to ask):
@@ -798,7 +815,7 @@ Questions about the person (the player have to fill the _ before to ask):
 __Asses the situation__ - When you read a charged situation and you have to roll:
 
 - On Success ask to the scenarist 3 questions from the list
-- On trade-off ask to the scenarist 1 question from the list
+- On Twist ask to the scenarist 1 question from the list
 - On Failure ask to the scenarist 1 question from the list
 
 Questions about the situation (the player have to fill the _ before to ask):
@@ -818,7 +835,7 @@ have to roll, you tell what you want them to do, you give them a reason, then:
 
 - On Success, they’ll go along with you, unless or until some fact or action
   betrays the reason you gave them.
-- On trade-off, they’ll go along with you, but they need some concrete
+- On Twist, they’ll go along with you, but they need some concrete
   assurance, corroboration, or evidence first.
 
 This move applies also when you tray to manipulate, bluff, fast-talk, lie or
@@ -847,7 +864,7 @@ have to roll, you tell what you want them to do, you give them a reason, then:
 
 - On Success the other player have to choose to get a reward and do what you
   want, or get penalty and refusing to do it
-- On trade-off you decided if to offer the reward alone or the penalty alone,
+- On Twist you decided if to offer the reward alone or the penalty alone,
   then the other player chooses what to do
 
 This move applies also when you tray to manipulate, bluff, fast-talk, lie or
@@ -874,9 +891,13 @@ promise of a job...
  __Taking an advantages__ - when you are doing something to make a future
 action more simple or probable to succeed, explicitly said what action or kind
 of actions you are trying to favor, and you have to roll.
-- On Success write a +2 bonus on the character sheet; take also a short note of
-  the action or kind of actions you are trying to favor.  If you have to roll
-for that action, you can add a +2 to the roll and then delete the bonus.
+- On Success the scenarist will ask you do __Change a tag__ to the value 2; the
+  tag will describe the frame in which it is valid; until it is each roll you make
+  will take a +2 bonus; the scenarist will ask you do __Change a tag__ to 0 when
+  it is no more appliable.
+
+Note: if the advantage is very circumscribed in time, you may avoid to write it
+and just remember it.
 
 ```
 Alice - Anne tries to go on the roof, to get a better view of the situation. In
@@ -884,10 +905,17 @@ this way we can get some advantages on check about shooting, or escaping.
 
 Scenarist - ok, there are enemies keeping the house under control, so make a roll.
 
-Alice - Anne uses the traits "Agile" and "Silent", so I got 8 plus 2, 10.
+Alice - Anne uses the traits "Agile" and "Silent"... and I got a success!
 
-Scenarist - ok, until Alice is on the roof, you all have +2 bonus on every check
-that such position may help.
+Scenarist - ok, so you reach the root, what the others do?
+
+Alice - Wait... Should I write something like "Sight from the roof 2" on my
+character sheet? So we can remember that any action for which it is an advantage
+will give me a +2 bonus on the roll!
+
+Scenarist - Yes, you should, and if you want, just do it. But the bonus is
+valid only until you are on the roof, so I think we can remember it also
+without having to write the tag!
 ```
 
 __Remove an harm__ - when you make some action that can cure or treat some
@@ -895,7 +923,7 @@ status associated to one or more harm and you have to roll:
 
 - On Success, decrease up to 3 times one or more related harms, delete the ones
   that reach 0
-- On trade-off, decrease up to 2 times one single related harms, delete it if
+- On Twist, decrease up to 2 times one single related harms, delete it if
   it reaches 0
 - On Fail, decrease one related harms, delete it if it reaches 0
 
@@ -919,9 +947,9 @@ show you a list of moves. Choose one that is not already on your character sheet
 and add it to the character sheet.  If the character had more than 6 special
 moves, one must be deleted first. The scenarist may ask you to customize the move.
 
-The move list is provided in the ambientation playbook, however if the
+The move list is provided in the playbook, however if the
 scenarist or the player want to create completely new ones, they may use the
-suggestion in the "Your World" ambientation playbook, also if another playbook
+suggestion in the "Your World" playbook, also if another playbook
 was selected.
 
 
@@ -931,6 +959,8 @@ __Add a fortune point__ - when you have to add a fortune point, increase by
 
 The fortune point can be spent to give you a mechanical bonus to your future
 rolls.
+
+TODO : remove the fortune points ?
 
 __Add a trait__ - when you have to add a trait, add into the trait section of
 your character sheet a word, or a very small sentence, that describe a
@@ -951,6 +981,9 @@ will enter in play only if it is useful for the goals, otherwise it will be
 simply ignored.  You can invent completely new traits, just be sure that all
 the other persons at the table are agree on using them.
 
+To make clear that it is a trait, write the `+` symbol before it in the character
+sheet.
+
 ```
 Bob chose the first four traits of his character to be "Smart", "Intelligent"
 "Robotics enthusiast" and "Drives anything with an engine".
@@ -967,7 +1000,7 @@ that will probably always be used together.
 
 The "link" constrain is here just to write traits that are somehow coherent. It
 does not came in play in no way.  The other obvious constraint for any trait is
-that it respect the spirit of the ambientation and the tone of the play.
+that it respect the spirit of the setting and the tone of the play.
 
 ```
 After the first four traits, Bob want to add "Perfect" likning it with "Smart"
@@ -999,7 +1032,7 @@ scenarist may just generate more serious consequences. In extreme cases, the
 scenarist may point it out to the players, asking if they are sure to continue,
 increasing the tension.  If the player agrees and the result is a failure,
 the __Make the worst happen__ may be very very hard. Multiple harms, dying,
-quests forever closed, etc. Also the trade-off branch could be very bad.
+quests forever closed, etc. Also the twist branch could be very bad.
 
 ```
 Bob - Bart pulls out the guns...
@@ -1017,7 +1050,7 @@ If the action instead is difficult meaning that the chance are very low, but
 still the scenarist want to give a possibility to the player, ey can
 point out that the action can not be accomplished by a single roll, but the
 player must perform two or more of them. It will be successful only if all the
-rolls are successful or trade-offs, and every trade-off will throw in a cost to
+rolls are successful or twists, and every twist will throw in a cost to
 pay.  Just one fail and the whole sequence is a fail.
 
 The chain roll, as anything else, must be justified in the fiction. Often this
@@ -1059,9 +1092,9 @@ the scenarist and the player): the Game Master will tell when make a roll,
 which trait to use, when mark an harm, etc.
 
 Instead, to use the Scenarist system with other mechanics, map the check in
-that system to the three outcome Success, Failure and Trade-off. For example,
+that system to the three outcome Success, Failure and twist. For example,
 in a d20 system you can see a roll equal to the threshold +/- 1 to be a
-trade-off, higher is a Success, lower a failure. The only other thing you have
+twist, higher is a Success, lower a failure. The only other thing you have
 to decide is what to do instead of giving an harm but probably your system
 still have a way to handle the status changes (that is what the harms are after
 all).
@@ -1134,7 +1167,7 @@ bla bla
 
 TODO : add the previous priciples to the default ones ?
 
-Do not follow the ambientation creation phase. Use the following themes to be
+Do not follow the setting creation phase. Use the following themes to be
 avoide, and thruth about the world.
 
 bla bla
@@ -1162,7 +1195,7 @@ customization.
 
 bla bla
 
-In this ambientation you can optionaly introduce the following completely new
+In this setting you can optionaly introduce the following completely new
 machanics
 
 bla bla
@@ -1176,7 +1209,7 @@ replace them with the one you prefer (following the standard rule of createion)
 bla bla
 
 Finally there are some example situation that the scenarist may use if ey does
-not have better ideas, or just to get the sense of the ambientation
+not have better ideas, or just to get the sense of the setting
 
 bla bla
 
@@ -1190,8 +1223,8 @@ TODO : make an exampl playbook
 
 # Your World - Playbook
 
-This is not an actual ambientation playbook. You can see it more like a
-procedure and some adivice to create your own ambientation. Since it is a bit
+This is not an actual setting playbook. You can see it more like a
+procedure and some adivice to create your own setting. Since it is a bit
 articulated, it is organized in sub-section.
 
 THIS PLAYBOOK IS IN A VERY PRELIMINARY STAGE
@@ -1211,9 +1244,9 @@ with a sentence as short as ey can, trying to make it enough different from the
 other ones. Then discuss all togheter on each answer, why it is interesting, if
 there is some incoherence, etc.  During the discussion an answer may be
 modified or expanded, if the proposer agrees.  At the end the person that asked
-the question, select an answer, and ey writes it on the ambientation sheet. The
+the question, select an answer, and ey writes it on the setting sheet. The
 only constraint is that can not be selected an answer that would make the
-ambientation sheet incoherent.
+setting sheet incoherent.
 
 When you have a dozen of sentence, this phase can be concluded. Them, togheter
 with the list of the forbiddend themes, are all what you need to start to play,
@@ -1252,6 +1285,17 @@ relative character sheet
 
 TODO : add a full example of scenario creation ?
 
+## Quick character creation
+
+bla bla
+
+For a quick version, the players can just write on their
+character sheetS 8 traits and 2 fortune points.  These can be seen as applying
+8 times the move __Add a trait__ and 2 times __Add a fortune point__ , refer to
+the relevant section for details. We suggest to start selecting and mixing
+traits from the characters in in the playbook. Or at least use them
+as inspiration.
+
 ## Creating special moves
 
 The scenarist may invent a list of new moves to present to the players when
@@ -1289,7 +1333,7 @@ The player may fill the _ before writing the moves on the character sheet.
 ```
 
 The general schema of new moves with rolls is "When [trigger text] then ask to
-roll; on success [succes text]; on trade-off [compormise text]; on failure
+roll; on success [succes text]; on twist [compormise text]; on failure
 [failure text].". Here there are some consideration about the various part.
 
 The trigger text should not be too much specific or general, while at least the
@@ -1301,7 +1345,7 @@ of known reward (the result texts).
 TODO : rewrite the following paragraph
 
 Moreover the result text needs to have creative clue to make the situation
-change: a success/trade-off text that just said "You did it" should be avoid.
+change: a success/twist text that just said "You did it" should be avoid.
 The __Tell the consequences__ is a sort of safety net to let the story go on,
 but a move that relay on such mechanism only, by itself it is a bad dedigned
 move.  In this sense the success text of the basic __Taking action__ move is
@@ -1320,7 +1364,7 @@ __Steal from a personal area__: when you are trying to steal something from a
 personal area of somebody, and you have to roll:
 - On success, you take what you want and the scenarist will tell how you
   discovery something important about the person you are robbering.
-- On trade-off, you did not get what you want, but you still discover
+- On Twist, you did not get what you want, but you still discover
   something important.
 ```
 
@@ -1335,7 +1379,7 @@ choosing from one or another based on the kind of result.
 
 ```
 __Feel the engine__ when the character put the hand on the chassis of veicle with
-the engine powered, and ey have to roll: 2 (on success) or 1 (on trade-off or
+the engine powered, and ey have to roll: 2 (on success) or 1 (on twist or
 failure) question from the list. The scenarist will respond to them.
 
 - Will this veichle be able to reach _ ?

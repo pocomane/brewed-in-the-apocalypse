@@ -215,8 +215,9 @@ The long term goal of the scenarist is in the following Agendas:
 
 - Play to find out what happens.
 - Describe a world that make sense.
-- Be honest with the players.
 - Make the player's character lives not boring.
+
+TODO : explain them !!!
 
 The first is particular important. Initially the ambietation should be kept
 simple by purpose.  More details about the world and the backstory will be
@@ -236,27 +237,39 @@ sometimes conflicting, responsibilities:
 During the game, whatever the scenarist said should follow the following
 Principles:
 
+- Do not play against the players, rather be a fan of their characters: the
+  challanges are not introduced to destroy the characters, but to make they shine.
+- Respect the world you are creating; a challange may be introduced because the
+  situation does not make otherwise sense too.
+- Be honest with the players: do not withold infromation that the character should
+  know, make sure the situation is clear to them, let them behave differently if
+  there was some misdunderstanding, do not force them to remember details that their
+  character should known, etc.
+- With your moves, try to continually push the game forward in interesting
+  ways; new opportunities should be added when a player succeeds in a move, and
+  interesting dilemma should emerge from the trade-offs.
+- Respond to the character actions with challenging circumstances and
+  occasional rewards.
+- Continously ask question to the players, and build on their answers; you may
+  also ask them to directly create a part of the world that eir character is
+  supposed to know about.
+- Name everyone and everything, and call all by name; particullary address
+  yourself to the characters, not the player.
+- Make your move, but misdirect and never speak its name; you have not to hide
+  what moves you are doing, but present it as naturally arising from the
+  fiction.
 - Create interesting dilemmas, not interesting plots.
-- Address yourself to the characters, not the player.
-- Make your move, but misdirect and never speak its name.
-- Name everyone, make everyone human.
-- Ask provocative questions and build on the player's answers.
-- Respond with challenging circumstances and occasional rewards.
-- Do not play against the players.
-- Be a fan of the player’ characters.
 - Think off screen, too.
 
-TODO : better rephrase the last three, or at least explain them better
+TODO : Add more detail to the last two (and find the right position in the list) !!!
 
-The question asked by scenarist to the players may be provocative to push a
-reaction (like in "They are after you, do you prepare yourself in some way?"),
-or informative to get some prompt to elaborate (like in "You found a truck, or
-you would prefer some motorcycles?"), or just to give some color to the
-situation (like in "And how your character is dressed").
-
-The moves (both player and scenarist ones) should continually push the game
-forward in interesting ways. New opportunities should be added when a player
-succeeds in a move, and interesting dilemma should emerge from the trade-offs.
+A note about the question asked by scenarist to the players: they may be
+provocative to push a reaction, like in "They are after you, do you prepare
+yourself in some way?"; or informative to get some prompt to elaborate, like in
+"You found a truck, or you would prefer some motorcycles?"; or they  may demand
+the player to create a small part of the story, like in "Bart, you are an
+ex-soldier, how is this barracks made?"; or just to give some color to the
+situation, like in "how your character is dressed".
 
 # Common move mechanics
 

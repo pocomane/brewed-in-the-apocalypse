@@ -284,10 +284,10 @@ in the fiction.
 As you will see the characters may ending having different special moves other
 than the common ones shared by all of them. This may suggest that having a move
 enable somehow the character to perform some action. This is not the case. If a
-character may or may not perform an action is prescribed only by the fiction.
-If a character can do something, when ey do it, the move is triggered.
-Different set of moves is introduced only to differentiate the outcomes per
-player.
+character may or may not perform an action is prescribed only by their traits,
+harms and tags, and from the circumstances in the fiction.  If a character can
+do something, when ey do it, the move is triggered.  Different set of moves is
+introduced only to differentiate the outcomes per player.
 
 ```
 Bob - ok in this setting there is a move triggered "When you try to
@@ -493,8 +493,10 @@ fal, 22% suc - the improvement let to add till 5 (in mean) 0%fal, 87% succ - in
 BITA instead you can not go under 0 traits, there are harms, and normally at beginning
 is common to use 1-2-3 traits for all the roll - TODO - return to classic ranges ?
 
-The only constraint on which trait the player may select, is that ey must be
-able to play the scene in a way that makes evident all the chosen ones.
+There are no constraints on which trait the player may select, but after a success
+the scenarist may, and is encouraged to, select one of the used trait. The player
+must tell how that trait helped em to reach the goal.
+
 Normally, with the 8 initial traits, in every roll you would be able to play 1
 or 2 of them, unless the player is forced to make an action that is completely
 out of the character.  4 or more traits are played instead during actions for
@@ -926,6 +928,11 @@ status associated to one or more harm and you have to roll:
 - On Twist, decrease up to 2 times one single related harms, delete it if
   it reaches 0
 - On Fail, decrease one related harms, delete it if it reaches 0
+
+__Remove a temporary harm__ - when enough time is passed for a temporary
+harm to be heal, ask to the scenarist, if ey agree, you can remove it. Any
+harm can be temporary if the scenarist decide it can heal on its own over time.
+You can ask in any moment to the scenarist if an harm is temporary.
 
 ```
 Alice - Anne take Bart on her shoulder and tries to reach the back door.

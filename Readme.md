@@ -1,7 +1,7 @@
 
 # Brewed in the Apocalypse
 
-Brewed in the Apocalypse is a tabletop RPG heavly based on Apocalypse World
+Brewed in the Apocalypse is a tabletop RPG heavily based on Apocalypse World
 [^1]. All the text is released under Creative Commons.
 
 The following files are provided:
@@ -10,7 +10,7 @@ The following files are provided:
   The game in a print friendly format
 - [Brewed in the Apocalypse - Strong (editable)](bita-strong.md), and
   [Brewed in the Apocalypse - Strong (printable)](https://github.com/pocomane/brewed-in-the-apocalypse/releases/latest/download/bita-strong.pdf) -
-  Distilled version, both in text and in content; practicaly only the roll
+  Distilled version, both in text and in content; practically only the roll
   mechanics was kept, but it fit in a single page; as before both editable and
   printable formats are provided. 
 
@@ -18,6 +18,10 @@ The following files are provided:
 
 # Status
 
-The game is readable and playable, but it needs still a lot playtest, and a
-full revision of the text.
+The game is readable and probably playable, but it had very minimal playtest,
+with one group of people, and while the rules were still evolving.  Moreover,
+the English text needs a full revision.
+
+It would be nice to add some other playbooks to show how much a world may
+be customized; some ideas: Small Fantasy, Horses and Guns, Space Frontier.
 

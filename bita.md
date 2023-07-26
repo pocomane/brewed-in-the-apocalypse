@@ -33,6 +33,8 @@ In this manual we use the Spivak pronouns ey/em/eir/emself for genre neutral
 third person singular. A more common alternative would be the singular they but
 we found that it adds confusion in lot of sentences.
 
+TODO : security rule (but do not call it security rule)
+
 # Setup
 
 Before the first session starts, a scenarist is designed and a setting playbook
@@ -117,9 +119,8 @@ The players and the scenarist must perform what the result text demands when it
 is triggered. They can not decide to skip the result if triggered, and can not
 obtain the results until the trigger happened.
 
-To gain confidence with the move concept, we here review some ones that probably
-could be completely omitted as obvious them are. A session itself is started by
-the __Describe the scene__ move of the scenarist:
+To gain confidence with this concept, we here review some moves that probably
+could be completely omitted as obvious them are. The first one:
 
 __Describe the scene__ when you have to start the session, you can resume the
 last scene or an older one, or start a completely new one.  You do it telling
@@ -151,7 +152,8 @@ does, you tell your character actions, what ey says, feels, etc. You do it also
 when the scenarist asks it to a group your character is member of, no one is
 still speaking, and you find out something interesting to tell.  If there is
 something not clear in scene or that you think is interesting to know about,
-ask it to the scenarist.
+ask it to the scenarist. Ask also if your actions bring you to a new situation
+you want to know about.
 
 Here, since it is a player move, "you" just means "the player". So the player
 have to reply to the "What do you do" telling the action of eir character. There
@@ -160,12 +162,12 @@ is this other move for the scenarist:
 
 __Describe some details__ when a player asks to you to better describe some
 details about the current scene, just do it, unless ey is asking for something
-eir character is not supposed to know, see or understand.
+eir character is not supposed to know, see or understand. In such cases just
+said "You do not know".
 
 Note that when the scenarist ends the __Describe some details__ move, it is
-triggered again the __Ask what they do__ , that actually has a special case
-exactly for the __Describe some details__ move. This gives you a sense of the
-"Snowball" of moves the discussion is made of.
+triggered again the __Ask what they do__ , and so on. This gives you a sense of
+the "Snowball" of moves the discussion is made of.
 
 As already said, these are trivial moves, more advanced one may contain fiction
 clues, or some mechanical things to to, as we will see. For the moment, Here
@@ -184,6 +186,9 @@ __Make clear how it works__ when it seems that a player misunderstood
 something in the scene, kindly remember to em how it works, and what can or can
 not be the consequence of eir action.
 
+TODO : move all the reference to "rollback and do something else" inside the
+previous move ?
+
 __Give an alternative__ when you say to a player that something ey want to do
 is impossible, or will not work as ey intended, do it kindly and give em a
 similar alternative.
@@ -198,15 +203,13 @@ suggestion on how the fiction should go, ey can do it without having a move to
 explicitly allowing it.  Also some information about the fiction the may be
 revealed (probably by the scenarist) during this non-regulated discussion.  But
 all of this should be considered to be hypothetical until some move makes
-them happen or reveal them true.
+them happen or reveal them true in the fiction.
 
 # Hosting the game
 
 The scenarist have a crucial role in the creation of the story, so ey
 should follow some sort of guidelines to be sure the experience be somehow
-consistent.
-
-The long term goal of the scenarist is in the following Agendas:
+consistent.  The long term goal of the scenarist is in the following Agendas:
 
 - Play to find out what happens.
 - Describe a world that make sense.
@@ -214,13 +217,14 @@ The long term goal of the scenarist is in the following Agendas:
 
 TODO : explain them !!!
 
-The first is particular important. Initially the ambietation should be kept
-simple by purpose.  More details about the world and the backstory will be
-discovered during the play, defined both by scenarist and player actions.  The
-preparation of big portions of materials is discouraged.  An interesting prompt
-from a player should never be ignored to let the story follow some
-predetermined track, unless it is temporary, just to close some matter already
-almost done.
+The first is particular important. The scenarist, is a player to, in the sense
+that ey partecipates to the game to discover what happen, and what the other
+people will do.  The preparation of big portions of materials is discouraged.
+An interesting prompt from a player should never be ignored to let the story
+follow some predetermined track, unless it is temporary, just to close some
+matter already almost done. For the same reason, the ambietation should be kept
+initially simple.  More details about the world and the backstory will be
+discovered during the play, defined both by scenarist and player actions.
 
 Moreover, early in the first session (but for some setting these can
 extend to the whole game), the scenarist should also juggle two additional,
@@ -233,22 +237,23 @@ During the game, whatever the scenarist said should follow the following
 Principles:
 
 - Do not play against the players, rather be a fan of their characters: the
-  challanges are not introduced to destroy the characters, but to make they shine.
-- Respect the world you are creating; a challange may be introduced because the
-  situation does not make otherwise sense too.
-- Be honest with the players: do not withold infromation that the character should
+  challenges are not introduced to destroy the characters, but to make they shine.
+- Respect the world you are creating; do not tell incoherent events; a
+  destructive challenge may be introduced because the situation does not make
+  otherwise sense.
+- Be honest with the players: do not withhold information that the character should
   know, make sure the situation is clear to them, let them behave differently if
-  there was some misdunderstanding, do not force them to remember details that their
+  there was some misdo understanding, do not force them to remember details that their
   character should known, etc.
 - With your moves, try to continually push the game forward in interesting
   ways; new opportunities should be added when a player succeeds in a move, and
   interesting dilemma should emerge from the twists.
 - Respond to the character actions with challenging circumstances and
   occasional rewards.
-- Continously ask question to the players, and build on their answers; you may
+- Continuously ask question to the players, and build on their answers; you may
   also ask them to directly create a part of the world that eir character is
   supposed to know about.
-- Name everyone and everything, and call all by name; particullary address
+- Name everyone and everything, and call all by name; particularly address
   yourself to the characters, not the player.
 - Make your move, but misdirect and never speak its name; you have not to hide
   what moves you are doing, but present it as naturally arising from the
@@ -257,6 +262,8 @@ Principles:
 - Think off screen, too.
 
 TODO : Add more detail to the last two (and find the right position in the list) !!!
+
+TODO : make a move to let the player to create part of the world !
 
 A note about the question asked by scenarist to the players: they may be
 provocative to push a reaction, like in "They are after you, do you prepare
@@ -277,8 +284,14 @@ performed, if any. If a player did not really wanted to trigger the move, the
 scenarist should leave to em the opportunity to rollback and to said something
 else.
 
+TODO : change to: the responsibility of check the triggering of a move is of
+everyone; anyone can say "You triggered that move"; naturally every player will
+look more to eir move, and the scenarist to eir one; however, if the player
+did not know the game very well, we suggest to the scenarist to pay attention
+to other moves to (the scenarist MUST know the game very well in any case).
+
 Until now we saw move with trigger in the real world, but it is very common,
-particulary for player moves, to have a move triggered when something happened
+particularly for player moves, to have a move triggered when something happened
 in the fiction.
 
 As you will see the characters may ending having different special moves other
@@ -341,9 +354,14 @@ too vague, the scenarist may ask more details until it is clear the move, and
 until ey have some clue to let the story go on.
 
 ```
-TODO : add an example !
-```
+Bob: I block him.
 
+Scenarist: Ho do you do it? I mean, you hold him physically, or you stand in
+front of the door, or what else?
+
+Bob: Oh yes, I mean just cutting of his exit, I place myself between him and
+the door.
+```
 
 In general the players can not repeat the same move again and again searching
 for best results. The core check mechanics already discourages this since every
@@ -417,7 +435,7 @@ it from the character sheet.
 
 Most of the move are presented in the relative sections for the scenarist and
 the players; however we want discuss in this dedicated section a scenarist move
-that is central for all the game.
+that is central for all the game, and quite articulate.
 
 __Handle the uncertain__ when a player move with the "If you have to roll"
 prescription is triggered, you perform the following steps in order:
@@ -478,24 +496,30 @@ sheet please.
 If you decide to keep the the second step, it is the core "Roll". You briefly
 describes the risks of the situation, and you select the character harms that
 are the relevant for the situation.  Then you ask to the player which are the
-relevant trait and how many Fortune point to spend, between 0 and 2 .  Then the
-player rolls 2 standard 6-side dices, sums the results, adds the number of
-traits and fortune points and subtracts the harms.  The result will say which
-kind of outcome the character will get:
+relevant trait and how many Fortune point to spend, between 0 and 2 .  The
+traits represent ability of the character, while the harms negative status, and
+the fortune point is a bonus carryed from previous action; they all are
+described in the player move section.
+
+Then the player rolls 2 standard 6-side dices, sums the results, adds the
+number of traits and fortune points and subtracts the harms.  The result will
+say which kind of outcome the character will get:
 
 - With 8 or less  the player get a "Failure" outcome.
 - With 9-10-11    the player get a "Twist" outcome.
 - With 12 or more the player get a "Success" outcome.
 
-TODO - classically in a Apocalypse World the three ranges are 6-/7-8-9/10+ but
+TODO - return to classic ranges ? classically in a Apocalypse World
+the three ranges are 6-/7-8-9/10+ but
 it has the 5 statistics going from -3 to +3 - The starting sum 3 (in mean) 35%
 fal, 22% suc - the improvement let to add till 5 (in mean) 0%fal, 87% succ - in
 BITA instead you can not go under 0 traits, there are harms, and normally at beginning
-is common to use 1-2-3 traits for all the roll - TODO - return to classic ranges ?
+is common to use 1-2-3 traits for all the roll
 
-There are no constraints on which trait the player may select, but after a success
-the scenarist may, and is encouraged to, select one of the used trait. The player
-must tell how that trait helped em to reach the goal.
+There are no constraints on which trait the player may select, but after a
+success the scenarist may, and is encouraged to, select one of the used trait.
+The player must tell how that trait helped em to success. If ey is unable to do
+it, the roll became a failure.
 
 Normally, with the 8 initial traits, in every roll you would be able to play 1
 or 2 of them, unless the player is forced to make an action that is completely
@@ -532,20 +556,21 @@ evolve ( the __Make the worst happen__ and __Tell imminent troubles__ moves are
 described in the section about the other scenarist moves):
 
 - On success, if no outcome text is present or if the situation is not evolved
-  enough, other than giving what the player was trying to obtain, make
-  a __Describe the scene__ move with something good for the player.
-- On trad-off, if no outcome text is present or if the situation is not evolved
+  enough, make a __Describe the scene__ move with something good for the
+  player; it should give to the player what ey want from the action, if any.
+- On twist, if no outcome text is present or if the situation is not evolved
   enough, select one item from the twist option list.
 - On a failure, after the execution of a failure text if any, always make
-  a __Make the worst happen__
+  a __Make the worst happen__ .
 
 Twist option list:
 
-- Select the bad outcome, then do a __Describe the scene__ move with something
-  good for the player; if not failure text is present, the character simply
-  does not get what ey want, but just what was established in the __Describe the scene__ .
-- Select the good outcome, then do a __Tell imminent troubles__ targeting the
-  character of that player, or a group ey is member of.
+- Do what the failure text demands, if any, then do a __Describe the scene__
+  move with something good for the player; if not failure text is present, the
+  character simply does not get what ey want, but just what was established in
+  the __Describe the scene__ .
+- Do what the success text demands, if any, then do a __Tell imminent troubles__
+  targeting the character of that player, or a group ey is member of.
 - Ask to the player if for em is ok to get a success, but having you making
   a __Make the worst happen__ ; to convince em you can give more or less details
   about what it will happen. If the player refuse, select another option,
@@ -560,7 +585,7 @@ Bob - No, Bart already have a lot of harms.
 
 Scenarist - Ok, let's say you are successful anyway. You attach the pump avoiding
 the hot parts. But to do it you have to concentrate very much, and you do not
-notice a motorcyclist who stopped, and now is just behind you. He place an hand
+notice a bikers who stopped, and now is just behind you. He places an hand
 on your shoulder and turns you toward him, what do you do?
 ```
 
@@ -606,7 +631,7 @@ __Assign an harm__ - when you have to assign an harm, ask to the target to add
 a new harm to the sheet of eir character with value 1, or to increment a
 previous harm by 1. Obviously the chosen harm must follow by the fiction.
 
-The harms are words or small sentences that represent physical injuries, mental
+The harms are one or few words that represent physical injuries, mental
 stress, or any other negative condition that make sense for the setting.
 They should also cause effects in the fiction. Each harm has a number associated
 to it, from 1 up, that indicate how much will affect the check. When it reach
@@ -917,7 +942,8 @@ will give me a +2 bonus on the roll!
 
 Scenarist - Yes, you should, and if you want, just do it. But the bonus is
 valid only until you are on the roof, so I think we can remember it also
-without having to write the tag!
+without having to write the tag! I will inform you in any case when the bonus
+ends.
 ```
 
 __Remove an harm__ - when you make some action that can cure or treat some
@@ -929,6 +955,10 @@ status associated to one or more harm and you have to roll:
   it reaches 0
 - On Fail, decrease one related harms, delete it if it reaches 0
 
+Which harms may be curated by a specific action will be listed by the scenarist
+before the roll. If they are not what the player expected, ey can decide to
+rollback and do something else.
+
 __Remove a temporary harm__ - when enough time is passed for a temporary
 harm to be heal, ask to the scenarist, if ey agree, you can remove it. Any
 harm can be temporary if the scenarist decide it can heal on its own over time.
@@ -939,14 +969,16 @@ Alice - Anne take Bart on her shoulder and tries to reach the back door.
 
 Scenarist - ok, make a roll.
 
-Alice - I have 2 relevant traits and I got 3, so I think I can not reach it.
+Alice - I have 2 relevant traits... and I got a failure! So, I think I can not
+reach it.
 
-Scenarist - No, and you also get wound, sign it non the sheet.
+Scenarist - No, and you also get wound. You already have one, so change it to
+Wound 2.
 
 Alice - Ok, but I think that Anne has demonstrated to all the group that she
 care about them; I should remove the "Betray 1" harm.
 
-Scenarist - I fully agree!
+Scenarist - I fully agree, remove it!
 ```
 
 __Add a special move__ when you have to add a special move, the scenarist will
@@ -957,8 +989,8 @@ moves, one must be deleted first. The scenarist may ask you to customize the mov
 The move list is provided in the playbook, however if the
 scenarist or the player want to create completely new ones, they may use the
 suggestion in the "Your World" playbook, also if another playbook
-was selected.
-
+was selected. In any case, the move should be created before the session to not
+interrupt the game.
 
 __Add a fortune point__ - when you have to add a fortune point, increase by
 1 the number of fortune point on the character sheet. If you already have
@@ -1064,11 +1096,13 @@ The chain roll, as anything else, must be justified in the fiction. Often this
 means that the scenarist should give a lot of details about the danger of a
 situation, so that each step of the chain is there so overcome one danger.  All
 the details should be known by the players before they have the chance to make
-difficult actions, so the scenarist should continuously add them in every
-situation ey think the risks are high.
+difficult actions, so the scenarist should continuously add such details in every
+situation ey think the risks are high. If ey forgot, ey can add it in a second
+moment, before the roll, giving to the player the possibility to rollback and
+do something else.
 
-Finally, each step of the chain should ask the player for different action
-respect the other steps.
+Fleast but not last, each step of the chain should ask the player for different
+action respect the other steps.
 
 ```
 Alice - Anne tries to blind the dragon with her sword.
@@ -1084,31 +1118,38 @@ better plan.
 Alice - Actually I like it. OK, LET'S START.
 ```
 
-# Adapt the system to you games
+# Adapt the system to your games
 
-THIS SECTION IS IN A VERY PRELIMINARY STAGE
-
-This game system is mainly composed of two parts:
+The game system is mainly composed of three parts:
 
 - The mechanical rules for resolve the rolls, with traits and harms
-- The scenarist handling of the session
+- The scenarist moves for handling of the session
+- All the other moves
 
-To use the mechanics with other way of being a GM, a.k.a. Game Master (that is
-what the Scenarist is after all), just ignore anything about the moves (both of
-the scenarist and the player): the Game Master will tell when make a roll,
-which trait to use, when mark an harm, etc.
+The last one make sense only if both the first two point are used, so it does
+not make sense to adapt it to other systems. Maybe you can just take inspiration,
+but it strongly depends on what effect you want to achieve, so there are no
+hint here.
+
+To use the mechanics with other way of being a GM (the Game Master, that is
+what the Scenarist is after all), just ignore anything about the scenarist or
+player moves the, GM will tell when make a roll, which traits are relevant, when
+delete an harm, etc. according to the target system.
 
 Instead, to use the Scenarist system with other mechanics, map the check in
-that system to the three outcome Success, Failure and twist. For example,
-in a d20 system you can see a roll equal to the threshold +/- 1 to be a
-twist, higher is a Success, lower a failure. The only other thing you have
-to decide is what to do instead of giving an harm but probably your system
-still have a way to handle the status changes (that is what the harms are after
-all).
+that system to the three outcome Success, Failure and twist. For example, in a
+d20 system you can see a roll equal to the threshold +/- 2 to be a twist,
+higher is a Success, lower a failure. The only other thing you have to decide
+is what to do instead of giving an harm or a change a tag, but probably your
+system still have a way to handle the status changes (that is what the harms
+and tags are after all). Just remember that when the scenarist have to change a
+tag, ey can also consume or assign new objects to the player, since in the
+original game the tags were used to that purpose too.
 
 If you have a critic success or fail system you have to add some Scenarist move
 like "On critical success, give award" and "On critical fail, make the __Make
-the worst happen__ still worse". There are no ready recipe here.
+the worst happen__ still worse". Again, this depend too much on the target
+game, so no ready recipe here neither.
 
 # Master less or Master full
 
@@ -1122,111 +1163,6 @@ The basic idea is that the scenarist moves are avaiable to all the players, and
 when the scenarist should act, the first player that pay a Scenarist Token can
 act as the scenarist. The Scenarist Token are collected every time your
 character make a roll (a player can have maximum 5 scenarist token).
-
-Note: the reposnability of checking for the move trigger should be changed with
-something like the following.  Every player is responsable to check if a player
-move is triggered for the controlled character. The scenarist is responsable to
-check if a scenarist move is triggered. If someone misses a trigger, any other
-person may remember them that there is somehing to do.
-
-# Small Fantasy - Playbook
-
-TODO : make an exampl playbook (HIGH PRIORITY)
-
-All the players have the following additional moves:
-
-__Feed yourself__ when the character consumes a ration of food and drink,
-you can delete up to 2 harm "Hungry". If you do not have such harm, you
-can record "Fed" in the character sheet. If you already have "Fed", you
-do nothing.
-
-__Body need__ when is the keeping time, the scenarist __Assign a harm__
-"Hungry" with value 2 to all the character. The hungry harm affects ALL your
-rolls. If a character has a "Fed" status, do not assign the harm, and just
-delete "fed" from the character sheet. The keeping time is the moment in the
-day where most of the peoples and animals sleeps. In the real world it would be
-between 3:00 or 4:00 AM.
-
-__KO__ when the sum of your harms is 9 or more, you are knoked out. You can no
-more act as the character until someone heal one or more of your harm, bringing
-the sum under 9. The scenarist __Assign a harm__ "Give help" of value 2 to all
-the other players. This represents the needs to transport the body of the
-friend, or the emotive harm if they are away from it. It affects all the rolls.
-This harm can be deleted only when the friend is healed, or if eir playerd
-decides that the characted die.
-
-# Future on Earth - Playbook
-
-TODO : make an exampl playbook (HIGH PRIORITY) THIS IS JUST A RAW SCHEME
-
-The world:
-
-bla bla Extended lore ?? bal bla
-
-The scenarist shoudl follow these additional agendas and principes
-
-bla bla
-Build a bigger world through play ???
-Sometimes, reflect a question back upon the player ???
-Look at your NPCs and ideas through crosshairs ???
-Give to every character the chance to shine ??
-bla bla
-
-TODO : add the previous priciples to the default ones ?
-
-Do not follow the setting creation phase. Use the following themes to be
-avoide, and thruth about the world.
-
-bla bla
-
-Here there are a list of trait. You can stil create new by your
-own, but if you choose the ones from the list you do not need to ask to anyone
-if they are good.
-
-bla bla
-
-Here there are a list of common harm and suggestion of when using them and how
-to heal them
-
-bla bla
-
-Here a list of moves that all the character have at the beginnig
-
-bla bla
-(some are just Additional questions to be asked in the move that resquestes them)
-bla bla
-
-Here a list of moves that the player may select when evolving the character. They
-do not need to be approved by the scenarist, unsless when they require some
-customization.
-
-bla bla
-
-In this setting you can optionaly introduce the following completely new
-machanics
-
-bla bla
-
-Here there is an initial situation, with already created character, with
-relation and an initiali goal (it may be ignored as soon as you found new
-ones).  This theorically let's you to start playing fully skipping the Scenario
-creation pahse, however, consider at least to delete some or all the traits and
-replace them with the one you prefer (following the standard rule of createion)
-
-bla bla
-
-Finally there are some example situation that the scenarist may use if ey does
-not have better ideas, or just to get the sense of the setting
-
-bla bla
-
-# Horses and Guns - Playbook
-
-TODO : make an exampl playbook (HIGH PRIORITY)
-
-# Space Frontier - Playbook
-
-TODO : make an exampl playbook
 
 # Your World - Playbook
 
@@ -1437,4 +1373,91 @@ __Endure__: Roll+ [Conditions]
 
 - 10+: Be removed from the scene, lose control / lash out, or choose two options from 7-9 list
 - 7-9: Mark two conditions, provoke an ally or give them a condition, or give your opposition an opportunity
+
+# Future on Earth - Playbook
+
+TODO : make an exampl playbook (HIGH PRIORITY) THIS IS JUST A RAW SCHEME
+
+The world:
+
+bla bla Extended lore ?? bal bla
+
+The scenarist shoudl follow these additional agendas and principes
+
+bla bla
+Build a bigger world through play ???
+Sometimes, reflect a question back upon the player ???
+Look at your NPCs and ideas through crosshairs ???
+Give to every character the chance to shine ??
+bla bla
+
+TODO : add the previous priciples to the default ones ?
+
+Do not follow the setting creation phase. Use the following themes to be
+avoide, and thruth about the world.
+
+bla bla
+
+Here there are a list of trait. You can stil create new by your
+own, but if you choose the ones from the list you do not need to ask to anyone
+if they are good.
+
+bla bla
+
+Here there are a list of common harm and suggestion of when using them and how
+to heal them
+
+bla bla
+
+All the players have the following additional moves:
+
+__Feed yourself__ when the character consumes a ration of food and drink,
+you can delete up to 2 harm "Hungry". If you do not have such harm, you
+can record "Fed" in the character sheet. If you already have "Fed", you
+do nothing.
+
+__Body need__ when is the keeping time, the scenarist __Assign a harm__
+"Hungry" with value 2 to all the character. The hungry harm affects ALL your
+rolls. If a character has a "Fed" status, do not assign the harm, and just
+delete "fed" from the character sheet. The keeping time is the moment in the
+day where most of the peoples and animals sleeps. In the real world it would be
+between 3:00 or 4:00 AM.
+
+__KO__ when the sum of your harms is 9 or more, you are knoked out. You can no
+more act as the character until someone heal one or more of your harm, bringing
+the sum under 9. The scenarist __Assign a harm__ "Give help" of value 2 to all
+the other players. This represents the needs to transport the body of the
+friend, or the emotive harm if they are away from it. It affects all the rolls.
+This harm can be deleted only when the friend is healed, or if eir player
+decides that the character die.
+
+bla bla
+
+Here a list of moves that the player may select when evolving the character. They
+do not need to be approved by the scenarist, unsless when they require some
+customization.
+
+bla bla
+(some are just Additional questions to be asked in the move that resquestes them)
+bla bla
+
+bla bla
+
+In this setting you can optionaly introduce the following completely new
+machanics
+
+bla bla
+
+Here there is an initial situation, with already created character, with
+relation and an initiali goal (it may be ignored as soon as you found new
+ones).  This theorically let's you to start playing fully skipping the Scenario
+creation pahse, however, consider at least to delete some or all the traits and
+replace them with the one you prefer (following the standard rule of createion)
+
+bla bla
+
+Finally there are some example situation that the scenarist may use if ey does
+not have better ideas, or just to get the sense of the setting
+
+bla bla
 

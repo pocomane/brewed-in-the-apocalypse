@@ -35,6 +35,8 @@ we found that it adds confusion in lot of sentences.
 
 TODO : security rule (but do not call it security rule)
 
+TODO : a player can tell anything happened in the past to eir character ?
+
 # Setup
 
 Before the first session starts, a scenarist is designed and a setting playbook
@@ -166,12 +168,10 @@ eir character is not supposed to know, see or understand. In such cases just
 said "You do not know".
 
 Note that when the scenarist ends the __Describe some details__ move, it is
-triggered again the __Ask what they do__ , and so on. This gives you a sense of
-the "Snowball" of moves the discussion is made of.
-
-As already said, these are trivial moves, more advanced one may contain fiction
-clues, or some mechanical things to to, as we will see. For the moment, Here
-some other trivial scenarist moves:
+triggered again the __Ask what they do__ , and so on.  As already said, these
+are trivial moves, more advanced one may contain fiction clues, or some
+mechanical things to to, as we will see. For the moment, here there are still
+some trivial scenarist moves:
 
 __Ask the player to act in turn__ - when two or more players start to speak
 one over another, stop them, summarize the situation and ask to a single player
@@ -180,18 +180,15 @@ what ey does.
 __Ask how the character does__ - when a player is saying what the character
 does, but ey is too vague about the precise actions, ask em, in a kindly way, to
 specify better. This action applies also when the statement required by another
-move (like the __Taking an advantage__ move) is too vague.
+moves (like the __Taking an advantage__ move) is too vague.
 
-__Make clear how it works__ when it seems that a player misunderstood
-something in the scene, kindly remember to em how it works, and what can or can
-not be the consequence of eir action.
+__Make clear how it works__ when it seems that a player misunderstood something
+in the scene, or when ey tell something you think is impossible, kindly
+remember to em how it works, and what can or can not be the consequence of eir
+action. Always give em a similar alternative.
 
 TODO : move all the reference to "rollback and do something else" inside the
 previous move ?
-
-__Give an alternative__ when you say to a player that something ey want to do
-is impossible, or will not work as ey intended, do it kindly and give em a
-similar alternative.
 
 TODO : add the page reference when referring to a move so that the move description
 can be quickly found ???
@@ -243,7 +240,7 @@ Principles:
   otherwise sense.
 - Be honest with the players: do not withhold information that the character should
   know, make sure the situation is clear to them, let them behave differently if
-  there was some misdo understanding, do not force them to remember details that their
+  there was some misunderstanding, do not force them to remember details that their
   character should known, etc.
 - With your moves, try to continually push the game forward in interesting
   ways; new opportunities should be added when a player succeeds in a move, and
@@ -264,6 +261,9 @@ Principles:
 TODO : Add more detail to the last two (and find the right position in the list) !!!
 
 TODO : make a move to let the player to create part of the world !
+
+TODO : Insert these principes in scenarist moves, and delete from there. Keep
+only the ones too broad to be put in a move (idelly none).
 
 A note about the question asked by scenarist to the players: they may be
 provocative to push a reaction, like in "They are after you, do you prepare
@@ -456,28 +456,27 @@ positioning.  In this case you can decide it is a success and skip the second
 step.  Do the same if the consequences of a failure are not interesting at all.
 
 ```
-Bob: Bart want to go upstairs, I have to make a check?
+Bob: Bart want to go upstairs, this is __Taking Action__, do I have to make a check?
 
 Scenarist: No, he is healthy, neither tired, he can not fail!
 ```
 
 ```
-Bob - Bart is going to drink the glass of water, but he have a hand wounds, so I have
-to make a check?
+Bob - Bart is going to drink the glass of water, but he have a hand wounds, it
+is a __Taking Action__, and it may fails, so I have to make a check?
 
 Scenarist: well, also if he fails, I do not see any interesting consequences...
 so just continue, Bart is successful.
 ```
 
 Similarly, if an action is too much likely to fail, the scenarist should just
-said it is impossible. If the player insist to do it, just said it is a failure
+said it is impossible. If the player insist to do it, just decide it is a failure
 and skip the second step.  This "Impossibility" veto must be used judiciously
 and sparingly.
 
 If the player just continues to speak, skipping or performing a roll contrary
 to what the scenarist thinks is appropriate, the scenarist can stop the action,
 point out what the player should do.
-
 
 ```
 Alice: Anne is angry, she want to break the wall with a punch. I use the
@@ -520,6 +519,9 @@ There are no constraints on which trait the player may select, but after a
 success the scenarist may, and is encouraged to, select one of the used trait.
 The player must tell how that trait helped em to success. If ey is unable to do
 it, the roll became a failure.
+
+TODO : on failure, the player can select an harm and the scenarist show how it
+make the action fail ???
 
 Normally, with the 8 initial traits, in every roll you would be able to play 1
 or 2 of them, unless the player is forced to make an action that is completely
@@ -654,8 +656,8 @@ can do one of two from the following list
 - Add something in the scene that fundamentally changes the situation, for the
   worse. What you add must be irrevocable, i.e. the player can not avoid it
   reacting in any way, and the new situation should demands new kind of actions
-  to the characters.  You can.  You can use the same clues of
-  the __Tell imminent troubles__ , but make them irrevocable.
+  to the characters. This can be an event, a character, an object, or simply
+  new informations.
 
 You should skip the latter, only when there are already too much problematic
 events to handle in the fiction. The consequences of a
@@ -727,6 +729,8 @@ not speak or write in it, the language of the elves. Alice, write the tag
 ```
 
 # Player moves
+
+TODO : add a move to recall memories ?
 
 The most basic move that allows interaction is "Taking Action": it is a sort of
 fallback for uncertain situations not covered by other moves. Practically you
@@ -1376,11 +1380,13 @@ __Endure__: Roll+ [Conditions]
 
 # Future on Earth - Playbook
 
-TODO : make an exampl playbook (HIGH PRIORITY) THIS IS JUST A RAW SCHEME
+TODO : finish this playbook (HIGH PRIORITY) THIS IS JUST A RAW DRAFT
 
-The world:
+## Other stuff
 
-bla bla Extended lore ?? bal bla
+TODO: Describe the setting!!!!
+
+bla bla
 
 The scenarist shoudl follow these additional agendas and principes
 
@@ -1440,11 +1446,6 @@ customization.
 bla bla
 (some are just Additional questions to be asked in the move that resquestes them)
 bla bla
-
-bla bla
-
-In this setting you can optionaly introduce the following completely new
-machanics
 
 bla bla
 

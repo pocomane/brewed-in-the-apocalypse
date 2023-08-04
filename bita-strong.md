@@ -14,12 +14,12 @@ bonus to any roll when acting according to them. They should describe the
 character in the fiction too, but the player is free to ignore some of them
 when acting according to others. 
 
-When adding a trait: it must conceptually be linked to 2 previous ones (skip
-for the first 4 traits); the same trait can not be repeated for the same
-character; a trait must be deleted when there are more than 16.
+When adding a trait: it must be conceptually linked to 2 previous ones (except
+for the first 4 traits); a character can not have two equal traits; a trait
+must be deleted if there are more than 16.
 
 __Harms__ An harm is one or few words that represent physical injuries, mental
-stress, or any other negative condition that makes sense for the ambientation.
+stress, or any other negative condition that makes sense for the setting.
 The harm may affect the character rolls, and should cause effects in the
 fiction too.  An harm repeated multiple times will affect it more; feel free to
 use a number instead of rewriting the same harm multiple time.
@@ -32,8 +32,8 @@ A roll may be needed for this.
 __Items, abilities, etc__ During the game the scenarist can require to write
 other things on the character sheet. If the scenarist does not give them any
 explicit mechanics they act only in fiction. In any case the scenarist can
-consider them to decide if a roll is needed, and what the consequences of the
-roll are.
+consider them to decide if something is impossible, if a roll is needed, and
+what the consequences of the roll are.
 
 __Playing the game__ The scenarist will describe a scene, the players will say
 how their characters act. The scenarist will also tell how the rest of the world
@@ -54,22 +54,22 @@ will ask to all the players do add a new trait to the character.
 
 __Roll__ When a roll is needed, the scenarist decides which harms of the
 character are relevant while the player selects the relevant traits.  Then the
-player rolls 2 standard 6-side dices and calculates. The outcome is determinated
-by the dice value sum + number of traits - harm value sum:
+player rolls 2 standard 6-side dices. The outcome is determined by the dice
+value sum + number of traits - harm value sum:
 
-- 8 or less is a failure, the scenarist will tell about the failure, then
-  THE WORST HAPPENS.
-- 9-10-11 is a weak result, the scenarist may decide to let the character fail
-  but giving some compensation, or to let they succeed with a complication that
-  the players can react to.
-- 12 or more is a full success, the scenarist will tell how the character
-  reached the goal; if applicable something good may happen too e.g. an object is
-  discovered, new information is collected, etc.
+- 8 or less is a failure, the scenarist will tell about it, then THE WORST
+  HAPPENS.
+- 9-10-11 is a twist, the scenarist may decide to let the characters fail but
+  giving some compensation, or to let them succeed with a complication that the
+  players can react to.
+- 12 or more is a success, the scenarist will tell how the goal is reached; if
+  applicable something good may happen too: object discovered, new information
+  collected, etc.
 
 __The worst happens__ When a player got a failure in a roll, or when in the
 scene there is an open question not handled by the players for too much, the
-scenarist will make the situation evolves in a new trouble that is irrevocable,
-i.e. the players can not avoid it reacting in any way.
+scenarist will make the situation evolves in a new trouble that the players can
+not avoid reacting in any way.
 
 __Death__ Optionally, during the setup, decide a value for the sum of the
 harms, e.g. 8, that will trigger the character death. A player can always
@@ -130,4 +130,6 @@ __
 
 __Release__ game and ambientation v0.1 released in 2023  under [Creative Common
 0](https://creativecommons.org/share-your-work/public-domain/cc0/)
+
+123456789 123456789 123456789 123456789 1234 678 X 124 6789 1234 6789 123 Y 789 1234 6789
 

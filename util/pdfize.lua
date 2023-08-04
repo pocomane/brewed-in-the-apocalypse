@@ -17,73 +17,71 @@ local common_css = [[
         ul li {
            list-style-position: inside;
         }
-        h2 {
+]]
+
+local standard_css = [[
+        @page {
+          size: A5;
+          margin-left: 50pt;
+          margin-right: 50pt;
+          margin-bottom: 50pt;
+          margin-top: 30pt;
+        }
+        @page :left {
+          margin-left: 65pt;
+          margin-right: 45pt;
+        }
+        @page :right {
+          margin-left: 45pt;
+          margin-right: 65pt;
+        }
+        body {
+          font-family: thefont;
+          column-count: 1;
+          column-fill: balanced;
+          font-size: 8pt;
+          line-height: 10pt;
+          text-align: justify;
+        }
+        strong {
+          font-weight: normal;
+          text-transform: uppercase;
+          font-size: 8pt;
+          margin-left: 3pt;
+          margin-right: 3pt;
+        }
+        h1 {
           text-align: center;
           text-transform: uppercase;
           font-size: 10pt;
+        }
+        h1:first-letter {
+          font-size: 12pt;
+        }
+        h2 {
+          text-transform: uppercase;
+          font-size: 10pt;
+        }
+        h2:first-letter {
+          font-size: 12pt;
         }
         h3 {
           text-transform: uppercase;
           font-size: 10pt;
         }
-        h2:first-letter {
-          font-size: 14pt;
-        }
         h3:first-letter {
-          font-size: 14pt;
-        }
-        h1:first-letter {
-          font-size: 18pt;
-        }
-        h2:first-letter {
-          font-size: 16pt;
-        }
-        h3:first-letter {
-          font-size: 14pt;
+          font-size: 11pt;
         }
         .example {
-          font-size: 10pt;
+          font-size: 8pt;
           border: 1pt solid;
-          padding: 6pt 6pt 6pt 6pt;
+          padding: 4pt 4pt 4pt 4pt;
           margin: 0pt 0pt 6pt 0pt;
-          text-indent:6pt;
+          text-indent:8pt;
         }
         .example p {
           margin-bottom: 2pt;
           margin-top: 2pt;
-        }
-]]
-
-local standard_css = [[
-        @page {
-          size: A4;
-          margin-left: 75pt;
-          margin-right: 75pt;
-          margin-bottom: 75pt;
-          margin-top: 60pt;
-        }
-        body {
-          font-family: thefont;
-          column-count: 2;
-          column-fill: auto;
-          font-size: 10pt;
-          line-height: 14pt;
-          text-align: justify;
-        }
-        h1 {
-          text-align: center;
-          text-transform: uppercase;
-          font-size: 16pt;
-        }
-        h1:first-letter {
-          font-size: 18pt;
-        }
-        strong {
-          font-weight: normal;
-          text-transform: uppercase;
-          font-size: 10pt;
-          margin-left: 5pt;
-          margin-right: 5pt;
         }
 ]]
 
@@ -106,31 +104,19 @@ local standard_html = [[
 
 local compact_css = [[
         @page {
-          size: A4 landscape;
-          margin-left: 60pt;
-          margin-right: 60pt;
-          margin-bottom: 60pt;
-          margin-top: 60pt;
+          size: A5 landscape;
+          margin-left: 30pt;
+          margin-right: 30pt;
+          margin-bottom: 30pt;
+          margin-top: 20pt;
         }
         body {
           font-family: thefont;
-          column-count: 3;
-          column-fill: auto;
-          font-size: 10pt;
-          line-height: 14pt;
+          column-count: 2;
+          column-fill: balanced;
+          font-size: 8pt;
+          line-height: 10pt;
           text-align: justify;
-        }
-        h1 {
-          text-align: center;
-          text-transform: uppercase;
-          font-size: 10pt;
-          background-color: #000000;
-          color: #ffffff;
-          border: 4pt solid #000000;
-          border-bottom: 2pt solid #000000;
-        }
-        h1:first-letter {
-          font-size: 12pt;
         }
         p {
           margin-top: 4pt;
@@ -146,11 +132,41 @@ local compact_css = [[
         strong {
           font-weight: normal;
           text-transform: uppercase;
-          font-size: 10pt;
+          font-size: 8pt;
           background-color: #000000;
           color: #ffffff;
-          border: 3pt solid #000000;
-          border-bottom: 1pt solid #000000;
+          border: 1pt solid #000000;
+          border-left: 2pt solid #000000;
+          border-right: 2pt solid #000000;
+        }
+        h1 {
+          text-align: center;
+          text-transform: uppercase;
+          font-size: 8pt;
+          background-color: #000000;
+          color: #ffffff;
+          border: 4pt solid #000000;
+          border-bottom: 2pt solid #000000;
+        }
+        h2 {
+          text-align: center;
+          text-transform: uppercase;
+          font-size: 8pt;
+        }
+        h3 {
+          text-transform: uppercase;
+          font-size: 8pt;
+        }
+        .example {
+          font-size: 10pt;
+          border: 1pt solid;
+          padding: 4pt 4pt 4pt 4pt;
+          margin: 0pt 0pt 6pt 0pt;
+          text-indent:6pt;
+        }
+        .example p {
+          margin-bottom: 2pt;
+          margin-top: 2pt;
         }
 ]]
 

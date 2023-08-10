@@ -124,6 +124,14 @@ obtain the results until the trigger happened.
 To gain confidence with this concept, we here review some moves that probably
 could be completely omitted as obvious them are. The first one:
 
+TODO: merge __Describe the scene__, __Describe some details__ ???
+
+TODO: Merge __Ask what they do__, __Ask the player to act in turn__
+and __Ask how the character does__ and __Make clear how it works__ ???
+
+TODO: extend __Tell what the character does__ : if the scenarist asked for some
+details about something, you should give it.
+
 __Describe the scene__ when you have to start the session, you can resume the
 last scene or an older one, or start a completely new one.  You do it telling
 some new event in the scene or reveal some new truth to the players about the
@@ -274,6 +282,9 @@ ex-soldier, how is this barracks made?"; or just to give some color to the
 situation, like in "how your character is dressed".
 
 # Common move mechanics
+
+TODO: split the section in small parts and move them somewhere else ?? Something
+may bacame a new move ?
 
 Some moves share common mechanics that would be noisy to explain every times,
 so we describe them once here.
@@ -1382,9 +1393,148 @@ __Endure__: Roll+ [Conditions]
 
 TODO : finish this playbook (HIGH PRIORITY) THIS IS JUST A RAW DRAFT
 
+Earth 2100, or a similar planet with a similar evolution level. During the 21th
+century big companies started having more and more power, ending to engulf the
+biggest nations. However they have no interest in manage large portion of the
+territory, so they concentrate the population and the production in huge
+self-sufficient cities over witch they reign.
+
+The commercial exchanges, and in general people mobing between different
+megacities, are present but very reduced. Mainly, each megacity is the world of
+the people who live there.  The technology level of the megacities may vary,
+but it can be anything from the 2020s on earth, to something with pervasive
+connectivity, cyber grafts, and light genetic improvements.
+
+Outside the cities there are small settlements, or wandering group of people,
+that practically live in a post-apocalyptic world, with scarcity of resource
+and wild threats. The main reason to live here is because the policy of the
+near megacities do not let you go in, and you do not have resource to reach
+another one that could accept you. Citizens passes from there only during
+travels between megacities, or because they have a temporary, probably
+criminal, business to handle.
+
+Outside, at most you can found some village that found a way to have
+electricity, but any more advanced technology is stolen from some megacity and
+probably will bring problems. Termomechanical vehicles are present, and may be
+properly maintained, but the fuel must be obtained somehow from the megacities.
+Very far from any megacities there are some isolated settlement that does not
+known there are other people on the earth.
+
+One of the biggest megacities is Babylon, with about 30M citizen and 15k
+kilometers square. Since its a very high population density, the people lives
+in lot of skyscraper, with the highest floors linked with small suspension bridges.
+Most of the bridges are connected each other, forming a metropolitan web,
+suspended in the void.
+
+The city is governed by a board of three corporations. Vulcan-corp is sensible
+smaller than the others, and do not have the dominance in any field; it tries
+to do a bit of all, and this let it to pervade the city. Ares-corp and
+Hermes-corp are more or less similar in size, but they mostly have the monopoly
+in one field, and do near nothing about the rest: Ares-corp handle the security
+in all the city, and have a strong military force; Hermes-corp control all the
+communications and information. The other corporation are also smaller than
+Vulcano-cop, and can have some influence on some specific political aspect, but
+the have always to be supported by a member of the board.
+
+The dispute between the three main megacorp are handled without any violence,
+by bargaining, since any member of the board could report any incorrect
+behavior to HR, High Referee, an AI the sole scope is to referee such
+contention. It may block the resource of any of the parties, if it deems it
+right and necessary. This is one of the requisite to become part of the board:
+provide HR with the codes that give it that power.
+
+The middle class in Babylon have a supervision job in the production or the
+administration of the smaller departments of a corporation. The one with
+technical skills may be able to work in the R&D department of them. However the
+most of the people lives by gimmicks, probably illegal. The only legal job for
+such people would be as worker in a production plant, for that few things that
+still are not doable automatically by the machines. The high rank of the
+corporation lives in luxury and only care about how gain more power.
+
+The main entertainment form, both for criminals or ordinary people, are leisure
+venues, that normally offers music, alcohols and drugs.
+
+The criminality is widespread, and tolerated by the corporations until it does
+not produces loss to them. The courts and prisons are there just to give an
+appearance of security to the peoples, and to punish the enemies of the
+corporations, obviously. The corporation would not hesitate to hire a criminal
+if they found it would be useful to their goals. Or doing criminal act by them
+own, whitout annoy the memebers of the board. The bast way to retaliate for
+some wrong, is pay an agency, criminal or legal, (or a megacorp dirctly if you
+have enough money) to handle the situation.
+
+The corporation in the security field, mostly provides military forces, and
+some system of judgment and punishment (in agreement with all the other in the
+field) but for detective jobs they prefers to relay on external agency. The
+smaller detective agencies offers service to the ordinary people too, and a job
+from a megacorp is a coveted one. The agency must be registered to some
+megacorp to have more freedom of action and to have the possibility to deliver
+evidence and criminals to them.
+
+The social situation is very tense. There are very frequent riots against
+megacorp or their specific activities. This is also why the Hermes-corp have a
+power comparable to Ares-corp: it does not need a big military force, it can
+direct the public opinion and foment rebellions. Obviously it should be not too
+explicit to avoid an HR accusation.  Practically it is a scenario of mutually
+assured distruction, only mitigated by the HR.
+
+## Situation
+
+You are the member of a small detective agency. You mainly works for common
+people looking for some form of justice, but occasionally a small corportaion
+give you some more important jobs. Sometimese the Vulcano corp itself turned to
+you.
+
+Now, "More important" job is just how the people identify it. For sure they are
+better paied, but for your agency the common people issues are more important. Yes
+you are ones of the few that still looks for a better socity. You are not
+naive, you know you can not do almost nothing against a corporation, but the time
+spent doing the good seems better spend to you. You accept jobs from corporation
+only to the extent that it allows you to run the business. Common people do not
+pay very much.
+
+The contact that normally bring you jobs from Vulcano, just proposed you an
+interesting one, saing it is from anonymous committend. From some month,
+cybernectical implants all around the city, due to some sort of virus, start to
+grow like a cancer, killing the host. The committer said a contact has an hard
+drive with the proof that such virus was developed in the labs of a big
+corporation
+
+All these smells like corps-war, you strongly suspect that the committent is
+Vulcano corp, and also the contact probalby is a memeber of some other agency
+hired by them. All probably is a long chain of external agency that Vulcano set
+up to hide its involvement. However the possibility of hit a megacorp so hard
+is too tempting to you. So you just accepted the job.
+
+Then your contact gives you the bad news: the guy that has the hard drive became
+reluctant to give it away. Probably he is trying to get more money than was
+agreed. But the good news is that you know very well him: is a one-man agency
+whith which you collaborated some time.
+
+You know where to find him: there is a big event at the clandestine gambling den in
+the Larry discos, and you know he will never miss it. You go to the disco, and
+there is the usual big guy protecting the back locals. Normally you have various
+argumentation to convince him to let you in, but this time, he has the order
+to absolutely let no one go inside.
+
+What do you do?
+
 ## Other stuff
 
-TODO: Describe the setting!!!!
+TODO: Describe about Babylon: production; pollution; black market; the sprawl;
+powerful criminal organizations; Common and high tecnology items;
+characteristic places; architecture made of concrete/steel/whatelse; wide
+animals outside?
+
+TODO: Describe the memeber of the detective agency in the "Situation"
+
+TODO: Describe the first NPCs of the situation: the guy with the harddrive, the
+big guys at the entrance, and the contact that give you the jobs (to which you
+have to give the harddrive)
+
+TODO: add common thematic list
+
+TODO: add an object/tecnology list
 
 bla bla
 
@@ -1461,4 +1611,6 @@ Finally there are some example situation that the scenarist may use if ey does
 not have better ideas, or just to get the sense of the setting
 
 bla bla
+
+123456789 123456789 123456789 123456789 1234 678 X 124 6789 1234 6789 123 Y 789 1234 6789
 

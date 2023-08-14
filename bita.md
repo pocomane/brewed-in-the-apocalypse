@@ -135,8 +135,20 @@ The players and the scenarist must perform what the result text demands when it
 is triggered. They can not decide to skip the result if triggered, and can not
 obtain the results until the trigger happened.
 
-To gain confidence with this concept, we here review some moves that probably
-could be completely omitted as obvious them are. The first one:
+the responsibility of check the triggering of a move is of everyone; anyone can
+say "You triggered that move"; naturally every player will look more to eir
+move, and the scenarist to eir one; however, if the player did not know the
+game very well, we suggest to the scenarist to pay attention to other moves to
+(the scenarist MUST know the game very well in any case).
+
+TODO : return to: It is a scenarist responsibility to check if a move is triggered,
+and communicate it to the other player, and to ask for the specific action to be
+performed, if any. If a player did not really wanted to trigger the move, the
+scenarist should leave to em the opportunity to rollback and to said something
+else.
+
+To gain confidence with the concept of move, we here review some moves that
+probably could be completely omitted as obvious them are. The first one:
 
 __Describe the scene__ when you have to start the session, you can resume the
 last scene or an older one, or start a completely new one.  You do it telling
@@ -163,19 +175,32 @@ except for the following reasons:
 
 - if two or more players start to speak one over another, stop them, summarize
   the situation and ask to a single player what ey does.
-- if a player is too vague about the precise actions of the character, ask em,
-  in a kindly way, to specify better; the details discussed here are not the
-  ones meant to give color to story, but the ones needed to actually decide which
-  are the consequences and if some moves are triggered; you do the same also when
-  the statement required by another moves (like the __Taking an advantage__ move)
-  is too vague.
 - if you think that that a player misunderstood something in the scene, or when
   ey tell something you think is impossible, kindly remember to em how it
   works, and what can or can not be the consequence of eir action. Always give em
   a similar alternative.
+- if a player is too vague about the precise actions of the character, ask em,
+  in a kindly way, to specify better; the details discussed here are not the
+  ones meant to give color to story, but the ones needed to actually decide which
+  are the consequences and if some moves are triggered, as well as to decide
+  wich traits/harms/tags are involved; you do the same also when the statement
+  required by another moves (like the __Taking an advantage__ move) is too
+  vague.
 
 TODO : move all the reference to "rollback and do something else" inside the
 previous move ?
+
+```
+Scenarist: Nick try to escape from the backdoor. What do you do?
+
+Bob: I block him.
+
+Scenarist: Ho do you do it? I mean, you hold him physically, or you stand in
+front of the door, or what else?
+
+Bob: Oh yes, I mean just cutting of his exit, I place myself between him and
+the door.
+```
 
 So at end of the __Describe the scene__ , when the scenarist has nothing more
 to say, just conclude with "What do you do" ? Then here there is the first
@@ -280,39 +305,9 @@ may bacame a new move ?
 Some moves share common mechanics that would be noisy to explain every times,
 so we describe them once here.
 
-It is a scenarist responsibility to check if a move is triggered, and
-communicate it to the other player, and to ask for the specific action to be
-performed, if any. If a player did not really wanted to trigger the move, the
-scenarist should leave to em the opportunity to rollback and to said something
-else.
-
-TODO : change to: the responsibility of check the triggering of a move is of
-everyone; anyone can say "You triggered that move"; naturally every player will
-look more to eir move, and the scenarist to eir one; however, if the player
-did not know the game very well, we suggest to the scenarist to pay attention
-to other moves to (the scenarist MUST know the game very well in any case).
-
 Until now we saw move with trigger in the real world, but it is very common,
 particularly for player moves, to have a move triggered when something happened
 in the fiction.
-
-As you will see the characters may ending having different special moves other
-than the common ones shared by all of them. This may suggest that having a move
-enable somehow the character to perform some action. This is not the case. If a
-character may or may not perform an action is prescribed only by their traits,
-harms and tags, and from the circumstances in the fiction.  If a character can
-do something, when ey do it, the move is triggered.  Different set of moves is
-introduced only to differentiate the outcomes per player.
-
-```
-Bob - ok in this setting there is a move triggered "When you try to
-cast a fireball...", so I try to cast one to hurt the troll, moving the hand in
-the air...
-
-Scenarist - No, no wait, the move is there to say what normally happens when
-casting a fireball, but you have to be a Red Mage to cast a fireball. You are
-an Archer, so if you want you can just throw an arrow...
-```
 
 If a move says to trigger another move, skip the trigger condition of the new
 one, and execute the rest of the text. This is a second way every move can be
@@ -349,23 +344,6 @@ Bob - wait, wait, you were just doing a __Describe some details__ move, there
 was no action involving. The time can not pass!
 
 Scenarist - Yes, sorry, you are right. So, what do you do?
-```
-
-When the player describe the actions of eir character, ey should give as much
-clues as ey can on HOW the character perform the action. These details are
-needed to decide which move is triggered, which the traits and harms to use,
-and they are crucial for the scenarist to tell the outcomes. If the action is
-too vague, the scenarist may ask more details until it is clear the move, and
-until ey have some clue to let the story go on.
-
-```
-Bob: I block him.
-
-Scenarist: Ho do you do it? I mean, you hold him physically, or you stand in
-front of the door, or what else?
-
-Bob: Oh yes, I mean just cutting of his exit, I place myself between him and
-the door.
 ```
 
 In general the players can not repeat the same move again and again searching
@@ -636,7 +614,7 @@ introduce such complication playing as an NPC.
 You can use the same clues of the __Make the worst happen__ , but do not make
 them irrevocable, leave instead to the players the possibility to react.
 
- If you think the situation is already complex, you can do a __Describe the
+If you think the situation is already complex, you can do a __Describe the
 scene__ move instead.
 
 TODO - is this enough to handle "Make an __Make the worst happen__ when the
@@ -680,7 +658,7 @@ __Make the worst happen__ when the characters ignore a problematic
 situation for too much time or when they give you the perfect opportunity, you
 can do one of two from the following list
 
-- Add an __Assign an harm__ move
+- Do an __Assign an harm__ move
 - Add something in the scene that fundamentally changes the situation, for the
   worse. What you add must be irrevocable, i.e. the player can not avoid it
   reacting in any way, and the new situation should demands new kind of actions
@@ -716,9 +694,10 @@ TODO : add an example
 
 __Make the characters evolve__ - When it is a calm situation and a quest ended,
 or something important for the plot happened, or when a lot of time passed
-without this move was triggered, you ask ALL the player to trigger __Add a trait__
-or __Add a special move__ (they individually choose which one). When all
-finished, __Describe a scene__ .
+without this move was triggered, you ask ALL the player to trigger __Add a trait__ ,
+When all finished, __Describe a scene__ .
+
+TODO : merge __Add a trait__ with the previous move ?
 
 ```
 Scenarist - Ok, Bart you got a success. Not only you manage to hit the man that
@@ -1007,17 +986,6 @@ care about them; I should remove the "Betray 1" harm.
 Scenarist - I fully agree, remove it!
 ```
 
-__Add a special move__ when you have to add a special move, the scenarist will
-show you a list of moves. Choose one that is not already on your character sheet
-and add it to the character sheet.  If the character had more than 6 special
-moves, one must be deleted first. The scenarist may ask you to customize the move.
-
-The move list is provided in the playbook, however if the
-scenarist or the player want to create completely new ones, they may use the
-suggestion in the "Your World" playbook, also if another playbook
-was selected. In any case, the move should be created before the session to not
-interrupt the game.
-
 __Add a fortune point__ - when you have to add a fortune point, increase by
 1 the number of fortune point on the character sheet. If you already have
 6 fortune points or more, you do not increment it.
@@ -1263,6 +1231,25 @@ as inspiration.
 
 ## Creating special moves
 
+Every time you have to __Add a trait__ you can do a  __Add a special move__ instead.
+
+TODO : better explain the previous sentence.
+
+All the character have the following additional move
+
+__Add a special move__ when you have to add a special move, the scenarist will
+show you a list of moves. Choose one that is not already on your character sheet
+and add it to the character sheet.  If the character had more than 6 special
+moves, one must be deleted first. The scenarist may ask you to customize the move.
+
+The move list is provided in the playbook, however if the
+scenarist or the player want to create completely new ones, they may use the
+suggestion in the "Your World" playbook, also if another playbook
+was selected. In any case, the move should be created before the session to not
+interrupt the game.
+
+bla bla
+
 The scenarist may invent a list of new moves to present to the players when
 they decides to __Add a special move__ . When the players become comfortable
 with them, the scenarist may start proposing moves that contains small
@@ -1366,6 +1353,24 @@ enstabilishes common ways to perform actions.
 ```
 __Drink blood__ when you drink the blood from the veins of a living person, you
 can __Remove an harm__ related to a physical wound or stress.
+```
+
+All this means that the characters may ending having different special moves other
+than the common ones shared by all of them. This may suggest that having a move
+enable somehow the character to perform some action. This is not the case. If a
+character may or may not perform an action is prescribed only by their traits,
+harms and tags, and from the circumstances in the fiction.  If a character can
+do something, when ey do it, the move is triggered.  Different set of moves is
+introduced only to differentiate the outcomes per player.
+
+```
+Bob - ok in this setting there is a move triggered "When you try to
+cast a fireball...", so I try to cast one to hurt the troll, moving the hand in
+the air...
+
+Scenarist - No, no wait, the move is there to say what normally happens when
+casting a fireball, but you have to be a Red Mage to cast a fireball. You are
+an Archer, so if you want you can just throw an arrow...
 ```
 
 ## Other moves

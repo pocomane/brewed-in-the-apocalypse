@@ -124,14 +124,6 @@ obtain the results until the trigger happened.
 To gain confidence with this concept, we here review some moves that probably
 could be completely omitted as obvious them are. The first one:
 
-TODO: merge __Describe the scene__, __Describe some details__ ???
-
-TODO: Merge __Ask what they do__, __Ask the player to act in turn__
-and __Ask how the character does__ and __Make clear how it works__ ???
-
-TODO: extend __Tell what the character does__ : if the scenarist asked for some
-details about something, you should give it.
-
 __Describe the scene__ when you have to start the session, you can resume the
 last scene or an older one, or start a completely new one.  You do it telling
 some new event in the scene or reveal some new truth to the players about the
@@ -152,6 +144,24 @@ other scenarist move:
 
 __Ask what they do__ - when you are speaking and you have nothing to say
 anymore, ask to one ore more characters in the current scene what they do next.
+You should not interrupt their discussion until other moves are triggered,
+except for the following reasons:
+
+- if two or more players start to speak one over another, stop them, summarize
+  the situation and ask to a single player what ey does.
+- if a player is too vague about the precise actions of the character, ask em,
+  in a kindly way, to specify better; the details discussed here are not the
+  ones meant to give color to story, but the ones needed to actually decide which
+  are the consequences and if some moves are triggered; you do the same also when
+  the statement required by another moves (like the __Taking an advantage__ move)
+  is too vague.
+- if you think that that a player misunderstood something in the scene, or when
+  ey tell something you think is impossible, kindly remember to em how it
+  works, and what can or can not be the consequence of eir action. Always give em
+  a similar alternative.
+
+TODO : move all the reference to "rollback and do something else" inside the
+previous move ?
 
 So at end of the __Describe the scene__ , when the scenarist has nothing more
 to say, just conclude with "What do you do" ? Then here there is the first
@@ -163,7 +173,9 @@ when the scenarist asks it to a group your character is member of, no one is
 still speaking, and you find out something interesting to tell.  If there is
 something not clear in scene or that you think is interesting to know about,
 ask it to the scenarist. Ask also if your actions bring you to a new situation
-you want to know about.
+you want to know about. If the scenarist explicitly asked you for some
+particular detail, first give it in the most concise way you can found, than
+you can elaborate it.
 
 Here, since it is a player move, "you" just means "the player". So the player
 have to reply to the "What do you do" telling the action of eir character. There
@@ -178,28 +190,7 @@ said "You do not know".
 Note that when the scenarist ends the __Describe some details__ move, it is
 triggered again the __Ask what they do__ , and so on.  As already said, these
 are trivial moves, more advanced one may contain fiction clues, or some
-mechanical things to to, as we will see. For the moment, here there are still
-some trivial scenarist moves:
-
-__Ask the player to act in turn__ - when two or more players start to speak
-one over another, stop them, summarize the situation and ask to a single player
-what ey does.
-
-__Ask how the character does__ - when a player is saying what the character
-does, but ey is too vague about the precise actions, ask em, in a kindly way, to
-specify better. This action applies also when the statement required by another
-moves (like the __Taking an advantage__ move) is too vague.
-
-__Make clear how it works__ when it seems that a player misunderstood something
-in the scene, or when ey tell something you think is impossible, kindly
-remember to em how it works, and what can or can not be the consequence of eir
-action. Always give em a similar alternative.
-
-TODO : move all the reference to "rollback and do something else" inside the
-previous move ?
-
-TODO : add the page reference when referring to a move so that the move description
-can be quickly found ???
+mechanical things to to, as we will see.
 
 To conclude with the obvious things: the moves did not regulate all the
 discussion. If someone want to speak of something outside the fiction, and it
@@ -223,11 +214,11 @@ consistent.  The long term goal of the scenarist is in the following Agendas:
 TODO : explain them !!!
 
 The first is particular important. The scenarist, is a player to, in the sense
-that ey partecipates to the game to discover what happen, and what the other
+that ey participates to the game to discover what happen, and what the other
 people will do.  The preparation of big portions of materials is discouraged.
 An interesting prompt from a player should never be ignored to let the story
 follow some predetermined track, unless it is temporary, just to close some
-matter already almost done. For the same reason, the ambietation should be kept
+matter already almost done. For the same reason, the setting should be kept
 initially simple.  More details about the world and the backstory will be
 discovered during the play, defined both by scenarist and player actions.
 
@@ -255,9 +246,6 @@ Principles:
   interesting dilemma should emerge from the twists.
 - Respond to the character actions with challenging circumstances and
   occasional rewards.
-- Continuously ask question to the players, and build on their answers; you may
-  also ask them to directly create a part of the world that eir character is
-  supposed to know about.
 - Name everyone and everything, and call all by name; particularly address
   yourself to the characters, not the player.
 - Make your move, but misdirect and never speak its name; you have not to hide
@@ -269,17 +257,6 @@ Principles:
 TODO : Add more detail to the last two (and find the right position in the list) !!!
 
 TODO : make a move to let the player to create part of the world !
-
-TODO : Insert these principes in scenarist moves, and delete from there. Keep
-only the ones too broad to be put in a move (idelly none).
-
-A note about the question asked by scenarist to the players: they may be
-provocative to push a reaction, like in "They are after you, do you prepare
-yourself in some way?"; or informative to get some prompt to elaborate, like in
-"You found a truck, or you would prefer some motorcycles?"; or they  may demand
-the player to create a small part of the story, like in "Bart, you are an
-ex-soldier, how is this barracks made?"; or just to give some color to the
-situation, like in "how your character is dressed".
 
 # Common move mechanics
 
@@ -328,6 +305,9 @@ one, and execute the rest of the text. This is a second way every move can be
 triggered.  When the trigger text just repeat the title of a move, this means
 that the move is not triggered directly be some action in the fiction, but come
 into play only when another move explicitly asks for it.
+
+TODO : add the page reference when referring to a move so that the move description
+can be quickly found ???
 
 ```
 The __Make the worst happen__ says to make an __Assign an harm__. The
@@ -603,6 +583,36 @@ on your shoulder and turns you toward him, what do you do?
 ```
 
 # Other scenarist moves
+
+__Ask to the player__ - when you are speaking and you think it is appropiate,
+make a question to one or more player, and build on theri answer in your
+narration.  Ideally, you should continuously asking such question.  You may
+also About the questions them self: 
+
+They may be provocative to push a reaction
+
+```
+They are after you, do you prepare yourself in some way?
+```
+
+They may be informative to get some prompt to elaborate
+
+```
+You found a truck, or do you think motorcycles are more appropriate?
+```
+
+They may be a direct request to to create a small part of the story or the
+world (very appropriate when the character is supposed to know the situation)
+
+```
+Bart, you are an ex-soldier, how is this barracks made?
+```
+
+They may also be just a way to give color to the situation
+
+```
+how your character is dressed?
+```
 
 __Tell imminent troubles__ - when you asked to all the players in the scene
 what they do, and if they stop after a while without triggering any move, add

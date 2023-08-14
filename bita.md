@@ -40,14 +40,16 @@ TODO : a player can tell anything happened in the past to eir character ?
 # Setup
 
 Before the first session starts, a scenarist is designed and a setting playbook
-is selected all together. It contains the ambientation, characters and initial
+is selected all together. It contains the setting, characters and initial
 scene of the game, and maybe additional rules. We will call it just "Playbook".
-You can use one included in this manual, or an external one. If you want to
-create an original setting, you can refer to the "Your World" playbook
-included with this manual, that helps you defining your own setting,
-practically writing an original playbook. In the rest we will consider that the
-players and the scenarist choose a standard playbook, with all ready to start
-playing.
+You can use one included in this manual, or an external one.
+
+In the rest we will consider that the players and the scenarist choose a
+standard playbook, with all ready to start playing.  If this limitation seem
+too strong, you can refer to the "Your World" playbook included with this
+manual (practically it helps you to create an original playbook). You can mix
+it also with other playbook, e.g. using it only to generate new characters for
+another selected playbook.
 
 The playbook contains a short description of the setting; the scenarist should
 read them to the players.  The setting should have been kept compact by
@@ -62,12 +64,6 @@ connected, however these notes have no effects in the mechanics or the fiction.
 The game status that instead have such effects, is kept in the "Character
 sheet" managed by each player.
 
-On these, all the mechanically relevant elements are preceded by a symbols as
-described in the relative section. Any  text that does not have any symbols, is
-just a note of the player that does not have any mechanical or fictional
-consequence.  It may be useful to separate each kind of element in a dedicated
-list but always keep the described symbols.
-
 Then each player will chose one character from the playbook, and they will copy
 all the information on their character sheet. Like the setting, the characters
 are described by few sentences, to leave the space for the player to add new
@@ -76,9 +72,27 @@ characters, and a description of the initial scene. This is meant just kickoff
 the game, new goals can be selected as soon as the players found something more
 interesting.
 
-If all this limitations seem too strong, you can generate new character, using
-the relative section of the "Your World" playbook, also if another playbook was
-selected.
+In the character sheet there are three type of information relevant both for
+the fiction and the mechanics; each of them is in the form of one or few words
+describing an aspect or a state of the character:
+
+- The Traits (preceded by +) are what the character does well, and gives em a
+  mechanical bonus on rolls
+- The Harms (preceded by -) are negative status that gives mechanical malus on
+  rolls
+- The Tags (preceded by #) describes other status that does not have effect on
+  rolls effect but should be considered in the fiction, or may have additional
+  mechanics as described in the playbook
+
+The symbols before this items are there to quickly distinguish them to other
+things  in character sheet that should just be considered a note without any
+mechanical or fictional consequence.  It may be useful to separate each kind of
+element in a dedicated list but always keep the described symbols.
+
+In the rest of the manual, we can ask to count, add or remove multiple
+identical copy of some of that information. This is just to keep simple the
+treatment, you are encouraged to indicate multiply identical copy placing a
+number near it, increasing and decreasing it as needed.
 
 # Playing the game
 
@@ -650,23 +664,16 @@ Fortunately it was not so fast, so you did not get serious injuries. But
 obviously now you need to find another way to reach your destination.
 ```
 
-__Assign an harm__ - when you have to assign an harm, ask to the target to add
-a new harm to the sheet of eir character with value 1, or to increment a
-previous harm by 1. Obviously the chosen harm must follow by the fiction.
-
-The harms are one or few words that represent physical injuries, mental
-stress, or any other negative condition that make sense for the setting.
-They should also cause effects in the fiction. Each harm has a number associated
-to it, from 1 up, that indicate how much will affect the check. When it reach
-0, the harm is deleted.
+__Assign an harm__ - when you have to assign an harm, chose one or few words
+that represent physical injuries, mental stress, or any other negative
+condition that make sense for the setting; the target player adds such harm to
+eir character sheet.  Obviously the chosen harm must follow by the fiction, ant
+they will cause effects in the fiction.
 
 The harms may never be used to give a bonus to an action. If it would help the
 players to reach their goals, it is simply ignored.
 
-To make clear that it is an harm, write the `-` symbol before it in the character
-sheet.
-
-He harms can be removed when something related happen in the fiction, as
+The harms can be removed when something related happen in the fiction, as
 explained in the __Remove an harm__ move.
 
 __Make the worst happen__ when the characters ignore a problematic
@@ -736,12 +743,8 @@ potentially in the mechanics, e.g.:
 - A knowledge that can be used in specific circumstances by the character.
 
 Optionally a tag may have a number associated to indicate the quantity or the
-strength of the status. Changing a tag means adding, removing or altering its
-numerical value, if any. You decide how the tag is changed based on what happened
-in the fiction.
-
-To make clear that it is a tag, write the `#` symbol before it in the character
-sheet.
+strength of the status.  Changing a tag means adding or removing it You decide
+how the tag is changed based on what happened in the fiction.
 
 ```
 Scenarist - The Eleven Sage blesses Anne. Now her can understand and read, but
@@ -974,11 +977,9 @@ ends.
 __Remove an harm__ - when you make some action that can cure or treat some
 status associated to one or more harm and you have to roll:
 
-- On Success, decrease up to 3 times one or more related harms, delete the ones
-  that reach 0
-- On Twist, decrease up to 2 times one single related harms, delete it if
-  it reaches 0
-- On Fail, decrease one related harms, delete it if it reaches 0
+- On Success, delete up to 3 related harms
+- On Twist, delete up to 2 related harms
+- On Fail, delete one related harms
 
 Which harms may be curated by a specific action will be listed by the scenarist
 before the roll. If they are not what the player expected, ey can decide to
@@ -1027,12 +1028,11 @@ rolls.
 TODO : remove the fortune points ?
 
 __Add a trait__ - when you have to add a trait, add into the trait section of
-your character sheet a word, or a very small sentence, that describe a
-quality, an ability, or a tendency of the character. If the character had more
-than 16 traits, one must be deleted first.  The new trait that must be linked
-to other two already in the character sheet, unless it is one of the first 4 of
-the character.  All the trait ever written on a character sheet must be
-different each other.
+your character sheet one or few words that describe a quality, an ability, or a
+tendency of the character. If the character had more than 16 traits, one must
+be deleted first.  The new trait that must be linked to other two already in
+the character sheet, unless it is one of the first 4 of the character.  All the
+trait ever written on a character sheet must be different each other.
 
 The traits will give you a mechanical bonus to any roll when acting according
 to the traits. They should also describe how the character acts in the fiction,
@@ -1044,9 +1044,6 @@ be used to give a malus during a roll.  Also if it has negative acceptation, it
 will enter in play only if it is useful for the goals, otherwise it will be
 simply ignored.  You can invent completely new traits, just be sure that all
 the other persons at the table are agree on using them.
-
-To make clear that it is a trait, write the `+` symbol before it in the character
-sheet.
 
 ```
 Bob chose the first four traits of his character to be "Smart", "Intelligent"

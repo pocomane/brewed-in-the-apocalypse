@@ -168,27 +168,9 @@ say anything ey like about the fiction, until there are no imminent threats for
 the characters. How the discussion is moved to the players? There are this
 other scenarist move:
 
-__Ask what they do__ - when you are speaking and you have nothing to say
-anymore, ask to one ore more characters in the current scene what they do next.
-You should not interrupt their discussion until other moves are triggered,
-except for the following reasons:
-
-- if two or more players start to speak one over another, stop them, summarize
-  the situation and ask to a single player what ey does.
-- if you think that that a player misunderstood something in the scene, or when
-  ey tell something you think is impossible, kindly remember to em how it
-  works, and what can or can not be the consequence of eir action. Always give em
-  a similar alternative.
-- if a player is too vague about the precise actions of the character, ask em,
-  in a kindly way, to specify better; the details discussed here are not the
-  ones meant to give color to story, but the ones needed to actually decide which
-  are the consequences and if some moves are triggered, as well as to decide
-  wich traits/harms/tags are involved; you do the same also when the statement
-  required by another moves (like the __Taking an advantage__ move) is too
-  vague.
-
-TODO : move all the reference to "rollback and do something else" inside the
-previous move ?
+__Ask what they do__ - when you are speaking and you have nothing
+else to say, ask to one ore more characters in the current scene what they do
+next.
 
 ```
 Scenarist: Nick try to escape from the backdoor. What do you do?
@@ -576,6 +558,70 @@ on your shoulder and turns you toward him, what do you do?
 
 # Other scenarist moves
 
+__Rollback__ - When you think the player should stop telling for any reason,
+let em finish instead, or wait that a move is triggered, then, if you still
+think it is necessary, rollback to the critical point and explain why you
+restart from there. Not interrupting the description let you to fully understand
+what the player want to to, and often you will found that there is no reason to
+rollback at all.
+
+You are allowd to interrupt only when two or more players start to speak one
+over another; in such case stop them, summarize the situation so far and ask to
+a single player what ey does.
+
+Moreover, it may happen that a player is making a long description of events
+that you already know you have to rollback. In general, also in such cases the
+right thing to do is to wait ey to finish; however you are allowed to interrupt
+the player if you make it in order to not waste the player time, and after you
+explainded your reasons you give them the possibility to continue eir
+description.
+
+Typically, you have to make a rollback when:
+
+- the player is telling something impossible.
+- the player misunderstood something in the scene.
+- the player is too vague about the precise actions of the character, and you
+  want em to add more details in order to decide which are the consequences and
+  if some moves are triggered, as well as to decide which traits/harms/tags are
+  involved.
+- the player gives a vague description of what is needed by other moves (like the
+  __Taking an advantage__ move), and, again, you need em to add such details.
+
+In case you have to completely delete something the player told (e.g. the first
+two previews points), always give em a similar alternative.
+
+The rollback can not go over a previous move: you already had the possibility
+to make a rollback exactly when the move was triggered.
+
+TODO : merge with the __Ask what they do__ move !!!!
+
+```
+Scenarist - You managed to enter in the Nick head quarter. You are hidden
+behind a pillar. There is a guard doing the patrol, to the other side of the
+room there is the only door, clearly locked. What do you do?
+Bob - I stunt the guard, then I will use my crowbar to force the door lock, and
+I quickly go out closing the door behind me.
+Scenarist - Ok, you are trying to quickly go out before someone else come in, I
+understand it, but to stunt the guard I think you need to roll. So let's
+rollback to that point, can you explain exactly how you try to do it?
+Bob - Ok, I wait him to pass my hiding place, then go behind him and hit him
+with my crowbar.
+```
+
+```
+Scenarist - You managed to enter in the Nick head quarter. You are hidden
+behind a pillar. There is a guard doing the patrol, to the other side of the
+room there is the only door, clearly locked. What do you do?
+Bob - I stunt the guard, then I will follow the room perimeter looking for
+trap, in the meanwhile, I search for storage box, and...  ... after a couple of
+minutes ...
+Bob - ... moreover I will continue to tighten the bandages...
+Scenarist - Ok, sorry, I have to stop you. If you want you can continue with
+all this description, but I will anticipate you that we have in any case to
+rollback to the guard stunting. You need a roll for it, and you did not give us
+too much detail to decide which the consequences could be.
+```
+
 __Ask to the player__ - when you are speaking and you think it is appropiate,
 make a question to one or more player, and build on theri answer in your
 narration.  Ideally, you should continuously asking such question.  You may
@@ -954,15 +1000,13 @@ ends.
 ```
 
 __Remove an harm__ - when you make some action that can cure or treat some
-status associated to one or more harm and you have to roll:
+status associated to one or more harm, the scenarist will tell you which
+harms can be potentially removed. If you are not satisfy, you can tell some
+other action the character does instead. If you are satisfied and you have to roll:
 
 - On Success, delete up to 3 related harms
 - On Twist, delete up to 2 related harms
 - On Fail, delete one related harms
-
-Which harms may be curated by a specific action will be listed by the scenarist
-before the roll. If they are not what the player expected, ey can decide to
-rollback and do something else.
 
 __Remove a temporary harm__ - when enough time is passed for a temporary
 harm to be heal, ask to the scenarist, if ey agree, you can remove it. Any
@@ -1087,9 +1131,11 @@ means that the scenarist should give a lot of details about the danger of a
 situation, so that each step of the chain is there so overcome one danger.  All
 the details should be known by the players before they have the chance to make
 difficult actions, so the scenarist should continuously add such details in every
-situation ey think the risks are high. If ey forgot, ey can add it in a second
-moment, before the roll, giving to the player the possibility to rollback and
-do something else.
+situation ey think the risks are high.
+
+TODO : If ey forgot, ey can add it in a second moment, before the roll, giving
+to the player the possibility to rollback and do something else. !!! NOTE this may
+rollback over other moves!!! It worth ????
 
 Fleast but not last, each step of the chain should ask the player for different
 action respect the other steps.

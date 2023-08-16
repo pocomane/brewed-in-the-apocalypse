@@ -519,7 +519,7 @@ bonus of 3
 Scenarist - yes, but you have a "Mental stress" harm of 1, so you can add only 2 to
 your roll
 
-Bob - Ok. I got 8. So the result is 10.
+Bob - Ok. I got 10. So the result is 12, a success.
 
 Scenarist - So Bart quickly understand that the fuel pump was detached, and he
 easily put it in place.
@@ -794,9 +794,8 @@ can play also with this move alone deleting any other one requiring a roll, but
 other moves will bring colors to the game.
 
 __Taking Action__ - When you take an action that risks failure or
-complications, there is no other more specific move, and you have to roll:
-- on success the scenarist will tell how you reach you goals; nothing bad will
-  happen, at least for the moment.
+complications, there is no other more specific move, and you have to roll, do
+what the standard outcomes demand in the "Handle the uncertain" section.
 
 ```
 Alice - Anne will wait that the librarian go away the deck then she will take
@@ -804,7 +803,7 @@ the book.
 
 Scenarist - Ok, you need a roll to be sure to not be noticed.
 
-Alice - Yes, I will use the trait Agile and Fast. I got 8 plus 2, then 10.
+Alice - Yes, I will use the traits Agile and Fast... and I got a success.
 
 Scenarist - Ok, a colleague comes to chat with the librarian, and they slowly
 walk to the coffee machine. When they are quite far away, Anne go behind the
@@ -836,7 +835,8 @@ Bob - Wait, Bart was near him, so he put himself in front of the door.
 
 Scenarist - Ok, but Nick is fast, please make a roll
 
-Bob - ok, I got 3, plus... well, nothing, Bart does not have any useful traits.
+Bob - ok, but I do not have any useful traits, so I will not add any bonus... and
+I got a failure!
 
 Scenarist - So Nick successfully escape from the door, and pushes Bart, that fall
 down hurting is shoulder on the door frame. Sign "Shoulder pain 1", as harm.
@@ -868,7 +868,7 @@ Bob - Well I think Bart will see her coming, so he is ready to hold the gun.
 Scenarist - Yes I think too, Bob make a roll to hinder Anne.
 
 Bob - ok, the intelligent, smart, and quick understanding will help Bart to known
-beforehand what Alice is doing, so I will add 3. I got 6, plus 3, 9.
+beforehand what Alice is doing... and I got a success!
 
 Scenarist - ok, you oppose effectively to Anne, now Alice make a roll with a -2
 malus
@@ -964,8 +964,8 @@ threaten with the violence someone. The reward and the penalty are:
 The situation is the same of the __Sway a NPC__ example, but behind
 the doors there is Anne, the Alice's character. After the roll:
 
-Scenarist - Ok, with 8 you can decide one consequence of the Alice decision.
-Harm or Fortune points ?
+Scenarist - Ok, you got a twist from the roll, you can decide one consequence
+of the Alice decision.  Harm or Fortune points ?
 
 Bob - I will say, that if she agree, she will get two fortune points.
 

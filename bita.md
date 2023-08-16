@@ -4,9 +4,9 @@
 This is a role playing game for 3-6 player. One person will play as the
 "Scenarist", while the others will play the "Protagonists".
 
-To play, you need 2 standard 6-sides dice (2 for each protagonist would be better),
-some white sheets, a pencil and eraser (a pencil for each player would be
-better).
+To play, you need 2 standard 6-sides dice (2 for each protagonist would be
+better), some white sheets, a pencil and eraser (a pencil for each player would
+be better).
 
 Brewed in the Apocalypse - revision 0.1.
 
@@ -17,21 +17,23 @@ It is strongly inspired by:
 
 - Apocalypse World by D. Vincent Baker and Meguey Baker (2010)
 - Not the End by Claudio Pustorino (2020)
-- Fantasy World by Alessandro Piroddi and Luca Maiorani (2023)
 
 TODO list:
 
+- Find another word for "Move"? They are different from the pbta ones so it
+  is better to avoid confusion???
+- All the english text must be revised.
 - Rewrite the examples addressing the Character, not the Player
-- Some setting playbook must be added.
 - Some examples must be written.
 - The content must be made more concise in various point.
-- All the english text must be revised.
+- Some setting playbook must be added.
 - The final sections (marked as very preliminary draft) have to be rewritten from
   scratch.
 
-In this manual we use the Spivak pronouns ey/em/eir/emself for genre neutral
-third person singular. A more common alternative would be the singular they but
-we found that it adds confusion in lot of sentences.
+In this manual we use the Spivak pronouns ey/em/eir/emself: they work exactly
+like it/it/its/itself but refer to a person, without assuming any other
+attribute. A more common alternative would be the singular they but we found
+that it adds confusion in lot of sentences.
 
 TODO : security rule (but do not call it security rule)
 
@@ -129,10 +131,10 @@ fiction, there is no mechanics, maybe just a note on a sheete to remember that
 the wand was lost.
 ```
 
-To describe the interactions between the people playing to this game, we use
-the concept of "Move". A move has a title written __like this__ and can be a
-protagonist move or a scenarist move. In any case it is just a rule containing a
-trigger text and a result text.
+To describe the interactions between the players, we use the concept of "Move".
+A move has a title written __like this__ and can be a protagonist move or a
+scenarist move. In any case it is just a rule containing a trigger text and a
+result text.
 
 The trigger prescribes when the rule will come into play, while the result
 defines what the people can than add to the fiction, and what is needed to do

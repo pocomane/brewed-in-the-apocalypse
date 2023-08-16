@@ -406,8 +406,10 @@ it from the character sheet.
 # Handle the uncertain - scenarist move
 
 Most of the move are presented in the relative sections for the scenarist and
-the protagonists; however we want discuss in this dedicated section a scenarist move
-that is central for all the game, and quite articulate.
+the protagonists; however we want discuss in this dedicated section a scenarist
+move that is central for all the game, and quite articulate. Note that the
+__Taking action__ protagonist move simply prescribes a new trigger for this
+move, using its default outcomes only.
 
 __Handle the uncertain__ when a protagonist move with the "If you have to roll"
 prescription is triggered, you perform the following steps in order:

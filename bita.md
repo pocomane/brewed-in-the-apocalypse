@@ -2,7 +2,8 @@
 # Brewed in the Apocalypse
 
 This is a role playing game for 3-6 player. One person will play as the
-"Scenarist", while the others will play the "Protagonists".
+"Scenarist", while the others will play the "Protagonists". A variant for
+distributed scenarist responsibility among all the players is present.
 
 To play, you need 2 standard 6-sides dice (2 for each protagonist would be
 better), some white sheets, a pencil and eraser (a pencil for each player would
@@ -668,8 +669,8 @@ scene what they do, and if they stop after a while without triggering any move,
 add to the scene something that give to the protagonist new things to react to.
 You can introduce such complication playing as an NPC.
 
-You can use the same clues of the __Make the worst happen__ , but do not make
-them irrevocable, leave instead to the protagonists the possibility to react.
+Some clues are in the relative section, if you use them, always leave to the
+protagonists the possibility to react.
 
 If you think the situation is already complex, you can do a __Describe the
 scene__ move instead.
@@ -729,21 +730,7 @@ situation".
 
 TODO - explain better "too much time" ??? explain better "perfect opportunity" ?
 
-Here there are some clues:
-
-- Separate them.
-- Put them together.
-- Capture someone.
-- Put someone in a spot or in a high-stakes situation.
-- Take away something from them.
-- Exploit the bad side of something they have.
-- Turn their move back on them.
-- Reveal an inconvenient truth
-- Give them a difficult decision to make.
-- Offer an opportunity, with or without a cost. ???
-- Tell them the requirement and the possible consequences, then ask. ???
-- Announce in-scene badness. ???
-- Announce off-screen badness. ???
+Some clues are in the relative section, if you use them, make them irrevocable.
 
 ```
 TODO : add an example
@@ -788,7 +775,34 @@ not speak or write in it, the language of the elves. Alice, write the tag
 "Understand elven language" on the character sheet.
 ```
 
-# protagonist moves
+# Clues for the scenarist
+
+The scenarist moves need strong creative effort. Here you found some clues to
+use as inspiration when you have do invent something and have no ideas. They are
+quite general, and must be adapted to the situation.  Most of them can be
+declined both as irrevocable evolution, and as possible future troubles.
+
+- Separate them.
+- Put them together.
+- Capture someone.
+- Put someone in a spot or in a high-stakes situation.
+- Take away something from them.
+- Exploit the bad side of something they have.
+- Turn their move back on them.
+- Reveal an inconvenient truth
+- Give them a difficult decision to make.
+- Offer an opportunity, with or without a cost. ???
+- Tell them the requirement and the possible consequences, then ask. ???
+- Announce in-scene badness. ???
+- Announce off-screen badness. ???
+
+TODO : clean-up and better explining
+
+```
+TODO : write examples ???
+```
+
+# Protagonist moves
 
 TODO : add a move to recall memories ?
 
@@ -1198,19 +1212,57 @@ like "On critical success, give award" and "On critical fail, make the __Make
 the worst happen__ still worse". Again, this depend too much on the target
 game, so no ready recipe here neither.
 
-# Master less or Master full
+# Master-less/full variant
 
-THIS SECTION IS IN A VERY PRELIMINARY STAGE, AND NEEDS A LOT OF TESTING.
+TODO : this variant, as it is, was never tested in actual play. TEST IT !
 
-A master less version is being developed. In it there is no a single scenarist,
-but eir role is divided by all the protagonist. So probably a better name
-would be "Masterfull".
+Te game is designed to let the scenarist invent the story during the game,
+without a strong preparation. Since there is no complex plot prepared upfront,
+to be followed and to direct the fiction to, it become quite easy to play the
+game without a single scenarist too.
 
-The basic idea is that the scenarist moves are avaiable to all the
-protagonists, and when the scenarist should act, the first protagonist that pay
-a Scenarist Token can act as the scenarist. The Scenarist Token are collected
-every time your character make a roll (a protagonist can have maximum 5
-scenarist token).
+For such variant, all the players prepare a main character to play during the
+game, so all are protagonist. The role of scenarist is temporary taken by one
+of them according to the following rules. There is no complex design here, they
+try simply to implement the principle of do not let a single player to have a
+discussion with emself, acting both like scenarist and protagonist.
+
+When a protagonist move require the intervention of the scenarist, that player
+will be the voter, and all the other player will be eligible to be scenarist.
+When a scenarist move is triggered, the first to recognize the trigger will be
+the voter, and any player out of the scene will be eligible; in this case a
+player may be contemporary voter and eligible. If all the character are in the
+scene, all are eligible.
+
+Any of the eligible player can say "I will" and continue as scenarist, just
+give the other the time to propose emself if em want to. In case multiple
+player want to be scenarist, take a pause and choose all together who one will
+go. Normally it will be a quick discussion like "I really have a good idea -
+Oh, ok you go".  Otherwise, if no agreement can be found, the voter will choose
+who will be the scenarist.
+
+During the discussion or when choosing who should be the scenarist try to give
+to everyone the same chance to be a scenarist; so if a player clearly did not
+act as scenarist very often, try to favor the latter.
+
+The role of scenarist is very temporary, every time a new move is triggered you
+should change it. However if there is a more or less long sequence of small move,
+all related to a single sequence of actions, you can implicitly keep the same
+scenarist for all of them. Just be sure that anybody can propose a new scenarist
+between the sequence, if ey want.
+
+If you are in this implicit "Long"-time scenarist mode, and If the PC of the
+scenarist is in the scene, ey should act the less possible, ideally ey should
+just follow the others without saying anything or taking initiative, at most ey
+could automatically execute commands from the other players. If at certain
+point the scenarist truly want eir character do something, another scenarist
+should be found first.  Obviously ey can freely play the NPC.
+
+Note: there is no bad if, for example, just two person want to act as scenarist,
+and other two only as protagonist. This system is flexible enough to handle any
+mix of them.
+
+TODO : is the long-time scenarist truly needed ?
 
 # Your World - Playbook
 

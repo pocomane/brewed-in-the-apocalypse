@@ -21,7 +21,7 @@ It is strongly inspired by:
 TODO list:
 
 - Find another word for "Move"? They are different from the pbta ones so it
-  is better to avoid confusion???
+  is better to avoid confusion??? (options: trick, stung, coaction, rule)
 - All the english text must be revised.
 - Rewrite the examples addressing the Character, not the Player
 - Some examples must be written.
@@ -46,12 +46,11 @@ is selected all together. It contains the setting, characters and initial
 scene of the game, and maybe additional rules. We will call it just "Playbook".
 You can use one included in this manual, or an external one.
 
-In the rest we will consider that the players choose a
-standard playbook, with all ready to start playing.  If this limitation seem
-too strong, you can refer to the "Your World" playbook included with this
-manual (practically it helps you to create an original playbook). You can mix
-it also with other playbook, e.g. using it only to generate new characters for
-another selected playbook.
+In the rest we will consider that the players choose a standard playbook, with
+all ready to start playing.  If this limitation seem too strong, you can refer
+to the "Your World" playbook included with this manual (practically it helps
+you to create an original playbook). You can mix it also with other playbook,
+e.g. using it only to generate new characters for another selected playbook.
 
 The playbook contains a short description of the setting; the scenarist should
 read them to the protagonists.  The setting should have been kept compact by
@@ -59,12 +58,12 @@ purpose: the rest should be defined and discovered during the play. However
 some setting may have more lore details, presented at the very beginning as
 prose paragraphs.
 
-Make sure that all the players, have pencils and some
-white sheets of paper to take notes about anything. This is particular
-important for the scenarist to be sure to remember how the important things are
-connected, however these notes have no effects in the mechanics or the fiction.
-The game status that instead have such effects, is kept in the "Protagonist
-sheet" managed by each protagonist.
+Make sure that all the players, have pencils and some white sheets of paper to
+take notes about anything. This is particular important for the scenarist to be
+sure to remember how the important things are connected, however these notes
+have no effects in the mechanics or the fiction.  The game status that instead
+have such effects, is kept in the "Protagonist sheet" managed by each
+protagonist.
 
 Then each protagonist will chose one character from the playbook, and they will copy
 all the information on their character sheet. Like the setting, the characters
@@ -109,9 +108,9 @@ number near it, increasing and decreasing it as needed.
 The game is like a conversation. The protagonists contribute describing what
 their PC do, asking questions, and speaking in character. The scenarist
 describes the scene, the actions of the NPC and what is happening in the game
-world.  Sometime the
-rules of the game will prescribes to do something else to make the story go
-ahead, like dice roll, or asking questions to the people in the real world.
+world.  Sometime the rules of the game will prescribes to do something else to
+make the story go ahead, like dice roll, or asking questions to the people in
+the real world.
 
 We call "Fiction" all what happen in the story, while "Mechanics" are all the
 things that the players need to perform in the real world, and that
@@ -208,10 +207,10 @@ you want to know about. If the scenarist explicitly asked you for some
 particular detail, first give it in the most concise way you can found, than
 you can elaborate it.
 
-Here, since it is a protagonist move, "you" just means "the protagonist". So the protagonist
-have to reply to the "What do you do" telling the action of eir character. There
-is also an option to ask more details, so how you can easily guess now, there
-is this other move for the scenarist:
+Here, since it is a protagonist move, "you" just means "the protagonist". So
+the protagonist have to reply to the "What do you do" telling the action of eir
+character. There is also an option to ask more details, so how you can easily
+guess now, there is this other move for the scenarist:
 
 __Describe some details__ when a protagonist asks to you to better describe some
 details about the current scene, just do it, unless ey is asking for something
@@ -297,8 +296,8 @@ Some moves share common mechanics that would be noisy to explain every times,
 so we describe them once here.
 
 Until now we saw move with trigger in the real world, but it is very common,
-particularly for protagonist moves, to have a move triggered when something happened
-in the fiction.
+particularly for protagonist moves, to have a move triggered when something
+happened in the fiction.
 
 If a move says to trigger another move, skip the trigger condition of the new
 one, and execute the rest of the text. This is a second way every move can be
@@ -446,9 +445,9 @@ so just continue, Bart is successful.
 ```
 
 Similarly, if an action is too much likely to fail, the scenarist should just
-said it is impossible. If the protagonist insist to do it, just decide it is a failure
-and skip the second step.  This "Impossibility" veto must be used judiciously
-and sparingly.
+said it is impossible. If the protagonist insist to do it, just decide it is a
+failure and skip the second step.  This "Impossibility" veto must be used
+judiciously and sparingly.
 
 If the protagonist just continues to speak, skipping or performing a roll contrary
 to what the scenarist thinks is appropriate, the scenarist can stop the action,
@@ -493,8 +492,8 @@ is common to use 1-2-3 traits for all the roll
 
 There are no constraints on which trait the protagonist may select, but after a
 success the scenarist may, and is encouraged to, select one of the used trait.
-The protagonist must tell how that trait helped em to success. If ey is unable to do
-it, the roll became a failure.
+The protagonist must tell how that trait helped em to success. If ey is unable
+to do it, the roll became a failure.
 
 TODO : on failure, the protagonist can select an harm and the scenarist show how it
 make the action fail ???
@@ -535,7 +534,8 @@ described in the section about the other scenarist moves):
 
 - On success, if no outcome text is present or if the situation is not evolved
   enough, make a __Describe the scene__ move with something good for the
-  protagonist; it should give to the protagonist what ey want from the action, if any.
+  protagonist; it should give to the protagonist what ey want from the action,
+  if any.
 - On twist, if no outcome text is present or if the situation is not evolved
   enough, select one item from the twist option list.
 - On a failure, after the execution of a failure text if any, always make
@@ -573,8 +573,8 @@ __Rollback__ - When you think the protagonist should stop telling for any reason
 let em finish instead, or wait that a move is triggered, then, if you still
 think it is necessary, rollback to the critical point and explain why you
 restart from there. Not interrupting the description let you to fully understand
-what the protagonist want to to, and often you will found that there is no reason to
-rollback at all.
+what the protagonist want to to, and often you will found that there is no
+reason to rollback at all.
 
 You are allowd to interrupt only when two or more protagonists start to speak one
 over another; in such case stop them, summarize the situation so far and ask to
@@ -583,8 +583,8 @@ a single protagonist what ey does.
 Moreover, it may happen that a protagonist is making a long description of events
 that you already know you have to rollback. In general, also in such cases the
 right thing to do is to wait ey to finish; however you are allowed to interrupt
-the protagonist if you make it in order to not waste the protagonist time, and after you
-explainded your reasons you give them the possibility to continue eir
+the protagonist if you make it in order to not waste the protagonist time, and
+after you explainded your reasons you give them the possibility to continue eir
 description.
 
 Typically, you have to make a rollback when:
@@ -663,10 +663,10 @@ They may also be just a way to give color to the situation
 how your character is dressed?
 ```
 
-__Tell imminent troubles__ - when you asked to all the protagonists in the scene
-what they do, and if they stop after a while without triggering any move, add
-to the scene something that give to the protagonist new things to react to.  You can
-introduce such complication playing as an NPC.
+__Tell imminent troubles__ - when you asked to all the protagonists in the
+scene what they do, and if they stop after a while without triggering any move,
+add to the scene something that give to the protagonist new things to react to.
+You can introduce such complication playing as an NPC.
 
 You can use the same clues of the __Make the worst happen__ , but do not make
 them irrevocable, leave instead to the protagonists the possibility to react.
@@ -701,9 +701,9 @@ obviously now you need to find another way to reach your destination.
 
 __Assign an harm__ - when you have to assign an harm, chose one or few words
 that represent physical injuries, mental stress, or any other negative
-condition that make sense for the setting; the target protagonist adds such harm to
-eir character sheet.  Obviously the chosen harm must follow by the fiction, ant
-they will cause effects in the fiction.
+condition that make sense for the setting; the target protagonist adds such
+harm to eir character sheet.  Obviously the chosen harm must follow by the
+fiction, ant they will cause effects in the fiction.
 
 The harms may never be used to give a bonus to an action. If it would help the
 protagonists to reach their goals, it is simply ignored.
@@ -751,8 +751,8 @@ TODO : add an example
 
 __Make the characters evolve__ - When it is a calm situation and a quest ended,
 or something important for the plot happened, or when a lot of time passed
-without this move was triggered, you ask ALL the protagonist to trigger __Add a trait__ ,
-When all finished, __Describe a scene__ .
+without this move was triggered, you ask ALL the protagonist to
+trigger __Add a trait__ , When all finished, __Describe a scene__ .
 
 TODO : merge __Add a trait__ with the previous move ?
 
@@ -1011,18 +1011,18 @@ ends.
 ```
 
 __Remove an harm__ - when you make some action that can cure or treat some
-status associated to one or more harm, the scenarist will tell you which
-harms can be potentially removed. If you are not satisfy, you can tell some
-other action the character does instead. If you are satisfied and you have to roll:
+status associated to one or more harm, the scenarist will tell you which harms
+can be potentially removed. If you are not satisfy, you can tell some other
+action the character does instead. If you are satisfied and you have to roll:
 
 - On Success, delete up to 3 related harms
 - On Twist, delete up to 2 related harms
 - On Fail, delete one related harms
 
-__Remove a temporary harm__ - when enough time is passed for a temporary
-harm to be heal, ask to the scenarist, if ey agree, you can remove it. Any
-harm can be temporary if the scenarist decide it can heal on its own over time.
-You can ask in any moment to the scenarist if an harm is temporary.
+__Remove a temporary harm__ - when enough time is passed for a temporary harm
+to be heal, ask to the scenarist, if ey agree, you can remove it. Any harm can
+be temporary if the scenarist decide it can heal on its own over time.  You can
+ask in any moment to the scenarist if an harm is temporary.
 
 ```
 Alice - Anne take Bart on her shoulder and tries to reach the back door.
@@ -1113,10 +1113,10 @@ ways, that may be combined.
 
 When an action is difficult because it can generate serious problems, the
 scenarist may just generate more serious consequences. In extreme cases, the
-scenarist may point it out to the protagonists, asking if they are sure to continue,
-increasing the tension.  If the protagonist agrees and the result is a failure,
-the __Make the worst happen__ may be very very hard. Multiple harms, dying,
-quests forever closed, etc. Also the twist branch could be very bad.
+scenarist may point it out to the protagonists, asking if they are sure to
+continue, increasing the tension.  If the protagonist agrees and the result is
+a failure, the __Make the worst happen__ may be very very hard. Multiple harms,
+dying, quests forever closed, etc. Also the twist branch could be very bad.
 
 ```
 Bob - Bart pulls out the guns...
@@ -1133,23 +1133,23 @@ make a laugh, and said "Oh, come on guys, we have a deal!"
 If the action instead is difficult meaning that the chance are very low, but
 still the scenarist want to give a possibility to the protagonist, ey can
 point out that the action can not be accomplished by a single roll, but the
-protagonist must perform two or more of them. It will be successful only if all the
-rolls are successful or twists, and every twist will throw in a cost to
+protagonist must perform two or more of them. It will be successful only if all
+the rolls are successful or twists, and every twist will throw in a cost to
 pay.  Just one fail and the whole sequence is a fail.
 
 The chain roll, as anything else, must be justified in the fiction. Often this
 means that the scenarist should give a lot of details about the danger of a
 situation, so that each step of the chain is there so overcome one danger.  All
-the details should be known by the protagonists before they have the chance to make
-difficult actions, so the scenarist should continuously add such details in every
-situation ey think the risks are high.
+the details should be known by the protagonists before they have the chance to
+make difficult actions, so the scenarist should continuously add such details
+in every situation ey think the risks are high.
 
 TODO : If ey forgot, ey can add it in a second moment, before the roll, giving
 to the protagonist the possibility to rollback and do something else. !!! NOTE this may
 rollback over other moves!!! It worth ????
 
-Fleast but not last, each step of the chain should ask the protagonist for different
-action respect the other steps.
+Last but not the least, each step of the chain should ask the protagonist for
+different action respect the other steps.
 
 ```
 Alice - Anne tries to blind the dragon with her sword.
@@ -1180,8 +1180,8 @@ hint here.
 
 To use the mechanics with other way of being a GM (the Game Master, that is
 what the Scenarist is after all), just ignore anything about the scenarist or
-protagonist moves the, GM will tell when make a roll, which traits are relevant, when
-delete an harm, etc. according to the target system.
+protagonist moves the, GM will tell when make a roll, which traits are
+relevant, when delete an harm, etc. according to the target system.
 
 Instead, to use the Scenarist system with other mechanics, map the check in
 that system to the three outcome Success, Failure and twist. For example, in a
@@ -1206,10 +1206,11 @@ A master less version is being developed. In it there is no a single scenarist,
 but eir role is divided by all the protagonist. So probably a better name
 would be "Masterfull".
 
-The basic idea is that the scenarist moves are avaiable to all the protagonists, and
-when the scenarist should act, the first protagonist that pay a Scenarist Token can
-act as the scenarist. The Scenarist Token are collected every time your
-character make a roll (a protagonist can have maximum 5 scenarist token).
+The basic idea is that the scenarist moves are avaiable to all the
+protagonists, and when the scenarist should act, the first protagonist that pay
+a Scenarist Token can act as the scenarist. The Scenarist Token are collected
+every time your character make a roll (a protagonist can have maximum 5
+scenarist token).
 
 # Your World - Playbook
 

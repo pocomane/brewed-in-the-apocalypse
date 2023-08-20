@@ -833,17 +833,17 @@ Normally, the scenarist decides if a NPC fails or is successful in taking any
 action. However the protagonists may influence the outcome if the following moves
 are triggered.
 
-__Helping NPCs__ - When you help someone and you have to roll:
+__Help a NPC__ - When you help a NPC to accomplish an action, and you have to roll:
 
-- On success, that person is successful
-- On failure, that person fails. Only one character can help a NPCc, but other
-  may help or hinder you
+- On success, the NPC is successful.
+- On failure, the NPC fails. Only one character can help a NPC, but other
+  may help or hinder you.
 
-__Hindering NPCs__ - When you hinder someone and you have to roll:
+__Hinder a NPC__ - When you hinder a NPC to accomplish an action, you have to roll:
 
-- On success, that person fails
-- On failure, that person is successful. Only one character can hinder a NPCc, but
-  other may help or hinder you
+- On success, the NPC fails.
+- On failure, the NPC is successful. Only one character can hinder a NPC, but
+  other may help or hinder you.
 
 ```
 Scenarist - Nick understand what are you doing here, and escape from the front
@@ -860,22 +860,27 @@ Scenarist - So Nick successfully escape from the door, and pushes Bart, that fal
 down hurting is shoulder on the door frame. Sign "Shoulder pain 1", as harm.
 ```
 
-__Helping PCs__ - When you help someone and you have to roll. You can not
-help someone helping or hindering an PC.  If multiple character are helping,
-add only the maximum value.
+__Help a PC__ - When you help another protagonist to accomplish an action, and
+you have to roll:
 
 - On success, add 2 from the next roll of the PCs.
 - On twist, add 1 from the next roll of the PCs.
 
-__Hindering PCs__ - When you hinder someone and you have to roll:
+You can not help someone helping or hindering an PC.  If multiple character are
+helping, add only the maximum value.
+
+__Hinder a PCs__ - When you hinder another protagonist to accomplish an action,
+and you have to roll:
 
 - On success, subtract 2 from the next roll of the PCs.
 - On twist, subtract 1 from the next roll of the PCs.
  
-The __Hinder PCs__ can be done also when that person is acting against you
-directly (this is the way to represent an opposition roll). You can not hinder
-someone helping or hindering an PC.  If multiple character are hindering,
-subtract only the maximum value.
+You can not hinder someone helping or hindering an PC.  If multiple character are
+hider, subtract only the maximum value.  __Hindering a PC__  that is acting
+against you directly is the way to represent an opposition roll.
+
+Note that a roll may have both the modifier from previous __Help a PC__
+and __Hinder a PC__ moves.
 
 ```
 Alice - Anne is not agree, so she tries to establish herself. For safety she tries
@@ -891,11 +896,11 @@ beforehand what Alice is doing... and I got a success!
 Scenarist - ok, you oppose effectively to Anne, now Alice make a roll with a -2
 malus
 
-Alice - ok, I have one relevant traits. I got 7, plus one, -2, then 6.
+Alice - ok, I have only one relevant trait... and I got a fail.
 
 Scenarist - Well, so Alice reaches the gun but Bart have a good holding and
 pushes her away. Alice does not get hurt but the others did not approve her
-behaviour: write on her sheet Betray 1
+behaviour: write on her sheet the harm "Betray"
 ```
 
 In the following moves, it would be great if the __Make the worst happen__ that

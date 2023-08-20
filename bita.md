@@ -471,14 +471,12 @@ sheet please.
 If you decide to keep the the second step, it is the core "Roll". You briefly
 describes the risks of the situation, and you select the character harms that
 are the relevant for the situation.  Then you ask to the protagonist which are the
-relevant trait and how many Fortune point to spend, between 0 and 2 .  The
-traits represent ability of the character, while the harms negative status, and
-the fortune point is a bonus carryed from previous action; they all are
-described in the protagonist move section.
+relevant trait.  The traits represent ability of the character, while the harms
+negative status; they all are described in the protagonist move section.
 
 Then the protagonist rolls 2 standard 6-side dices, sums the results, adds the
-number of traits and fortune points and subtracts the harms.  The result will
-say which kind of outcome the character will get:
+number of traits and subtracts the harms.  The result will say which kind of
+outcome the character will get:
 
 - With 8 or less  the protagonist get a "Failure" outcome.
 - With 9-10-11    the protagonist get a "Twist" outcome.
@@ -981,16 +979,22 @@ This move applies also when you tray to manipulate, bluff, fast-talk, lie or
 threaten with the violence someone. The reward and the penalty are:
 
 - If the other protagonist refuse, the scenarist will __Assign an harm__ to em
-- If the other protagonist accept, then ey can __Add a fortune point__ two times
+- If the other protagonist accept, then ey can __Change a tag__, that will give
+  a roll bonus.
+
+The tag will be selected by the scenarist before the protagonist choice. The
+tag will be descriptive of the frame in which it is valid, and until in such
+frame will give a +2 bonus to any roll of the character. The scenarist will
+say when the tag have to be removed.
 
 ```
 The situation is the same of the __Sway a NPC__ example, but behind
 the doors there is Anne, the Alice's character. After the roll:
 
 Scenarist - Ok, you got a twist from the roll, you can decide one consequence
-of the Alice decision.  Harm or Fortune points ?
+of the Alice decision.  Harm the "XXX" tag ?
 
-Bob - I will say, that if she agree, she will get two fortune points.
+Bob - I will say, that if she agree, she will get the tag.
 
 Scenarist - Ok, Alice what you do?
 
@@ -1063,15 +1067,6 @@ care about them; I should remove the "Betray 1" harm.
 
 Scenarist - I fully agree, remove it!
 ```
-
-__Add a fortune point__ - when you have to add a fortune point, increase by
-1 the number of fortune point on the character sheet. If you already have
-6 fortune points or more, you do not increment it.
-
-The fortune point can be spent to give you a mechanical bonus to your future
-rolls.
-
-TODO : remove the fortune points ?
 
 __Add a trait__ - when you have to add a trait, add into the trait section of
 your character sheet one or few words that describe a quality, an ability, or a
@@ -1307,12 +1302,11 @@ TODO : add a full example of scenario creation ?
 
 bla bla
 
-For a quick version, the protagonists can just write on their
-character sheetS 8 traits and 2 fortune points.  These can be seen as applying
-8 times the move __Add a trait__ and 2 times __Add a fortune point__ , refer to
-the relevant section for details. We suggest to start selecting and mixing
-traits from the characters in in the playbook. Or at least use them
-as inspiration.
+For a quick version, the protagonists can just write on their character sheet
+8 traits.  These can be seen as applying 8 times the move __Add a trait__,
+refer to the relevant section for details. We suggest to start selecting and
+mixing traits from the characters in in the playbook. Or at least use them as
+inspiration.
 
 ## Creating special moves
 
@@ -1426,7 +1420,7 @@ failure) question from the list. The scenarist will respond to them.
 ```
 
 Another kind of moves are the ones that in the result text mostly performs
-mechanical action like modifing harms, giving fortune point, etc. You can create
+mechanical action like modifing harms, assigning tags, etc. You can create
 such moves if you want to easly push the protagonists in acting according to the
 trigger. But do not exaggerate with these ones since they will not evolve the
 fiction very much, unless you found a good trigger that can feed the story by

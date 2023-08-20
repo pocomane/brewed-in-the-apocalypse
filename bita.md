@@ -1230,39 +1230,36 @@ discussion with emself, acting both like scenarist and protagonist.
 When a protagonist move require the intervention of the scenarist, that player
 will be the voter, and all the other player will be eligible to be scenarist.
 When a scenarist move is triggered, the first to recognize the trigger will be
-the voter, and any player out of the scene will be eligible; in this case a
-player may be contemporary voter and eligible. If all the character are in the
-scene, all are eligible.
+the voter, and any player out of the scene will be eligible. If all the
+character are in the scene, all are eligible. Note that for the scenarist move
+a player may be contemporary voter and eligible
 
-Any of the eligible player can say "I will" and continue as scenarist, just
-give the other the time to propose emself if em want to. In case multiple
-player want to be scenarist, take a pause and choose all together who one will
-go. Normally it will be a quick discussion like "I really have a good idea -
-Oh, ok you go".  Otherwise, if no agreement can be found, the voter will choose
-who will be the scenarist.
+The voter will ask "We need a scenarist", then any of the eligible player can
+say "I will do" and continue as scenarist, just give the other the time to
+propose emself if em want to. In case multiple player want to be scenarist,
+take a pause and choose all together who one will go. Normally it will be a
+quick discussion like "I really have a good idea - Oh, ok you go".  Otherwise,
+if no agreement can be found, the voter will choose who will be the scenarist.
 
 During the discussion or when choosing who should be the scenarist try to give
 to everyone the same chance to be a scenarist; so if a player clearly did not
 act as scenarist very often, try to favor the latter.
 
-The role of scenarist is very temporary, every time a new move is triggered you
-should change it. However if there is a more or less long sequence of small move,
-all related to a single sequence of actions, you can implicitly keep the same
-scenarist for all of them. Just be sure that anybody can propose a new scenarist
-between the sequence, if ey want.
+You can avoid to change the scenarist at each move, implicitly keeping the
+last one, until someone else does not explicitly says "I would like become a
+scenarist".  But keep in mind:
 
-If you are in this implicit "Long"-time scenarist mode, and If the PC of the
-scenarist is in the scene, ey should act the less possible, ideally ey should
-just follow the others without saying anything or taking initiative, at most ey
-could automatically execute commands from the other players. If at certain
-point the scenarist truly want eir character do something, another scenarist
-should be found first.  Obviously ey can freely play the NPC.
+- The right rules are always the ones shown before, this is just a system to
+  speed-up the procedure.
+- When the current scenarist want to do anything as eir PC, ey should drop
+  the role of scenarist; make exceptions only for very simple action, like
+  following the group, or executing a direct command of onother PC.
+
+TODO : is the prevoious long-time scenarist mode truly needed ?
 
 Note: there is no bad if, for example, just two person want to act as scenarist,
 and other two only as protagonist. This system is flexible enough to handle any
 mix of them.
-
-TODO : is the long-time scenarist truly needed ?
 
 # Your World - Playbook
 

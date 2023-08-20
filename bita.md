@@ -1001,13 +1001,17 @@ promise of a job...
  __Taking an advantages__ - when you are doing something to make a future
 action more simple or probable to succeed, explicitly said what action or kind
 of actions you are trying to favor, and you have to roll.
-- On Success the scenarist will ask you do __Change a tag__ to the value 2; the
-  tag will describe the frame in which it is valid; until it is each roll you make
-  will take a +2 bonus; the scenarist will ask you do __Change a tag__ to 0 when
-  it is no more appliable.
+- On Success the scenarist will ask you to add two time the same tag with
+  the __Change a tag__ moves.
+- On Twist the scenarist will askyou to add a tag with the __Change a tag__ move.
+
+The tag will be descriptive of the frame in which it is valid; until it is
+valid you will take a +1 bonus to any roll (+2 if there were two tags). The
+scenarist will ask to you do delete the tags added in this way when you go out
+of the frame of validity.
 
 Note: if the advantage is very circumscribed in time, you may avoid to write it
-and just remember it.
+and just remember to apply the bonus as needed.
 
 ```
 Alice - Anne tries to go on the roof, to get a better view of the situation. In

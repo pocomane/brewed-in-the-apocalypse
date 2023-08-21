@@ -1203,26 +1203,23 @@ of them according to the following rules. There is no complex design here, they
 try simply to implement the principle of do not let a single player to have a
 discussion with emself, acting both like scenarist and protagonist.
 
-When a protagonist move require the intervention of the scenarist, that player
-will be the voter, and all the other player will be eligible to be scenarist.
-When a scenarist move is triggered, the first to recognize the trigger will be
-the voter, and any player out of the scene will be eligible. If all the
-character are in the scene, all are eligible. Note that for the scenarist move
-a player may be contemporary voter and eligible
+When a scenarist is needed (e.g. because required by a protagonist move or
+because a scenarist move was triggered directly), the last protagonist that was
+speaking became the voter, and all the others eligible to be scenarist.
 
 The voter will ask "Who will be the scenarist?", then any of the eligible
 player can say "I will do" and continue as scenarist, just give the other the
 time to propose emself if em want to. In case multiple player want to be
 scenarist, take a pause and choose all together who one will go. Normally it
 will be a quick discussion like "I really have a good idea - Oh, ok you go".
-Otherwise, if no agreement can be found, the voter will choose who will be the
-scenarist.
+Otherwise, if no agreement can be found in short time, like ten second, the
+voter will choose who will be the scenarist between the ones that proposed emself.
 
-During the discussion or when choosing who should be the scenarist try to give
-to everyone the same chance to be a scenarist; so if a player clearly did not
-act as scenarist very often, try to favor the latter.
+When choosing who should be the scenarist try to give to everyone the same
+chance to be a scenarist; so if a player clearly did not act as scenarist very
+often, try to favor the latter.
 
-You can avoid to change the scenarist at each move, implicitly keeping the
+You can avoid to change the scenarist every time, implicitly keeping the
 last one, until someone else does not explicitly says "I would like become a
 scenarist".  But keep in mind:
 
@@ -1237,7 +1234,6 @@ TODO : is the prevoious long-time scenarist mode truly needed ?
 Note: there is no bad if, for example, just two person want to act as scenarist,
 and other two only as protagonist. This system is flexible enough to handle any
 mix of them.
-
 
 # Your World - Playbook
 

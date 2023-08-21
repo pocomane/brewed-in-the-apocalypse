@@ -157,7 +157,7 @@ performed, if any. If a protagonist did not really wanted to trigger the move, t
 scenarist should leave to em the opportunity to rollback and to said something
 else.
 
-# Basic discussion move
+# Discussion move
 
 To gain confidence with the concept of move, we here review some moves that
 probably could be completely omitted as obvious them are. The first one:
@@ -234,13 +234,106 @@ revealed (probably by the scenarist) during this non-regulated discussion.  But
 all of this should be considered to be hypothetical until some move makes
 them happen or reveal them true in the fiction.
 
+Now, let's move to some not-so-trivial moves.
+
+__Rollback__ - When you, the scenarist, think the protagonist should stop telling for any reason,
+let em finish instead, or wait that a move is triggered, then, if you still
+think it is necessary, rollback to the critical point and explain why you
+restart from there. Not interrupting the description let you to fully understand
+what the protagonist want to to, and often you will found that there is no
+reason to rollback at all.
+
+You are allowd to interrupt only when two or more protagonists start to speak one
+over another; in such case stop them, summarize the situation so far and ask to
+a single protagonist what ey does.
+
+Moreover, it may happen that a protagonist is making a long description of events
+that you already know you have to rollback. In general, also in such cases the
+right thing to do is to wait ey to finish; however you are allowed to interrupt
+the protagonist if you make it in order to not waste the protagonist time, and
+after you explainded your reasons you give them the possibility to continue eir
+description.
+
+Typically, you have to make a rollback when:
+
+- the protagonist is telling something impossible.
+- the protagonist misunderstood something in the scene.
+- the protagonist is too vague about the precise actions of the character, and you
+  want em to add more details in order to decide which are the consequences and
+  if some moves are triggered, as well as to decide which traits/harms/tags are
+  involved.
+- the protagonist gives a vague description of what is needed by other moves (like the
+  __Taking an advantage__ move), and, again, you need em to add such details.
+
+In case you have to completely delete something the protagonist told (e.g. the first
+two previews points), always give em a similar alternative.
+
+The rollback can not go over a previous move: you already had the possibility
+to make a rollback exactly when the move was triggered.
+
+TODO : merge with the __Ask what they do__ move !!!!
+
+```
+Scenarist - You managed to enter in the Nick head quarter. You are hidden
+behind a pillar. There is a guard doing the patrol, to the other side of the
+room there is the only door, clearly locked. What do you do?
+Bob - I stunt the guard, then I will use my crowbar to force the door lock, and
+I quickly go out closing the door behind me.
+Scenarist - Ok, you are trying to quickly go out before someone else come in, I
+understand it, but to stunt the guard I think you need to roll. So let's
+rollback to that point, can you explain exactly how you try to do it?
+Bob - Ok, I wait him to pass my hiding place, then go behind him and hit him
+with my crowbar.
+```
+
+```
+Scenarist - You managed to enter in the Nick head quarter. You are hidden
+behind a pillar. There is a guard doing the patrol, to the other side of the
+room there is the only door, clearly locked. What do you do?
+Bob - I stunt the guard, then I will follow the room perimeter looking for
+trap, in the meanwhile, I search for storage box, and...  ... after a couple of
+minutes ...
+Bob - ... moreover I will continue to tighten the bandages...
+Scenarist - Ok, sorry, I have to stop you. If you want you can continue with
+all this description, but I will anticipate you that we have in any case to
+rollback to the guard stunting. You need a roll for it, and you did not give us
+too much detail to decide which the consequences could be.
+```
+
+__Ask to the protagonist__ - when you, the scenarist, are speaking and you
+think it is appropriate, make a question to one or more protagonist, and build
+on there answer in your narration.  Ideally, you should continuously asking
+such question.  You may also About the questions them self: 
+
+They may be provocative to push a reaction
+
+```
+They are after you, do you prepare yourself in some way?
+```
+
+They may be informative to get some prompt to elaborate
+
+```
+You found a truck, or do you think motorcycles are more appropriate?
+```
+
+They may be a direct request to to create a small part of the story or the
+world (very appropriate when the character is supposed to know the situation)
+
+```
+Bart, you are an ex-soldier, how is this barracks made?
+```
+
+They may also be just a way to give color to the situation
+
+```
+how your character is dressed?
+```
+
 # Common move mechanics
 
-TODO: split the section in small parts and move them somewhere else ?? Something
-may bacame a new move ?
-
-Some moves share common mechanics that would be noisy to explain every times,
-so we describe them once here.
+Before going on to more complex moves, let's review some common mechanics that
+would be noisy to explain every times.
 
 Until now we saw move with trigger in the real world, but it is very common,
 particularly for protagonist moves, to have a move triggered when something
@@ -531,102 +624,6 @@ Scenarist - Ok, let's say you are successful anyway. You attach the pump avoidin
 the hot parts. But to do it you have to concentrate very much, and you do not
 notice a bikers who stopped, and now is just behind you. He places an hand
 on your shoulder and turns you toward him, what do you do?
-```
-
-# Other discussion move
-
-__Rollback__ - When you, the scenarist, think the protagonist should stop telling for any reason,
-let em finish instead, or wait that a move is triggered, then, if you still
-think it is necessary, rollback to the critical point and explain why you
-restart from there. Not interrupting the description let you to fully understand
-what the protagonist want to to, and often you will found that there is no
-reason to rollback at all.
-
-You are allowd to interrupt only when two or more protagonists start to speak one
-over another; in such case stop them, summarize the situation so far and ask to
-a single protagonist what ey does.
-
-Moreover, it may happen that a protagonist is making a long description of events
-that you already know you have to rollback. In general, also in such cases the
-right thing to do is to wait ey to finish; however you are allowed to interrupt
-the protagonist if you make it in order to not waste the protagonist time, and
-after you explainded your reasons you give them the possibility to continue eir
-description.
-
-Typically, you have to make a rollback when:
-
-- the protagonist is telling something impossible.
-- the protagonist misunderstood something in the scene.
-- the protagonist is too vague about the precise actions of the character, and you
-  want em to add more details in order to decide which are the consequences and
-  if some moves are triggered, as well as to decide which traits/harms/tags are
-  involved.
-- the protagonist gives a vague description of what is needed by other moves (like the
-  __Taking an advantage__ move), and, again, you need em to add such details.
-
-In case you have to completely delete something the protagonist told (e.g. the first
-two previews points), always give em a similar alternative.
-
-The rollback can not go over a previous move: you already had the possibility
-to make a rollback exactly when the move was triggered.
-
-TODO : merge with the __Ask what they do__ move !!!!
-
-```
-Scenarist - You managed to enter in the Nick head quarter. You are hidden
-behind a pillar. There is a guard doing the patrol, to the other side of the
-room there is the only door, clearly locked. What do you do?
-Bob - I stunt the guard, then I will use my crowbar to force the door lock, and
-I quickly go out closing the door behind me.
-Scenarist - Ok, you are trying to quickly go out before someone else come in, I
-understand it, but to stunt the guard I think you need to roll. So let's
-rollback to that point, can you explain exactly how you try to do it?
-Bob - Ok, I wait him to pass my hiding place, then go behind him and hit him
-with my crowbar.
-```
-
-```
-Scenarist - You managed to enter in the Nick head quarter. You are hidden
-behind a pillar. There is a guard doing the patrol, to the other side of the
-room there is the only door, clearly locked. What do you do?
-Bob - I stunt the guard, then I will follow the room perimeter looking for
-trap, in the meanwhile, I search for storage box, and...  ... after a couple of
-minutes ...
-Bob - ... moreover I will continue to tighten the bandages...
-Scenarist - Ok, sorry, I have to stop you. If you want you can continue with
-all this description, but I will anticipate you that we have in any case to
-rollback to the guard stunting. You need a roll for it, and you did not give us
-too much detail to decide which the consequences could be.
-```
-
-__Ask to the protagonist__ - when you, the scenarist, are speaking and you
-think it is appropriate, make a question to one or more protagonist, and build
-on there answer in your narration.  Ideally, you should continuously asking
-such question.  You may also About the questions them self: 
-
-They may be provocative to push a reaction
-
-```
-They are after you, do you prepare yourself in some way?
-```
-
-They may be informative to get some prompt to elaborate
-
-```
-You found a truck, or do you think motorcycles are more appropriate?
-```
-
-They may be a direct request to to create a small part of the story or the
-world (very appropriate when the character is supposed to know the situation)
-
-```
-Bart, you are an ex-soldier, how is this barracks made?
-```
-
-They may also be just a way to give color to the situation
-
-```
-how your character is dressed?
 ```
 
 # World reaction moves

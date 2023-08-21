@@ -157,12 +157,14 @@ performed, if any. If a protagonist did not really wanted to trigger the move, t
 scenarist should leave to em the opportunity to rollback and to said something
 else.
 
+# Basic discussion moove
+
 To gain confidence with the concept of move, we here review some moves that
 probably could be completely omitted as obvious them are. The first one:
 
-__Describe the scene__ when you have to start the session, you can resume the
-last scene or an older one, or start a completely new one.  You do it telling
-some new event in the scene or reveal some new truth about the
+__Describe the scene__ when you, the scenarist, have to start the session, you
+can resume the last scene or an older one, or start a completely new one.  You
+do it telling some new event in the scene or reveal some new truth about the
 world. Nothing should clearly bring to troubles for the protagonists, neither if it
 is completely ignored by the characters.  However, there may be an opportunity
 for the protagonists: something that can bring to good things for the protagonists if
@@ -172,15 +174,16 @@ without any protagonist action.
 TODO : describe what a "Scene" is, what it means it is "Suspended" or "closed" ???
 
 "When ... session" is the trigger, so the rest, the result text, must be done
-at the beginning of a session. Note that since this is a scenarist move, "You"
-in the text is the scenarist. Here the move just said that the scenarist can
+at the beginning of a session. The move will talk directly to the player, specifying if
+it is the scenarist or a protagonist, so in this example "You" is the
+scenarist. Here the move just said that the scenarist can
 say anything ey like about the fiction, until there are no imminent threats for
 the protagonists. How the discussion is moved to the others? We have the following
 scenarist move:
 
-__Ask what they do__ - when you are speaking and you have nothing
-else to say, ask to one ore more characters in the current scene what they do
-next.
+__Ask what they do__ - when you, the scenarist, are speaking and you have
+nothing else to say, ask to one ore more characters in the current scene what
+they do next.
 
 ```
 Scenarist: Nick try to escape from the backdoor. What do you do?
@@ -198,7 +201,7 @@ So at end of the __Describe the scene__ , when the scenarist has nothing more
 to say, just conclude with "What do you do" ? Then here there is the first
 protagonist move:
 
-__Tell what the character does__ - when the scenarist asks what your character
+__Tell what the character does__ - when the scenarist asks to you, a protagonist, what your character
 does, you tell your character actions, what ey says, feels, etc. You do it also
 when the scenarist asks it to a group your character is member of, no one is
 still speaking, and you find out something interesting to tell.  If there is
@@ -208,12 +211,11 @@ you want to know about. If the scenarist explicitly asked you for some
 particular detail, first give it in the most concise way you can found, than
 you can elaborate it.
 
-Here, since it is a protagonist move, "you" just means "the protagonist". So
-the protagonist have to reply to the "What do you do" telling the action of eir
+So the protagonist have to reply to the "What do you do" telling the action of eir
 character. There is also an option to ask more details, so how you can easily
 guess now, there is this other move for the scenarist:
 
-__Describe some details__ when a protagonist asks to you to better describe some
+__Describe some details__ when a protagonist asks to you, the scenarist, to better describe some
 details about the current scene, just do it, unless ey is asking for something
 eir character is not supposed to know, see or understand. In such cases just
 said "You do not know".
@@ -409,12 +411,12 @@ it from the character sheet.
 
 Most of the move are presented in the relative sections for the scenarist and
 the protagonists; however we want discuss in this dedicated section a scenarist
-move that is central for all the game, and quite articulate. Note that the
-__Taking action__ protagonist move simply prescribes a new trigger for this
+move that is central for all the game, and quite articulate. Note that
+the __Taking action__ protagonist move simply prescribes a new trigger for this
 move, using its default outcomes only.
 
 __Handle the uncertain__ when a protagonist move with the "If you have to roll"
-prescription is triggered, you perform the following steps in order:
+prescription is triggered, you, the scenarist, perform the following steps in order:
 
 1. Decide if you can skip the roll.
 2. Let the protagonist roll with the right modifier.
@@ -568,7 +570,7 @@ on your shoulder and turns you toward him, what do you do?
 
 # Other scenarist moves
 
-__Rollback__ - When you think the protagonist should stop telling for any reason,
+__Rollback__ - When you, the scenarist, think the protagonist should stop telling for any reason,
 let em finish instead, or wait that a move is triggered, then, if you still
 think it is necessary, rollback to the critical point and explain why you
 restart from there. Not interrupting the description let you to fully understand
@@ -632,10 +634,10 @@ rollback to the guard stunting. You need a roll for it, and you did not give us
 too much detail to decide which the consequences could be.
 ```
 
-__Ask to the protagonist__ - when you are speaking and you think it is appropiate,
-make a question to one or more protagonist, and build on theri answer in your
-narration.  Ideally, you should continuously asking such question.  You may
-also About the questions them self: 
+__Ask to the protagonist__ - when you, the scenarist, are speaking and you
+think it is appropriate, make a question to one or more protagonist, and build
+on there answer in your narration.  Ideally, you should continuously asking
+such question.  You may also About the questions them self: 
 
 They may be provocative to push a reaction
 
@@ -662,7 +664,7 @@ They may also be just a way to give color to the situation
 how your character is dressed?
 ```
 
-__Tell imminent troubles__ - when you asked to all the protagonists in the
+__Tell imminent troubles__ - when you, the scenarist, asked to all the protagonists in the
 scene what they do, and if they stop after a while without triggering any move,
 add to the scene something that give to the protagonist new things to react to.
 You can introduce such complication playing as an NPC.
@@ -698,7 +700,7 @@ Fortunately it was not so fast, so you did not get serious injuries. But
 obviously now you need to find another way to reach your destination.
 ```
 
-__Assign an harm__ - when you have to assign an harm, chose one or few words
+__Assign an harm__ - when you, the scenarist, have to assign an harm, chose one or few words
 that represent physical injuries, mental stress, or any other negative
 condition that make sense for the setting; the target protagonist adds such
 harm to eir character sheet.  Obviously the chosen harm must follow by the
@@ -711,8 +713,8 @@ The harms can be removed when something related happen in the fiction, as
 explained in the __Remove an harm__ move.
 
 __Make the worst happen__ when the characters ignore a problematic
-situation for too much time or when they give you the perfect opportunity, you
-can do one of two from the following list
+situation for too much time or when they give you the perfect opportunity, you,
+the scenarist, can do one of two from the following list
 
 - Do an __Assign an harm__ move
 - Add something in the scene that fundamentally changes the situation, for the
@@ -736,7 +738,7 @@ TODO : add an example
 
 __Make the characters evolve__ - When it is a calm situation and a quest ended,
 or something important for the plot happened, or when a lot of time passed
-without this move was triggered, you ask ALL the protagonist to
+without this move was triggered, you, the scenarist, ask ALL the protagonist to
 trigger __Add a trait__ , When all finished, __Describe a scene__ .
 
 TODO : merge __Add a trait__ with the previous move ?
@@ -752,9 +754,9 @@ after this umpteenth murdered.
 
 __Change a tag__ - when the status of a character changes in a way that may
 affect the mechanics or the fiction in the future, and it is not already
-highlighted by a trait or an harm, ask to the protagonist to change a tag on the
-character sheet.  A tag is one or few words that have effects in the fiction, and
-potentially in the mechanics, e.g.:
+highlighted by a trait or an harm, you, the scenarist, ask to the protagonist to
+change a tag on the character sheet.  A tag is one or few words that have
+effects in the fiction, and potentially in the mechanics, e.g.:
 
 - A status, ability, skill, vantage, disadvantage, illness, incapacity, etc, that
   does not follow the mechanics of the traits or the harms, but can still
@@ -809,7 +811,7 @@ fallback for uncertain situations not covered by other moves. Practically you
 can play also with this move alone deleting any other one requiring a roll, but
 other moves will bring colors to the game.
 
-__Taking Action__ - When you take an action that risks failure or
+__Taking Action__ - When you, a protagonist, take an action that risks failure or
 complications, there is no other more specific move, and you have to roll, do
 what the standard outcomes demand in the "Handle the uncertain" section.
 
@@ -831,13 +833,15 @@ Normally, the scenarist decides if a NPC fails or is successful in taking any
 action. However the protagonists may influence the outcome if the following moves
 are triggered.
 
-__Help a NPC__ - When you help a NPC to accomplish an action, and you have to roll:
+__Help a NPC__ - When you, a protagonist, help a NPC to accomplish an action,
+and you have to roll:
 
 - On success, the NPC is successful.
 - On failure, the NPC fails. Only one character can help a NPC, but other
   may help or hinder you.
 
-__Hinder a NPC__ - When you hinder a NPC to accomplish an action, you have to roll:
+__Hinder a NPC__ - When you, a protagonist, hinder a NPC to accomplish an
+action, you have to roll:
 
 - On success, the NPC fails.
 - On failure, the NPC is successful. Only one character can hinder a NPC, but
@@ -858,8 +862,8 @@ Scenarist - So Nick successfully escape from the door, and pushes Bart, that fal
 down hurting is shoulder on the door frame. Sign "Shoulder pain 1", as harm.
 ```
 
-__Help a PC__ - When you help another protagonist to accomplish an action, and
-you have to roll:
+__Help a PC__ - When you, a protagonist, help another protagonist to accomplish
+an action, and you have to roll:
 
 - On success, add 2 from the next roll of the PCs.
 - On twist, add 1 from the next roll of the PCs.
@@ -867,8 +871,8 @@ you have to roll:
 You can not help someone helping or hindering an PC.  If multiple character are
 helping, add only the maximum value.
 
-__Hinder a PCs__ - When you hinder another protagonist to accomplish an action,
-and you have to roll:
+__Hinder a PCs__ - When you, a protagonist, hinder another protagonist to
+accomplish an action, and you have to roll:
 
 - On success, subtract 2 from the next roll of the PCs.
 - On twist, subtract 1 from the next roll of the PCs.
@@ -905,7 +909,7 @@ In the following moves, it would be great if the __Make the worst happen__ that
 the scenarist will do after a failure roll were liked to the question just
 asked. 
 
-__Read a person__ - When in a charged situation you try to get some
+__Read a person__ - When in a charged situation you, a protagonist, try to get some
 information from a person and you have to roll:
 
 - On Success ask the controlling player 3 question from the list
@@ -920,7 +924,8 @@ Questions about the person (the protagonist have to fill the _ before to ask):
 - What does your character wish I’d do? 
 - How could I get your character to _ ?
 
-__Asses the situation__ - When you read a charged situation and you have to roll:
+__Asses the situation__ - When you, a protagonist, read a charged situation and
+you have to roll:
 
 - On Success ask to the scenarist 3 questions from the list
 - On Twist ask to the scenarist 1 question from the list
@@ -938,8 +943,9 @@ Questions about the situation (the protagonist have to fill the _ before to ask)
 
 An example of these moves are already given in the core mechanics sections.
 
-__Sway a NPC__ - When you try to convince someone leveraging something, and you
-have to roll, you tell what you want them to do, you give them a reason, then:
+__Sway a NPC__ - When you, a protagonist, try to convince someone leveraging
+something, and you have to roll, you tell what you want them to do, you give
+them a reason, then:
 
 - On Success, they’ll go along with you, unless or until some fact or action
   betrays the reason you gave them.
@@ -967,7 +973,7 @@ Scenarist - Nick says "A job? I am expensive, Bart, too much for you
 Bob - Bart opens the carry case, putting all the money in front of the peephole
 ```
 
-__Sway a PC__ - When you try to convince someone leveraging something, and you
+__Sway a PC__ - When you, a protagonist, try to convince a PC leveraging something, and you
 have to roll, you tell what you want them to do, you give them a reason, then:
 
 - On Success the other protagonist have to choose to get a reward and do what you
@@ -1037,7 +1043,7 @@ without having to write the tag! I will inform you in any case when the bonus
 ends.
 ```
 
-__Remove an harm__ - when you make some action that can cure or treat some
+__Remove an harm__ - when you, a protagonist, make some action that can cure or treat some
 status associated to one or more harm, the scenarist will tell you which harms
 can be potentially removed. If you are not satisfy, you can tell some other
 action the character does instead. If you are satisfied and you have to roll:
@@ -1047,9 +1053,10 @@ action the character does instead. If you are satisfied and you have to roll:
 - On Fail, delete one related harms
 
 __Remove a temporary harm__ - when enough time is passed for a temporary harm
-to be heal, ask to the scenarist, if ey agree, you can remove it. Any harm can
-be temporary if the scenarist decide it can heal on its own over time.  You can
-ask in any moment to the scenarist if an harm is temporary.
+to be heal, you, a protagonist, ask to the scenarist if you can remove it. If
+ey agree, remove it. Any harm can be temporary if the scenarist decide it can
+heal on its own over time.  You can ask in any moment to the scenarist if an
+harm is temporary.
 
 ```
 Alice - Anne take Bart on her shoulder and tries to reach the back door.
@@ -1068,7 +1075,7 @@ care about them; I should remove the "Betray 1" harm.
 Scenarist - I fully agree, remove it!
 ```
 
-__Add a trait__ - when you have to add a trait, add into the trait section of
+__Add a trait__ - when you, a protagonist, have to add a trait, add into the trait section of
 your character sheet one or few words that describe a quality, an ability, or a
 tendency of the character. If the character had more than 16 traits, one must
 be deleted first.  The new trait that must be linked to other two already in
@@ -1316,8 +1323,8 @@ TODO : better explain the previous sentence.
 
 All the character have the following additional move
 
-__Add a special move__ when you have to add a special move, the scenarist will
-show you a list of moves. Choose one that is not already on your character sheet
+__Add a special move__ when you, a protagonist, have to add a special move, choose
+a move from the list that the scenarist gives you. one that is not already on your character sheet
 and add it to the character sheet.  If the character had more than 6 special
 moves, one must be deleted first. The scenarist may ask you to customize the move.
 
@@ -1353,7 +1360,7 @@ The most simple way to create a new move is just add two or three option to an
 already avaiable move. It will pratically replace the old version.
 
 ```
-__Asses the situation__: when you have to __Asses the situation__ , the following
+__Asses the situation__: when you, a protagonist, have to __Asses the situation__ , the following
 options are avaiable too, other than the original ones
 
 - What here is the greatest/least _ ?
@@ -1391,7 +1398,7 @@ Alice liked the situations where Anne was able to stole things whitout being
 noticed, so when asked to make the character evolve, propose the following
 move to the scenarist:
 
-__Steal from a personal area__: when you are trying to steal something from a
+__Steal from a personal area__: when you, a protagonist, are trying to steal something from a
 personal area of somebody, and you have to roll:
 - On success, you take what you want and the scenarist will tell how you
   discovery something important about the person you are robbering.
@@ -1409,8 +1416,8 @@ may be created, giving two lists, one bad and one good, and letting the protagon
 choosing from one or another based on the kind of result.
 
 ```
-__Feel the engine__ when the character put the hand on the chassis of veicle with
-the engine powered, and ey have to roll: 2 (on success) or 1 (on twist or
+__Feel the engine__ when you, a protagonist, put the hand on the chassis of veicle with
+the engine powered, and you have to roll, make 2 (on success) or 1 (on twist or
 failure) question from the list. The scenarist will respond to them.
 
 - Will this veichle be able to reach _ ?
@@ -1430,8 +1437,9 @@ You can directly refers to other moves in the result text; these kind of moves
 enstabilishes common ways to perform actions.
 
 ```
-__Drink blood__ when you drink the blood from the veins of a living person, you
-can __Remove an harm__ related to a physical wound or stress.
+__Drink blood__ when you, a protagonist, drink the blood from the veins of a
+living person, you can __Remove an harm__ related to a physical wound or
+stress.
 ```
 
 All this means that the characters may ending having different special moves other
@@ -1630,19 +1638,19 @@ bla bla
 
 All the protagonists have the following additional moves:
 
-__Feed yourself__ when the character consumes a ration of food and drink,
+__Feed yourself__ when you, a protagonist, consume a ration of food and drink,
 you can delete up to 2 harm "Hungry". If you do not have such harm, you
 can record "Fed" in the character sheet. If you already have "Fed", you
 do nothing.
 
-__Body need__ when is the keeping time, the scenarist __Assign a harm__
-"Hungry" with value 2 to all the character. The hungry harm affects ALL your
-rolls. If a character has a "Fed" status, do not assign the harm, and just
-delete "fed" from the character sheet. The keeping time is the moment in the
+__Body need__ when is the keeping time, you, the scenarist, __Assign a harm__
+"Hungry" two times to all the character. The hungry harm affects ALL the rolls
+of the PC. If a PC has a "Fed" status, do not assign the harm, and just
+delete the "fed" tag. The keeping time is the moment in the
 day where most of the peoples and animals sleeps. In the real world it would be
 between 3:00 or 4:00 AM.
 
-__KO__ when the sum of your harms is 9 or more, you are knoked out. You can no
+__KO__ when the sum of all harms of the PC you, a protagonist, control is 9 or more, you are knoked out. You can no
 more act as the character until someone heal one or more of your harm, bringing
 the sum under 9. The scenarist __Assign a harm__ "Give help" of value 2 to all
 the other protagonists. This represents the needs to transport the body of the

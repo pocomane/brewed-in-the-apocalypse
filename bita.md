@@ -157,7 +157,7 @@ performed, if any. If a protagonist did not really wanted to trigger the move, t
 scenarist should leave to em the opportunity to rollback and to said something
 else.
 
-# Basic discussion moove
+# Basic discussion move
 
 To gain confidence with the concept of move, we here review some moves that
 probably could be completely omitted as obvious them are. The first one:
@@ -233,62 +233,6 @@ explicitly allowing it.  Also some information about the fiction the may be
 revealed (probably by the scenarist) during this non-regulated discussion.  But
 all of this should be considered to be hypothetical until some move makes
 them happen or reveal them true in the fiction.
-
-# Hosting the game
-
-The scenarist have a crucial role in the creation of the story, so ey
-should follow some sort of guidelines to be sure the experience be somehow
-consistent.  The long term goal of the scenarist is in the following Agendas:
-
-- Play to find out what happens.
-- Describe a world that make sense.
-- Make the PC lives not boring.
-
-TODO : explain them !!!
-
-The first is particular important. The scenarist, is a player to, in the sense
-that ey participates to the game to discover what happen, and what the other
-people will do.  The preparation of big portions of materials is discouraged.
-An interesting prompt from a protagonist should never be ignored to let the story
-follow some predetermined track, unless it is temporary, just to close some
-matter already almost done. For the same reason, the setting should be kept
-initially simple.  More details about the world and the backstory will be
-discovered during the play, defined by the actions of all the players.
-
-Moreover, early in the first session (but for some setting these can
-extend to the whole game), the scenarist should also juggle two additional,
-sometimes conflicting, responsibilities:
-
-- Follow the PCs around, and learn what they are all about.
-- Give the protagonist a sense of what the world is like, and how it operates.
-
-During the game, whatever the scenarist said should follow the following
-Principles:
-
-- Do not play against the protagonists, rather be a fan of their characters: the
-  challenges are not introduced to destroy the characters, but to make they shine.
-- Respect the world you are creating; do not tell incoherent events; a
-  destructive challenge may be introduced because the situation does not make
-  otherwise sense.
-- Be honest with the protagonists: do not withhold information that their
-  character should know, make sure the situation is clear to them, let them
-  behave differently if there was some misunderstanding, etc.
-- With your moves, try to continually push the game forward in interesting
-  ways; new opportunities should be added when a protagonist succeeds in a move, and
-  interesting dilemma should emerge from the twists.
-- Respond to the character actions with challenging circumstances and
-  occasional rewards.
-- Name everyone and everything, and call all by name; particularly address
-  yourself to the characters, not ther controller player.
-- Make your move, but misdirect and never speak its name; you have not to hide
-  what moves you are doing, but present it as naturally arising from the
-  fiction.
-- Create interesting dilemmas, not interesting plots.
-- Think off screen, too.
-
-TODO : Add more detail to the last two (and find the right position in the list) !!!
-
-TODO : make a move to let the protagonist to create part of the world !
 
 # Common move mechanics
 
@@ -407,13 +351,34 @@ Scenarist: ok, you hurt him, but since the knife is very rusty it breaks, delete
 it from the character sheet.
 ```
 
-# Handle the uncertain - scenarist move
+# Roll move
 
-Most of the move are presented in the relative sections for the scenarist and
-the protagonists; however we want discuss in this dedicated section a scenarist
-move that is central for all the game, and quite articulate. Note that
-the __Taking action__ protagonist move simply prescribes a new trigger for this
-move, using its default outcomes only.
+The most basic move that allows interaction is "Taking Action": it is a sort of
+fallback for uncertain situations not covered by other moves. Practically you
+can play also with this move alone deleting any other one requiring a roll, but
+other moves will bring colors to the game.
+
+__Taking Action__ - When you, a protagonist, take an action that risks failure or
+complications, there is no other more specific move, and you have to roll, do
+what the standard outcomes demanded by the __Handle the uncertain__ move.
+
+As you can see it is simply another way to call the __Handle the uncertain__ move
+that we will see soon. We could have merged the two moves, but keeping the former
+separate, let us to recall it at every roll.
+
+```
+Alice - Anne will wait that the librarian go away the deck then she will take
+the book.
+
+Scenarist - Ok, you need a roll to be sure to not be noticed.
+
+Alice - Yes, I will use the traits Agile and Fast... and I got a success.
+
+Scenarist - Ok, a colleague comes to chat with the librarian, and they slowly
+walk to the coffee machine. When they are quite far away, Anne go behind the
+deck and take the book without no one noticing her.  Alice, what Anne does
+next?
+```
 
 __Handle the uncertain__ when a protagonist move with the "If you have to roll"
 prescription is triggered, you, the scenarist, perform the following steps in order:
@@ -568,7 +533,7 @@ notice a bikers who stopped, and now is just behind you. He places an hand
 on your shoulder and turns you toward him, what do you do?
 ```
 
-# Other scenarist moves
+# Other discussion move
 
 __Rollback__ - When you, the scenarist, think the protagonist should stop telling for any reason,
 let em finish instead, or wait that a move is triggered, then, if you still
@@ -663,6 +628,8 @@ They may also be just a way to give color to the situation
 ```
 how your character is dressed?
 ```
+
+# World reaction moves
 
 __Tell imminent troubles__ - when you, the scenarist, asked to all the protagonists in the
 scene what they do, and if they stop after a while without triggering any move,
@@ -775,59 +742,9 @@ not speak or write in it, the language of the elves. Alice, write the tag
 "Understand elven language" on the character sheet.
 ```
 
-# Clues for the scenarist
-
-The scenarist moves need strong creative effort. Here you found some clues to
-use as inspiration when you have do invent something and have no ideas. They are
-quite general, and must be adapted to the situation.  Most of them can be
-declined both as irrevocable evolution, and as possible future troubles.
-
-- Separate them.
-- Put them together.
-- Capture someone.
-- Put someone in a spot or in a high-stakes situation.
-- Take away something from them.
-- Exploit the bad side of something they have.
-- Turn their move back on them.
-- Reveal an inconvenient truth
-- Give them a difficult decision to make.
-- Offer an opportunity, with or without a cost. ???
-- Tell them the requirement and the possible consequences, then ask. ???
-- Announce in-scene badness. ???
-- Announce off-screen badness. ???
-
-TODO : clean-up and better explining
-
-```
-TODO : write examples ???
-```
-
-# Protagonist moves
+# Helping and opposition moves
 
 TODO : add a move to recall memories ?
-
-The most basic move that allows interaction is "Taking Action": it is a sort of
-fallback for uncertain situations not covered by other moves. Practically you
-can play also with this move alone deleting any other one requiring a roll, but
-other moves will bring colors to the game.
-
-__Taking Action__ - When you, a protagonist, take an action that risks failure or
-complications, there is no other more specific move, and you have to roll, do
-what the standard outcomes demand in the "Handle the uncertain" section.
-
-```
-Alice - Anne will wait that the librarian go away the deck then she will take
-the book.
-
-Scenarist - Ok, you need a roll to be sure to not be noticed.
-
-Alice - Yes, I will use the traits Agile and Fast... and I got a success.
-
-Scenarist - Ok, a colleague comes to chat with the librarian, and they slowly
-walk to the coffee machine. When they are quite far away, Anne go behind the
-deck and take the book without no one noticing her.  Alice, what Anne does
-next?
-```
 
 Normally, the scenarist decides if a NPC fails or is successful in taking any
 action. However the protagonists may influence the outcome if the following moves
@@ -904,44 +821,6 @@ Scenarist - Well, so Alice reaches the gun but Bart have a good holding and
 pushes her away. Alice does not get hurt but the others did not approve her
 behaviour: write on her sheet the harm "Betray"
 ```
-
-In the following moves, it would be great if the __Make the worst happen__ that
-the scenarist will do after a failure roll were liked to the question just
-asked. 
-
-__Read a person__ - When in a charged situation you, a protagonist, try to get some
-information from a person and you have to roll:
-
-- On Success ask the controlling player 3 question from the list
-- On Twist ask the controlling player 1 question from the list
-- On Failure ask the controlling player 1 question from the list
-
-Questions about the person (the protagonist have to fill the _ before to ask):
-
-- Is your character telling the truth? 
-- What’s your character really feeling? 
-- What does your character intend to do
-- What does your character wish I’d do? 
-- How could I get your character to _ ?
-
-__Asses the situation__ - When you, a protagonist, read a charged situation and
-you have to roll:
-
-- On Success ask to the scenarist 3 questions from the list
-- On Twist ask to the scenarist 1 question from the list
-- On Failure ask to the scenarist 1 question from the list
-
-Questions about the situation (the protagonist have to fill the _ before to ask):
-
-- How could we best end quickly?
-- Which enemy is most vulnerable to me? 
-- Which enemy is the biggest threat? 
-- What should I be on the lookout for? 
-- What’s my enemy’s true position? 
-- Who’s in control here? 
-- What here I can use to _ ?
-
-An example of these moves are already given in the core mechanics sections.
 
 __Sway a NPC__ - When you, a protagonist, try to convince someone leveraging
 something, and you have to roll, you tell what you want them to do, you give
@@ -1043,6 +922,46 @@ without having to write the tag! I will inform you in any case when the bonus
 ends.
 ```
 
+# Support moves
+
+In the following moves, it would be great if the __Make the worst happen__ that
+the scenarist will do after a failure roll were liked to the question just
+asked. 
+
+__Read a person__ - When in a charged situation you, a protagonist, try to get some
+information from a person and you have to roll:
+
+- On Success ask the controlling player 3 question from the list
+- On Twist ask the controlling player 1 question from the list
+- On Failure ask the controlling player 1 question from the list
+
+Questions about the person (the protagonist have to fill the _ before to ask):
+
+- Is your character telling the truth? 
+- What’s your character really feeling? 
+- What does your character intend to do
+- What does your character wish I’d do? 
+- How could I get your character to _ ?
+
+__Asses the situation__ - When you, a protagonist, read a charged situation and
+you have to roll:
+
+- On Success ask to the scenarist 3 questions from the list
+- On Twist ask to the scenarist 1 question from the list
+- On Failure ask to the scenarist 1 question from the list
+
+Questions about the situation (the protagonist have to fill the _ before to ask):
+
+- How could we best end quickly?
+- Which enemy is most vulnerable to me? 
+- Which enemy is the biggest threat? 
+- What should I be on the lookout for? 
+- What’s my enemy’s true position? 
+- Who’s in control here? 
+- What here I can use to _ ?
+
+An example of these moves are already given in the core mechanics sections.
+
 __Remove an harm__ - when you, a protagonist, make some action that can cure or treat some
 status associated to one or more harm, the scenarist will tell you which harms
 can be potentially removed. If you are not satisfy, you can tell some other
@@ -1123,6 +1042,89 @@ effect.
 
 Bob agrees, and adds "Understand quickly" as a traits linked to "Smart" and
 "Intelligent"
+```
+
+# Hosting the game
+
+The scenarist have a crucial role in the creation of the story, so ey
+should follow some sort of guidelines to be sure the experience be somehow
+consistent.  The long term goal of the scenarist is in the following Agendas:
+
+- Play to find out what happens.
+- Describe a world that make sense.
+- Make the PC lives not boring.
+
+TODO : explain them !!!
+
+The first is particular important. The scenarist, is a player to, in the sense
+that ey participates to the game to discover what happen, and what the other
+people will do.  The preparation of big portions of materials is discouraged.
+An interesting prompt from a protagonist should never be ignored to let the story
+follow some predetermined track, unless it is temporary, just to close some
+matter already almost done. For the same reason, the setting should be kept
+initially simple.  More details about the world and the backstory will be
+discovered during the play, defined by the actions of all the players.
+
+Moreover, early in the first session (but for some setting these can
+extend to the whole game), the scenarist should also juggle two additional,
+sometimes conflicting, responsibilities:
+
+- Follow the PCs around, and learn what they are all about.
+- Give the protagonist a sense of what the world is like, and how it operates.
+
+During the game, whatever the scenarist said should follow the following
+Principles:
+
+- Do not play against the protagonists, rather be a fan of their characters: the
+  challenges are not introduced to destroy the characters, but to make they shine.
+- Respect the world you are creating; do not tell incoherent events; a
+  destructive challenge may be introduced because the situation does not make
+  otherwise sense.
+- Be honest with the protagonists: do not withhold information that their
+  character should know, make sure the situation is clear to them, let them
+  behave differently if there was some misunderstanding, etc.
+- With your moves, try to continually push the game forward in interesting
+  ways; new opportunities should be added when a protagonist succeeds in a move, and
+  interesting dilemma should emerge from the twists.
+- Respond to the character actions with challenging circumstances and
+  occasional rewards.
+- Name everyone and everything, and call all by name; particularly address
+  yourself to the characters, not ther controller player.
+- Make your move, but misdirect and never speak its name; you have not to hide
+  what moves you are doing, but present it as naturally arising from the
+  fiction.
+- Create interesting dilemmas, not interesting plots.
+- Think off screen, too.
+
+TODO : Add more detail to the last two (and find the right position in the list) !!!
+
+TODO : make a move to let the protagonist to create part of the world !
+
+# Clues for the scenarist
+
+The scenarist moves need strong creative effort. Here you found some clues to
+use as inspiration when you have do invent something and have no ideas. They are
+quite general, and must be adapted to the situation.  Most of them can be
+declined both as irrevocable evolution, and as possible future troubles.
+
+- Separate them.
+- Put them together.
+- Capture someone.
+- Put someone in a spot or in a high-stakes situation.
+- Take away something from them.
+- Exploit the bad side of something they have.
+- Turn their move back on them.
+- Reveal an inconvenient truth
+- Give them a difficult decision to make.
+- Offer an opportunity, with or without a cost. ???
+- Tell them the requirement and the possible consequences, then ask. ???
+- Announce in-scene badness. ???
+- Announce off-screen badness. ???
+
+TODO : clean-up and better explining
+
+```
+TODO : write examples ???
 ```
 
 # Represent the difficulty

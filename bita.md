@@ -703,22 +703,6 @@ Some clues are in the relative section, if you use them, make them irrevocable.
 TODO : add an example
 ```
 
-__Make the characters evolve__ - When it is a calm situation and a quest ended,
-or something important for the plot happened, or when a lot of time passed
-without this move was triggered, you, the scenarist, ask ALL the protagonist to
-trigger __Add a trait__ , When all finished, __Describe a scene__ .
-
-TODO : merge __Add a trait__ with the previous move ?
-
-```
-Scenarist - Ok, Bart you got a success. Not only you manage to hit the man that
-killed your family, but due to your rage and brutal behavior, he is thrown down
-from the tower. You hear a scream, a thud, and nothing else.  This is an
-important step in the story, so all the protagonists can add a trait or a special
-move to eir character sheet. Try to make them coherent with how they feels
-after this umpteenth murdered.
-```
-
 __Change a tag__ - when the status of a character changes in a way that may
 affect the mechanics or the fiction in the future, and it is not already
 highlighted by a trait or an harm, you, the scenarist, ask to the protagonist to
@@ -994,12 +978,17 @@ care about them; I should remove the "Betray 1" harm.
 Scenarist - I fully agree, remove it!
 ```
 
-__Add a trait__ - when you, a protagonist, have to add a trait, add into the trait section of
-your character sheet one or few words that describe a quality, an ability, or a
-tendency of the character. If the character had more than 16 traits, one must
-be deleted first.  The new trait that must be linked to other two already in
-the character sheet, unless it is one of the first 4 of the character.  All the
-trait ever written on a character sheet must be different each other.
+__Add a trait__ - When it is a calm situation and a quest ended,
+or something important for the plot happened, or when a lot of time passed
+without this move was triggered, the scenarist may decide that this is a
+milestone.
+
+In such case, you, a protagonist, add into the trait section of your character
+sheet one or few words that describe a quality, an ability, or a tendency of
+the character. If the character had more than 16 traits, one must be deleted
+first.  The new trait that must be linked to other two already in the character
+sheet, unless it is one of the first 4 of the character.  All the trait ever
+written on a character sheet must be different each other.
 
 The traits will give you a mechanical bonus to any roll when acting according
 to the traits. They should also describe how the character acts in the fiction,
@@ -1013,9 +1002,16 @@ simply ignored.  You can invent completely new traits, just be sure that all
 the other persons at the table are agree on using them.
 
 ```
-Bob chose the first four traits of his character to be "Smart", "Intelligent"
-"Robotics enthusiast" and "Drives anything with an engine".
+Scenarist - Ok, Bart you got a success. Not only you manage to hit the man that
+killed your family, but due to your rage and brutal behavior, he is thrown down
+from the tower. You hear a scream, a thud, and nothing else.  This is an
+important step in the story, so all the protagonists can add a trait or a special
+move to eir character sheet. Try to make them coherent with how they feels
+after this umpteenth murdered.
 ```
+
+ALL the protagonists add the traits together: it never happens that a
+protagonist add a trait and another one does not.
 
 Each protagonist freely select the traits of eir character, but we suggest to
 discuss with all the others to make them not too much generic or specific.
@@ -1031,6 +1027,9 @@ does not came in play in no way.  The other obvious constraint for any trait is
 that it respect the spirit of the setting and the tone of the play.
 
 ```
+Bob chose the first four traits of his character to be "Smart", "Intelligent"
+"Robotics enthusiast" and "Drives anything with an engine".
+
 After the first four traits, Bob want to add "Perfect" likning it with "Smart"
 and "Intelligent"
 
@@ -1319,7 +1318,7 @@ inspiration.
 
 ## Creating special moves
 
-Every time you have to __Add a trait__ you can do a  __Add a special move__ instead.
+Every time you have to __Add a trait__ you can do an __Add a special move__ instead.
 
 TODO : better explain the previous sentence.
 
@@ -1397,7 +1396,7 @@ customization derive from the last actions of the character in the fiction.
 
 ```
 Alice liked the situations where Anne was able to stole things whitout being
-noticed, so when asked to make the character evolve, propose the following
+noticed, so when asked to __Add a trait__, propose the following
 move to the scenarist:
 
 __Steal from a personal area__: when you, a protagonist, are trying to steal something from a

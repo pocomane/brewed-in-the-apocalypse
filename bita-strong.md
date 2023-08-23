@@ -128,8 +128,8 @@ waits outside the train.
 
 __
 
-__Release__ game and ambientation v0.1 released in 2023  under [Creative Common
-0](https://creativecommons.org/share-your-work/public-domain/cc0/)
+__Release__ game and ambientation released in 2023 under [Creative Common
+0](https://creativecommons.org/share-your-work/public-domain/cc0/). Document revision 0.1. 
 
 123456789 123456789 123456789 123456789 1234 678 X 124 6789 1234 6789 123 Y 789 1234 6789
 

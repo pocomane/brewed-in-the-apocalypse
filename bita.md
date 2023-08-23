@@ -19,22 +19,26 @@ It is strongly inspired by:
 - Apocalypse World by D. Vincent Baker and Meguey Baker (2010)
 - Not the End by Claudio Pustorino (2020)
 
-TODO list:
-
-- Find another word for "Move"? They are different from the pbta ones so it
-  is better to avoid confusion??? (options: trick, stunt, coaction, rule)
-- All the english text must be revised.
-- Rewrite the examples addressing the Character, not the Player
-- Some examples must be written.
-- The content must be made more concise in various point.
-- The playbooks must be finished.
-- The final sections (marked as very preliminary draft) have to be rewritten from
-  scratch.
-
 In this manual we use the Spivak pronouns ey/em/eir/emself: they work exactly
 like it/it/its/itself but refer to a person, without assuming any other
 attribute. A more common alternative would be the singular they but we found
 that it adds confusion in lot of sentences.
+
+TODO Find another word for "Move"? They are different from the pbta ones so it
+is better to avoid confusion??? (options: trick, stunt, coaction, rule)
+
+TODO All the english text must be revised.
+
+TODO Rewrite the examples addressing the Character, not the Player
+
+TODO Some examples must be written.
+
+TODO The content must be made more concise in various point.
+
+TODO The playbooks must be finished.
+
+TODO The final sections (marked as very preliminary draft) have to be rewritten from
+scratch.
 
 TODO : security rule (but do not call it security rule)
 
@@ -243,21 +247,12 @@ restart from there. Not interrupting the description let you to fully understand
 what the protagonist want to to, and often you will found that there is no
 reason to rollback at all.
 
-You are allowd to interrupt only when two or more protagonists start to speak one
-over another; in such case stop them, summarize the situation so far and ask to
-a single protagonist what ey does.
-
-Moreover, it may happen that a protagonist is making a long description of events
-that you already know you have to rollback. In general, also in such cases the
-right thing to do is to wait ey to finish; however you are allowed to interrupt
-the protagonist if you make it in order to not waste the protagonist time, and
-after you explainded your reasons you give them the possibility to continue eir
-description.
-
 Typically, you have to make a rollback when:
 
 - the protagonist is telling something impossible.
 - the protagonist misunderstood something in the scene.
+- the protagonist triggered a move without recognize it, an ey continue to speak
+  like the action was a success, but you think this is not the case.
 - the protagonist is too vague about the precise actions of the character, and you
   want em to add more details in order to decide which are the consequences and
   if some moves are triggered, as well as to decide which traits/harms/tags are
@@ -271,7 +266,22 @@ two previews points), always give em a similar alternative.
 The rollback can not go over a previous move: you already had the possibility
 to make a rollback exactly when the move was triggered.
 
-TODO : merge with the __Ask what they do__ move !!!!
+You are allowed to interrupt someone when two or more protagonists start to speak
+one over another; in such case stop them, summarize the situation so far and
+ask to a single protagonist what ey does. You can interrupt a protagonist also if ey
+start to perform a roll and you think it is not necessary, as described in the
+__Face the uncertain__ move. Finally you can interrupt someone if ey is making
+a long description of events that you already know you have to rollback.
+
+In general, the right thing to do is to wait the protagonist to finish talking;
+however you are allowed to interrupt em if you make it in order to not waste
+the eir time, and if after you explained your reasons you give them the
+possibility to continue eir description, if ey want.
+
+TODO : delete the discussion about the interruption? It is just a general good
+etiquette to follow when speaking!
+
+TODO : merge with the __Ask what they do__ move ???
 
 ```
 Scenarist - You managed to enter in the Nick head quarter. You are hidden
@@ -304,6 +314,8 @@ __Ask to the protagonist__ - when you, the scenarist, are speaking and you
 think it is appropriate, make a question to one or more protagonist, and build
 on there answer in your narration.  Ideally, you should continuously asking
 such question.  You may also About the questions them self: 
+
+TODO : better description of "When is appropriate" !!!!
 
 They may be provocative to push a reaction
 
@@ -446,18 +458,21 @@ it from the character sheet.
 
 # Roll move
 
-The most basic move that allows interaction is "Taking Action": it is a sort of
-fallback for uncertain situations not covered by other moves. Practically you
-can play also with this move alone deleting any other one requiring a roll, but
-other moves will bring colors to the game.
+The following move is crucial for all the game. It is a sort of fallback for
+uncertain situations not covered by other moves. Practically you can play also
+with this move alone deleting any other one requiring a roll, but other moves
+will bring colors to the game.
 
-__Taking Action__ - When you, a protagonist, take an action that risks failure or
-complications, there is no other more specific move, and you have to roll, do
-what the standard outcomes demanded by the __Handle the uncertain__ move.
+__Face the uncertain__ - When a protagonist takes an action that risks failure
+or complications, there is no other more specific move, the following steps are
+performed
 
-As you can see it is simply another way to call the __Handle the uncertain__ move
-that we will see soon. We could have merged the two moves, but keeping the former
-separate, let us to recall it at every roll.
+1. The scenarist decides if the roll can be skipped.
+2. The protagonist rolls the dice with the right modifier.
+3. The scenarist tells the consequences.
+
+When this move is called from other ones, the last step is a bit modified to
+account for the outcome text in the other move. We will see it soon.
 
 ```
 Alice - Anne will wait that the librarian go away the deck then she will take
@@ -473,33 +488,38 @@ deck and take the book without no one noticing her.  Alice, what Anne does
 next?
 ```
 
-__Handle the uncertain__ when a protagonist move with the "If you have to roll"
-prescription is triggered, you, the scenarist, perform the following steps in order:
+This move represent a character action whose consequences have some degree
+of uncertainty. This can be because it may generate complications, or because
+it are difficult do accomplish and so may fail.  Let's see the various steps.
 
-1. Decide if you can skip the roll.
-2. Let the protagonist roll with the right modifier.
-3. Wait the protagonist does what the move demands.
-4. Tell the consequences.
-
-This kind of moves represent character actions whose consequences have some degree
-of uncertainty. This can be because they may generate complications, or because
-they are difficult do accomplish and so may fail.  Let's see the various steps.
-
-First, sometimes the uncertain can be ignored, and so you can skip the rest of
-the move. The most simple reason for this is that an action is actually simple
-to accomplish or very likely to be successful considering fictional
-positioning.  In this case you can decide it is a success and skip the second
-step.  Do the same if the consequences of a failure are not interesting at all.
+First, sometimes the uncertain can be ignored, and the scenarist can decide to
+skip the second step of the move. The most simple reason for this is that an
+action is actually simple to accomplish or very likely to be successful
+considering fictional positioning.  In this case you can decide it is a success
+and skip the second step.  Do the same if the consequences of a failure are not
+interesting at all. If a protagonist continue to speak assuming that an action
+is automatically successful, and the scenarist agrees on this, let em continue:
+normally should be the scenarist to tell how the action was successful (with
+a __Describe the scene__, as we will see soon), but for such cases probably the
+protagonist alredy added all what was needed.
 
 ```
-Bob: Bart want to go upstairs, this is __Taking Action__, do I have to make a check?
+Bob: Bart takes the glass and drink a sip of water.
+
+The scenarist does not interrupt Bob to said "Yes you got the glass", probably
+ey thinks it is simple too.
+```
+
+```
+Bob: Bart want to get the glass on top shelf, is this __Face the uncertain__? Do
+I have to make a check?
 
 Scenarist: No, he is healthy, neither tired, he can not fail!
 ```
 
 ```
-Bob - Bart is going to drink the glass of water, but he have a hand wounds, it
-is a __Taking Action__, and it may fails, so I have to make a check?
+Bob - Bart is going to drink the glass of water, but he have a hand wounds; I
+have to make a check?
 
 Scenarist: well, also if he fails, I do not see any interesting consequences...
 so just continue, Bart is successful.
@@ -509,10 +529,6 @@ Similarly, if an action is too much likely to fail, the scenarist should just
 said it is impossible. If the protagonist insist to do it, just decide it is a
 failure and skip the second step.  This "Impossibility" veto must be used
 judiciously and sparingly.
-
-If the protagonist just continues to speak, skipping or performing a roll contrary
-to what the scenarist thinks is appropriate, the scenarist can stop the action,
-point out what the protagonist should do.
 
 ```
 Alice: Anne is angry, she want to break the wall with a punch. I use the
@@ -528,9 +544,9 @@ Scenarist: Ok, she fails, and she break her hand, record the harm in the charact
 sheet please.
 ```
 
-If you decide to keep the the second step, it is the core "Roll". You briefly
-describes the risks of the situation, and you select the character harms that
-are the relevant for the situation.  Then you ask to the protagonist which are the
+If the scenarist decides to keep the second step, it is the core "Roll". Ey briefly
+describes the risks of the situation, and ey selects the character harms that
+are the relevant for the situation.  Then the scenarist asks to the protagonist which are the
 relevant trait.  The traits represent ability of the character, while the harms
 negative status; they all are described in the protagonist move section.
 
@@ -557,16 +573,11 @@ to do it, the roll became a failure.
 TODO : on failure, the protagonist can select an harm and the scenarist show how it
 make the action fail ???
 
-Normally, with the 8 initial traits, in every roll you would be able to play 1
-or 2 of them, unless the protagonist is forced to make an action that is completely
+Normally, with the 8 initial traits, in every roll you would be able to play 2
+or 3 of them, unless the protagonist is forced to make an action that is completely
 out of the character.  4 or more traits are played instead during actions for
 which the character have a very good fit. Obviously, in the late game these
 number can increase consistently.
-
-In the third step, if the move contains a text for the selected outcome (both
-the roll one, or the one forced by the scenarist), it is read and what it
-demands is done.  A missing text means that the specific outcome does not
-change the situation.
 
 ```
 Bob - Bart look at the motorcycle engine to understand the problem and to fix
@@ -587,31 +598,39 @@ Scenarist - So Bart quickly understand that the fuel pump was detached, and he
 easily put it in place.
 ```
 
-In the forth and last step, you can add some details that makes the scene
+In the third and last step, the scenarist adds some details that makes the scene
 evolve ( the __Make the worst happen__ and __Tell imminent troubles__ moves are
-described in the section about the other scenarist moves):
+described in other sections):
 
-- On success, if no outcome text is present or if the situation is not evolved
-  enough, make a __Describe the scene__ move with something good for the
-  protagonist; it should give to the protagonist what ey want from the action,
-  if any.
-- On twist, if no outcome text is present or if the situation is not evolved
-  enough, select one item from the twist option list.
-- On a failure, after the execution of a failure text if any, always make
-  a __Make the worst happen__ .
+- On a failure, the scenarist will __Make the worst happen__ .
+- On twist, the scenarist selects one item from the twist option list.
+- On success, the scenarist will __Describe the scene__ giving to the
+  protagonist what ey want, if the situation is not evolved enough, also other
+  opportunities may be added.
+
+When this move is triggered by another one, the outcome texts of the other
+moves should be used, falling back to these ones only if the text for a
+specific result is missing.  Moreover, for the failure outcome, BOTH the texts
+are performed, the one in this move and the one on the other move.
 
 Twist option list:
 
-- Do what the failure text demands, if any, then do a __Describe the scene__
-  move with something good for the protagonist; if not failure text is present, the
-  character simply does not get what ey want, but just what was established in
-  the __Describe the scene__ .
-- Do what the success text demands, if any, then do a __Tell imminent troubles__
-  targeting the character of that protagonist, or a group ey is member of.
-- Ask to the protagonist if for em is ok to get a success, but having you making
-  a __Make the worst happen__ ; to convince em you can give more or less details
-  about what it will happen. If the protagonist refuse, select another option,
-  from this list.
+- The scenarist does __Describe the scene__ , without giving to the protagonist
+  what ey want but something else good; in case of trigger from another move,
+  its failure text is performed too, if any.
+- The scenarist does __Describe the scene__, giving to the protagonist what
+  ey want, then the scenarist does a __Tell imminent troubles__ too; in case
+  of trigger from another move, its success text is performed too, if any.
+- Ask to the protagonist if it is ok to get a success, but with a subsequent
+  __Make the worst happen__ ; to convince em the scenarist can give more or
+  less details about what it will happen. If the protagonist refuse, select
+  another option, from this list.
+
+It is not mandatory that the troubles arise directly from the performed action.
+It could often seem natural, and there is nothing bad doing it, but they can be
+also completely new things added to the fiction. Sometimes other moves may seem
+to be equivalent to __Face the uncertain__, but the fact that other moves force
+the scenarist to follow a certain clue is a core difference.
 
 ```
 Scenarist - Bob, you got a twist. Bart quickly understand that the
@@ -631,7 +650,7 @@ on your shoulder and turns you toward him, what do you do?
 __Tell imminent troubles__ - when you, the scenarist, asked to all the protagonists in the
 scene what they do, and if they stop after a while without triggering any move,
 add to the scene something that give to the protagonist new things to react to.
-You can introduce such complication playing as an NPC.
+You can introduce such elements playing as an NPC.
 
 Some clues are in the relative section, if you use them, always leave to the
 protagonists the possibility to react.
@@ -696,8 +715,9 @@ TODO - explain better "too much time" ??? explain better "perfect opportunity" ?
 
 Some clues are in the relative section, if you use them, make them irrevocable.
 
-```
 TODO : add an example
+```
+...
 ```
 
 __Change a tag__ - when the status of a character changes in a way that may
@@ -731,15 +751,14 @@ Normally, the scenarist decides if a NPC fails or is successful in taking any
 action. However the protagonists may influence the outcome if the following moves
 are triggered.
 
-__Help a NPC__ - When you, a protagonist, help a NPC to accomplish an action,
-and you have to roll:
+__Help a NPC__ - When you, a protagonist, help a NPC to accomplish an action, __Face the uncertain__:
 
 - On success, the NPC is successful.
 - On failure, the NPC fails. Only one character can help a NPC, but other
   may help or hinder you.
 
 __Hinder a NPC__ - When you, a protagonist, hinder a NPC to accomplish an
-action, you have to roll:
+action, __Face the uncertain__:
 
 - On success, the NPC fails.
 - On failure, the NPC is successful. Only one character can hinder a NPC, but
@@ -761,7 +780,7 @@ down hurting is shoulder on the door frame. Sign "Shoulder pain 1", as harm.
 ```
 
 __Help a PC__ - When you, a protagonist, help another protagonist to accomplish
-an action, and you have to roll:
+an action, __Face the uncertain__:
 
 - On success, add 2 from the next roll of the PCs.
 - On twist, add 1 from the next roll of the PCs.
@@ -770,7 +789,7 @@ You can not help someone helping or hindering an PC.  If multiple character are
 helping, add only the maximum value.
 
 __Hinder a PCs__ - When you, a protagonist, hinder another protagonist to
-accomplish an action, and you have to roll:
+accomplish an action, __Face the uncertain__:
 
 - On success, subtract 2 from the next roll of the PCs.
 - On twist, subtract 1 from the next roll of the PCs.
@@ -804,8 +823,8 @@ behaviour: write on her sheet the harm "Betray"
 ```
 
 __Sway a NPC__ - When you, a protagonist, try to convince someone leveraging
-something, and you have to roll, you tell what you want them to do, you give
-them a reason, then:
+something, you tell what you want them to do, you give them a reason,
+then __Face the uncertain__:
 
 - On Success, they’ll go along with you, unless or until some fact or action
   betrays the reason you gave them.
@@ -833,8 +852,9 @@ Scenarist - Nick says "A job? I am expensive, Bart, too much for you
 Bob - Bart opens the carry case, putting all the money in front of the peephole
 ```
 
-__Sway a PC__ - When you, a protagonist, try to convince a PC leveraging something, and you
-have to roll, you tell what you want them to do, you give them a reason, then:
+__Sway a PC__ - When you, a protagonist, try to convince a PC leveraging something,
+you tell what you want them to do, you give them a reason,
+then  __Face the uncertain__:
 
 - On Success the other protagonist have to choose to get a reward and do what you
   want, or get penalty and refusing to do it
@@ -870,7 +890,8 @@ promise of a job...
 
  __Taking an advantages__ - when you are doing something to make a future
 action more simple or probable to succeed, explicitly said what action or kind
-of actions you are trying to favor, and you have to roll.
+of actions you are trying to favor,  __Face the uncertain__:
+
 - On Success the scenarist will ask you to add two time the same tag with
   the __Change a tag__ moves.
 - On Twist the scenarist will askyou to add a tag with the __Change a tag__ move.
@@ -910,7 +931,7 @@ the scenarist will do after a failure roll were liked to the question just
 asked. 
 
 __Read a person__ - When in a charged situation you, a protagonist, try to get some
-information from a person and you have to roll:
+information from a person,  __Face the uncertain__:
 
 - On Success ask the controlling player 3 question from the list
 - On Twist ask the controlling player 1 question from the list
@@ -924,8 +945,7 @@ Questions about the person (the protagonist have to fill the _ before to ask):
 - What does your character wish I’d do? 
 - How could I get your character to _ ?
 
-__Asses the situation__ - When you, a protagonist, read a charged situation and
-you have to roll:
+__Asses the situation__ - When you, a protagonist, read a charged situation,  __Face the uncertain__:
 
 - On Success ask to the scenarist 3 questions from the list
 - On Twist ask to the scenarist 1 question from the list
@@ -946,7 +966,7 @@ An example of these moves are already given in the core mechanics sections.
 __Remove an harm__ - when you, a protagonist, make some action that can cure or treat some
 status associated to one or more harm, the scenarist will tell you which harms
 can be potentially removed. If you are not satisfy, you can tell some other
-action the character does instead. If you are satisfied and you have to roll:
+action the character does instead. If you are satisfied, __Face the uncertain__:
 
 - On Success, delete up to 3 related harms
 - On Twist, delete up to 2 related harms
@@ -1119,8 +1139,9 @@ declined both as irrevocable evolution, and as possible future troubles.
 
 TODO : clean-up and better explining
 
-```
 TODO : write examples ???
+```
+...
 ```
 
 # Represent the difficulty
@@ -1192,32 +1213,43 @@ Alice - Actually I like it. OK, LET'S START.
 
 TODO : this variant, as it is, was never tested in actual play. TEST IT !
 
-Te game is designed to let the scenarist invent the story during the game,
-without a strong preparation. Since there is no complex plot prepared upfront,
-to be followed and to direct the fiction to, it become quite easy to play the
-game without a single scenarist too.
-
-For such variant, all the players prepare a main character to play during the
-game, so all are protagonist. The role of scenarist is temporary taken by one
+The game can be played without a single scenarist too.  For such
+variant, all the players prepare a main character to play during the
+game, so all are protagonists. The role of scenarist is temporary taken by one
 of them according to the following rules. There is no complex design here, they
 try simply to implement the principle of do not let a single player to have a
 discussion with emself, acting both like scenarist and protagonist.
 
 When a scenarist is needed (e.g. because required by a protagonist move or
 because a scenarist move was triggered directly), the last protagonist that was
-speaking became the voter, and all the others eligible to be scenarist.
+speaking became the voter, and will ask "Who will be the scenarist?".
 
-The voter will ask "Who will be the scenarist?", then any of the eligible
-player can say "I will do" and continue as scenarist, just give the other the
-time to propose emself if em want to. In case multiple player want to be
-scenarist, take a pause and choose all together who one will go. Normally it
-will be a quick discussion like "I really have a good idea - Oh, ok you go".
-Otherwise, if no agreement can be found in short time, like ten second, the
-voter will choose who will be the scenarist between the ones that proposed emself.
+Any player except the voter can say "I will do" and continue as scenarist, just
+give to all the time to propose emself, if em want to. In case multiple player
+want to be scenarist, the voter will choose who will take the role among the
+ones that proposed emself.  If no one propose emself, the voter can freely
+choose anyone, emself comprised.
+
+Do not apply these rules too strictly: when multiple players propose them self
+as scenarist, or if no one did, make a quickly discussion to decide who will
+go. Use the rules as a mean to cut "Not very quick" discussion, but normally,
+they will be: "Wait, can I do it instead? I really have a good idea - Oh, ok",
+or "No one? Bob I think you could have good ideas. No? Ok, I will try, let's
+see what happen!". The scenarist role should be seen as something "Common" to
+do, since it really is. In fact the game encourages the scenarist, also in the
+common variant, to not prepare a complex story, to follow the flow of the game,
+to invent during the session, to "Play to find out what happen".
 
 When choosing who should be the scenarist try to give to everyone the same
-chance to be a scenarist; so if a player clearly did not act as scenarist very
-often, try to favor the latter.
+chance to play the role; so if a player clearly did not do it very often, try
+to favor the latter. When no one propose emself as scenarist, you can instead
+favor the one that mostly common takes such role, since ey should be the one
+more at ease with such role.
+
+TODO : at the end of the telling the scenarist will say "What do you do?"; how
+ey can act again as player? If there is a "What do we do?", how we assure that
+the scenarist does not start acting as protagonist just after being scenarist?
+Is a rule like "Ey must wait someone else speak first" enough?
 
 You can avoid to change the scenarist every time, implicitly keeping the
 last one, until someone else does not explicitly says "I would like become a
@@ -1364,9 +1396,10 @@ options are avaiable too, other than the original ones
 The protagonist may fill the _ before writing the moves on the character sheet.
 ```
 
-The general schema of new moves with rolls is "When [trigger text] then ask to
-roll; on success [succes text]; on twist [compormise text]; on failure
-[failure text].". Here there are some consideration about the various part.
+The general schema of new moves with rolls is "When [trigger text]
+then __Face the uncertain__: on success [succes text]; on twist [compormise
+text]; on failure [failure text].". Here there are some consideration about the
+various part.
 
 The trigger text should not be too much specific or general, while at least the
 success text should give something that the protagonist can not be sure to obtain
@@ -1380,7 +1413,7 @@ Moreover the result text needs to have creative clue to make the situation
 change: a success/twist text that just said "You did it" should be avoid.
 The __Tell the consequences__ is a sort of safety net to let the story go on,
 but a move that relay on such mechanism only, by itself it is a bad dedigned
-move.  In this sense the success text of the basic __Taking action__ move is
+move.  In this sense the success text of the basic __Face the uncertain__ move is
 exactly what you should NOT do in a good move. That move is like that just
 because it needs to be a fallback for cases where not other moves are avaiable.
 
@@ -1393,7 +1426,8 @@ noticed, so when asked to __Add a trait__, propose the following
 move to the scenarist:
 
 __Steal from a personal area__: when you, a protagonist, are trying to steal something from a
-personal area of somebody, and you have to roll:
+personal area of somebody,  __Face the uncertain__:
+
 - On success, you take what you want and the scenarist will tell how you
   discovery something important about the person you are robbering.
 - On Twist, you did not get what you want, but you still discover
@@ -1411,7 +1445,7 @@ choosing from one or another based on the kind of result.
 
 ```
 __Feel the engine__ when you, a protagonist, put the hand on the chassis of veicle with
-the engine powered, and you have to roll, make 2 (on success) or 1 (on twist or
+the engine powered, __Face the uncertain__: make 2 (on success) or 1 (on twist or
 failure) question from the list. The scenarist will respond to them.
 
 - Will this veichle be able to reach _ ?

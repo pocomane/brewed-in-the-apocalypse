@@ -178,11 +178,11 @@ without any protagonist action.
 TODO : describe what a "Scene" is, what it means it is "Suspended" or "closed" ???
 
 "When ... session" is the trigger, so the rest, the result text, must be done
-at the beginning of a session. The move will talk directly to the player, specifying if
-it is the scenarist or a protagonist, so in this example "You" is the
-scenarist. Here the move just said that the scenarist can
-say anything ey like about the fiction, until there are no imminent threats for
-the protagonists. How the discussion is moved to the others? We have the following
+at the beginning of a session. The move will talk directly to the player,
+specifying if it is the scenarist or a protagonist, so in this example "You" is
+the scenarist. Here the move just said that the scenarist can say anything ey
+like about the fiction, until there are no imminent threats for the
+protagonists. How the discussion is moved to the others? We have the following
 scenarist move:
 
 __Ask what they do__ - when you, the scenarist, are speaking and you have
@@ -205,15 +205,15 @@ So at end of the __Describe the scene__ , when the scenarist has nothing more
 to say, just conclude with "What do you do" ? Then here there is the first
 protagonist move:
 
-__Tell what the character does__ - when the scenarist asks to you, a protagonist, what your character
-does, you tell your character actions, what ey says, feels, etc. You do it also
-when the scenarist asks it to a group your character is member of, no one is
-still speaking, and you find out something interesting to tell.  If there is
-something not clear in scene or that you think is interesting to know about,
-ask it to the scenarist. Ask also if your actions bring you to a new situation
-you want to know about. If the scenarist explicitly asked you for some
-particular detail, first give it in the most concise way you can found, than
-you can elaborate it.
+__Tell what the character does__ - when the scenarist asks to you, a
+protagonist, what your character does, you tell your character actions, what ey
+says, feels, etc. You do it also when the scenarist asks it to a group your
+character is member of, no one is still speaking, and you find out something
+interesting to tell.  If there is something not clear in scene or that you
+think is interesting to know about, ask it to the scenarist. Ask also if your
+actions bring you to a new situation you want to know about. If the scenarist
+explicitly asked you for some particular detail, first give it in the most
+concise way you can found, than you can elaborate it.
 
 So the protagonist have to reply to the "What do you do" telling the action of eir
 character. There is also an option to ask more details, so how you can easily
@@ -624,7 +624,7 @@ Twist option list:
   text, but with a subsequent __Make the worst happen__ ; if the protagonist
   refuse, select another option, from this list. To convince the protagonist,
   more or less details may be reveled about what will happen in the next move.
- 
+
 It is not mandatory that the troubles arise directly from the performed action.
 It could often seem natural, and there is nothing bad doing it, but they can be
 also completely new things added to the fiction. Sometimes other moves may seem

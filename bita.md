@@ -9,7 +9,7 @@ To play, you need 2 standard 6-sides dice (2 for each protagonist would be
 better), some white sheets, a pencil and eraser (a pencil for each player would
 be better).
 
-Brewed in the Apocalypse - revision 0.1.
+Brewed in the Apocalypse - revision 0.2.
 
 This work is released in 2023 under the Creative Commons Share Alike [CC BY-SA
 4.0](https://creativecommons.org/licenses/by-sa/4.0) by Mimmo Mane.

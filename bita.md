@@ -287,11 +287,14 @@ TODO : merge with the __Ask what they do__ move ???
 Scenarist - You managed to enter in the Nick head quarter. You are hidden
 behind a pillar. There is a guard doing the patrol, to the other side of the
 room there is the only door, clearly locked. What do you do?
+
 Bob - I stunt the guard, then I will use my crowbar to force the door lock, and
 I quickly go out closing the door behind me.
+
 Scenarist - Ok, you are trying to quickly go out before someone else come in, I
 understand it, but to stunt the guard I think you need to roll. So let's
 rollback to that point, can you explain exactly how you try to do it?
+
 Bob - Ok, I wait him to pass my hiding place, then go behind him and hit him
 with my crowbar.
 ```
@@ -300,10 +303,14 @@ with my crowbar.
 Scenarist - You managed to enter in the Nick head quarter. You are hidden
 behind a pillar. There is a guard doing the patrol, to the other side of the
 room there is the only door, clearly locked. What do you do?
+
 Bob - I stunt the guard, then I will follow the room perimeter looking for
-trap, in the meanwhile, I search for storage box, and...  ... after a couple of
-minutes ...
+trap, in the meanwhile, I search for storage box, and...
+
+... after a couple of minutes ...
+
 Bob - ... moreover I will continue to tighten the bandages...
+
 Scenarist - Ok, sorry, I have to stop you. If you want you can continue with
 all this description, but I will anticipate you that we have in any case to
 rollback to the guard stunting. You need a roll for it, and you did not give us
@@ -464,14 +471,14 @@ with this move alone deleting any other one requiring a roll, but other moves
 will bring colors to the game.
 
 __Face the uncertain__ - When a protagonist takes an action that risks failure
-or complications, there is no other more specific move, the following steps are
-performed
+or complications and there is no other more specific move, the following steps
+are performed:
 
 1. The scenarist decides if the roll can be skipped.
 2. The protagonist rolls the dice with the right modifier.
 3. The scenarist tells the consequences.
 
-When this move is called from other ones, the last step is a bit modified to
+When this move is recalled from other ones, the last step is a bit modified to
 account for the outcome text in the other move. We will see it soon.
 
 ```
@@ -501,7 +508,7 @@ interesting at all. If a protagonist continue to speak assuming that an action
 is automatically successful, and the scenarist agrees on this, let em continue:
 normally should be the scenarist to tell how the action was successful (with
 a __Describe the scene__, as we will see soon), but for such cases probably the
-protagonist alredy added all what was needed.
+protagonist already added all what was needed.
 
 ```
 Bob: Bart takes the glass and drink a sip of water.
@@ -547,8 +554,7 @@ sheet please.
 If the scenarist decides to keep the second step, it is the core "Roll". Ey briefly
 describes the risks of the situation, and ey selects the character harms that
 are the relevant for the situation.  Then the scenarist asks to the protagonist which are the
-relevant trait.  The traits represent ability of the character, while the harms
-negative status; they all are described in the protagonist move section.
+relevant trait.
 
 Then the protagonist rolls 2 standard 6-side dices, sums the results, adds the
 number of traits and subtracts the harms.  The result will say which kind of
@@ -605,27 +611,20 @@ described in other sections):
 - On a failure, the scenarist will __Make the worst happen__ .
 - On twist, the scenarist selects one item from the twist option list.
 - On success, the scenarist will __Describe the scene__ giving to the
-  protagonist what ey want, if the situation is not evolved enough, also other
-  opportunities may be added.
-
-When this move is triggered by another one, the outcome texts of the other
-moves should be used, falling back to these ones only if the text for a
-specific result is missing.  Moreover, for the failure outcome, BOTH the texts
-are performed, the one in this move and the one on the other move.
+  protagonist what ey wanted by eir action, if the situation is not evolved
+  enough, also other opportunities may be added.
 
 Twist option list:
 
 - The scenarist does __Describe the scene__ , without giving to the protagonist
-  what ey want but something else good; in case of trigger from another move,
-  its failure text is performed too, if any.
-- The scenarist does __Describe the scene__, giving to the protagonist what
-  ey want, then the scenarist does a __Tell imminent troubles__ too; in case
-  of trigger from another move, its success text is performed too, if any.
-- Ask to the protagonist if it is ok to get a success, but with a subsequent
-  __Make the worst happen__ ; to convince em the scenarist can give more or
-  less details about what it will happen. If the protagonist refuse, select
-  another option, from this list.
-
+  what ey want from eir action but something else good.
+- What the success text demands is done, then the scenarist does
+  a __Tell imminent troubles__.
+- The scenarist asks to the protagonist if it is ok to execute the success
+  text, but with a subsequent __Make the worst happen__ ; if the protagonist
+  refuse, select another option, from this list. To convince the protagonist,
+  more or less details may be reveled about what will happen in the next move.
+ 
 It is not mandatory that the troubles arise directly from the performed action.
 It could often seem natural, and there is nothing bad doing it, but they can be
 also completely new things added to the fiction. Sometimes other moves may seem
@@ -643,6 +642,24 @@ Scenarist - Ok, let's say you are successful anyway. You attach the pump avoidin
 the hot parts. But to do it you have to concentrate very much, and you do not
 notice a bikers who stopped, and now is just behind you. He places an hand
 on your shoulder and turns you toward him, what do you do?
+```
+
+When this move is triggered by another one, the outcome texts of the other
+moves should be used, falling back to the previous ones only when missing.
+Moreover, for the failure outcome, BOTH the texts are performed, the one in
+this move and the one on the other move (if any).  Finally, the first item of
+the twist list became:
+
+- The failure text of the other move is executed (if any), then the scenarist
+  does __Describe the scene__ , without giving to the protagonist what ey want
+  but something else good.
+
+```
+Bob is using __Help a NPC__ move and got a twist result, but text is missing.
+The scenarist decides to select the first item of the twist list of __Face the uncertaing__.
+The failure move of __Help a NPC__ just said that the NPC fails in the action. Then
+ey __Describe the scene__ telling how the NPC, grateful in any case, gives to
+the protagonist some supplies.
 ```
 
 # World reaction moves
@@ -697,7 +714,7 @@ explained in the __Remove an harm__ move.
 
 __Make the worst happen__ when the characters ignore a problematic
 situation for too much time or when they give you the perfect opportunity, you,
-the scenarist, can do one of two from the following list
+the scenarist, can do one or two from the following list:
 
 - Do an __Assign an harm__ move
 - Add something in the scene that fundamentally changes the situation, for the
@@ -706,8 +723,8 @@ the scenarist, can do one of two from the following list
   to the characters. This can be an event, a character, an object, or simply
   new informations.
 
-You should skip the latter, only when there are already too much problematic
-events to handle in the fiction. The consequences of a
+You should skip the latter when there are already too much problematic events
+to handle in the fiction. The consequences of a
 previous __Tell imminent troubles__ are a perfect example of "Problematic
 situation".
 
@@ -715,9 +732,21 @@ TODO - explain better "too much time" ??? explain better "perfect opportunity" ?
 
 Some clues are in the relative section, if you use them, make them irrevocable.
 
-TODO : add an example
 ```
-...
+Scenarist - the guard are trying to break the door, soon they will enter, what
+do you do?
+
+Alice - I try to bandage the arm wound, using the medical supply we found. Have
+I to roll?
+
+Scenarist - no, you are successful, delete the "Arm wound" harm. Bob?
+
+Bob - Well, I actually do not know... I think I will get closer to Alice to help
+each other with the guard.
+
+Scenarist - Ok, the guards break the door, and they surround you. Are four of
+them. They ask you to surrender and to quietely approach to them to let you get
+tied. What do you do?
 ```
 
 __Change a tag__ - when the status of a character changes in a way that may
@@ -754,15 +783,17 @@ are triggered.
 __Help a NPC__ - When you, a protagonist, help a NPC to accomplish an action, __Face the uncertain__:
 
 - On success, the NPC is successful.
-- On failure, the NPC fails. Only one character can help a NPC, but other
-  may help or hinder you.
+- On failure, the NPC fails.
+
+Only one character can help a NPC, but other may help or hinder you.
 
 __Hinder a NPC__ - When you, a protagonist, hinder a NPC to accomplish an
 action, __Face the uncertain__:
 
 - On success, the NPC fails.
-- On failure, the NPC is successful. Only one character can hinder a NPC, but
-  other may help or hinder you.
+- On failure, the NPC is successful.
+
+Only one character can hinder a NPC, but other may help or hinder you.
 
 ```
 Scenarist - Nick understand what are you doing here, and escape from the front

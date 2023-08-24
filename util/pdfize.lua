@@ -244,6 +244,8 @@ local function make_single_pdf(src, dst, mode)
 
     local ok, st, err = os.execute('weasyprint build/'..dst..'.html build/'..dst..'.pdf')
     if 'exit' ~= st then error(err) end
+
+    --os.execute('cd build && pdfjam --landscape --signature 1 '..dst..'.pdf')
   end
 end
 

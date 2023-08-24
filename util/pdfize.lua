@@ -8,7 +8,7 @@ local common_css = [[
         }
         @font-face {
           font-family: "thefont";
-          src: url(../thefont.ttf) format("truetype");
+          src: url(../util/thefont.ttf) format("truetype");
         }
         ul {
           //list-style-type: none;

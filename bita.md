@@ -226,6 +226,9 @@ __Ask what they do__ - when you, the scenarist, are speaking and you have
 nothing else to say, ask to one ore more characters in the current scene what
 they do next.
 
+TODO : add to the "ask what they do" some indication on how move spotlight
+between protagonists
+
 So at end of the __Describe the scene__ , when the scenarist has nothing more
 to say, just conclude with "What do you do" ? Then here there is the first
 protagonist move:
@@ -295,9 +298,9 @@ to make a rollback exactly when the move was triggered.
 
 You are allowed to interrupt someone when two or more protagonists start to speak
 one over another; in such case stop them, summarize the situation so far and
-ask to a single protagonist what ey does. You can interrupt a protagonist also if ey
+ask to a single protagonist what ey does. You can interrupt a protagonist also if
 start to perform a roll and you think it is not necessary, as described in the
-__Face the uncertain__ move. Finally you can interrupt someone if ey is making
+ey __Face the uncertain__ move. Finally you can interrupt someone if ey is making
 a long description of events that you already know you have to rollback.
 
 In general, the right thing to do is to wait the protagonist to finish talking;
@@ -376,101 +379,113 @@ They may also be just a way to give color to the situation
 how your character is dressed?
 ```
 
-# Common move mechanics
+# World reaction moves
 
-Before going on to more complex moves, let's review some common mechanics that
-would be noisy to explain every times.
+__Tell imminent troubles__ - when you, the scenarist, asked to all the protagonists in the
+scene what they do, and if they stop after a while without triggering any move,
+add to the scene something that give to the protagonist new things to react to.
+You can introduce such elements playing as an NPC.
 
-Until now we saw move with trigger in the real world, but it is very common,
-particularly for protagonist moves, to have a move triggered when something
-happened in the fiction.
+Some clues are in the relative section, if you use them, always leave to the
+protagonists the possibility to react.
 
-Some moves do not imply the time pass in the fiction. If there are some imminent
-deadline, such moves should not be use as justification to let the characters
-miss the deadline. If the characters are speaking to each other, deciding what
-to do, this may let the time pass.
+If you think the situation is already complex, you can do a __Describe the
+scene__ move instead.
+
+TODO - is this enough to handle "Make an __Make the worst happen__ when the
+protagonists hand you the perfect opportunity on a golden plate." (together with
+roll failure) ???
 
 ```
-Scenarist - your hat falls down and the rock wall is quickly descending, what
+Scenarist - you reach the gate, there are three guards watching it, they are
+well equipped. What do you do?
+
+The protagonists starts to talk a little, but they do not have any ideas, so they
+look at the scenarist
+
+Scenarist - Ok, it is a bit suspicious that you are all there doing nothing, so
+one guard leave his position, and slowly approaches to you, looking visibly
+concerned.  What do you do?
+```
+
+```
+The characters are in a bus out of control. They starts to propose each outer
+possible things to do, but no one take an action.
+
+Scenarist - Ok, the time is out: the bus go off road. It crash on a wall.
+Fortunately it was not so fast, so you did not get serious injuries. But
+obviously now you need to find another way to reach your destination.
+```
+
+__Assign an harm__ - when you, the scenarist, have to assign an harm, chose one or few words
+that represent physical injuries, mental stress, or any other negative
+condition that make sense for the setting; the target protagonist adds such
+harm to eir character sheet.  Obviously the chosen harm must follow by the
+fiction, ant they will cause effects in the fiction.
+
+The harms may never be used to give a bonus to an action. If it would help the
+protagonists to reach their goals, it is simply ignored.
+
+The harms can be removed when something related happen in the fiction, as
+explained in the __Remove an harm__ move.
+
+__Make the worst happen__ when the characters ignore a problematic
+situation for too much time or when they give you the perfect opportunity, you,
+the scenarist, can do one or two from the following list:
+
+- Do an __Assign an harm__ move
+- Add something in the scene that fundamentally changes the situation, for the
+  worse. What you add must be irrevocable, i.e. the protagonist can not avoid it
+  reacting in any way, and the new situation should demands new kind of actions
+  to the characters. This can be an event, a character, an object, or simply
+  new informations.
+
+You should skip the latter when there are already too much problematic events
+to handle in the fiction. The consequences of a
+previous __Tell imminent troubles__ are a perfect example of "Problematic
+situation".
+
+TODO - explain better "too much time" ??? explain better "perfect opportunity" ?
+
+Some clues are in the relative section, if you use them, make them irrevocable.
+
+```
+Scenarist - the guard are trying to break the door, soon they will enter, what
 do you do?
 
-Bob - I do not understand, is Bart outside the temple, and is the hat still
-inside?
+Alice - I try to bandage the arm wound, using the medical supply we found. Have
+I to roll?
 
-Scenarist - Yes, however the time is over, so the wall closes...
+Scenarist - no, you are successful, delete the "Arm wound" harm. Bob?
 
-Bob - wait, wait, you were just doing a __Describe some details__ move, there
-was no action involving. The time can not pass!
+Bob - Well, I actually do not know... I think I will get closer to Alice to help
+each other with the guard.
 
-Scenarist - Yes, sorry, you are right. So, what do you do?
+Scenarist - Ok, the guards break the door, and they surround you. Are four of
+them. They ask you to surrender and to quietely approach to them to let you get
+tied. What do you do?
 ```
 
-In general the protagonists can not repeat the same move again and again searching
-for best results. The core check mechanics already discourages this since every
-non-optimal result gives the scenarist the chance to add some trouble for the
-protagonist. However the scenarist should clearly state that it would not result in
-a new roll, since there is no reason that something different happens. The
-scenarist should actually allow another roll only if it is the fiction itself
-that demands for a repetitive action.
+__Change a tag__ - when the status of a character changes in a way that may
+affect the mechanics or the fiction in the future, and it is not already
+highlighted by a trait or an harm, you, the scenarist, ask to the protagonist to
+change a tag on the character sheet.  A tag is one or few words that have
+effects in the fiction, and potentially in the mechanics, e.g.:
+
+- A status, ability, skill, vantage, disadvantage, illness, incapacity, etc, that
+  does not follow the mechanics of the traits or the harms, but can still
+  contribute to the fictional positioning of the character, or may have other
+  mechanics described in the playbook.
+- An object owned and carried on by the character.
+- A knowledge that can be used in specific circumstances by the character.
+
+Changing a tag means adding or removing it, the scenarist decides how the tag
+is changed based on what happened in the fiction.
 
 ```
-Bob - I failed before, but I want try to sway her again.
-
-Scenarist - There is nothing changed in the situation, she will still refuse,
-without a need for a roll.
-```
-
-```
-Alice - I try to hit him again, I hope to kill him this time
-
-Scenarist - Yes, you already wounded his neck, so if you are successful probably
-you will kill him. Make a roll.
-```
-
-Some moves makes the protagonists ask questions to the scenarist. Sometimes ey
-already knows the answer, but ey can always change eir mind. After it is
-answered, that become absolutely true in the fiction and the characters will
-know the answer.
-
-Such moves gives to the protagonists a list of questions to choose from.  If they
-ask something not in the list, the scenarist should still give any details the
-character can know, as the __Describe some details__ prescribed.  Then the
-scenarist should highlight that the question is not one in the list, so the
-protagonists can still ask one of them.
-
-```
-The group is in a wild region, and the scenarist has not decided yet if they
-will encounter some beast or a rival faction preparing an ambush. As consequence
-of a move, Alice asks:
-
-Alice - How many enemy outposts are there?
-
-Scenarist - None, there are no obstacles to your sight, except some tall grass,
-so if there was some outposts you would see them. However this question is not in
-the list, I just said what you see, so you can still ask me something in the
-list".
-
-Alice - Which is the biggest threat in the area?
-
-Scenarist - There is something moving in the grass, at 20-25 meters. It passes
-for one moment in a zone with a more sparse vegetation and your character can
-recognize it: is a big feline. It did not mind you, for now...
-```
-
-Some other moves differs if the target is a PC or an NPC, they are presented as
-different moves with PC/NPC in the title.
-
-```
-Bob: Bart shots to Nick.
-
-Scenarist: He can not... look on your character sheet: he does not have a gun
-anymore since he loose it in the previous scene. But you have a rusty knife, if
-you want you can make a roll to try to wound him with it.
-
-Bob agrees to use the knife, than rolls the dices and got a twist.
-
-Scenarist: ok, you hurt him, but since the knife is very rusty it breaks, delete
-it from the character sheet.
+Scenarist - The Eleven Sage blesses Anne. Now her can understand and read, but
+not speak or write in it, the language of the elves. Alice, write the tag
+"Understand elven language" on the character sheet.
 ```
 
 # Roll move
@@ -677,113 +692,69 @@ ey __Describe the scene__ telling how the NPC, grateful in any case, gives to
 the protagonist some supplies.
 ```
 
-# World reaction moves
+# Represent the difficulty
 
-__Tell imminent troubles__ - when you, the scenarist, asked to all the protagonists in the
-scene what they do, and if they stop after a while without triggering any move,
-add to the scene something that give to the protagonist new things to react to.
-You can introduce such elements playing as an NPC.
+There is no mechanic way to represent actions that need the same traits to be
+accomplished, but have different level of difficulty or risky consequences. In
+other world, if the protagonist selects the same traits for two rolls, they have
+have the same probability to be successful, and the same probability to
+generate complication.
 
-Some clues are in the relative section, if you use them, always leave to the
-protagonists the possibility to react.
+However the scenarist can represent the difficulty of an action at least in two
+ways, that may be combined.
 
-If you think the situation is already complex, you can do a __Describe the
-scene__ move instead.
-
-TODO - is this enough to handle "Make an __Make the worst happen__ when the
-protagonists hand you the perfect opportunity on a golden plate." (together with
-roll failure) ???
-
-```
-Scenarist - you reach the gate, there are three guards watching it, they are
-well equipped. What do you do?
-
-The protagonists starts to talk a little, but they do not have any ideas, so they
-look at the scenarist
-
-Scenarist - Ok, it is a bit suspicious that you are all there doing nothing, so
-one guard leave his position, and slowly approaches to you, looking visibly
-concerned.  What do you do?
-```
+When an action is difficult because it can generate serious problems, the
+scenarist may just generate more serious consequences. In extreme cases, the
+scenarist may point it out to the protagonists, asking if they are sure to
+continue, increasing the tension.  If the protagonist agrees and the result is
+a failure, the __Make the worst happen__ may be very very hard. Multiple harms,
+quests forever closed, etc. Also the twist branch could be very bad.
 
 ```
-The characters are in a bus out of control. They starts to propose each outer
-possible things to do, but no one take an action.
+Bob - Bart pulls out the guns to threathen the others, have I to make a roll?
 
-Scenarist - Ok, the time is out: the bus go off road. It crash on a wall.
-Fortunately it was not so fast, so you did not get serious injuries. But
-obviously now you need to find another way to reach your destination.
+Scenarist - Well, yes, if you want you continue, you will, but are you sure? I
+want to be clear, if you
+got a failure, I have to be very very bad. I mean, you are in front of a war lord
+and two of his trusted henchman, Bart could also die in such situation...
+
+Bob - ok, ok, Bart, already has the hands on the guns, but then he cool down,
+make a laugh, and said "Oh, come on guys, we have a deal!"
 ```
 
-__Assign an harm__ - when you, the scenarist, have to assign an harm, chose one or few words
-that represent physical injuries, mental stress, or any other negative
-condition that make sense for the setting; the target protagonist adds such
-harm to eir character sheet.  Obviously the chosen harm must follow by the
-fiction, ant they will cause effects in the fiction.
+If the action instead is difficult meaning that the chance are very low, but
+still the scenarist want to give a possibility to the protagonist, ey can
+point out that the action can not be accomplished by a single roll, but the
+protagonist must perform two or more of them. It will be successful only if all
+the rolls are successful or twists, and every twist will throw in a cost to
+pay.  Just one fail and the whole sequence is a fail.
 
-The harms may never be used to give a bonus to an action. If it would help the
-protagonists to reach their goals, it is simply ignored.
+The chain roll, as anything else, must be justified in the fiction. Often this
+means that the scenarist should give a lot of details about the danger of a
+situation, so that each step of the chain is there to overcome one danger.  All
+the details should be known by the protagonists before they have the chance to
+make difficult actions, so the scenarist should continuously add such details
+in every situation ey think the risks are high.
 
-The harms can be removed when something related happen in the fiction, as
-explained in the __Remove an harm__ move.
+TODO : If ey forgot, ey can add it in a second moment, before the roll, giving
+to the protagonist the possibility to rollback and do something else. !!! NOTE this may
+rollback over other moves!!! It worth ????
 
-__Make the worst happen__ when the characters ignore a problematic
-situation for too much time or when they give you the perfect opportunity, you,
-the scenarist, can do one or two from the following list:
-
-- Do an __Assign an harm__ move
-- Add something in the scene that fundamentally changes the situation, for the
-  worse. What you add must be irrevocable, i.e. the protagonist can not avoid it
-  reacting in any way, and the new situation should demands new kind of actions
-  to the characters. This can be an event, a character, an object, or simply
-  new informations.
-
-You should skip the latter when there are already too much problematic events
-to handle in the fiction. The consequences of a
-previous __Tell imminent troubles__ are a perfect example of "Problematic
-situation".
-
-TODO - explain better "too much time" ??? explain better "perfect opportunity" ?
-
-Some clues are in the relative section, if you use them, make them irrevocable.
+Ideally, each step of the chain should also ask the protagonist for
+different action respect the other steps.
 
 ```
-Scenarist - the guard are trying to break the door, soon they will enter, what
-do you do?
+Alice - Anne tries to blind the dragon with her sword.
 
-Alice - I try to bandage the arm wound, using the medical supply we found. Have
-I to roll?
+Scenarist - You are forgetting the flame and its height. To do it you have first to
+go close to him avoiding the flame, than you have to climb on the dragon's back.
+Then you have to reach the head without falling down. Than you have to hit
+the eye, maybe multiple times. They are at least 4 rolls, if anyone is a
+failure you have to restart... and obviously you can get harms, loose weapons,
+etc, at every stage. Obviously this is just a suggestion, maybe you can find a
+better plan.
 
-Scenarist - no, you are successful, delete the "Arm wound" harm. Bob?
-
-Bob - Well, I actually do not know... I think I will get closer to Alice to help
-each other with the guard.
-
-Scenarist - Ok, the guards break the door, and they surround you. Are four of
-them. They ask you to surrender and to quietely approach to them to let you get
-tied. What do you do?
-```
-
-__Change a tag__ - when the status of a character changes in a way that may
-affect the mechanics or the fiction in the future, and it is not already
-highlighted by a trait or an harm, you, the scenarist, ask to the protagonist to
-change a tag on the character sheet.  A tag is one or few words that have
-effects in the fiction, and potentially in the mechanics, e.g.:
-
-- A status, ability, skill, vantage, disadvantage, illness, incapacity, etc, that
-  does not follow the mechanics of the traits or the harms, but can still
-  contribute to the fictional positioning of the character, or may have other
-  mechanics described in the playbook.
-- An object owned and carried on by the character.
-- A knowledge that can be used in specific circumstances by the character.
-
-Changing a tag means adding or removing it, the scenarist decides how the tag
-is changed based on what happened in the fiction.
-
-```
-Scenarist - The Eleven Sage blesses Anne. Now her can understand and read, but
-not speak or write in it, the language of the elves. Alice, write the tag
-"Understand elven language" on the character sheet.
+Alice - Actually I like it. OK, LET'S START.
 ```
 
 # Helping and opposition moves
@@ -1197,71 +1168,6 @@ TODO : write examples ???
 ...
 ```
 
-# Represent the difficulty
-
-There is no mechanic way to represent actions that need the same traits to be
-accomplished, but have different level of difficulty or risky consequences. In
-other world, if the protagonist selects the same traits for two rolls, they have
-have the same probability to be successful, and the same probability to
-generate complication.
-
-However the scenarist can represent the difficulty of an action at least in two
-ways, that may be combined.
-
-When an action is difficult because it can generate serious problems, the
-scenarist may just generate more serious consequences. In extreme cases, the
-scenarist may point it out to the protagonists, asking if they are sure to
-continue, increasing the tension.  If the protagonist agrees and the result is
-a failure, the __Make the worst happen__ may be very very hard. Multiple harms,
-quests forever closed, etc. Also the twist branch could be very bad.
-
-```
-Bob - Bart pulls out the guns to threathen the others, have I to make a roll?
-
-Scenarist - Well, yes, if you want you continue, you will, but are you sure? I
-want to be clear, if you
-got a failure, I have to be very very bad. I mean, you are in front of a war lord
-and two of his trusted henchman, Bart could also die in such situation...
-
-Bob - ok, ok, Bart, already has the hands on the guns, but then he cool down,
-make a laugh, and said "Oh, come on guys, we have a deal!"
-```
-
-If the action instead is difficult meaning that the chance are very low, but
-still the scenarist want to give a possibility to the protagonist, ey can
-point out that the action can not be accomplished by a single roll, but the
-protagonist must perform two or more of them. It will be successful only if all
-the rolls are successful or twists, and every twist will throw in a cost to
-pay.  Just one fail and the whole sequence is a fail.
-
-The chain roll, as anything else, must be justified in the fiction. Often this
-means that the scenarist should give a lot of details about the danger of a
-situation, so that each step of the chain is there to overcome one danger.  All
-the details should be known by the protagonists before they have the chance to
-make difficult actions, so the scenarist should continuously add such details
-in every situation ey think the risks are high.
-
-TODO : If ey forgot, ey can add it in a second moment, before the roll, giving
-to the protagonist the possibility to rollback and do something else. !!! NOTE this may
-rollback over other moves!!! It worth ????
-
-Ideally, each step of the chain should also ask the protagonist for
-different action respect the other steps.
-
-```
-Alice - Anne tries to blind the dragon with her sword.
-
-Scenarist - You are forgetting the flame and its height. To do it you have first to
-go close to him avoiding the flame, than you have to climb on the dragon's back.
-Then you have to reach the head without falling down. Than you have to hit
-the eye, maybe multiple times. They are at least 4 rolls, if anyone is a
-failure you have to restart... and obviously you can get harms, loose weapons,
-etc, at every stage. Obviously this is just a suggestion, maybe you can find a
-better plan.
-
-Alice - Actually I like it. OK, LET'S START.
-```
-
 # Master-less/full variant
 
 TODO : this variant, as it is, was never tested in actual play. TEST IT !
@@ -1320,6 +1226,103 @@ TODO : is the prevoious long-time scenarist mode truly needed ?
 Note: there is no bad if, for example, just two person want to act as scenarist,
 and other two only as protagonist. This system is flexible enough to handle any
 mix of them.
+
+# Details on the working of the moves
+
+The moves tend to share some details that may be not so obvious, so we explain
+them here, instead of disseminate these information in the text.
+
+Until now we saw move with trigger in the real world, but it is very common,
+particularly for protagonist moves, to have a move triggered when something
+happened in the fiction.
+
+Some moves do not imply the time pass in the fiction. If there are some imminent
+deadline, such moves should not be use as justification to let the characters
+miss the deadline. If the characters are speaking to each other, deciding what
+to do, this may let the time pass.
+
+```
+Scenarist - your hat falls down and the rock wall is quickly descending, what
+do you do?
+
+Bob - I do not understand, is Bart outside the temple, and is the hat still
+inside?
+
+Scenarist - Yes, however the time is over, so the wall closes...
+
+Bob - wait, wait, you were just doing a __Describe some details__ move, there
+was no action involving. The time can not pass!
+
+Scenarist - Yes, sorry, you are right. So, what do you do?
+```
+
+In general the protagonists can not repeat the same move again and again searching
+for best results. The core check mechanics already discourages this since every
+non-optimal result gives the scenarist the chance to add some trouble for the
+protagonist. However the scenarist should clearly state that it would not result in
+a new roll, since there is no reason that something different happens. The
+scenarist should actually allow another roll only if it is the fiction itself
+that demands for a repetitive action.
+
+```
+Bob - I failed before, but I want try to sway her again.
+
+Scenarist - There is nothing changed in the situation, she will still refuse,
+without a need for a roll.
+```
+
+```
+Alice - I try to hit him again, I hope to kill him this time
+
+Scenarist - Yes, you already wounded his neck, so if you are successful probably
+you will kill him. Make a roll.
+```
+
+Some moves makes the protagonists ask questions to the scenarist. Sometimes ey
+already knows the answer, but ey can always change eir mind. After it is
+answered, that become absolutely true in the fiction and the characters will
+know the answer.
+
+Such moves gives to the protagonists a list of questions to choose from.  If they
+ask something not in the list, the scenarist should still give any details the
+character can know, as the __Describe some details__ prescribed.  Then the
+scenarist should highlight that the question is not one in the list, so the
+protagonists can still ask one of them.
+
+```
+The group is in a wild region, and the scenarist has not decided yet if they
+will encounter some beast or a rival faction preparing an ambush. As consequence
+of a move, Alice asks:
+
+Alice - How many enemy outposts are there?
+
+Scenarist - None, there are no obstacles to your sight, except some tall grass,
+so if there was some outposts you would see them. However this question is not in
+the list, I just said what you see, so you can still ask me something in the
+list".
+
+Alice - Which is the biggest threat in the area?
+
+Scenarist - There is something moving in the grass, at 20-25 meters. It passes
+for one moment in a zone with a more sparse vegetation and your character can
+recognize it: is a big feline. It did not mind you, for now...
+```
+
+Some other moves differs if the target is a PC or an NPC, they are presented as
+different moves with PC/NPC in the title.
+
+```
+Bob: Bart shots to Nick.
+
+Scenarist: He can not... look on your character sheet: he does not have a gun
+anymore since he loose it in the previous scene. But you have a rusty knife, if
+you want you can make a roll to try to wound him with it.
+
+Bob agrees to use the knife, than rolls the dices and got a twist.
+
+Scenarist: ok, you hurt him, but since the knife is very rusty it breaks, delete
+it from the character sheet.
+```
 
 # Your World - Playbook
 
@@ -1400,6 +1403,8 @@ inspiration.
 Every time you have to __Add a trait__ you can do an __Add a special move__ instead.
 
 TODO : better explain the previous sentence.
+
+TODO : add suggestion from baker patrons blog ?
 
 All the character have the following additional move
 

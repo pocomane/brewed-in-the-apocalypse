@@ -22,18 +22,18 @@ local common_css = [[
 local standard_css = [[
         @page {
           size: A5;
-          margin-left: 50pt;
-          margin-right: 50pt;
+          margin-left: 70pt;
+          margin-right: 70pt;
           margin-bottom: 50pt;
-          margin-top: 30pt;
+          margin-top: 50pt;
         }
         @page :left {
-          margin-left: 65pt;
-          margin-right: 45pt;
+          margin-left: 70pt;
+          margin-right: 50pt;
         }
         @page :right {
-          margin-left: 45pt;
-          margin-right: 65pt;
+          margin-left: 50pt;
+          margin-right: 70pt;
         }
         body {
           font-family: thefont;

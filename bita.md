@@ -350,7 +350,7 @@ too much detail to decide which the consequences could be.
 __Ask to the protagonist__ - when you, the scenarist, are speaking and you
 think it is appropriate, make a question to one or more protagonist, and build
 on there answer in your narration.  Ideally, you should continuously asking
-such question. About the questions them self: 
+such question. About the questions them self:
 
 TODO : better description of "When is appropriate" !!!!
 
@@ -417,18 +417,6 @@ Fortunately it was not so fast, so you did not get serious injuries. But
 obviously now you need to find another way to reach your destination.
 ```
 
-__Assign an harm__ - when you, the scenarist, have to assign an harm, chose one or few words
-that represent physical injuries, mental stress, or any other negative
-condition that make sense for the setting; the target protagonist adds such
-harm to eir character sheet.  Obviously the chosen harm must follow by the
-fiction, ant they will cause effects in the fiction.
-
-The harms may never be used to give a bonus to an action. If it would help the
-protagonists to reach their goals, it is simply ignored.
-
-The harms can be removed when something related happen in the fiction, as
-explained in the __Remove an harm__ move.
-
 __Make the worst happen__ when the characters ignore a problematic
 situation for too much time or when they give you the perfect opportunity, you,
 the scenarist, can do one or two from the following list:
@@ -486,6 +474,72 @@ is changed based on what happened in the fiction.
 Scenarist - The Eleven Sage blesses Anne. Now her can understand and read, but
 not speak or write in it, the language of the elves. Alice, write the tag
 "Understand elven language" on the character sheet.
+```
+
+__Add a trait__ - When it is a calm situation and a quest ended,
+or something important for the plot happened, or when a lot of time passed
+without this move was triggered, the scenarist may decide that this is a
+milestone.
+
+In such case, every protagonist adds in eir character
+sheet one or few words that describe a quality, an ability, or a tendency of
+the character. If the character had more than 16 traits, one must be deleted
+first.  The new trait that must be linked to other two already in the character
+sheet, unless it is one of the first 4 of the character.  All the trait
+written on a character sheet in a certain moment must be different each other.
+
+The traits will give you a mechanical bonus to any roll when acting according
+to the traits. They should also describe how the character acts in the fiction,
+however two traits may be quite opposite, resulting in a character acting
+against one of them while trying to respect the other.  This is perfectly fine:
+the character have multiple faces and did not have to act always at same way.
+Note that a trait can generate negative effect in the fiction, but it can never
+be used to give a malus during a roll.  Also if it has negative acceptation, it
+will enter in play only if it is useful for the goals, otherwise it will be
+simply ignored.
+
+```
+Scenarist - Ok, Bart you got a success. Not only you manage to hit the man that
+killed your family, but due to your rage and brutal behavior, he is thrown down
+from the tower. You hear a scream, a thud, and nothing else.  This is an
+important step in the story, so all the protagonists can add a trait or a special
+move to eir character sheet. Try to make them coherent with how they feels
+after this umpteenth murdered.
+```
+
+ALL the protagonists add the traits together: it never happens that a
+protagonist add a trait and another one does not.
+
+Each protagonist freely select the traits of eir character from the ones in the
+playbook, or from the other characters. They can also invent completely new
+traits, but in such case all the other players at the table must agree. When
+unsure, players should discuss together to make them not too much generic or
+specific.  Consider that strong stress in a single trait does not means that it
+will give you a strong bonus, just, maybe, that it will be used in a lot of
+situations. And a trait that is always used is not fun to play.
+
+If you really want a strong bonus in some areas, consider to put similar traits
+that will probably always be used together.
+
+The "link" constrain is here just to write traits that are somehow coherent. It
+does not came in play in no way.  The other obvious constraint for any trait is
+that it respect the spirit of the setting and the tone of the play.
+
+```
+Bob chose the first four traits of his character to be "Smart", "Intelligent"
+"Robotics enthusiast" and "Drives anything with an engine".
+
+After the first four traits, Bob want to add "Perfect" likning it with "Smart"
+and "Intelligent"
+
+Alice notes that "Perfect" is too much generic, and also if put in play, it
+will not means that the character will be perfectly successful. She propose to
+change it with "Understand quickly" if he ment it as a boost for the previous
+intellectual traits; also because just linking does not have such mechanical
+effect.
+
+Bob agrees, and adds "Understand quickly" as a traits linked to "Smart" and
+"Intelligent"
 ```
 
 # Roll move
@@ -692,6 +746,56 @@ ey __Describe the scene__ telling how the NPC, grateful in any case, gives to
 the protagonist some supplies.
 ```
 
+# Harm moves
+
+__Assign an harm__ - when you, the scenarist, have to assign an harm, chose one or few words
+that represent physical injuries, mental stress, or any other negative
+condition that make sense for the setting; the target protagonist adds such
+harm to eir character sheet.  Obviously the chosen harm must follow by the
+fiction, ant they will cause effects in the fiction.
+
+The harms may never be used to give a bonus to an action. If it would help the
+protagonists to reach their goals, it is simply ignored.
+
+__Remove a temporary harm__ - when enough time is passed for a temporary harm
+to be heal, the scenarist will ask to delete it from the character sheet.  Any
+harm can be temporary if the scenarist decide it can be healed by its own over
+time.  The protagonist can ask in any moment to the scenarist if an harm is
+temporary, and if it is time to remove it. If an harm is not temporary, the
+next move must be used instead in order to heal it.
+
+__Remove an harm__ - when you, a protagonist, make some action that can cure or treat some
+status associated to one or more harm, the scenarist will tell you which harms
+can be potentially removed. If you are not satisfy, you can tell some other
+action the character does instead. If you are satisfied, __Face the uncertain__:
+
+- On Success, delete up to 3 related harms
+- On Twist, delete up to 2 related harms
+- On Fail, delete one related harms
+
+If on Fail you decide to assign another harm, as allowed by the
+__Face the uncertain__ move, it must be temporary.
+
+```
+Alice - Anne take Bart on her shoulder and tries to reach the back door. What? I
+have to roll? Ok, I have 2 relevant traits... and I got a failure!
+
+Scenarist - So you can not reach the door, and you also get a "Shoulder pain".
+Sign it on the character sheet.
+
+Alice - Ok, but I think that Anne has demonstrated to all the group that she
+care about them; Can I remove the "Betray" harm?
+
+Scenarist - I agree, but it was not a temporary harm, and you are trying to
+"Heal" it demostrating you care of Bart. So I think you have to roll and the
+only harm that may be healed this way is exactly that "Betray". Do you want to
+continue?
+
+Alice - Yes! I have one relevant trait... but I got a twist this time!
+
+Scenarist - Ok, you can heal that harm. Now what do you do?
+```
+
 # Represent the difficulty
 
 There is no mechanic way to represent actions that need the same traits to be
@@ -757,7 +861,7 @@ better plan.
 Alice - Actually I like it. OK, LET'S START.
 ```
 
-# Helping and opposition moves
+# Support moves
 
 TODO : add a move to recall memories ?
 
@@ -812,7 +916,7 @@ accomplish an action, __Face the uncertain__:
 
 - On success, subtract 2 from the next roll of the PCs.
 - On twist, subtract 1 from the next roll of the PCs.
- 
+
 You can not hinder someone helping or hindering an PC.  If multiple character are
 hider, subtract only the maximum value.  __Hindering a PC__  that is acting
 against you directly is the way to represent an opposition roll.
@@ -947,12 +1051,6 @@ without having to write the tag! I will inform you in any case when the bonus
 ends.
 ```
 
-# Support moves
-
-In the following moves, it would be great if the __Make the worst happen__ that
-the scenarist will do after a failure roll were liked to the question just
-asked. 
-
 __Read a person__ - When in a charged situation you, a protagonist, try to get some
 information from a person,  __Face the uncertain__:
 
@@ -962,10 +1060,10 @@ information from a person,  __Face the uncertain__:
 
 Questions about the person (the protagonist have to fill the _ before to ask):
 
-- Is your character telling the truth? 
-- What’s your character really feeling? 
+- Is your character telling the truth?
+- What’s your character really feeling?
 - What does your character intend to do
-- What does your character wish I’d do? 
+- What does your character wish I’d do?
 - How could I get your character to _ ?
 
 __Asses the situation__ - When you, a protagonist, read a charged situation,  __Face the uncertain__:
@@ -977,112 +1075,14 @@ __Asses the situation__ - When you, a protagonist, read a charged situation,  __
 Questions about the situation (the protagonist have to fill the _ before to ask):
 
 - How could we best end quickly?
-- Which enemy is most vulnerable to me? 
-- Which enemy is the biggest threat? 
-- What should I be on the lookout for? 
-- What’s my enemy’s true position? 
-- Who’s in control here? 
+- Which enemy is most vulnerable to me?
+- Which enemy is the biggest threat?
+- What should I be on the lookout for?
+- What’s my enemy’s true position?
+- Who’s in control here?
 - What here I can use to _ ?
 
 An example of these moves are already given in the core mechanics sections.
-
-__Remove an harm__ - when you, a protagonist, make some action that can cure or treat some
-status associated to one or more harm, the scenarist will tell you which harms
-can be potentially removed. If you are not satisfy, you can tell some other
-action the character does instead. If you are satisfied, __Face the uncertain__:
-
-- On Success, delete up to 3 related harms
-- On Twist, delete up to 2 related harms
-- On Fail, delete one related harms
-
-__Remove a temporary harm__ - when enough time is passed for a temporary harm
-to be heal, you, a protagonist, ask to the scenarist if you can remove it. If
-ey agree, remove it. Any harm can be temporary if the scenarist decide it can
-heal on its own over time.  You can ask in any moment to the scenarist if an
-harm is temporary.
-
-```
-Alice - Anne take Bart on her shoulder and tries to reach the back door.
-
-Scenarist - ok, make a roll.
-
-Alice - I have 2 relevant traits... and I got a failure! So, I think I can not
-reach it.
-
-Scenarist - No, and you also get wound. You already have one, so change it to
-Wound 2.
-
-Alice - Ok, but I think that Anne has demonstrated to all the group that she
-care about them; I should remove the "Betray 1" harm.
-
-Scenarist - I fully agree, remove it!
-```
-
-__Add a trait__ - When it is a calm situation and a quest ended,
-or something important for the plot happened, or when a lot of time passed
-without this move was triggered, the scenarist may decide that this is a
-milestone.
-
-In such case, every protagonist adds in eir character
-sheet one or few words that describe a quality, an ability, or a tendency of
-the character. If the character had more than 16 traits, one must be deleted
-first.  The new trait that must be linked to other two already in the character
-sheet, unless it is one of the first 4 of the character.  All the trait
-written on a character sheet in a certain moment must be different each other.
-
-The traits will give you a mechanical bonus to any roll when acting according
-to the traits. They should also describe how the character acts in the fiction,
-however two traits may be quite opposite, resulting in a character acting
-against one of them while trying to respect the other.  This is perfectly fine:
-the character have multiple faces and did not have to act always at same way.
-Note that a trait can generate negative effect in the fiction, but it can never
-be used to give a malus during a roll.  Also if it has negative acceptation, it
-will enter in play only if it is useful for the goals, otherwise it will be
-simply ignored.
-
-```
-Scenarist - Ok, Bart you got a success. Not only you manage to hit the man that
-killed your family, but due to your rage and brutal behavior, he is thrown down
-from the tower. You hear a scream, a thud, and nothing else.  This is an
-important step in the story, so all the protagonists can add a trait or a special
-move to eir character sheet. Try to make them coherent with how they feels
-after this umpteenth murdered.
-```
-
-ALL the protagonists add the traits together: it never happens that a
-protagonist add a trait and another one does not.
-
-Each protagonist freely select the traits of eir character from the ones in the
-playbook, or from the other characters. They can also invent completely new
-traits, but in such case all the other players at the table must agree. When
-unsure, players should discuss together to make them not too much generic or
-specific.  Consider that strong stress in a single trait does not means that it
-will give you a strong bonus, just, maybe, that it will be used in a lot of
-situations. And a trait that is always used is not fun to play.
-
-If you really want a strong bonus in some areas, consider to put similar traits
-that will probably always be used together.
-
-The "link" constrain is here just to write traits that are somehow coherent. It
-does not came in play in no way.  The other obvious constraint for any trait is
-that it respect the spirit of the setting and the tone of the play.
-
-```
-Bob chose the first four traits of his character to be "Smart", "Intelligent"
-"Robotics enthusiast" and "Drives anything with an engine".
-
-After the first four traits, Bob want to add "Perfect" likning it with "Smart"
-and "Intelligent"
-
-Alice notes that "Perfect" is too much generic, and also if put in play, it
-will not means that the character will be perfectly successful. She propose to
-change it with "Understand quickly" if he ment it as a boost for the previous
-intellectual traits; also because just linking does not have such mechanical
-effect.
-
-Bob agrees, and adds "Understand quickly" as a traits linked to "Smart" and
-"Intelligent"
-```
 
 # Hosting the game
 
@@ -1289,6 +1289,10 @@ character can know, as the __Describe some details__ prescribed.  Then the
 scenarist should highlight that the question is not one in the list, so the
 protagonists can still ask one of them.
 
+Moreover, in such moves, it would be great if the __Make the worst happen__ that
+the scenarist will do after a failure roll were liked to the question just
+asked.
+
 ```
 The group is in a wild region, and the scenarist has not decided yet if they
 will encounter some beast or a rival faction preparing an ambush. As consequence
@@ -1451,7 +1455,7 @@ options are avaiable too, other than the original ones
 - What here is the greatest/least _ ?
 - What here has been hidden or overlooked?
 - What is the likely previous/upcoming situation?
- 
+
 The protagonist may fill the _ before writing the moves on the character sheet.
 ```
 

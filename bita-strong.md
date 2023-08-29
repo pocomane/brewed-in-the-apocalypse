@@ -63,6 +63,19 @@ require to return back to critical point in the fiction, if
 The scenarist will always give the possibility to act differently from that
 point on.
 
+__Tell imminent troubles (move)__ when the scenarist asked to all the
+protagonists in the scene what they do, and if they stop after a while without
+triggering any move, she will add to the scene something that give them new
+things to react to.  She can introduce such elements playing as an NPC. She may
+decide to substitute this move with a *Describe the scene (move)*.
+
+__The worst happens (move)__ When a question is not handled by the protagonists
+for too much time, the scenarist will wait for them to stop to talk, then she
+will make the situation evolves in a new trouble that they can not avoid
+reacting in any way. She may also invent and assign an harm to a character when
+appropriate. She may decide to substitute this move with
+a *Tell imminent troubles (move)*.
+
 __Face the uncertain (move)__ When a character does something risky or that has
 uncertain consequences, and there are no other more specific moves, a roll is
 needed.  The scenarist decides which harms of the character are relevant while
@@ -91,27 +104,24 @@ scenarist can split it in multiple rolls, justifying it in the fiction. She can
 also make clear that due to the danger of the situation, the consequences will
 be very heavy, like possible multiple harms.
 
-__Tell imminent troubles (move)__ when the scenarist asked to all the
-protagonists in the scene what they do, and if they stop after a while without
-triggering any move, she will add to the scene something that give them new
-things to react to.  She can introduce such elements playing as an NPC. She may
-decide to substitute this move with a *Describe the scene (move)*.
+__Remove an harm (move)__ When a character does something that can cure one or
+more harms, the scenarist will tell which harms can be potentially removed.  If
+the player is not satisfy he can tell something else instead.  If he are
+satisfied a *Face the uncertain (move)* is done:
 
-__The worst happens (move)__ When a protagonist got a failure in a roll, or when in
-the scene there is an open question not handled by them for too much,
-the scenarist will make the situation evolves in a new trouble that they can
-not avoid reacting in any way. She may also invent and assign an harm to a
-character when appropriate. She may decide to substitute this mov with
-a *Tell imminent troubles (move)*.
+- On Success, delete up to 3 related harms.
+- On Twist, delete up to 2 related harms.
+- On Fail, delete one related harms, then a *Make the worst happen (move)* is done.
 
-__Remove an harm (move)__ When the protagonists do in the fiction something
-that can cure an harm, a single harm can be deleted.  A roll may be needed for
-this. bla bla
+Any harm assigned on fail must be a temporary one. A temporary harm is one that
+can be healed just by the time passing. The scenarist when assigning any harm can
+decide it is temporary and when it will be healed.  The protagonist can always
+ask which harm is temporary.
 
-__Advantage/Disadvantage (move)__ when a character is doing something to make a
+__Advantage/Disadvantage (move)__ When a character is doing something to make a
 future action that requires a roll more simple/difficult or probable/improbable
-to succeed, the player will explicitly said what action or kind of actions the
-character is trying to affecting, then a *Face the uncertain (move)* is done:
+to succeed, the player will explicitly said what action or kind of actions he
+is trying to affecting, then a *Face the uncertain (move)* is done:
 
 - On Fail, a  *The worst happens (move)* is done.
 - On Twist, the affected rolls will take a +1 bonus

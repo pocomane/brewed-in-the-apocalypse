@@ -37,7 +37,7 @@ what the consequences of the roll are.
 
 __Playing the game__ Scenarist and protagonists alternate them self in taking moves.
 Only what is said inside a move can make the fiction evolve. Each session
-starts with a __Describe the scene (move)__. If it is not the first section
+starts with a *Describe the scene (move)*. If it is not the first section
 what is happened before must be resumed in it. When a move is recalled directly,
 its trigger condition must be ignored.
 
@@ -49,7 +49,7 @@ may happen to them.
 __Ask what they do (move)__ every time the scenarist ends speaking, she will
 ask to one or multiple protagonist "What do you do?". Then the protagonist will
 tell what his PC says, does and feels. If he needs some details in the scene,
-he can ask to the scenarist. She will do a new __Describe the scene (move)__
+he can ask to the scenarist. She will do a new *Describe the scene (move)*
 giving such details or just saying "You do not know".
 
 __Rollback (move)__ When the protagonists stopped to talk, the scenarist will
@@ -71,11 +71,11 @@ the protagonist selects the relevant traits.  Then he rolls 2 standard
 traits - number of harms:
 
 - 8 or less is a failure, the scenarist will tell about it, then
-  a __The worst happens (move)__ is done.
+  a *The worst happens (move)* is done.
 - 9-10-11 is a twist, the scenarist may decide to let the character fail but
-  making a __Describe the scene (move)__ giving some compensation, or to let
-  him succeed and then making a  __Tell imminent troubles (move)__.
-- 12 or more is a success, a __Describe the scene (move)__ is done that
+  making a *Describe the scene (move)* giving some compensation, or to let
+  him succeed and then making a  *Tell imminent troubles (move)*.
+- 12 or more is a success, a *Describe the scene (move)* is done that
   describes how the goal is reached; if applicable something good may happen
   too: object discovered, new information collected, etc.
 
@@ -95,14 +95,14 @@ __Tell imminent troubles (move)__ when the scenarist asked to all the
 protagonists in the scene what they do, and if they stop after a while without
 triggering any move, she will add to the scene something that give them new
 things to react to.  She can introduce such elements playing as an NPC. She may
-decide to substitute this move with a __Describe the scene (move)__.
+decide to substitute this move with a *Describe the scene (move)*.
 
 __The worst happens (move)__ When a protagonist got a failure in a roll, or when in
 the scene there is an open question not handled by them for too much,
 the scenarist will make the situation evolves in a new trouble that they can
 not avoid reacting in any way. She may also invent and assign an harm to a
 character when appropriate. She may decide to substitute this mov with
-a __Tell imminent troubles (move)__.
+a *Tell imminent troubles (move)*.
 
 __Remove an harm__ When the protagonists do in the fiction something that can cure
 an harm, a single harm can be deleted.  A roll may be needed for this. bla bla
@@ -110,9 +110,9 @@ an harm, a single harm can be deleted.  A roll may be needed for this. bla bla
 __Advantage/Disadvantage (move)__ when a character is doing something to make a
 future action that requires a roll more simple/difficult or probable/improbable
 to succeed, the player will explicitly said what action or kind of actions the
-character is trying to affecting, then a __Face the uncertain (move)__ is done:
+character is trying to affecting, then a *Face the uncertain (move)* is done:
 
-- On Fail, a  __The worst happens (move)__ is done.
+- On Fail, a  *The worst happens (move)* is done.
 - On Twist, the affected rolls will take a +1 bonus
 - On Success, the affected rolls will take a  +2 bonus
 

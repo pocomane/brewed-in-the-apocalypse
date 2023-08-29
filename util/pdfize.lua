@@ -43,6 +43,13 @@ local standard_css = [[
           line-height: 10pt;
           text-align: justify;
         }
+        em {
+          font-weight: normal;
+          text-transform: uppercase;
+          font-size: 8pt;
+          margin-left: 3pt;
+          margin-right: 3pt;
+        }
         strong {
           font-weight: normal;
           text-transform: uppercase;
@@ -128,6 +135,14 @@ local compact_css = [[
         }
         li::marker {
             content: '▶ ';
+        }
+        em {
+          font-weight: normal;
+          text-transform: uppercase;
+          font-size: 8pt;
+          border: 1pt;
+          border-left: 2pt;
+          border-right: 2pt;
         }
         strong {
           font-weight: normal;

@@ -12,7 +12,7 @@ __Traits__ A trait is one or few words that describe a quality, an ability, or
 a tendency of a character.  The traits will give to the player a mechanical
 bonus to any roll when acting according to them. They should describe the
 character in the fiction too, but the player is free to ignore some of them
-when acting according to others. 
+when acting according to others.
 
 When adding a trait: it must be conceptually linked to 2 previous ones (except
 for the first 4 traits); a character can not have two equal traits; a trait
@@ -24,52 +24,100 @@ The harm may affect the character rolls, and should cause effects in the
 fiction too.  An harm repeated multiple times will affect it more; feel free to
 use a number instead of rewriting the same harm multiple time.
 
-As part of the complication or the trouble that may follow a roll, the
-scenarist may assign an harm to the character.  When the players do in the
-fiction something that can cure an harm, a single harm can be deleted.
-A roll may be needed for this.
-
 __Items, abilities, etc__ During the game the scenarist can require to write
 other things on the character sheet. If the scenarist does not give them any
 explicit mechanics they act only in fiction. In any case the scenarist can
 consider them to decide if something is impossible, if a roll is needed, and
 what the consequences of the roll are.
 
-__Playing the game__ The scenarist will describe a scene, the players will say
-how their characters act. The scenarist will also tell how the rest of the world
-react to the character actions.
+__Playing the game__ Scenarist and players alternate them self in taking moves.
+Only what is said inside a move can make the fiction evolve. Each session
+starts with a Scenarist __Describe the scene (move)__, with the additional
+prescriptions that if it is not the first section, what is happened before must
+be resumed during it.
 
-When the characters do something risky or that has uncertain consequences, the
-scenarist will ask the player to roll. The scenarist should avoid a roll if the
-chances of failing or succeeding are too small, or if the consequences of
-failing are not interesting.
+__Describe the scene (move)__ when the session starts, you as scenarist, will
+decide and describe the current scene. Anything you tell can not bring troubles
+to the players, neither if completely ignored by them. Occasionally good thing
+may happen to them.
 
-To handle the difficulty of an action, the scenarist can split it in multiple
-rolls, justifying it in the fiction. The scenarist can also make clear that due
-to the danger of the situation, the consequences will be very heavy. Multiple
-harms are possible.
+__Ask what they do (move)__ every time the scenarist ends speaking, the
+scenarist will ask to one or multiple player "What do you do?". Then, you as
+the questioned player will tell what your PC says, does and feels. If you need
+some details in the scene, ask to the scenarist. When asked the scenarist will
+do a new __Describe the scene (move)__ giving such details or just saying "You
+do not know".
+
+__Rollback (move)__ When the players stopped to talk, you as scenarist will
+require to return back to critical point in the fiction, if
+
+- You think the players misunderstood something in the scene, in such case
+  describe it better.
+- You think some other move should be triggered during what they told, in such
+  case communicate what they have to do.
+
+Always give to the player the possibility to act differently from that point on.
+
+__Face the uncertain (move)__ When a character does something risky or that has
+uncertain consequences, and there are no other more specific moves, a roll is
+needed.  The scenarist decides which harms of the character are relevant while
+the player selects the relevant traits.  Then the player rolls 2 standard
+6-side dices. The outcome is determined by the dice value sum + number of
+traits - number of harms:
+
+- 8 or less is a failure, the scenarist will tell about it, then the scenarist
+  will do a __The worst happens (move)__
+- 9-10-11 is a twist, the scenarist may decide to let the characters fail but
+  making a __Describe the scene (move)__ giving some compensation, or to let
+  them succeed and then making a  __Tell imminent troubles (move)__.
+- 12 or more is a success, the scenarist will do a __Describe the scene
+  (move)__ telling how the goal is reached; if applicable something good may
+  happen too: object discovered, new information collected, etc.
+
+The scenarist should avoid a roll if the chances of failing or succeeding are
+too small, or if the consequences of failing are not interesting. In such case
+the scenarist decides the more appropriate outcome.
+
+When this move is recalled by other ones, they will provide also an outcome
+list to be used instead of the previous one.
+
+__Difficulty of an action__ To handle the difficulty of an action, the
+scenarist can split it in multiple rolls, justifying it in the fiction. The
+scenarist can also make clear that due to the danger of the situation, the
+consequences will be very heavy, like possible multiple harms.
+
+__Tell imminent troubles (move)__ when you as scenarist, asked to all the
+players in the scene what they do, and if they stop after a while without
+triggering any move, add to the scene something that give to the players new
+things to react to.  You can introduce such elements playing as an NPC. The
+scenarist may decide to substitute this move with a __Describe the scene (move)__.
+
+__The worst happens (move)__ When a player got a failure in a roll, or when in
+the scene there is an open question not handled by the players for too much,
+the scenarist will make the situation evolves in a new trouble that the players
+can not avoid reacting in any way. The scenarist may also invent and assign an
+harm to a character when appropriate. The scenarist may decide to substitute
+this mov with a __Tell imminent troubles (move)__.
+
+__Remove an harm__ When the players do in the fiction something that can cure
+an harm, a single harm can be deleted.  A roll may be needed for this. bla bla
+
+__Advantage/Disadvantage (move)__ when you as player are doing something to
+make a future action that requires a roll more simple/difficult or
+probable/improbable to succeed, explicitly said what action or kind of actions
+you are trying to affecting, then make a __Face the uncertain (move)__:
+
+- On Fail, make a  __The worst happens (move)__
+- On Twist, the affected rolls will take a +1 bonus
+- On Success, the affected rolls will take a  +2 bonus
+
+The scenarist will said to you which rolls will be affected and when the bonus
+will end. This move can act as an opposition roll.
 
 __Experience__ When something important happens in the fiction, the scenarist
-will ask to all the players do add a new trait to the character.
-
-__Roll__ When a roll is needed, the scenarist decides which harms of the
-character are relevant while the player selects the relevant traits.  Then the
-player rolls 2 standard 6-side dices. The outcome is determined by the dice
-value sum + number of traits - harm value sum:
-
-- 8 or less is a failure, the scenarist will tell about it, then THE WORST
-  HAPPENS.
-- 9-10-11 is a twist, the scenarist may decide to let the characters fail but
-  giving some compensation, or to let them succeed with a complication that the
-  players can react to.
-- 12 or more is a success, the scenarist will tell how the goal is reached; if
-  applicable something good may happen too: object discovered, new information
-  collected, etc.
-
-__The worst happens__ When a player got a failure in a roll, or when in the
-scene there is an open question not handled by the players for too much, the
-scenarist will make the situation evolves in a new trouble that the players can
-not avoid reacting in any way.
+will ask to all the players do add a new trait to the character. The trait is
+selected by each player, but if it is completely new, all the people at the
+table should agree on using it.
 
 __Death__ Optionally, during the setup, decide a value for the sum of the
 harms, e.g. 8, that will trigger the character death. A player can always

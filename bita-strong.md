@@ -2,11 +2,13 @@
 # Brewed in the Apocalypse - Strong
 
 This is a role playing game for 3-6 persons. One person will be called
-"Scenarist", while the others will be called "Players".
+"Scenarist" describing the scenes and what happen in the world, while the
+others will be called "Protagonists" and will control a fictional character. The
+other characters in the story, the NPCs, will be controlled by the scenarist.
 
-__Setup__ The players write 8 traits and a name for their characters on a
-sheet, keeping some space for harms and anything else the scenarist will
-require.
+__Setup__ The protagonists write on their character sheet, 8 traits and the
+character name, keeping some space for harms and anything else the scenarist
+will require.
 
 __Traits__ A trait is one or few words that describe a quality, an ability, or
 a tendency of a character.  The traits will give to the player a mechanical
@@ -20,7 +22,7 @@ must be deleted if there are more than 16.
 
 __Harms__ An harm is one or few words that represent physical injuries, mental
 stress, or any other negative condition that makes sense for the setting.
-The harm may affect the character rolls, and should cause effects in the
+The harm may affect the protagonist rolls, and should cause effects in the
 fiction too.  An harm repeated multiple times will affect it more; feel free to
 use a number instead of rewriting the same harm multiple time.
 
@@ -30,7 +32,7 @@ explicit mechanics they act only in fiction. In any case the scenarist can
 consider them to decide if something is impossible, if a roll is needed, and
 what the consequences of the roll are.
 
-__Playing the game__ Scenarist and players alternate them self in taking moves.
+__Playing the game__ Scenarist and protagonists alternate them self in taking moves.
 Only what is said inside a move can make the fiction evolve. Each session
 starts with a Scenarist __Describe the scene (move)__, with the additional
 prescriptions that if it is not the first section, what is happened before must
@@ -38,7 +40,7 @@ be resumed during it.
 
 __Describe the scene (move)__ when the session starts, you as scenarist, will
 decide and describe the current scene. Anything you tell can not bring troubles
-to the players, neither if completely ignored by them. Occasionally good thing
+to the protagonists, neither if completely ignored by them. Occasionally good thing
 may happen to them.
 
 __Ask what they do (move)__ every time the scenarist ends speaking, the
@@ -48,10 +50,10 @@ some details in the scene, ask to the scenarist. When asked the scenarist will
 do a new __Describe the scene (move)__ giving such details or just saying "You
 do not know".
 
-__Rollback (move)__ When the players stopped to talk, you as scenarist will
+__Rollback (move)__ When the protagonists stopped to talk, you as scenarist will
 require to return back to critical point in the fiction, if
 
-- You think the players misunderstood something in the scene, in such case
+- You think the protagonists misunderstood something in the scene, in such case
   describe it better.
 - You think some other move should be triggered during what they told, in such
   case communicate what they have to do.
@@ -87,19 +89,19 @@ scenarist can also make clear that due to the danger of the situation, the
 consequences will be very heavy, like possible multiple harms.
 
 __Tell imminent troubles (move)__ when you as scenarist, asked to all the
-players in the scene what they do, and if they stop after a while without
-triggering any move, add to the scene something that give to the players new
+protagonists in the scene what they do, and if they stop after a while without
+triggering any move, add to the scene something that give to the protagonists new
 things to react to.  You can introduce such elements playing as an NPC. The
 scenarist may decide to substitute this move with a __Describe the scene (move)__.
 
 __The worst happens (move)__ When a player got a failure in a roll, or when in
-the scene there is an open question not handled by the players for too much,
-the scenarist will make the situation evolves in a new trouble that the players
+the scene there is an open question not handled by the protagonists for too much,
+the scenarist will make the situation evolves in a new trouble that the protagonists
 can not avoid reacting in any way. The scenarist may also invent and assign an
 harm to a character when appropriate. The scenarist may decide to substitute
 this mov with a __Tell imminent troubles (move)__.
 
-__Remove an harm__ When the players do in the fiction something that can cure
+__Remove an harm__ When the protagonists do in the fiction something that can cure
 an harm, a single harm can be deleted.  A roll may be needed for this. bla bla
 
 __Advantage/Disadvantage (move)__ when you as player are doing something to
@@ -115,7 +117,7 @@ The scenarist will said to you which rolls will be affected and when the bonus
 will end. This move can act as an opposition roll.
 
 __Experience__ When something important happens in the fiction, the scenarist
-will ask to all the players do add a new trait to the character. The trait is
+will ask to all the protagonists do add a new trait to the character. The trait is
 selected by each player, but if it is completely new, all the people at the
 table should agree on using it.
 

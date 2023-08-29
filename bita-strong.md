@@ -6,6 +6,9 @@ This is a role playing game for 3-6 persons. One person will be called
 others will be called "Protagonists" and will control a fictional character. The
 other characters in the story, the NPCs, will be controlled by the scenarist.
 
+To make the text more clear, we will use "She" for the scenarist, and "He" for a
+protagonist.
+
 __Setup__ The protagonists write on their character sheet, 8 traits and the
 character name, keeping some space for harms and anything else the scenarist
 will require.
@@ -28,102 +31,103 @@ use a number instead of rewriting the same harm multiple time.
 
 __Items, abilities, etc__ During the game the scenarist can require to write
 other things on the character sheet. If the scenarist does not give them any
-explicit mechanics they act only in fiction. In any case the scenarist can
+explicit mechanics they act only in fiction. In any case the scenarist will
 consider them to decide if something is impossible, if a roll is needed, and
 what the consequences of the roll are.
 
 __Playing the game__ Scenarist and protagonists alternate them self in taking moves.
 Only what is said inside a move can make the fiction evolve. Each session
-starts with a Scenarist __Describe the scene (move)__, with the additional
-prescriptions that if it is not the first section, what is happened before must
-be resumed during it.
+starts with a __Describe the scene (move)__. If it is not the first section
+what is happened before must be resumed in it. When a move is recalled directly,
+its trigger condition must be ignored.
 
-__Describe the scene (move)__ when the session starts, you as scenarist, will
-decide and describe the current scene. Anything you tell can not bring troubles
+__Describe the scene (move)__ when the session starts, the scenarist will
+decide and describe the current scene. Anything she tell can not bring troubles
 to the protagonists, neither if completely ignored by them. Occasionally good thing
 may happen to them.
 
-__Ask what they do (move)__ every time the scenarist ends speaking, the
-scenarist will ask to one or multiple protagonist "What do you do?". Then, you as
-the questioned protagonist will tell what your PC says, does and feels. If you need
-some details in the scene, ask to the scenarist. When asked the scenarist will
-do a new __Describe the scene (move)__ giving such details or just saying "You
-do not know".
+__Ask what they do (move)__ every time the scenarist ends speaking, she will
+ask to one or multiple protagonist "What do you do?". Then the protagonist will
+tell what his PC says, does and feels. If he needs some details in the scene,
+he can ask to the scenarist. She will do a new __Describe the scene (move)__
+giving such details or just saying "You do not know".
 
-__Rollback (move)__ When the protagonists stopped to talk, you as scenarist will
+__Rollback (move)__ When the protagonists stopped to talk, the scenarist will
 require to return back to critical point in the fiction, if
 
-- You think the protagonists misunderstood something in the scene, in such case
-  describe it better.
-- You think some other move should be triggered during what they told, in such
-  case communicate what they have to do.
+- She thinks the protagonists misunderstood something in the scene, in such case
+  she will describe it better.
+- She thinks some other move should be triggered during what they told, in such
+  case she will communicate what they have to do.
 
-Always give to the protagonist the possibility to act differently from that point on.
+The scenarist will always give the possibility to act differently from that
+point on.
 
 __Face the uncertain (move)__ When a character does something risky or that has
 uncertain consequences, and there are no other more specific moves, a roll is
 needed.  The scenarist decides which harms of the character are relevant while
-the protagonist selects the relevant traits.  Then the protagonist rolls 2 standard
+the protagonist selects the relevant traits.  Then he rolls 2 standard
 6-side dices. The outcome is determined by the dice value sum + number of
 traits - number of harms:
 
-- 8 or less is a failure, the scenarist will tell about it, then the scenarist
-  will do a __The worst happens (move)__
-- 9-10-11 is a twist, the scenarist may decide to let the characters fail but
+- 8 or less is a failure, the scenarist will tell about it, then
+  a __The worst happens (move)__ is done.
+- 9-10-11 is a twist, the scenarist may decide to let the character fail but
   making a __Describe the scene (move)__ giving some compensation, or to let
-  them succeed and then making a  __Tell imminent troubles (move)__.
-- 12 or more is a success, the scenarist will do a __Describe the scene
-  (move)__ telling how the goal is reached; if applicable something good may
-  happen too: object discovered, new information collected, etc.
+  him succeed and then making a  __Tell imminent troubles (move)__.
+- 12 or more is a success, a __Describe the scene (move)__ is done that
+  describes how the goal is reached; if applicable something good may happen
+  too: object discovered, new information collected, etc.
 
 The scenarist should avoid a roll if the chances of failing or succeeding are
 too small, or if the consequences of failing are not interesting. In such case
-the scenarist decides the more appropriate outcome.
+she decides the more appropriate outcome.
 
 When this move is recalled by other ones, they will provide also an outcome
 list to be used instead of the previous one.
 
 __Difficulty of an action__ To handle the difficulty of an action, the
-scenarist can split it in multiple rolls, justifying it in the fiction. The
-scenarist can also make clear that due to the danger of the situation, the
-consequences will be very heavy, like possible multiple harms.
+scenarist can split it in multiple rolls, justifying it in the fiction. She can
+also make clear that due to the danger of the situation, the consequences will
+be very heavy, like possible multiple harms.
 
-__Tell imminent troubles (move)__ when you as scenarist, asked to all the
+__Tell imminent troubles (move)__ when the scenarist asked to all the
 protagonists in the scene what they do, and if they stop after a while without
-triggering any move, add to the scene something that give to the protagonists new
-things to react to.  You can introduce such elements playing as an NPC. The
-scenarist may decide to substitute this move with a __Describe the scene (move)__.
+triggering any move, she will add to the scene something that give them new
+things to react to.  She can introduce such elements playing as an NPC. She may
+decide to substitute this move with a __Describe the scene (move)__.
 
 __The worst happens (move)__ When a protagonist got a failure in a roll, or when in
-the scene there is an open question not handled by the protagonists for too much,
-the scenarist will make the situation evolves in a new trouble that the protagonists
-can not avoid reacting in any way. The scenarist may also invent and assign an
-harm to a character when appropriate. The scenarist may decide to substitute
-this mov with a __Tell imminent troubles (move)__.
+the scene there is an open question not handled by them for too much,
+the scenarist will make the situation evolves in a new trouble that they can
+not avoid reacting in any way. She may also invent and assign an harm to a
+character when appropriate. She may decide to substitute this mov with
+a __Tell imminent troubles (move)__.
 
 __Remove an harm__ When the protagonists do in the fiction something that can cure
 an harm, a single harm can be deleted.  A roll may be needed for this. bla bla
 
-__Advantage/Disadvantage (move)__ when you as protagonist are doing something to
-make a future action that requires a roll more simple/difficult or
-probable/improbable to succeed, explicitly said what action or kind of actions
-you are trying to affecting, then make a __Face the uncertain (move)__:
+__Advantage/Disadvantage (move)__ when a character is doing something to make a
+future action that requires a roll more simple/difficult or probable/improbable
+to succeed, the player will explicitly said what action or kind of actions the
+character is trying to affecting, then a __Face the uncertain (move)__ is done:
 
-- On Fail, make a  __The worst happens (move)__
+- On Fail, a  __The worst happens (move)__ is done.
 - On Twist, the affected rolls will take a +1 bonus
 - On Success, the affected rolls will take a  +2 bonus
 
-The scenarist will said to you which rolls will be affected and when the bonus
-will end. This move can act as an opposition roll.
+The scenarist will said which rolls will be affected and when the bonus will
+end. This move can act as an opposition roll.
 
 __Experience__ When something important happens in the fiction, the scenarist
-will ask to all the protagonists do add a new trait to the character. The trait is
-selected by each protagonist, but if it is completely new, all the people at the
-table should agree on using it.
+will ask to all the protagonists do add a new trait to their character sheet.
+The trait is selected by each protagonist, but if it is completely new, all the
+people at the table should agree on using it.
 
-__Death__ Optionally, during the setup, decide a value for the sum of the
-harms, e.g. 8, that will trigger the character death. A protagonist can always
-create a new character starting with the same number of traits of the others.
+__Death__ Optionally, during the setup, a value for the sum of the harms, e.g.
+8, can be decided. It will trigger the character death. A protagonist can
+always create a new character starting with the same number of traits of the
+others.
 
 ```html,page,break
 

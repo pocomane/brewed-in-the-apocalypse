@@ -11,9 +11,9 @@ character name, keeping some space for harms and anything else the scenarist
 will require.
 
 __Traits__ A trait is one or few words that describe a quality, an ability, or
-a tendency of a character.  The traits will give to the player a mechanical
+a tendency of a character.  The traits will give to the protagonist a mechanical
 bonus to any roll when acting according to them. They should describe the
-character in the fiction too, but the player is free to ignore some of them
+character in the fiction too, but the protagonist is free to ignore some of them
 when acting according to others.
 
 When adding a trait: it must be conceptually linked to 2 previous ones (except
@@ -44,8 +44,8 @@ to the protagonists, neither if completely ignored by them. Occasionally good th
 may happen to them.
 
 __Ask what they do (move)__ every time the scenarist ends speaking, the
-scenarist will ask to one or multiple player "What do you do?". Then, you as
-the questioned player will tell what your PC says, does and feels. If you need
+scenarist will ask to one or multiple protagonist "What do you do?". Then, you as
+the questioned protagonist will tell what your PC says, does and feels. If you need
 some details in the scene, ask to the scenarist. When asked the scenarist will
 do a new __Describe the scene (move)__ giving such details or just saying "You
 do not know".
@@ -58,12 +58,12 @@ require to return back to critical point in the fiction, if
 - You think some other move should be triggered during what they told, in such
   case communicate what they have to do.
 
-Always give to the player the possibility to act differently from that point on.
+Always give to the protagonist the possibility to act differently from that point on.
 
 __Face the uncertain (move)__ When a character does something risky or that has
 uncertain consequences, and there are no other more specific moves, a roll is
 needed.  The scenarist decides which harms of the character are relevant while
-the player selects the relevant traits.  Then the player rolls 2 standard
+the protagonist selects the relevant traits.  Then the protagonist rolls 2 standard
 6-side dices. The outcome is determined by the dice value sum + number of
 traits - number of harms:
 
@@ -94,7 +94,7 @@ triggering any move, add to the scene something that give to the protagonists ne
 things to react to.  You can introduce such elements playing as an NPC. The
 scenarist may decide to substitute this move with a __Describe the scene (move)__.
 
-__The worst happens (move)__ When a player got a failure in a roll, or when in
+__The worst happens (move)__ When a protagonist got a failure in a roll, or when in
 the scene there is an open question not handled by the protagonists for too much,
 the scenarist will make the situation evolves in a new trouble that the protagonists
 can not avoid reacting in any way. The scenarist may also invent and assign an
@@ -104,7 +104,7 @@ this mov with a __Tell imminent troubles (move)__.
 __Remove an harm__ When the protagonists do in the fiction something that can cure
 an harm, a single harm can be deleted.  A roll may be needed for this. bla bla
 
-__Advantage/Disadvantage (move)__ when you as player are doing something to
+__Advantage/Disadvantage (move)__ when you as protagonist are doing something to
 make a future action that requires a roll more simple/difficult or
 probable/improbable to succeed, explicitly said what action or kind of actions
 you are trying to affecting, then make a __Face the uncertain (move)__:
@@ -118,11 +118,11 @@ will end. This move can act as an opposition roll.
 
 __Experience__ When something important happens in the fiction, the scenarist
 will ask to all the protagonists do add a new trait to the character. The trait is
-selected by each player, but if it is completely new, all the people at the
+selected by each protagonist, but if it is completely new, all the people at the
 table should agree on using it.
 
 __Death__ Optionally, during the setup, decide a value for the sum of the
-harms, e.g. 8, that will trigger the character death. A player can always
+harms, e.g. 8, that will trigger the character death. A protagonist can always
 create a new character starting with the same number of traits of the others.
 
 ```html,page,break

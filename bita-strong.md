@@ -104,8 +104,9 @@ not avoid reacting in any way. She may also invent and assign an harm to a
 character when appropriate. She may decide to substitute this mov with
 a *Tell imminent troubles (move)*.
 
-__Remove an harm__ When the protagonists do in the fiction something that can cure
-an harm, a single harm can be deleted.  A roll may be needed for this. bla bla
+__Remove an harm (move)__ When the protagonists do in the fiction something
+that can cure an harm, a single harm can be deleted.  A roll may be needed for
+this. bla bla
 
 __Advantage/Disadvantage (move)__ when a character is doing something to make a
 future action that requires a roll more simple/difficult or probable/improbable
@@ -119,15 +120,17 @@ character is trying to affecting, then a *Face the uncertain (move)* is done:
 The scenarist will said which rolls will be affected and when the bonus will
 end. This move can act as an opposition roll.
 
-__Experience__ When something important happens in the fiction, the scenarist
+__Experience (move)__ When something important happens in the fiction, the scenarist
 will ask to all the protagonists do add a new trait to their character sheet.
 The trait is selected by each protagonist, but if it is completely new, all the
 people at the table should agree on using it.
 
-__Death__ Optionally, during the setup, a value for the sum of the harms, e.g.
-8, can be decided. It will trigger the character death. A protagonist can
-always create a new character starting with the same number of traits of the
-others.
+__Death (move)__ When a character has more than 8 harms, the scenarist will tell
+about his death. Optionally this value can be changed during the setup, or this
+move can be completely removed, if all agree.
+
+A new character may be always introduced in the game, starting with the same
+number of traits of the others.
 
 ```html,page,break
 

@@ -5,14 +5,12 @@ Brewed in the Apocalypse is a tabletop RPG heavily based on Apocalypse World
 [^1]. All the text is released under Creative Commons.
 
 The following files are provided:
-- [Brewed in the Apocalypse](bita.md) - The game in a simple to edit format.
-- [Brewed in the Apocalypse](https://github.com/pocomane/brewed-in-the-apocalypse/releases/latest/download/bita.pdf) -
-  The game in a print friendly format
-- [Brewed in the Apocalypse - Strong (editable)](bita-strong.md), and
-  [Brewed in the Apocalypse - Strong (printable)](https://github.com/pocomane/brewed-in-the-apocalypse/releases/latest/download/bita-strong.pdf) -
-  Distilled version, both in text and in content; practically only the roll
-  mechanics was kept, but it fit in a single page; as before both editable and
-  printable formats are provided. 
+- [Brewed in the Apocalypse - Strong](bita-strong.md), is a compact version, with
+  the core rules that can be printed in a couple of A3 pages;
+  [here a pdf version](https://github.com/pocomane/brewed-in-the-apocalypse/releases/latest/download/bita-strong.pdf).
+- [Brewed in the Apocalypse - Detailed](bita.md), is the complete version, with
+  explainations and examples, but the core rules can still be printed in two
+  dozen of A3 pages; [here a pdf version](https://github.com/pocomane/brewed-in-the-apocalypse/releases/latest/download/bita.pdf).
 
 [^1]: http://www.apocalypse-world.com/
 

@@ -6,12 +6,13 @@ This is a role playing game for 3-6 persons. One person will be called
 others will be called "Protagonists" and will control a fictional character. The
 other characters in the story, the NPCs, will be controlled by the scenarist.
 
-To make the text more clear, we will use "She" for the scenarist, and "He" for a
-protagonist.
+For clearness we will use "She" for the scenarist and "He" for a protagonist.
 
-__Setup__ The protagonists write on their character sheet, 8 traits and the
-character name, keeping some space for harms and anything else the scenarist
-will require.
+__Setup__ The players together select a scenario. Each protagonist selects a
+different character and copy name, traits, abilities, etc on the character sheet.
+New characters may be created from scratch using 8 times the *Experience
+(move)*.  To invent a new scenario the player should keep the structure of the
+example ones.
 
 __Traits__ A trait is one or few words that describe a quality, an ability, or
 a tendency of a character.  The traits will give to the protagonist a mechanical
@@ -41,12 +42,12 @@ starts with a *Describe the scene (move)*. If it is not the first section
 what is happened before must be resumed in it. When a move is recalled directly,
 its trigger condition must be ignored.
 
-__Describe the scene (move)__ when the session starts, the scenarist will
+__Describe the scene (move)__ When the session starts, the scenarist will
 decide and describe the current scene. Anything she tell can not bring troubles
 to the protagonists, neither if completely ignored by them. Occasionally good thing
 may happen to them.
 
-__Ask what they do (move)__ every time the scenarist ends speaking, she will
+__Ask what they do (move)__ When the scenarist ends speaking, she will
 ask to one or multiple protagonist "What do you do?". Then the protagonist will
 tell what his PC says, does and feels. If he needs some details in the scene,
 he can ask to the scenarist. She will do a new *Describe the scene (move)*
@@ -63,7 +64,7 @@ require to return back to critical point in the fiction, if
 The scenarist will always give the possibility to act differently from that
 point on.
 
-__Tell imminent troubles (move)__ when the scenarist asked to all the
+__Tell imminent troubles (move)__ When the scenarist asked to all the
 protagonists in the scene what they do, and if they stop after a while without
 triggering any move, she will add to the scene something that give them new
 things to react to.  She can introduce such elements playing as an NPC. She may
@@ -148,11 +149,13 @@ number of traits of the others.
 
 # Lady Whitehorse
 
-__Steampunk__ No magic, psychic or divine. No big Nations or regime. No sentient
-android. Until now, there is no vehicle, flying too, that is faster then a
-steam train.
+__Steampunk__ Mostly medieval, with steam-powered mechanics.
 
-- Mostly medieval, with steam-powered mechanics.
+- No magic, psychic or divine.
+- No huge Nations or regime.
+- No sentient android.
+- Until now, there is no vehicle, flying too, that is faster then a
+  steam train.
 - The steam is enclosed in sperichal container: one of a soccer ball size may
   power a motocycle-like vehicles for about four hour.
 - Portable weapons are based on the charginginf of elastic elements. The steam
@@ -161,8 +164,10 @@ steam train.
   shoot the proietile.
 - Mechanical limb are possible, the steam sphere is normally carried like a
   backpack. The army have access to Mechas.
+- A skilled craftsman can gain one gold coin per week, or 100 silver coin;
+  converting between gold and silver is very common and simple.
 
-That is all: discover and invent the rest during the game!
+Discover and invent the rest during the game!
 
 __Harms examples__ hand wound (shoulder, legs, etc), mental stress, low
 concentration, manageability, easily recognizable, cumbersome mechanics,
@@ -170,20 +175,25 @@ imprecision due to mechanical defect.
 
 __Characters__
 
-- Celeste Whitehorse is the heir of the Whitehorse reign. She carries few golden
-  coins and a ring that can prove her identity. Initial traits: Noble,
+Note: Celeste MUST be chosen by a player.
+
+- Celeste Whitehorse is the heir of the Whitehorse reign. She carries 10 golden
+  coins, a ring that can prove her identity and a fake ID. Initial traits: Noble,
   Deception, Silent movements, Fencing, Hide, Dance, Command-inclined, Charm.
 - Kate Church was the head of the royal guard, now Celeste's bodyguard. She has a
   mechanical arm. Normally she uses the steam sphere as a armor shoulder, but
-  currently she is disguising it as an hump. Initial traits: Living Weapon,
-  tactical assessing, Steal, Stealth, Long resistance, Fast, Brutal, Restrain.
+  currently she is disguising it as an hump. She carries a fake ID. Initial
+  traits: Living Weapon, tactical assessing, Steal, Stealth, Long resistance,
+  Fast, Brutal, Restrain.
 - Ed Clockside is a steam engineer, and Celeste's childhood friend. He carries a
-  bag with a lot of tools to deal with mechanical stuff. Initial traits: Pilot,
-  Repair, Mechanics, Locks, Dextrous, Sabotage, Quick understanding, Mechanics
-  assessing.
+  bag with a lot of tools to deal with mechanical stuff. He carries a fake ID.
+  Initial traits: Pilot, Repair, Mechanics, Locks, Dextrous, Sabotage, Quick
+  understanding, Mechanics assessing.
+
+TODO : add other 3 characters
 
 __Story so far__ A coup in the Whitehorse reign led to the death of almost all
-the Whitehorse family.  Celeste helped by Kate and Ed, managed to escape that
+the Whitehorse family.  Celeste helped by her companions, managed to escape that
 fate. They are now trying to reach the near reign of Arkham, where Celeste
 knows an high member of the aristocracy.
 
@@ -193,10 +203,55 @@ Whitehorse Army. For sure Celeste is on their list. Two guards enter in the
 train car where all the PCs are now, making controls. The rest of the army unit
 waits outside the train.
 
+What do you do?
+
+```html,page,break
+
+```
+
+# Babylon 2100
+
+__Cyberpunk__ Mostly contemporary metropolitan setting, with futuristic technology,
+very high population density, poverty and diffuse criminality. Babylon is a
+mega-city.
+
+- No strong genetic manipulation.
+- No time-travel.
+- No communication with other cities: all the story is set in Babylon.
+- No extreme futuristic: the technology is mostly a improved version of the
+  contemporary one.
+- Bio-electro-mechanical limbs are common: artificial eye, bionic arm, improved
+  ear with proximity sensor, etc.
+- bla bla
+
+TODO : finish the setting
+
+__Characters__
+
+- Y bla bla
+
+TODO : add 6 characters
+
+__Story so far__ bla bla
+
+All the protagonists are member of a small private detective agency. Normally they
+try to help common people having some kind of justice, but sometimes they need
+to take a job from a mega corporation to make the ends meet. This is one of that
+times: they was request by the Vulcano-Corp to recover information that seems
+may procure some loss to the rival corporation Hermes-Corp. The information was
+previously stolen by X, a low rank hacker, but he refuses to deliver them. Now,
+the protagonist are in front of the entrance were they traced X to be. But the
+guard at port do not let them to enter.
+
+```html,page,break
+
+```
+
 __
 
-__Release__ game and ambientation released in 2023 under [Creative Common
-0](https://creativecommons.org/share-your-work/public-domain/cc0/). Document revision 0.2.
+__Release__ game and setting released in 2023 by Mimmo Mane under
+[Creative Common 0](https://creativecommons.org/share-your-work/public-domain/cc0/).
+Document revision 0.2.
 
 123456789 123456789 123456789 123456789 1234 678 X 124 6789 1234 6789 123 Y 789 1234 6789
 

@@ -125,11 +125,11 @@ to succeed, the player will explicitly said what action or kind of actions he
 is trying to affecting, then a *Face the uncertain (move)* is done:
 
 - On Fail, a  *The worst happens (move)* is done.
-- On Twist, the affected rolls will take a +1 bonus
-- On Success, the affected rolls will take a  +2 bonus
+- On Twist, the affected rolls will take a +1/-1 modifier.
+- On Success, the affected rolls will take a  +2/-2 modifier.
 
-The scenarist will said which rolls will be affected and when the bonus will
-end. This move can act as an opposition roll.
+The scenarist will said which rolls will be affected and when the modifier
+stops being valid. This move can act as an opposition roll.
 
 __Experience (move)__ When something important happens in the fiction, the scenarist
 will ask to all the protagonists do add a new trait to their character sheet.

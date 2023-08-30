@@ -44,8 +44,6 @@ TODO The playbooks must be finished.
 TODO The final sections (marked as very preliminary draft) have to be rewritten from
 scratch.
 
-TODO : security rule (but do not call it security rule)
-
 TODO : a protagonist can tell anything happened in the past to eir character ?
 
 # Setup
@@ -288,7 +286,7 @@ Typically, you have to make a rollback when:
   if some moves are triggered, as well as to decide which traits/harms/tags are
   involved.
 - the protagonist gives a vague description of what is needed by other moves (like the
-  __Taking an advantage__ move), and, again, you need em to add such details.
+  __Advantage/Disadvantage__ move), and, again, you need em to add such details.
 
 In case you have to completely delete something the protagonist told (e.g. the first
 two previews points), always give em a similar alternative.
@@ -377,6 +375,68 @@ They may also be just a way to give color to the situation
 
 ```
 how your character is dressed?
+```
+
+__Ask to change something__ when a player feels uncomfortable with what another
+one is telling, ey can cross the palm shaping an X where the speaker can see
+it. The speaker will stop and the player will explain what makes em feel in
+that way. If the issue can be resolved changing some details that the speaker
+does not consider fundamental for the narration, the speaker have to do it.
+
+If such solution is not possible, the speaker can decide to narrate something
+completely different, or continue with the original idea.  For such decision we
+suggest to consider the motivation of the request, the mains being:
+
+- The player thinks that what were told is somehow incoherent with the setting,
+  the situation, or the tenor of the play; if this is the case the speaker should
+  explicitly ask for trust from the player and ey should give em.
+- The player feels anguish or any other strong feeling ey do not want to in this
+  game, for example because the narration is linked to some experience the
+  player had in the real life; in such case the speaker should often in this
+  situation it is enough do not describe too much in detail the event, or keeping
+  it in the background.
+
+This move must never be triggered to subvert the result of a roll, or to change
+the action of another person that the triggering player does not agree. Instead
+of a X palm, any other method may be agreed at beginning of the session: touching
+an icon in the middle of the table, slam a card, or anything else.
+
+If this move is triggered very often, especially if it often can not be
+resolved changing some details, the people at table should start a discussion
+about what all they expect from the game. Probably there are two or more groups
+with quite different visions. In the rare cases where they can not find an
+agreement, there is no bad in doing something else, and find other group where
+to play the specific game they are searching for.
+
+```
+Scenarist - and you found an stall with a seller that has...
+
+Bob shows the palms shaping an X so the scenarist asks to him what is wrong
+
+Bob - well, a seller in the middle of the forest? It seems unresonable to me,
+can you found something better?
+
+Scenarist - probably I can, but I ask you to trust me, there is a reason for this.
+
+Bob - ok, let's continue, now I am courious.
+
+```
+
+```
+Scenarist - There are two young boys screaming between the flame...
+
+Bob shows the palms shaping an X so the scenarist asks to him what is wrong
+
+Bob - please, do go in that details with child and fire, I am a fireman and it
+is a bit distressing to me.
+
+Scenarist - Sorry, I will remember this in the future. It is for any kind of
+person locked in dangerous building, or are just for this specific situation?
+
+Bob - Let's say that if they can not be children, it would be ok.
+
+Scenarist - ok, no issue with this. Let's say that you see two persons in
+danger inside the building. What do you do?
 ```
 
 # World reaction moves
@@ -868,61 +928,47 @@ TODO : add a move to recall memories ?
 TODO : make a move to said that the scenarist decide for NPC success/fail ? Or
 at least a not in the __Face the uncertain__ ?
 
-Normally, the scenarist decides if a NPC fails or is successful in taking any
-action. However the protagonists may influence the outcome if the following moves
-are triggered.
+__Advantage/Disadvantage__ When you, a protagonist, are doing something to make a
+future action that requires a roll more simple/difficult or probable/improbable
+to succeed, you will explicitly said what action or kind of actions you are
+trying to affecting, then __Face the uncertain__:
 
-__Help a NPC__ - When you, a protagonist, help a NPC to accomplish an action, __Face the uncertain__:
+- On Twist, the affected rolls will take a +1/-1 modifier.
+- On Success, the affected rolls will take a  +2/-2 modifier.
 
-- On success, the NPC is successful.
-- On failure, the NPC fails.
+To remember the bonus, the scenarist will to add one or two time the same tag
+with the __Change a tag__ moves. It will be descriptive of the context of the
+rolls to which the modifier applies.  The scenarist will ask to you do delete
+the tags added in this way when the modifier can not be applied anymore. If the
+tag is very circumscribed in time, you may avoid to write it and just remember
+to apply the bonus as needed.
 
-Only one character can help a NPC, but other may help or hinder you.
+If multiple __Advantage/Disadvantage__ are valid for a certain roll, they are
+not summed, but instead only the biggest malus and the biggest bonus are used.
 
-__Hinder a NPC__ - When you, a protagonist, hinder a NPC to accomplish an
-action, __Face the uncertain__:
-
-- On success, the NPC fails.
-- On failure, the NPC is successful.
-
-Only one character can hinder a NPC, but other may help or hinder you.
+You can use this move to affect your rolls, as well the ones of another
+protagonist. Disadvantaging a player that is acting against you is the way to
+represent an opposition roll.
 
 ```
-Scenarist - Nick understand what are you doing here, and escape from the front
-door, then...
+Alice - Anne tries to go on the roof, to get a better view of the situation. In
+this way we can get some advantages on check about shooting, or escaping.
 
-Bob - Wait, Bart was near him, so he put himself in front of the door.
+Scenarist - ok, there are enemies keeping the house under control, so make a roll.
 
-Scenarist - Ok, but Nick is fast, please make a roll
+Alice - Anne uses the traits "Agile" and "Silent"... and I got a success!
 
-Bob - ok, but I do not have any useful traits, so I will not add any bonus... and
-I got a failure!
+Scenarist - ok, so you reach the root, what the others do?
 
-Scenarist - So Nick successfully escape from the door, and pushes Bart, that fall
-down hurting is shoulder on the door frame. Sign "Shoulder pain 1", as harm.
+Alice - Wait... Should I write something like "Sight from the roof 2" on my
+character sheet? So we can remember that any action for which it is an advantage
+will give me a +2 bonus on the roll!
+
+Scenarist - Yes, you should, and if you want, just do it. But the bonus is
+valid only until you are on the roof, so I think we can remember it also
+without having to write the tag! I will inform you in any case when the bonus
+ends.
 ```
-
-__Help a PC__ - When you, a protagonist, help another protagonist to accomplish
-an action, __Face the uncertain__:
-
-- On success, add 2 from the next roll of the PCs.
-- On twist, add 1 from the next roll of the PCs.
-
-You can not help someone helping or hindering an PC.  If multiple character are
-helping, add only the maximum value.
-
-__Hinder a PCs__ - When you, a protagonist, hinder another protagonist to
-accomplish an action, __Face the uncertain__:
-
-- On success, subtract 2 from the next roll of the PCs.
-- On twist, subtract 1 from the next roll of the PCs.
-
-You can not hinder someone helping or hindering an PC.  If multiple character are
-hider, subtract only the maximum value.  __Hindering a PC__  that is acting
-against you directly is the way to represent an opposition roll.
-
-Note that a roll may have both the modifier from previous __Help a PC__
-and __Hinder a PC__ moves.
 
 ```
 Alice - Anne is not agree, so she tries to establish herself. For safety she tries
@@ -943,6 +989,33 @@ Alice - ok, I have only one relevant trait... and I got a fail.
 Scenarist - Well, so Alice reaches the gun but Bart have a good holding and
 pushes her away. Alice does not get hurt but the others did not approve her
 behaviour: write on her sheet the harm "Betray"
+```
+
+__Help/Hinder a NPC__ - When you, a protagonist, help a NPC to accomplish an
+action, __Face the uncertain__:
+
+- On success, the NPC is-successful/fails.
+- On failure, the NPC fails/is-successful.
+
+Only one character can help/hinder a NPC, but other may help or hinder you.
+
+Notes: normally, the scenarist decides if a NPC fails or is successful in
+taking any action; to Help/Hinder a PC, the __Advantage/Disadvantage__ move can
+be used.
+
+```
+Scenarist - Nick understand what are you doing here, and escape from the front
+door, then...
+
+Bob - Wait, Bart was near him, so he put himself in front of the door.
+
+Scenarist - Ok, but Nick is fast, please make a roll
+
+Bob - ok, but I do not have any useful traits, so I will not add any bonus... and
+I got a failure!
+
+Scenarist - So Nick successfully escape from the door, and pushes Bart, that fall
+down hurting is shoulder on the door frame. Sign "Shoulder pain 1", as harm.
 ```
 
 __Sway a NPC__ - When you, a protagonist, try to convince someone leveraging
@@ -1013,42 +1086,6 @@ Scenarist - Ok, Alice what you do?
 
 Alice - Anne opens the door and says "I hope you have something more a vague
 promise of a job...
-```
-
- __Taking an advantages__ - when you are doing something to make a future
-action more simple or probable to succeed, explicitly said what action or kind
-of actions you are trying to favor, then  __Face the uncertain__:
-
-- On Success the scenarist will ask you to add two time the same tag with
-  the __Change a tag__ moves.
-- On Twist the scenarist will askyou to add a tag with the __Change a tag__ move.
-
-The tag will be descriptive of the frame in which it is valid; until it is
-valid you will take a +1 bonus to any roll (+2 if there were two tags). The
-scenarist will ask to you do delete the tags added in this way when you go out
-of the frame of validity.
-
-Note: if the advantage is very circumscribed in time, you may avoid to write it
-and just remember to apply the bonus as needed.
-
-```
-Alice - Anne tries to go on the roof, to get a better view of the situation. In
-this way we can get some advantages on check about shooting, or escaping.
-
-Scenarist - ok, there are enemies keeping the house under control, so make a roll.
-
-Alice - Anne uses the traits "Agile" and "Silent"... and I got a success!
-
-Scenarist - ok, so you reach the root, what the others do?
-
-Alice - Wait... Should I write something like "Sight from the roof 2" on my
-character sheet? So we can remember that any action for which it is an advantage
-will give me a +2 bonus on the roll!
-
-Scenarist - Yes, you should, and if you want, just do it. But the bonus is
-valid only until you are on the roof, so I think we can remember it also
-without having to write the tag! I will inform you in any case when the bonus
-ends.
 ```
 
 __Read a person__ - When in a charged situation you, a protagonist, try to get some
@@ -1310,22 +1347,6 @@ Alice - Which is the biggest threat in the area?
 Scenarist - There is something moving in the grass, at 20-25 meters. It passes
 for one moment in a zone with a more sparse vegetation and your character can
 recognize it: is a big feline. It did not mind you, for now...
-```
-
-Some other moves differs if the target is a PC or an NPC, they are presented as
-different moves with PC/NPC in the title.
-
-```
-Bob: Bart shots to Nick.
-
-Scenarist: He can not... look on your character sheet: he does not have a gun
-anymore since he loose it in the previous scene. But you have a rusty knife, if
-you want you can make a roll to try to wound him with it.
-
-Bob agrees to use the knife, than rolls the dices and got a twist.
-
-Scenarist: ok, you hurt him, but since the knife is very rusty it breaks, delete
-it from the character sheet.
 ```
 
 # Your World - Playbook

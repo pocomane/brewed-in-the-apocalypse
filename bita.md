@@ -379,36 +379,47 @@ They may also be just a way to give color to the situation
 how your character is dressed?
 ```
 
-__Ask to change something__ when a player feels uncomfortable with what another
-one is telling, ey can cross the palm shaping an X where the speaker can see
-it. The speaker will stop and the player will explain what makes em feel in
-that way. If the issue can be resolved changing some details that the speaker
-does not consider fundamental for the narration, the speaker have to do it.
+__Interrupt the discussion__ when a player needs to interrupt the in-game discussion
+ey can:
 
-If such solution is not possible, the speaker can decide to narrate something
-completely different, or continue with the original idea.  For such decision we
-suggest to consider the motivation of the request, the mains being:
+- To rise an hand, and the current speaker will try to conclude the narration as
+  such as possible.
+- To cross the two palms, shaping an X, and the speaker will interrupt anything
+  ey is saying as soon as ey see the gesture, without concluding what ey is saying.
 
+Different methods may be used: icons to touch at middle of the table, cards to
+be slam on the table, etc; the player agree on the methods at the beginning of the
+session.
+
+The player triggering the interruption, will describe his motivations, the mains
+being:
+
+- Something external to the game happened and a pause is needed to handle it; in
+  such case just decide when to restart and give everyone the time they need.
 - The player thinks that what were told is somehow incoherent with the setting,
-  the situation, or the tenor of the play; if this is the case the speaker should
-  explicitly ask for trust from the player and ey should give em.
+  the situation, or the tenor of the play.
 - The player feels anguish or any other strong feeling ey do not want to in this
   game, for example because the narration is linked to some experience the
-  player had in the real life; in such case the speaker should often in this
-  situation it is enough do not describe too much in detail the event, or keeping
-  it in the background.
+  player had in the real life.
 
-This move must never be triggered to subvert the result of a roll, or to change
-the action of another person that the triggering player does not agree. Instead
-of a X palm, any other method may be agreed at beginning of the session: touching
-an icon in the middle of the table, slam a card, or anything else.
+If the issue is about the narration (last two cases), the speaker must change
+any details ey think is not fundamental to eir narration, if it is enough to
+resolve the issue. If this is not possible and the issue regards some
+incoherence that the speaker thinks will be automatically resolved in the rest
+of the narration, ey can explicitly ask to trust em. If the player refuse, or
+if there is no agreement in what is coherent and what not, all the players will
+make a vote: do not discuss about it, just vote if the speaker should continue
+without modification or not.
 
-If this move is triggered very often, especially if it often can not be
-resolved changing some details, the people at table should start a discussion
-about what all they expect from the game. Probably there are two or more groups
-with quite different visions. In the rare cases where they can not find an
-agreement, there is no bad in doing something else, and find other group where
-to play the specific game they are searching for.
+For sensitivity issues (last case) do not vote, the speaker should always
+accept to change the narration, also if it is a strong change.  Normally, after
+a wile all the player will converge to a kind of game that is good for
+everyone, and this move will be used rarely. If this does not happen, it may be
+an indication of different group of people expecting different things from the
+game. In such situation we suggest to have a discussion about it. In the rare
+cases where an agreement can not be find there is no bad in deciding to do
+something else, and find other groups where to play the specific game they are
+searching for.
 
 ```
 Scenarist - and you found an stall with a seller that has...

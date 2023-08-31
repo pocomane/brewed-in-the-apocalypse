@@ -60,6 +60,8 @@ require to return back to critical point in the fiction, if
   she will describe it better.
 - She thinks some other move should be triggered during what they told, in such
   case she will communicate what they have to do.
+- She thinks that somewhere in his telling there should be a reaction of the
+  world, that she will do with a *Tell imminent troubles (move)*
 
 The scenarist will always give the possibility to act differently from that
 point on.

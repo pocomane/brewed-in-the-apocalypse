@@ -277,6 +277,8 @@ reason to rollback at all.
 
 Typically, you have to make a rollback when:
 
+- during the narration of the protagonist, some reaction of the world should have
+  happened; in this case the scenarist can __Tell imminent troubles__.
 - the protagonist is telling something impossible.
 - the protagonist misunderstood something in the scene.
 - the protagonist triggered a move without recognize it, an ey continue to speak

@@ -1,8 +1,8 @@
 
 # Brewed in the Apocalypse
 
-Brewed in the Apocalypse is a tabletop RPG heavily based on Apocalypse World
-[^1]. All the text is released under Creative Commons.
+Brewed in the Apocalypse is a generic system for tabletop RPG heavily based on
+Apocalypse World [^1]. All the text is released under Creative Commons.
 
 The following files are provided:
 - [Brewed in the Apocalypse - Strong](bita-strong.md), is a compact version, with

@@ -1,13 +1,15 @@
 
 # Brewed in the Apocalypse
 
-This is a role playing game for 3-6 player. One person will play as the
-"Scenarist", while the others will play the "Protagonists". A variant for
-distributed scenarist responsibility among all the players is present.
+This is a generic system for tabletop role playing game, heroic tales and
+fantastic drama. The rules are very light and they are mainly aimed at creating
+fiction rather than tactical simulations.
 
-To play, you need 2 standard 6-sides dice (2 for each protagonist would be
-better), some white sheets, a pencil and eraser (a pencil for each player would
-be better).
+The rules support 3-6 player, one person will play as the "Scenarist", while
+the others will play the "Protagonists". A variant for distributed scenarist
+responsibility among all the players is present.  To play, you need 2 standard
+6-sides dice (2 for each protagonist would be better), some white sheets, a
+pencil and eraser (a pencil for each player would be better).
 
 It is strongly inspired by:
 

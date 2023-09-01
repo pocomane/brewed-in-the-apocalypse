@@ -11,7 +11,7 @@ local common_css = [[
           src: url(../util/thefont.ttf) format("truetype");
         }
         ul {
-          //list-style-type: none;
+          /* list-style-type: none; */
           padding-left: 0pt;
         }
         ul li {
@@ -38,7 +38,7 @@ local standard_css = [[
         body {
           font-family: thefont;
           column-count: 1;
-          column-fill: balanced;
+          column-fill: balance;
           font-size: 8pt;
           line-height: 10pt;
           text-align: justify;
@@ -120,7 +120,7 @@ local compact_css = [[
         body {
           font-family: thefont;
           column-count: 2;
-          column-fill: balanced;
+          column-fill: balance;
           font-size: 8pt;
           line-height: 10pt;
           text-align: justify;

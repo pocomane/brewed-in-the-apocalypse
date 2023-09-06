@@ -236,12 +236,14 @@ local function make_single_pdf(src, dst, mode)
     dst = dst:gsub('%..*$','')
     log('generating '..dst..'.pdf')
 
+    log('- reading content')
+
     local f, e = io.open(src, 'r')
     if e then error(e) end
     local content = f:read('a')
     f:close()
 
-    log('- content read')
+    log('- preprocessing md')
     
     content = content:gsub('TODO.-\n\r?\n', '')
     content = content:gsub('[^\n]*revision[^\n]*', '%0 '..DATE..'. This is a DRAFT. Look at the markdown version for a TODO list.', 1)
@@ -249,7 +251,7 @@ local function make_single_pdf(src, dst, mode)
     content = content:gsub('([\n\r]+)```html,page,break[\n\r]+```', '%1<div class="PageBreak"></div>')
     content = content:gsub('([\n\r]+)```html,move,diagram[\n\r]+```', '%1<img src="../move_diagram.svg" style="column-span:all;width:200%%;"></img>')
     
-    log('- preparsing done')
+    log('- rendering html')
 
     local x
     if not  mode or 'default' == mode then
@@ -260,7 +262,7 @@ local function make_single_pdf(src, dst, mode)
       error('unknown output mode "' .. mode .. '"')
     end
     
-    log('- rendering done')
+    log('- postprocessing html')
 
     x = x:gsub('<pre><code>(.-)</code></pre>',function(content)
       return '<div class="example"><p>'..(content:gsub('(\n\r?\n)','</p>%1<p>'))..'</p></div>'
@@ -272,12 +274,12 @@ local function make_single_pdf(src, dst, mode)
     f:write(x)
     f:close()
     
-    log('- postprocessing done')
+    log('- generating pdf')
 
     local ok, st, err = os.execute('weasyprint build/'..dst..'.html build/'..dst..'.pdf')
     if 'exit' ~= st then error(err) end
     
-    log('- pdf generated')
+    log('- done')
 
     --os.execute('cd build && pdfjam --landscape --signature 1 '..dst..'.pdf')
   end

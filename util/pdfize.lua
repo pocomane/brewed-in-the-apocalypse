@@ -275,7 +275,7 @@ local function make_single_pdf(src, dst, mode)
     f:write(x)
     f:close()
 
-    local cmd = 'weasyprint build/'..dst..'.html build/'..dst..'.pdf'
+    local cmd = 'weasyprint -v -d build/'..dst..'.html build/'..dst..'.pdf'
     log('- generating pdf ('..cmd..')')
 
     local ok, st, err = os.execute(cmd)
@@ -288,7 +288,7 @@ local function make_single_pdf(src, dst, mode)
 end
 
 local function make_pdf()
-  os.execute('( touch DEBUG.txt; while true ; do if [ ! -f "DEBUG.txt" ] ; then exit; fi; sleep 3 ; ps -aux | grep -A 2 -B 2 weasyprint ; done ; ) &')
+  os.execute('( touch DEBUG.txt; while true ; do if [ ! -f "DEBUG.txt" ] ; then exit; fi; sleep 3 ; ps -aux | grep weasyprint | grep -v grep ; done ; ) &')
 
   log("Reference build date: "..DATE)
   os.execute('mkdir -p build')

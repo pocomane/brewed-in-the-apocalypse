@@ -222,19 +222,9 @@ like about the fiction, until there are no imminent threats for the
 protagonists. How the discussion is moved to the others? We have the following
 scenarist move:
 
-__Ask what they do__ - when you, the scenarist, are speaking and you have
-nothing else to say, ask to one ore more characters in the current scene what
-they do next.
-
-TODO : add to the "ask what they do" some indication on how move spotlight
-between protagonists
-
-So at end of the __Describe the scene__ , when the scenarist has nothing more
-to say, just conclude with "What do you do" ? Then here there is the first
-protagonist move:
-
-__Tell what the character does__ - when the scenarist asks to you, a
-protagonist, what your character does, you tell your character actions, what ey
+__Ask what they do__ When the scenarist has nothing else to say and ey will ask
+to one ore more characters in the current scene what they do next.  Then you,
+the questioned protagonist, tell your character actions, what ey
 says, feels, etc. You do it also when the scenarist asks it to a group your
 character is member of, no one is still speaking, and you find out something
 interesting to tell.  If there is something not clear in scene or that you
@@ -243,8 +233,7 @@ actions bring you to a new situation you want to know about. If the scenarist
 explicitly asked you for some particular detail, first give it in the most
 concise way you can found, than you can elaborate it.
 
-So the protagonist have to reply to the "What do you do" telling the action of eir
-character.
+TODO : add some indication on how move spotlight between protagonists ?
 
 ```
 Scenarist: Nick try to escape from the backdoor. What do you do?

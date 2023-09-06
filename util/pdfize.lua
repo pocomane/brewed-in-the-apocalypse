@@ -288,7 +288,7 @@ local function make_single_pdf(src, dst, mode)
 end
 
 local function make_pdf()
-  os.execute('( touch DEBUG.txt; while true ; do if [ ! -f "DEBUG.txt" ] ; then exit; fi; sleep 3 ; ps -aux | grep weasyprint | grep -v grep ; done ; ) &')
+  os.execute('( touch DEBUG.txt; while true ; do if [ ! -f "DEBUG.txt" ] ; then exit; fi; sleep 3 ; ps -aux | grep python | grep -v grep ; done ; ) &')
 
   log("Reference build date: "..DATE)
   os.execute('mkdir -p build')

@@ -5,7 +5,7 @@ on: [push, pull_request, workflow_dispatch]
 jobs:
 
   generate-pdf:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-23.04
 
     steps:
       - name: Checkout

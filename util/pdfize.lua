@@ -219,6 +219,7 @@ end
 
 local function render(x, pre, pos)
 
+  os.execute('rm -f build/tmp.md')
   local t, e = io.open('build/tmp.md', 'w')
   if e then error(e) end
   t:write(x,'\n')
@@ -273,10 +274,12 @@ local function make_single_pdf(src, dst, mode)
 
     f:write(x)
     f:close()
-    
-    log('- generating pdf')
 
-    local ok, st, err = os.execute('weasyprint build/'..dst..'.html build/'..dst..'.pdf')
+    os.execute('ls -lha build/')
+    local cmd = 'weasyprint build/'..dst..'.html build/'..dst..'.pdf'
+    log('- generating pdf ('..cmd..')')
+
+    local ok, st, err = os.execute(cmd)
     if 'exit' ~= st then error(err) end
     
     log('- done')

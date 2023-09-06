@@ -249,7 +249,7 @@ local function make_single_pdf(src, dst, mode)
     content = content:gsub('TODO.-\n\r?\n', '')
     content = content:gsub('[^\n]*revision[^\n]*', '%0 '..DATE..'. This is a DRAFT. Look at the markdown version for a TODO list.', 1)
     
-    content = content:gsub('([\n\r]+)```html,page,break[\n\r]+```', '%1<div class="PageBreak"></div>')
+    -- content = content:gsub('([\n\r]+)```html,page,break[\n\r]+```', '%1<div class="PageBreak"></div>') -- DISABLE THIS when executing on github since there is a bug in their weasyprint version
     content = content:gsub('([\n\r]+)```html,move,diagram[\n\r]+```', '%1<img src="../move_diagram.svg" style="column-span:all;width:200%%;"></img>')
     
     log('- rendering html')
@@ -275,10 +275,9 @@ local function make_single_pdf(src, dst, mode)
     f:write(x)
     f:close()
 
-    local cmd = 'weasyprint -v -d build/'..dst..'.html build/'..dst..'.pdf'
-    log('- generating pdf ('..cmd..')')
+    log('- generating pdf')
 
-    local ok, st, err = os.execute(cmd)
+    local ok, st, err = os.execute('weasyprint build/'..dst..'.html build/'..dst..'.pdf')
     if 'exit' ~= st then error(err) end
     
     log('- done')
@@ -288,16 +287,13 @@ local function make_single_pdf(src, dst, mode)
 end
 
 local function make_pdf()
-  os.execute('( touch DEBUG.txt; while true ; do if [ ! -f "DEBUG.txt" ] ; then exit; fi; sleep 3 ; ps -aux | grep python | grep -v grep ; done ; ) &')
-
   log("Reference build date: "..DATE)
   os.execute('mkdir -p build')
 
   local fileliststr = [[
 bita.md
+bita-strong.md
 ]]
---bita-strong.md
---]]
 
   local count = 0
   for src in fileliststr:gmatch('[^\n]*') do
@@ -306,8 +302,6 @@ bita.md
     local dst = src:match('[^/\\]*$')
     make_single_pdf(src, dst, count == 1 and 'default' or 'compact')
   end
-
-  os.execute('rm DEBUG.txt')
 end
 
 -----------------------------------------------------------------------------------

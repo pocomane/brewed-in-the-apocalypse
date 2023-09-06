@@ -295,8 +295,9 @@ local function make_pdf()
 
   local fileliststr = [[
 bita.md
-bita-strong.md
 ]]
+--bita-strong.md
+--]]
 
   local count = 0
   for src in fileliststr:gmatch('[^\n]*') do

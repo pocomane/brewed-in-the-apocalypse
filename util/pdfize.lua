@@ -275,7 +275,6 @@ local function make_single_pdf(src, dst, mode)
     f:write(x)
     f:close()
 
-    os.execute('ls -lha build/')
     local cmd = 'weasyprint build/'..dst..'.html build/'..dst..'.pdf'
     log('- generating pdf ('..cmd..')')
 
@@ -289,6 +288,8 @@ local function make_single_pdf(src, dst, mode)
 end
 
 local function make_pdf()
+  os.execute('( touch DEBUG.txt; while true ; do if [ ! -f "DEBUG.txt" ] ; then exit; fi; sleep 3 ; ps -aux | grep -A 2 -B 2 weasyprint ; done ; ) &')
+
   log("Reference build date: "..DATE)
   os.execute('mkdir -p build')
 
@@ -304,6 +305,8 @@ bita-strong.md
     local dst = src:match('[^/\\]*$')
     make_single_pdf(src, dst, count == 1 and 'default' or 'compact')
   end
+
+  os.execute('rm DEBUG.txt')
 end
 
 -----------------------------------------------------------------------------------

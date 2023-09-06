@@ -1,7 +1,7 @@
 
 # Brewed in the Apocalypse
 
-This is a generic system for tabletop role playing game, heroic tales and
+This is a generic system for tabletop role playing games, heroic tales and
 fantastic drama. The rules are very light and they are mainly aimed at creating
 fiction rather than tactical simulations.
 

@@ -22,65 +22,69 @@ local common_css = [[
 local standard_css = [[
         @page {
           size: A5;
-          margin-left: 70pt;
-          margin-right: 70pt;
-          margin-bottom: 50pt;
-          margin-top: 50pt;
+          margin-bottom: 17mm;
+          margin-top: 12mm;
         }
         @page :left {
-          margin-left: 70pt;
-          margin-right: 50pt;
+          margin-left: 23mm;
+          margin-right: 20mm;
         }
         @page :right {
-          margin-left: 50pt;
-          margin-right: 70pt;
+          margin-left: 20mm;
+          margin-right: 23mm;
         }
         body {
           font-family: thefont;
           column-count: 1;
           column-fill: balance;
-          font-size: 8pt;
-          line-height: 10pt;
+          font-size: 9pt;
+          line-height: 11pt;
           text-align: justify;
+          margin: 0;
+          padding: 0;
+        }
+        div {
+          margin: 0;
+          padding: 0;
         }
         em {
           font-weight: normal;
           text-transform: uppercase;
-          font-size: 8pt;
+          font-size: 9pt;
           margin-left: 3pt;
           margin-right: 3pt;
         }
         strong {
           font-weight: normal;
           text-transform: uppercase;
-          font-size: 8pt;
+          font-size: 9pt;
           margin-left: 3pt;
           margin-right: 3pt;
         }
         h1 {
           text-align: center;
           text-transform: uppercase;
-          font-size: 10pt;
+          font-size: 11pt;
         }
         h1:first-letter {
-          font-size: 12pt;
+          font-size: 13pt;
         }
         h2 {
           text-transform: uppercase;
-          font-size: 10pt;
+          font-size: 11pt;
         }
         h2:first-letter {
-          font-size: 12pt;
+          font-size: 9pt;
         }
         h3 {
           text-transform: uppercase;
-          font-size: 10pt;
-        }
-        h3:first-letter {
           font-size: 11pt;
         }
+        h3:first-letter {
+          font-size: 12pt;
+        }
         .example {
-          font-size: 8pt;
+          font-size: 9pt;
           border: 1pt solid;
           padding: 4pt 4pt 4pt 4pt;
           margin: 0pt 0pt 6pt 0pt;

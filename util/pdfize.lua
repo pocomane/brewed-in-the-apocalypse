@@ -211,6 +211,12 @@ local end_html = [[
   </html>
 ]]
 
+local DATE = os.date('!%Y-%m-%d %H:%M:%SZ')
+
+local function log(...)
+  print(os.date('![%H:%M:%S ')..tostring(os.clock())..']', ...)
+end
+
 local function render(x, pre, pos)
 
   local t, e = io.open('build/tmp.md', 'w')
@@ -228,19 +234,22 @@ end
 local function make_single_pdf(src, dst, mode)
   if '' ~= dst then
     dst = dst:gsub('%..*$','')
-    print('generating '..dst..'.pdf')
+    log('generating '..dst..'.pdf')
 
     local f, e = io.open(src, 'r')
     if e then error(e) end
     local content = f:read('a')
     f:close()
 
-    local date = os.date('!%Y-%m-%d %H:%M:%SZ')
+    log('- content read')
+    
     content = content:gsub('TODO.-\n\r?\n', '')
-    content = content:gsub('[^\n]*revision[^\n]*', '%0 '..date..'. This is a DRAFT. Look at the markdown version for a TODO list.', 1)
+    content = content:gsub('[^\n]*revision[^\n]*', '%0 '..DATE..'. This is a DRAFT. Look at the markdown version for a TODO list.', 1)
     
     content = content:gsub('([\n\r]+)```html,page,break[\n\r]+```', '%1<div class="PageBreak"></div>')
     content = content:gsub('([\n\r]+)```html,move,diagram[\n\r]+```', '%1<img src="../move_diagram.svg" style="column-span:all;width:200%%;"></img>')
+    
+    log('- preparsing done')
 
     local x
     if not  mode or 'default' == mode then
@@ -250,6 +259,8 @@ local function make_single_pdf(src, dst, mode)
     else
       error('unknown output mode "' .. mode .. '"')
     end
+    
+    log('- rendering done')
 
     x = x:gsub('<pre><code>(.-)</code></pre>',function(content)
       return '<div class="example"><p>'..(content:gsub('(\n\r?\n)','</p>%1<p>'))..'</p></div>'
@@ -260,15 +271,20 @@ local function make_single_pdf(src, dst, mode)
 
     f:write(x)
     f:close()
+    
+    log('- postprocessing done')
 
     local ok, st, err = os.execute('weasyprint build/'..dst..'.html build/'..dst..'.pdf')
     if 'exit' ~= st then error(err) end
+    
+    log('- pdf generated')
 
     --os.execute('cd build && pdfjam --landscape --signature 1 '..dst..'.pdf')
   end
 end
 
 local function make_pdf()
+  log("Reference build date: "..DATE)
   os.execute('mkdir -p build')
 
   local fileliststr = [[

@@ -11,14 +11,12 @@ For clearness we will use "She" for the scenarist and "He" for a protagonist.
 __Setup__ The players together select a scenario. Each protagonist selects a
 different character and copy name, traits, abilities, etc on the character sheet.
 New characters may be created from scratch using 8 times the *Experience
-(move)*.  To invent a new scenario the player should keep the structure of the
-example ones.
+(move)*.
 
 __Traits__ A trait is one or few words that describe a quality, an ability, or
-a tendency of a character.  The traits will give to the protagonist a mechanical
-bonus to any roll when acting according to them. They should describe the
-character in the fiction too, but the protagonist is free to ignore some of them
-when acting according to others.
+a tendency of a character.  The traits will give to the protagonist a bonus to
+his rolls and they describe the character in the fiction, but the protagonist
+is free to ignore some of them when acting according to others.
 
 When adding a trait: it must be conceptually linked to 2 previous ones (except
 for the first 4 traits); a character can not have two equal traits; a trait
@@ -77,7 +75,9 @@ for too much time, the scenarist will wait for them to stop to talk, then she
 will make the situation evolves in a new trouble that they can not avoid
 reacting in any way. She may also invent and assign an harm to a character when
 appropriate. She may decide to substitute this move with
-a *Tell imminent troubles (move)*.
+a *Tell imminent troubles (move)*.  The scenarist can decide an harm is
+temporary, meaning it can be healed just by the time passing.  The protagonist
+can always ask which harm is temporary.
 
 __Face the uncertain (move)__ When a character does something risky or that has
 uncertain consequences, and there are no other more specific moves, a roll is
@@ -95,31 +95,27 @@ traits - number of harms:
   describes how the goal is reached; if applicable something good may happen
   too: object discovered, new information collected, etc.
 
-The scenarist should avoid a roll if the chances of failing or succeeding are
-too small, or if the consequences of failing are not interesting. In such case
-she decides the more appropriate outcome.
+The scenarist will avoid a roll deciding directly the outcome when in the
+fiction the chances of failing or succeeding are too small, or when the
+consequences of failing are not interesting.
 
 When this move is recalled by other ones, they will provide also an outcome
 list to be used instead of the previous one.
 
-__Difficulty of an action__ To handle the difficulty of an action, the
-scenarist can split it in multiple rolls, justifying it in the fiction. She can
-also make clear that due to the danger of the situation, the consequences will
-be very heavy, like possible multiple harms.
+__Difficulty of an action__ The scenarist can split an action in multiple rolls
+justifying it in the fiction. She can also decide in advance that its
+consequences could be heavy (e.g. multiple harms): the player can decide to
+continue or to tell something else.
 
-__Remove an harm (move)__ When a character does something that can cure one or
-more harms, the scenarist will tell which harms can be potentially removed.  If
-the player is not satisfy he can tell something else instead.  If he are
-satisfied a *Face the uncertain (move)* is done:
+__Remove an harm (move)__ When enough times is passed for the temporary harms,
+or the when a character does something that can cure an harm, the scenarist
+will tell which harms can be potentially removed.  The player can decide to tell
+something else, or to continue doing a *Face the uncertain (move)*:
 
 - On Success, delete up to 3 related harms.
 - On Twist, delete up to 2 related harms.
-- On Fail, delete one related harms, then a *Make the worst happen (move)* is done.
-
-Any harm assigned on fail must be a temporary one. A temporary harm is one that
-can be healed just by the time passing. The scenarist when assigning any harm can
-decide it is temporary and when it will be healed.  The protagonist can always
-ask which harm is temporary.
+- On Fail, delete one related harms, then a *Make the worst happen (move)* is
+  done (any new harm must be a temporary one).
 
 __Advantage/Disadvantage (move)__ When a character is doing something to make a
 future action that requires a roll more simple/difficult or probable/improbable

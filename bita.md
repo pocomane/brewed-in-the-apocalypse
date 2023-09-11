@@ -338,12 +338,14 @@ rollback to the guard stunting. You need a roll for it, and you did not give us
 too much detail to decide which the consequences could be.
 ```
 
-__Ask to the protagonist__ - when you, the scenarist, are speaking and you
-think it is appropriate, make a question to one or more protagonist, and build
-on there answer in your narration.  Ideally, you should continuously asking
-such question. About the questions them self:
+__Ask to the protagonist__ - when you, the scenarist, need to add something new
+in the scene that you did not already planned, ask to one or more protagonist,
+and build on there answer in your narration. If you think is appropriate,
+you can do it also if you already had planned something and want to mix it
+with a clue from the protagonists. The protagonist may always answer with
+"I do not know", then you can invent something by yourself.
 
-TODO : better description of "When is appropriate" !!!!
+Ideally, you should continuously asking such questions; about them:
 
 They may be provocative to push a reaction
 

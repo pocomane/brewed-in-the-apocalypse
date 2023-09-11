@@ -223,20 +223,36 @@ protagonists. How the discussion is moved to the others? We have the following
 scenarist move:
 
 __Ask what they do__ When the scenarist has nothing else to say and ey will ask
-to one ore more characters in the current scene what they do next.  Then you,
+to one protagonist in the current scene what ey do next.  Then you,
 the questioned protagonist, tell your character actions, what ey
-says, feels, etc. You do it also when the scenarist asks it to a group your
-character is member of, no one is still speaking, and you find out something
-interesting to tell.  If there is something not clear in scene or that you
-think is interesting to know about, ask it to the scenarist. Ask also if your
-actions bring you to a new situation you want to know about. If the scenarist
-explicitly asked you for some particular detail, first give it in the most
-concise way you can found, than you can elaborate it.
+says, feels, etc. You can end in one of the following way
+
+- Ask to the scenarist what happens then; in such case, finally the scenarist
+  may decide to let someone else speak.
+- Ask to the scenarist to clarify some details in order do decide how to
+  continue; ey will do it or if you are not supposed to know, see or
+  understand, ey could just said "You do not know"; in any case ey will then
+  ask you how you continue.
+
+During the description of what you are doing, If the scenarist explicitly asked
+you for some particular detail, first give it in the most concise way you can
+found, than you can elaborate it.
 
 TODO : add some indication on how move spotlight between protagonists ?
 
+You can start describing what you do also when the scenarist asks it to a group
+your character is member of, no one is still speaking, and you find out
+something interesting to tell. You do the same if the scenarist stop speaking
+without asking nothing, like the question was implicit; note that there are
+almost no issues in keeping "What happens" implicit, but we strongly suggest to
+always made "What do you do" explicit.
+
 ```
-Scenarist: Nick try to escape from the backdoor. What do you do?
+Scenarist: Nick try to leave. What do you do?
+
+Bob: What do you mean with "leave" ?
+
+Scenarist: He tries to escape from the backdoor. What do you do?
 
 Bob: I block him.
 
@@ -244,20 +260,8 @@ Scenarist: How do you do it? I mean, you hold him physically, or you stand in
 front of the door, or what else?
 
 Bob: Oh yes, I mean just cutting of his exit, I place myself between him and
-the door.
+the door. What happens?
 ```
-
-In the previous move, there is also an option to ask more details, so how you
-can easily guess now, there is this other move for the scenarist:
-
-__Describe some details__ when a protagonist asks to you, the scenarist, to better describe some
-details about the current scene, just do it, unless ey is asking for something
-eir character is not supposed to know, see or understand. In such cases just
-said "You do not know".
-
-Note that when the scenarist ends the __Describe some details__ move, it is
-triggered again the __Ask what they do__ , and so on. All the disscussion is a
-flow of moves triggering one each other.
 
 __Rollback__ - When you, the scenarist, think the protagonist should stop telling for any reason,
 let em finish instead, or wait that a move is triggered, then, if you still
@@ -1293,7 +1297,7 @@ inside?
 
 Scenarist - Yes, however the time is over, so the wall closes...
 
-Bob - wait, wait, you were just doing a __Describe some details__ move, there
+Bob - wait, wait, you were just describing some details, there
 was no action involving. The time can not pass!
 
 Scenarist - Yes, sorry, you are right. So, what do you do?
@@ -1328,7 +1332,7 @@ know the answer.
 
 Such moves gives to the protagonists a list of questions to choose from.  If they
 ask something not in the list, the scenarist should still give any details the
-character can know, as the __Describe some details__ prescribed.  Then the
+character can know.  Then the
 scenarist should highlight that the question is not one in the list, so the
 protagonists can still ask one of them.
 

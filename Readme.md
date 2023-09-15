@@ -8,7 +8,7 @@ The following files are provided:
 - [Brewed in the Apocalypse - Strong](bita-strong.md), is a compact version, with
   the core rules that can be printed on a A4 page;
   [here a pdf version](https://github.com/pocomane/brewed-in-the-apocalypse/releases/latest/download/bita-strong.pdf).
-- [Brewed in the Apocalypse - Detailed](bita.md), is the complete version, with
+- [Brewed in the Apocalypse - Unfiltered](bita.md), is the complete version, with
   detailed explainations and examples, but the core rules can still be printed
   on a dozen of A4 pages; [here a pdf version](https://github.com/pocomane/brewed-in-the-apocalypse/releases/latest/download/bita.pdf).
 - [Brewed in the Apocalypse - Tasty](bita-tasty.md), an adaptation of the MC

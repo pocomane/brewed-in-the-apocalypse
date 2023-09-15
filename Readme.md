@@ -11,6 +11,9 @@ The following files are provided:
 - [Brewed in the Apocalypse - Detailed](bita.md), is the complete version, with
   detailed explainations and examples, but the core rules can still be printed
   on a dozen of A4 pages; [here a pdf version](https://github.com/pocomane/brewed-in-the-apocalypse/releases/latest/download/bita.pdf).
+- [Brewed in the Apocalypse - Tasty](bita-tasty.md), an adaptation of the MC
+  chapter of a PBtA RPG, to be used as complement for Brewed in the Apocalypse,
+  [here a pdf version](https://github.com/pocomane/brewed-in-the-apocalypse/releases/latest/download/bita-tasty.pdf).
 
 [^1]: http://www.apocalypse-world.com/
 

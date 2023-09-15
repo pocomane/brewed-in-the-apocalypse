@@ -74,14 +74,24 @@ local standard_css = [[
           font-size: 11pt;
         }
         h2:first-letter {
-          font-size: 9pt;
+          font-size: 13pt;
         }
         h3 {
           text-transform: uppercase;
           font-size: 11pt;
         }
         h3:first-letter {
-          font-size: 12pt;
+          font-size: 13pt;
+        }
+        h4 {
+          text-transform: uppercase;
+          font-size: 11pt;
+        }
+        h4:first-letter {
+          font-size: 13pt;
+        }
+        table {
+          border-spacing: 12pt 0pt;
         }
         .example {
           font-size: 9pt;
@@ -290,17 +300,13 @@ local function make_pdf()
   log("Reference build date: "..DATE)
   os.execute('mkdir -p build')
 
-  local fileliststr = [[
-bita.md
-bita-strong.md
-]]
-
-  local count = 0
-  for src in fileliststr:gmatch('[^\n]*') do
-    count = count + 1
-
-    local dst = src:match('[^/\\]*$')
-    make_single_pdf(src, dst, count == 1 and 'default' or 'compact')
+  local doclist = {
+    { 'default', 'bita.md' },
+    { 'compact', 'bita-strong.md' },
+    { 'default', 'bita-tasty.md' },
+  }
+  for _, d in ipairs(doclist) do
+    make_single_pdf(d[2], d[2]:match('[^/\\]*$'), d[1])
   end
 end
 

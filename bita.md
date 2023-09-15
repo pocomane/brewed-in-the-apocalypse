@@ -16,6 +16,12 @@ It is strongly inspired by:
 - Apocalypse World by D. Vincent Baker and Meguey Baker (2010)
 - Not the End by Claudio Pustorino (2020)
 
+This game is written keeping in mind a style of game for the Scenarist very similar
+to the Master of Ceremony of the Apocalypse World and derivative games. However
+it tries to be more strict with the rules, hoping that no "Guidelines" for the
+Scenarist are actually needed. However we have a compendium on it the form of
+another text: Brewed in the Apocalypse - Tasty.
+
 In this manual we use the Spivak pronouns ey/em/eir/emself: they work exactly
 like it/it/its/itself but refer to a person, without assuming any other
 attribute. A more common alternative would be the singular they but we found
@@ -1130,90 +1136,6 @@ Questions about the situation (the protagonist have to fill the _ before to ask)
 - What here I can use to _ ?
 
 An example of these moves are already given in the core mechanics sections.
-
-# Hosting the game
-
-The scenarist have a crucial role in the creation of the story, so ey
-should follow some sort of guidelines to be sure the experience be somehow
-consistent.  The long term goal of the scenarist is in the following Agendas:
-
-- Play to find out what happens.
-- Describe a world that is coherent.
-- Make the PC lives not boring.
-
-The first is particular important. The scenarist, is a player to, in the sense
-that ey participates to the game to discover what happen, and what the other
-people will do.  The preparation of big portions of materials is discouraged.
-An interesting prompt from a protagonist should never be ignored to let the story
-follow some predetermined track, unless it is temporary, just to close some
-matter already almost done. For the same reason, the setting should be kept
-initially simple.  More details about the world and the backstory will be
-discovered during the play, defined by the actions of all the players.
-
-TODO : explain the other two !!!
-
-Moreover, early in the first session (but for some setting these can
-extend to the whole game), the scenarist should also juggle two additional,
-sometimes conflicting, responsibilities:
-
-- Follow the PCs around, and learn what they are all about.
-- Give the protagonist a sense of what the world is like, and how it operates.
-
-During the game, whatever the scenarist said should follow the following
-Principles:
-
-- Do not play against the protagonists, rather be a fan of their characters: the
-  challenges are not introduced to destroy the characters, but to make they shine.
-- Respect the world you are creating; do not tell incoherent events; a
-  destructive challenge may be introduced because the situation does not make
-  otherwise sense.
-- Be honest with the protagonists: do not withhold information that their
-  character should know, make sure the situation is clear to them, let them
-  behave differently if there was some misunderstanding, etc.
-- Use your moves to continually push the game forward in interesting
-  ways; new opportunities should be added when a protagonist succeeds in a move, and
-  interesting dilemma should emerge from the twists.
-- Respond to the character actions with challenging circumstances and
-  occasional rewards.
-- Name everyone and everything, and call all by name; particularly address
-  yourself to the characters, not ther controller player.
-- Present your moves as naturally arising from the fiction, without call them by
-  name (but do not hide them if someone asks).
-- Create interesting dilemmas, not interesting plots.
-- Think off screen, too.
-
-TODO : Add more detail to the last two (and find the right position in the list) !!!
-
-TODO : make a move to let the protagonist to create part of the world !
-
-# Clues for the scenarist
-
-The scenarist moves need strong creative effort. Here you found some clues to
-use as inspiration when you have do invent something and have no ideas. They are
-quite general, and must be adapted to the situation.  Most of them can be
-declined both as irrevocable evolution for the __Make the worst happen__, and
-as possible future troubles for the __Tell imminent troubles__.
-
-- Separate them.
-- Put them together.
-- Capture someone.
-- Put someone in a spot or in a high-stakes situation.
-- Take away something from them.
-- Exploit the bad side of something they have.
-- Turn their move back on them.
-- Reveal an inconvenient truth
-- Give them a difficult decision to make.
-- Offer an opportunity, with or without a cost. ???
-- Tell them the requirement and the possible consequences, then ask. ???
-- Announce in-scene badness. ???
-- Announce off-screen badness. ???
-
-TODO : clean-up and better explining
-
-TODO : write examples ???
-```
-...
-```
 
 # Master-less/full variant
 

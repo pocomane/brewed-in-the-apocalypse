@@ -1,18 +1,18 @@
 
-# The World - The Master of Ceremony
+# The Scenarist - The Master of Ceremony
 
 This text describes a particular way of being a Game Master for several tabletop
 Role Playing Games, RPG. It is similar to all the games that describes them self
 as "Powered by the Apocalypse", where the person hosting the game is commonly
-called "Master of Ceremony".  We will instead use a more colloquial "The World"
+called "Master of Ceremony".  We will instead use a the name "Scenarist"
 and we will try to describe such role in a way that it could be applied to
 several RPG.
 
 It should be clear, but this text is strongly pointed. It encourages little
-preparation, continuous improvisation, and a strong inclusion of the Players in
-the creative process that commonly is prerogative of the Master.
+preparation, continuous improvisation, and a strong inclusion of the other
+players in the creative process that commonly is prerogative of the master.
 
-In most regards the World is just a normal Player: you act and react to what
+In most regards the Scenarist is just a normal Player: you act and react to what
 the other Players say and do, moment by moment, using your character and their
 actions to experience and explore places, people, and events.
 
@@ -22,7 +22,7 @@ The main difference is that "your character" is a multitude of NPCs and
 locations, while we call their action "World Reactions". This is a bit more
 demanding than what other Players are required to do in the game, but not by
 much, and this whole text exists to teach you, guide you, and support you in
-playing the World as effectively and comfortably as possible; follow these
+playing the Scenarist as effectively and comfortably as possible; follow these
 instructions closely, because all the other procedures in the game are built
 upon them.
 
@@ -52,7 +52,7 @@ __So what is your job?__ I'm glad you asked...
 ## Play to Find Out
 
 As we said Playing to find out __is
-the main goal of the game__ for the World, but it is so for Players alike. You do it by
+the main goal of the game__ for the Scenarist, but it is so for Players alike. You do it by
 coming to the table with dreams and ideas and desires, by imagining a world
 full of mystical places, weird creatures, and unusual peoples, but __never
 clinging to them__.
@@ -65,7 +65,7 @@ most out of it.
 
 ## Make Sense
 
-As World you don't need (nor want) to be a novel writer, movie director, or
+As Scenarist you don't need (nor want) to be a novel writer, movie director, or
 even a storyteller. You just need to make both the setting and the characters
 within it __feel lifelike and reasonable__. There are two easy ways to achieve
 this.
@@ -117,11 +117,11 @@ In the target RPG, each __Player__ should say what their Protagonist says and do
 what they think, feel and remember, and answers questions about their lives and
 surroundings.
 
-As the __World,__ you instead say everything else: how the environment appears
+As the __Scenarist,__ you instead say everything else: how the environment appears
 and behaves, and what every Non-Protagonist Character says,does,thinks, and
 feels.
 
-Whether you are the World or a Protagonist, be sure that among the things you
+Whether you are the Scenarist or a Protagonist, be sure that among the things you
 say, you also _Always say_ the things demanded in the list above. Here is why:
 
 ## What the principles demand
@@ -148,7 +148,7 @@ what your prep demands_.
 
 ## What honesty demands
 
-The Players depend on the World to give them __real__ information they can use
+The Players depend on the Scenarist to give them __real__ information they can use
 to imagine and understand what's happening around their Protagonists. Being
 abundantly clear and honest is always your best policy. Play with integrity and
 an open hand, as the Protagonists are entitled to the full benefits (and
@@ -168,7 +168,7 @@ say what honesty demands_.
 Principles are fundamental truths that serve as the foundation for all the
 systems in the game. Here they are expressed as actions: do this thing to
 obtain this effect, do this other thing to create this feeling, etc. They are
-meant to be __practical tools__ the World uses to achieve the goals set by the
+meant to be __practical tools__ the Scenarist uses to achieve the goals set by the
 game's __Agenda__.
 
 ## Drape the Rules in Fiction
@@ -212,12 +212,12 @@ __cause-and-effect__ within the fiction.
 
 Player - I try to fast-talk the guards into letting me and Deanna be.
 
-A roll results in a failure. This leads the World to select a
-Reaction. In this case, they choose to Take Away Their People.
+A roll results in a failure. This leads the Scenarist to select a
+World Reaction. In this case, they choose to Take Away Their People.
 
-BAD World - You miss the roll, so you two get separated!
+BAD Scenarist - You miss the roll, so you two get separated!
 
-GOOD World - They seem outraged by your bullshit, so they shove you aside and
+GOOD Scenarist - They seem outraged by your bullshit, so they shove you aside and
 drag Deanna away!
 
 ```
@@ -248,13 +248,13 @@ an harm of value ..."
 
 ### Be Honest
 
-These techniques are never meant to hide the rules or to keep the World's
+These techniques are never meant to hide the rules or to keep the Scenarist's
 actions secret and unintelligible. They just mean that you should convey this
 info in a __fictional__ way whenever possible. And if a Player asks "_Wait,
 which Rule was that?!_" you should be open and forthcoming about it. Rules
 are not a dirty thing to be hidden away. Answer plainly, say the name of the
 Reaction, explain your reasoning and process. __This is very useful for the
-World to properly learn how to wield the mechanics of this game__.
+Scenarist to properly learn how to wield the mechanics of this game__.
 
 Once you do what it takes to be honest, go back to a fiction-first approach and
 do whatever you can to drape all your game actions in a veil of fiction.
@@ -392,9 +392,9 @@ fine.
 
 ## Ask Honest Questions
 
-Playing the role of World doesn't mean you have to know everything about
+Playing the role of Scenarist doesn't mean you have to know everything about
 everything; after all, you are __playing to find out__ too! By asking honest
-questions you can make your job as World both __easier__ and __more fun__ when
+questions you can make your job as Scenarist both __easier__ and __more fun__ when
 it comes to three important areas:
 
   - Creating new content on the fly.
@@ -472,7 +472,7 @@ answers to good use__:
 
 ```
 
-World - So Lady Ennoia threatens the burgomaster and gets the info she needed.
+Scenarist - So Lady Ennoia threatens the burgomaster and gets the info she needed.
 How does she feel about this? How does this fit with her Doubt "I don't want to
 be like my father"?
 
@@ -480,11 +480,11 @@ Player - Oh shit, I did not think about that. She... she laughs at the man's
 cowardice. But inside she feels uneasy, although maybe she doesn't really see
 why. I mean, father was way worse than this!
 
-World - Sure. If you say so...
+Scenarist - Sure. If you say so...
 
 Player - You are evil!
 
-World - Thanks.
+Scenarist - Thanks.
 
 ```
 
@@ -509,19 +509,19 @@ After __every__ Reaction ask "_what do you do?_"
 ```
 
 __World Reactions__ are clues that help the Wold to make something happen in the fictional
-reality of the game. Since the World has to _Drape the Rules in Fiction_, the
+reality of the game. Since the Scenarist has to _Drape the Rules in Fiction_, the
 end result of a Reaction is __simply a short narration__: the NPCs say and do
 stuff, the consequences of some action are shown, some meaningful detail is
 brought to the Protagonists' attention. And then __always__ add: "_What do you
 do?_"
 
 It is important to notice, though, that Reactions are __not__ meant to always
-be problematic or challenging. They are __not__ a way for the World to "punish"
+be problematic or challenging. They are __not__ a way for the Scenarist to "punish"
 an unlucky roll or a poor decision. They are meant to make Protagonists' lives
 interesting, to achieve your __Agenda,__ and to implement your __Principles__.
 This sometimes means challenging and even hurting (_or killing!_) the PCs, but
 other times could mean giving them unexpectedly good news, revealing tempting
-opportunities, or allowing for some respite. Part of the World's job is to
+opportunities, or allowing for some respite. Part of the Scenarist's job is to
 judge how to best use their Reactions on a case-by-case basis during active
 play.
 
@@ -530,10 +530,10 @@ play.
 Some situation are perfect for introduce a __World Reaction__ and they are commons 
 to a wide variety of games.
 
-Reactions can be performed in an __Open__ or __Closed__ way, and then the World
+Reactions can be performed in an __Open__ or __Closed__ way, and then the Scenarist
 is allowed to perform one, __and only one__, of their Reactions when...
 
-  - __[Open]__ ...the Protagonists somehow __look at the World__ to know what
+  - __[Open]__ ...the Protagonists somehow __look at the Scenarist__ to know what
     happens next.
   - __[Open]__ ...the Protagonists (not the Players) __waste__ __time__ or
     __wait__ for something to happen.
@@ -552,7 +552,7 @@ __definitive__ one.
 
 As a rule of thumb, Reactions __are always Open__ unless the proper conditions
 apply. When the proper conditions apply, a Reaction can be either __Open__ or
-__Closed__ as the World sees fit.
+__Closed__ as the Scenarist sees fit.
 
 The last item of the previous list strongly depends on the game. Some games may
 explicitly request in some moment to add something to the fiction, so it may be
@@ -577,24 +577,24 @@ successes, if there are such mechanics.
 
 ## The Right Time and Place
 
-Whenever possible, Reactions should happen __almost immediately__. The World
+Whenever possible, Reactions should happen __almost immediately__. The Scenarist
 should avoid at all costs situations where they delay a Reaction so much that
 it might end up being forgotten, lost in the flow of play, or, even worse, when
 multiple Reactions pile up. In the former case, the game would feel bland,
-while in the latter it would seem punitive. If for any reason the World doesn't
+while in the latter it would seem punitive. If for any reason the Scenarist doesn't
 feel like messing with a situation when they should perform a Reaction, the
 right thing to do is to __shift the Reaction somewhere else__.
 
 It's important to understand that Reactions __are not tied to their source__. A
-Player does something that grants a Reaction to the World, then the World does
+Player does something that grants a Reaction to the Scenarist, then the Scenarist does
 something somewhere to change the fiction __of the game__, not necessarily the
-fiction tied to the Player's action. Sure, the World will often find it obvious
+fiction tied to the Player's action. Sure, the Scenarist will often find it obvious
 and desirable to React in a way that has to do with the source of the
 Reaction...
 
 ```
 
-The Scoundrel rolls a failure and the World comes up with a Reaction (Open or
+The Scoundrel rolls a failure and the Scenarist comes up with a Reaction (Open or
 Closed) that has to do with the situation the PC is in. It could look like a
 direct consequence (you tripped an alarm) or just a chance event (guards happen
 to pass by).
@@ -615,7 +615,7 @@ TODO : add chapter about Spotlight Management ???
 Zamtar gets to a roof and settles in, monitoring the activity of his
 mark.
 
-Just waiting around for stuff to happen gives the World an Open Reaction, which
+Just waiting around for stuff to happen gives the Scenarist an Open Reaction, which
 they use to make something happen somewhere else...
 
 "...in the meantime... Bolana, you hear a sudden knocking at the
@@ -629,7 +629,7 @@ door..."
 ```
 
 Gaelan is valiantly fighting a rock troll but is probably in over her
-head, so when she fails a roll, the World looks at the other PCs and, seeing
+head, so when she fails a roll, the Scenarist looks at the other PCs and, seeing
 how Fruss (the Priest) is still unharmed, uses the available Reaction to put
 them under more pressure.
 
@@ -639,7 +639,7 @@ crush you! What do you do?"
 
 ```
 
-  - It helps the World when they have no clear idea how to change one
+  - It helps the Scenarist when they have no clear idea how to change one
     situation, allowing them to instead change a different situation that right
 now comes easier to them.
 
@@ -647,7 +647,7 @@ now comes easier to them.
 
 Some NPCs are negotiating a trade, with Trax supervising the event.
 Trax is kind of just waiting to see what happens, giving an Open Reaction to
-the World. But the World too is not yet sure how to proceed, so they spend
+the Scenarist. But the Scenarist too is not yet sure how to proceed, so they spend
 their Open Reaction on a situation that is much clearer in their head.
 
 "Deanna you manage to meet Lasher, but she has a worried
@@ -655,7 +655,7 @@ expression on her face..."
 
 ```
 
-  - it helps the World to _Think Offscreen Too_, as they can use the Reaction
+  - it helps the Scenarist to _Think Offscreen Too_, as they can use the Reaction
     to push events forward that are evolving in the background
 
 ```
@@ -663,12 +663,12 @@ expression on her face..."
 The PCs are caught up in a tense and hectic situation when one of them fails a
 roll.
 
-The World doesn't want to make a complicated situation even more difficult, so
+The Scenarist doesn't want to make a complicated situation even more difficult, so
 instead, they look at their notes. It turns out that a band of marauders was
 supposed to attack the village, sooner or later, and there was even an
-Hourglass tracking it. The World thus opts to advance that Hourglass. Nothing
+Hourglass tracking it. The Scenarist thus opts to advance that Hourglass. Nothing
 needs to be described right now, or at least not while the PCs are so fervently
-engaged, but the game state has changed and the World will somehow communicate
+engaged, but the game state has changed and the Scenarist will somehow communicate
 it as soon as the PCs get out of the immediate pickle.
 
 ```
@@ -680,7 +680,7 @@ it as soon as the PCs get out of the immediate pickle.
 TODO : remove this reaction ?? too much specific to FW / better explanation of issue and doubt ?
 
 This is your first and best Reaction because it hits the Protagonists "_right
-in the feels_".  As World, for each PG you should have clear:
+in the feels_".  As Scenarist, for each PG you should have clear:
 
   - An Issue that makes the Pc feel dissatisfied.
   - A Doubt that holds the PC back to act on the Issue. 
@@ -699,7 +699,7 @@ easiest __and__ most effective option. Either way, describe how the PC
 
 Whether the PC acts on your provocation or ignores it, it will __mean__
 something. Take note of it. Ask questions (now or later) about it. Either way,
-your job as World is fulfilled. This Reaction often produces something
+your job as Scenarist is fulfilled. This Reaction often produces something
 interesting to talk about during the ___End of Session___ move, which gives the
 Player a chance to mark a Growth, and you a chance to better understand what
 pushes the Player's buttons. 
@@ -714,27 +714,27 @@ ___Closed Examples___
 
   </td></tr><tr><td>
 
-__PC Issue_ = the king's tyranny___  __World__ - While you flirt with the
+__PC Issue_ = the king's tyranny___  __Scenarist__ - While you flirt with the
 innkeeper's son you notice two royal guards. They look drunk and bored and
 about to give a hard time to an old man sitting by the hearth. _What do you
 do?_
 
   </td><td>
 
-__PC Issue_ = the king's tyranny___  __World__ - While you flirt with the
+__PC Issue_ = the king's tyranny___  __Scenarist__ - While you flirt with the
 innkeeper's son you notice two royal guards that, drunk and bored, are
 harassing an old man sitting by the hearth. _What do you do?_
 
   </td></tr><tr><td>
 
-_PC Doubt = what if others get hurt because of my actions?_  __World - __You
+_PC Doubt = what if others get hurt because of my actions?_  __Scenarist - __You
 have no difficulty overpowering the thug, but suddenly you notice his
 accomplice taking one of the bystanders hostage: "_Surrender or I'll cut her a
 new smile!_"    _What do you do?_
 
   </td><td>
 
-_PC Doubt = what if others get hurt because of my actions?_  __World - __You
+_PC Doubt = what if others get hurt because of my actions?_  __Scenarist - __You
 have no difficulty overpowering the thug, but suddenly you notice his
 accomplice slashing a bystander, leaving them on the ground, alive but badly
 bleeding, just before speeding towards the nearby maze of back-alleys.    _What
@@ -775,36 +775,36 @@ ___Closed Examples___
 
   </td></tr><tr><td>
 
-__World__ - The door is old damp wood, so if the _dugbar_ rats start chewing on
+__Scenarist__ - The door is old damp wood, so if the _dugbar_ rats start chewing on
 it, it won't last more than a few minutes. _What do you do?_
 
   </td><td>
 
-__World__ - The _dugbar_ rats are chewing through the door and will enter any
+__Scenarist__ - The _dugbar_ rats are chewing through the door and will enter any
 minute now. _What do you do?_
 
   </td></tr><tr><td>
 
-__World__ - You scare the thugs away but their boss shouts "_This is not over!
+__Scenarist__ - You scare the thugs away but their boss shouts "_This is not over!
 You hear me? This is not over!_"    [__Hourglass__ : [_tension with the Red
 Capes_]
 
   </td><td>
 
-__World__ - You notice a tattoo on the smuggler's neck... it's the same the
+__Scenarist__ - You notice a tattoo on the smuggler's neck... it's the same the
 _Red Capes_ wear! But the smuggler notices you noticing, and his expression
 changes - eyes darting towards a patch of darkness to the right, deeper in the
 alleyway. _What do you do?_
 
   </td></tr><tr><td>
 
-__World__ - The king invites you to stay at court, but you notice how various
+__Scenarist__ - The king invites you to stay at court, but you notice how various
 courtesans seem inexplicably tense about it. _What do you do?_ Do you accept
 the offer?
 
   </td><td>
 
-__World__ - The king invites you to stay at court, but before you can say
+__Scenarist__ - The king invites you to stay at court, but before you can say
 anything you recognise a face in the crowd of courtesans and dignitaries: the
 Duke of Lanverse is looking at you with hostility. It's obvious he doesn't want
 you at court. _What do you do?_ Do you accept the offer?
@@ -833,38 +833,38 @@ ___Closed Examples___
 
   </td></tr><tr><td>
 
-__World__ - If you let them get closer, the goblins will be too close for you
+__Scenarist__ - If you let them get closer, the goblins will be too close for you
 to use your ___[huge]___ dragon-slayer sword._ What do you do?_
 
   </td><td>
 
-__World__ - The goblins are too close for you to use your ___[huge]___
+__Scenarist__ - The goblins are too close for you to use your ___[huge]___
 dragon-slayer sword. _What do you do instead?_
 
   </td></tr><tr><td>
 
-__World__ - You are about to talk to the inn-keeper about the steep prices when
+__Scenarist__ - You are about to talk to the inn-keeper about the steep prices when
 you notice how everyone in the room seems to give you the stink-eye, and you
 even overhear someone mutter "___[half-blood___]_ scum_" under their breath.
 _What do you do?_
 
   </td><td>
 
-__World__ - You start haggling for a better price at the tavern when the
+__Scenarist__ - You start haggling for a better price at the tavern when the
 inn-keeper brusquely interrupts you, spits on the floor, and says "_You know
 what? We don't have rooms for __[half-blood]__ scum like you. Piss off!_" _What
 do you do?_
 
   </td></tr><tr><td>
 
-__World__ - A villager throws a tomato at you, nothing serious. But when your
+__Scenarist__ - A villager throws a tomato at you, nothing serious. But when your
 ___[wolf companion]___ sees you get hit by something and then start dripping
 red, she starts growling and tensing up, ready to jump at the assailant's
 throat. _What do you do?_
 
   </td><td>
 
-__World__ - A villager throws a tomato at you, nothing serious. But when your
+__Scenarist__ - A villager throws a tomato at you, nothing serious. But when your
 ___[wolf companion]___ sees you get hit by something and then start dripping
 red, she growls and jumps at the assailant's throat. _What do you do?_
 
@@ -873,7 +873,7 @@ red, she growls and jumps at the assailant's throat. _What do you do?_
 ### Show an Opportunity
 
 Reactions are all about having stuff happen that will __change the situation__
-and move events along. _Showing an Opportunity_ allows the World to lead
+and move events along. _Showing an Opportunity_ allows the Scenarist to lead
 Protagonists towards an interesting direction without forcing their hand, or
 avoid a situation from stalling, or present juicy hard choices. It is a direct
 expression of _Being a Fan_.
@@ -887,13 +887,13 @@ makes them tick, what engages them.
 
 Not all opportunities need to have a catch. Instead, they can provide an easy
 way out, a moment of respite, a tempting chance. These things are incredibly
-__valuable to the World__, helping you get out of three common problematic
+__valuable to the Scenarist__, helping you get out of three common problematic
 situations:
 
   - The Players are stuck or cornered, with little idea of what to do next.
   - A tense situation, often a fight or a chase, drags on too long, losing
     steam and interest.
-  - A long string of bad rolls makes it difficult for the World to come up with
+  - A long string of bad rolls makes it difficult for the Scenarist to come up with
     reasonable or interesting negative outcomes.
 
 In all these cases, showing an opportunity is __your__ easy way out, seamlessly
@@ -911,32 +911,32 @@ ___Closed Examples___
 
   </td></tr><tr><td>
 
-__World__ - The stone golem is beating you badly while your weapons clink on
+__Scenarist__ - The stone golem is beating you badly while your weapons clink on
 its rock-hard skin, ineffective. But if you manage to lure it more to the left
 while fighting, its position should shift away from the door enough to leave it
 unobstructed___.___ _What do you do?_
 
   </td><td>
 
-__World__ - The stone golem is beating you badly while your weapons clink on
+__Scenarist__ - The stone golem is beating you badly while your weapons clink on
 its rock-hard skin, ineffective. But while fighting its position has shifted a
 bit away from the door, which is now unobstructed___.___ _What do you do?_
 
   </td></tr><tr><td>
 
-__World__ - The guards seem hostile, but from what you've gathered of the
+__Scenarist__ - The guards seem hostile, but from what you've gathered of the
 situation you think that by snitching on the farmer's hiding place the guards
 might be persuaded to let you go. _What do you do?_
 
   </td><td>
 
-__World__ - The guards' chieftain says "_Tell us where the farmer is hiding and
+__Scenarist__ - The guards' chieftain says "_Tell us where the farmer is hiding and
 we'll let you go... or we'll arrest you in his stead._" _What do you do?_
 
   </td></tr><tr><td>
 
 __Player__ - Evart raises his hands in defeat: "_And how are we supposed to get
-the Jade Monkey? We're stuck!_"  __World__ - Maybe the merchant near the river
+the Jade Monkey? We're stuck!_"  __Scenarist__ - Maybe the merchant near the river
 could help? You remember how his stall was full of precious gems and little
 statues, and how he seemed to conduct himself in a very shady way. _What do you
 do?_
@@ -944,7 +944,7 @@ do?_
   </td><td>
 
 __Player__ - Evart raises his hands in defeat: "_And how are we supposed to get
-the Jade Monkey? We're stuck!_"  __World__ - While debating what to do, you
+the Jade Monkey? We're stuck!_"  __Scenarist__ - While debating what to do, you
 hear a knocking at the door. It's a child that, with a face both very serious
 and cute, says: "_My master has heard of your predicament and would like to
 make you an offer. Please follow me._" _What do you do?_
@@ -977,37 +977,37 @@ ___Closed Examples___
 
   </td></tr><tr><td>
 
-__World__ - Yes, you remember the arcane formula to open the portal, but it
+__Scenarist__ - Yes, you remember the arcane formula to open the portal, but it
 requires some kind of cost or sacrifice that you are not sure about. Using the
 wrong one could have unexpected effects. _What do you do?_
 
   </td><td>
 
-__World__ - Yes, you easily remember the arcane formula to open the portal, but
+__Scenarist__ - Yes, you easily remember the arcane formula to open the portal, but
 it requires the willing sacrifice of one's eye. _What do you do?_
 
   </td></tr><tr><td>
 
-__World__ - You remember stories about the regenerative powers of this kind of
+__Scenarist__ - You remember stories about the regenerative powers of this kind of
 creature. Your blade might not be enough to see you through a confrontation.
 _What do you do?_
 
   </td><td>
 
-__World__ - You slash at the creature and see its blood spray high, the flesh
+__Scenarist__ - You slash at the creature and see its blood spray high, the flesh
 rent and the bone broken. But an instant later you also see it heal back as if
 nothing had happened. Only a thin black line to show where you cut it. The
 creature smiles at you with malevolence. _What do you do?_
 
   </td></tr><tr><td>
 
-__World__ - Yes, you manage to stalk the assassin and  catch a glimpse of the
+__Scenarist__ - Yes, you manage to stalk the assassin and  catch a glimpse of the
 face under the hood. It looks like a young woman. Is she your friend's
 daughter? You can't yet tell for sure.  _What do you do?_
 
   </td><td>
 
-__World__ - Yes, you reach the assassin, pull them to the ground, and tear the
+__Scenarist__ - Yes, you reach the assassin, pull them to the ground, and tear the
 hood away from their face revealing... a young woman who you recognise. She's
 your friend's daughter! _What do you do?_
 
@@ -1030,34 +1030,34 @@ ___Closed Examples___
 
   </td></tr><tr><td>
 
-__World__ - If you hold position here, no creature will get through, but in the
+__Scenarist__ - If you hold position here, no creature will get through, but in the
 commotion, Amara might be dragged away into the treeline. _What do you do?_
 
   </td><td>
 
-__World__ - You hold position and no creature gets through, but in the
+__Scenarist__ - You hold position and no creature gets through, but in the
 commotion, Amara is dragged away into the treeline. _What do you do?_
 
   </td></tr><tr><td>
 
-__World__ - The plaza is so full of people that, once you get into it, you and
+__Scenarist__ - The plaza is so full of people that, once you get into it, you and
 Cartig might be unable to communicate clearly over the din of merchants and
 traffic. _What do you do?_
 
   </td><td>
 
-__World__ - Wait, the plaza is so full of people that you and Cartig are unable
+__Scenarist__ - Wait, the plaza is so full of people that you and Cartig are unable
 to hear each other over the din of merchants and traffic. _What do you do
 instead?_
 
   </td></tr><tr><td>
 
-__World__ - If you go back now Darlon might not be there, probably still out
+__Scenarist__ - If you go back now Darlon might not be there, probably still out
 hunting. _What do you do?_
 
   </td><td>
 
-__World__ - The place is deserted. Darlon must still be out hunting. _What do
+__Scenarist__ - The place is deserted. Darlon must still be out hunting. _What do
 you do?_
 
   </td></tr></table>
@@ -1112,32 +1112,32 @@ ___Closed Examples___
 
   </td></tr><tr><td>
 
-__World__ - Yes, you can wait throughout the night, but it'll cost you a bunch
+__Scenarist__ - Yes, you can wait throughout the night, but it'll cost you a bunch
 of torches (and a level of supplies). _What do you do?_
 
   </td><td>
 
-__World__ - You've waited through the night and it has cost you quite a few
+__Scenarist__ - You've waited through the night and it has cost you quite a few
 torches. Lower your supplies. Now, _what do you do?_
 
   </td></tr><tr><td>
 
-__World__ - You recognize these mushrooms. If you camp here, they will surely
+__Scenarist__ - You recognize these mushrooms. If you camp here, they will surely
 invade your food rations, ruining a level of supplies. _What do you do?_
 
   </td><td>
 
-__World__ - Your food rations have been ruined by toxic mushrooms. Lower your
+__Scenarist__ - Your food rations have been ruined by toxic mushrooms. Lower your
 supplies. _What do you do now?_
 
   </td></tr><tr><td>
 
-__World__ - The thug tries to kick sand in your eyes to ___[blind]___ you._
+__Scenarist__ - The thug tries to kick sand in your eyes to ___[blind]___ you._
 What do you do?_
 
   </td><td>
 
-__World__ - The thug _[__blind]___s you by kicking sand in your eyes. _What do
+__Scenarist__ - The thug _[__blind]___s you by kicking sand in your eyes. _What do
 you do?_
 
   </td></tr></table>
@@ -1164,37 +1164,37 @@ ___Closed Examples___
 
   </td></tr><tr><td>
 
-__World__ - You observe the angry crowd but you notice some
+__Scenarist__ - You observe the angry crowd but you notice some
 of them trying to have a good look at you too. _What do you do about it?_
 
   </td><td>
 
-__World__ - You observe the angry crowd but the crowd
+__Scenarist__ - You observe the angry crowd but the crowd
 scrutinises you too! Who among your group is the most vulnerable in this
 situation? And what is the best way past you and your allies?
 
   </td></tr><tr><td>
 
-__World__ - You point your sword at the sailor's throat but in
+__Scenarist__ - You point your sword at the sailor's throat but in
 doing so you notice her trying to slip a knife near your private parts. _What
 do you do?_
 
   </td><td>
 
-__World__ - You point your sword at the sailor's throat but
+__Scenarist__ - You point your sword at the sailor's throat but
 then you feel pressure near your private parts. As you realise where her knife
 is pointing, she says "_Drop YOUR weapon, or else!_" Do you cave, or force her
 hand?
 
   </td></tr><tr><td>
 
-__World__ - Maybe you know something about goblins but
+__Scenarist__ - Maybe you know something about goblins but
 surely goblins know a lot about your people and they seem to be on the verge of
 doing something that you don't believe would be pleasant._ What do you do?_
 
   </td><td>
 
-__World__ - Maybe you know something about goblins but
+__Scenarist__ - Maybe you know something about goblins but
 surely goblins know a lot about your people. Say, what kind of insult would
 make a person of your Blood or Kin go absolutely nuts? Ah... interesting...
 that is exactly what the goblins start chanting! _What do you do?_
@@ -1214,14 +1214,14 @@ the effect.
   2. Openly follow the game rules for the value adjudication.
   3. If the rules prescribes some part of the effect being decided by the victim:
     1. The Players do it for their PCs.
-    2. The World does it for their NPCs.
+    2. The Scenarist does it for their NPCs.
 
 Inflicting harm on a Protagonist is a common option, but far from the only one
 available to you.
 
   - __Make violence indiscriminate__  
 
-Players __expect__ the World to damage their Protagonists, and are somewhat
+Players __expect__ the Scenarist to damage their Protagonists, and are somewhat
 ready for it. Instead, try to often hurt their friends and allies, hurt
 innocent bystanders, hurt the land and the buildings and the objects around
 them.
@@ -1268,22 +1268,22 @@ ___Closed Examples___
 
   </td></tr><tr><td>
 
-__World__ - You notice an archer pointing their bow at Timo, the guide you
+__Scenarist__ - You notice an archer pointing their bow at Timo, the guide you
 hired. They are about to let the arrow fly. _What do you do?_
 
   </td><td>
 
-__World__ - Timo, the guide you hired, sits down with a heavy thump, an arrow
+__Scenarist__ - Timo, the guide you hired, sits down with a heavy thump, an arrow
 protruding from his chest. _What do you do?_
 
   </td></tr><tr><td>
 
-__Player__ - I jump onto the next roof.  __World__ - Ok, you are aware that the
+__Player__ - I jump onto the next roof.  __Scenarist__ - Ok, you are aware that the
 strain might __Seriously__ mess with your recent wound. What do you do?
 
   </td><td>
 
-__World__ - You jump to the next roof but, upon landing, you feel a terrible
+__Scenarist__ - You jump to the next roof but, upon landing, you feel a terrible
 pain in your side, your shirt quickly reddening. Yesterday's wound must have
 ripped open and now __Seriously __hurts.  __Player__ - Damn! Being all bloody
 and shaky I guess I now ___look like a mess___ [__Temp_ ___effect]. And yeah,
@@ -1291,12 +1291,12 @@ the pain ___impedes___ me actively [__Serious_ ___effect].
 
   </td></tr><tr><td>
 
-__World__ - These marauders don't seem like the sophisticated type. Using words
+__Scenarist__ - These marauders don't seem like the sophisticated type. Using words
 instead of violence might be seen as weakness. _What do you do?_
 
   </td><td>
 
-__World__ - The marauders laugh at your speech but in doing so they also seem
+__Scenarist__ - The marauders laugh at your speech but in doing so they also seem
 to abandon their hostile intentions. Afterward, though, you hear them calling
 you ___[Sir Big Mouth]___ behind your back.
 
@@ -1331,33 +1331,33 @@ ___Closed Examples___
 
   </td></tr><tr><td>
 
-__World__ - A storm is raging outside. Following the tracks of the beast will
+__Scenarist__ - A storm is raging outside. Following the tracks of the beast will
 not be easy and may put you at a Disadvantage. _What do you do?_
 
   </td><td>
 
-__World__ - Following the trail of the beast in the middle of the storm is not
+__Scenarist__ - Following the trail of the beast in the middle of the storm is not
 easy. You manage to do it, but with Disadvantage.
 
   </td></tr><tr><td>
 
-__World__ - Ramovar is very skilled and in an honest duel you would be at a
+__Scenarist__ - Ramovar is very skilled and in an honest duel you would be at a
 Disadvantage. _What do you do?_
 
   </td><td>
 
-__World__ - Dueling with Ramovar, you realize his remarkable skill. You are at
+__Scenarist__ - Dueling with Ramovar, you realize his remarkable skill. You are at
 an obvious Disadvantage. _What do you do?_
 
   </td></tr><tr><td>
 
-__World__ - It is clear that you could make yourself understood but, not
+__Scenarist__ - It is clear that you could make yourself understood but, not
 speaking the language well, you would be at a Disadvantage in a debate. _What
 do you do?_
 
   </td><td>
 
-__World__ - You are making yourself more or less understood but, not speaking
+__Scenarist__ - You are making yourself more or less understood but, not speaking
 the language well, you often stumble into mistakes and misunderstandings that
 put you at a Disadvantage. _What do you do?_
 
@@ -1399,7 +1399,7 @@ The main tools for this job is the list of __Agent Records__.
 
 ## What is an Agent?
 
-An Agent is a tool, something or someone that the World uses to depict an
+An Agent is a tool, something or someone that the Scenarist uses to depict an
 environment that _Makes Sense_, to _Rock the Boat_ by shaking things up, and
 bring a specific __theme__ to the fore.
 
@@ -1455,7 +1455,7 @@ storm) as if they were people.
 If something is relevant enough to become an Agent and appear on the Agents
 Map, then __it is people__: it has needs and desires, it has behaviors and
 attitudes, it takes actions according to them, and because you always portray
-_Simple People,_ these elements are (at least in the World's eyes) __simple and
+_Simple People,_ these elements are (at least in the Scenarist's eyes) __simple and
 straightforward__ too. 
 
 ```
@@ -1494,66 +1494,66 @@ box, you can just think "what would that person look and behave like?"
 ### To Agent or not to Agent?
 
 Every "thing" in the game that gets described at the table is, with the
-exception of the Protagonists themselves, part of the World's prep: people,
+exception of the Protagonists themselves, part of the Scenarist's prep: people,
 beasts, places, items, etc.
 
 In most cases, such entities only exist in the form of a passing mention. Then
 the more they become __interesting__, __important__, or even just
-__recurring__, the more they acquire substance and detail. The World will
+__recurring__, the more they acquire substance and detail. The Scenarist will
 simply jot down these details for the sake of remembering them: a proper name,
 a "body" part characterizing and leading them, maybe a brief description of
 their appearance, their role, or their relation to something else-whatever
-helps the World know what to say when the entity enters a scene, interacts with
+helps the Scenarist know what to say when the entity enters a scene, interacts with
 the Protagonists, or is supposed to do something off-screen.
 
-If the World feels that these simple notes are enough, then they are. All prep
-exists as a way to help the World organize ideas and info to use in active
+If the Scenarist feels that these simple notes are enough, then they are. All prep
+exists as a way to help the Scenarist organize ideas and info to use in active
 play. Nothing more.
 
 So while everything __can__ be an Agent, not everything __has to__ be an Agent.
 Not immediately, at least.
 
-Agents can be created __from the bottom up__ when the World deems that
+Agents can be created __from the bottom up__ when the Scenarist deems that
 something in their prep is growing into a blob of notes and details. Applying
 the Agent structure to this blob is a way to better organize the available
 info, making it clearer and more usable.
 
-Agents can be created __from the top down__ when the World needs something in
+Agents can be created __from the top down__ when the Scenarist needs something in
 their prep to immediately have a certain space and importance in the game.
-Applying the Agent structure to their raw ideas guides the World through some
+Applying the Agent structure to their raw ideas guides the Scenarist through some
 important questions and choices, shaping the new "thing" into a more defined
 and tangible game element.
 
 Agents can also __change__, as they are simply an agglomerate of notes and
 ideas and details. They can and should be routinely __updated__ as the game
-goes on. The World always has to __say__ what _Prep_ and _Honesty_ demand
+goes on. The Scenarist always has to __say__ what _Prep_ and _Honesty_ demand
 , but this still leaves plenty of room for Agents to
-evolve, grow, shrink, or simply be abandoned because along the way the World
+evolve, grow, shrink, or simply be abandoned because along the way the Scenarist
 felt like bringing some different ideas to the table. In the end, Agents are,
 like everything else in this chapter, a __structure__ that the game uses to
-help the World organize their notes and ideas.
+help the Scenarist organize their notes and ideas.
 
 ```
 
-At first, the World mentions the existence of a local bounty hunter. It's a
+At first, the Scenarist mentions the existence of a local bounty hunter. It's a
 throwaway detail of no importance.
 
 When the group meets this person, or when they express the will to meet them,
-the World decides that she is a woman, that her name is Karis, and that her
+the Scenarist decides that she is a woman, that her name is Karis, and that her
 leading body parts are her agile and ever-moving fingers.
 
-This seems to be enough for a while. But then the World decides that Karis
+This seems to be enough for a while. But then the Scenarist decides that Karis
 should be defined as an Agent. This gives her (as explained in the following
 section) a Type, an Impulse, a list of Reactions, maybe some Fate questions,
 maybe a Cast, etc.
 
-Later on, the World feels like updating Karis' Agent profile. Maybe the initial
+Later on, the Scenarist feels like updating Karis' Agent profile. Maybe the initial
 idea seemed cool on paper but felt wrong or unwieldy in play. Maybe game events
 suggest a change or evolution of the character and her situation.
 
 The Players might never know about these technical changes, as they are not
-privy to the World's notes and prep. The only thing they "see" are the changes
-in how Karis is portrayed by the World.
+privy to the Scenarist's notes and prep. The only thing they "see" are the changes
+in how Karis is portrayed by the Scenarist.
 
 ```
 
@@ -1561,22 +1561,22 @@ in how Karis is portrayed by the World.
 
 Prep is meant to be kept private, but not secret.
 
-Private, because by _Draping the Rules in Fiction_ the World's notes will not
+Private, because by _Draping the Rules in Fiction_ the Scenarist's notes will not
 be visible to the Players. To the Protagonists, an NPC (like _Karis_, the
 bounty hunter from the previous example) is just a person they meet.
 
-But there is no need for secrecy. If the Players do happen to see the World's
+But there is no need for secrecy. If the Players do happen to see the Scenarist's
 notes it won't be a big deal. Knowing that Karis is a basic named NPC rather
 than a more fleshed-out Agent makes no difference whatsoever. Knowing that her
 Type is __Power__ rather than __Freak__, or that her main __Fate__ is about her
 social status rather than her love life, are more telling details, but none of
-them will mean anything relevant, as the World might bring them into play in
+them will mean anything relevant, as the Scenarist might bring them into play in
 ways that defy the Players' expectations. Or not! The game won't be ruined
 anyway. Nothing of relevance will be spoiled. 
 
 As everyone __plays to find out__, there are no future events set in stone.
 Even seeing the details of currently active Hourglasses won't be a real
-problem, as they simply organize __possible__ future events that the World
+problem, as they simply organize __possible__ future events that the Scenarist
 __should have already communicated__ as being on the horizon.
 
 ## Creating an Agent
@@ -1625,7 +1625,7 @@ five available Types are:
 
 Each Agent is then put into focus by selecting one out of six available
 Subtypes that are specific to each different Type. Every Subtype is also linked
-to a unique Impulse. This structure helps the World to organize and then use
+to a unique Impulse. This structure helps the Scenarist to organize and then use
 all the Agents that will play a role in the story, decide which ones to use,
 how they will behave, and why.
 
@@ -1796,7 +1796,7 @@ present or relevant whenever something happens to one of their connections.
 
 ### Fate
 
-The World __must not pre-plan__ the future destiny of their Agents. You can
+The Scenarist __must not pre-plan__ the future destiny of their Agents. You can
 instead express __questions__ about uncertain outcomes you are curious about:
 
   - Will this one NPC survive?
@@ -1814,11 +1814,11 @@ Out_.
 
 ### Hourglasses
 
-Another way for the World to bring their ideas to the table and explore what
+Another way for the Scenarist to bring their ideas to the table and explore what
 might happen __without fixing future events__ is to attach an Hourglass to an
 Agent.
 
-An Hourglass is a __countdown__ with six positions. At each position, the World
+An Hourglass is a __countdown__ with six positions. At each position, the Scenarist
 jots down a note on how the Agent, or a situation involving it, will behave and
 progress. It is also ok to leave some positions empty, to have events progress
 more slowly, or to leave room for future inspiration.
@@ -1850,7 +1850,7 @@ behaviors.
 An Hourglass can be set up right at the moment of Agent creation, to help you
 visualize what you already know is going on, or it can be added later, as
 events unfold and the situation changes. Hourglasses are just a way for the
-World to organize their notes, so if something happens that changes the fiction
+Scenarist to organize their notes, so if something happens that changes the fiction
 enough to make an Hourglass no longer current or even needed, feel free to
 modify it or scratch it completely. 
 
@@ -1862,6 +1862,31 @@ vertices intersecting. Then run a straight vertical line down the middle,
 splitting it into two halves. This leaves you with a shape divided into six
 spaces. Check the pictures in the following example to get a clearer idea of
 the final result.
+
+<div style="position:relative;text-align:center;">
+  <svg
+    width="30mm"
+    height="35mm"
+    viewBox="-1 -1 61 71"
+    xmlns="http://www.w3.org/2000/svg"
+    stroke="currentColor"
+    stroke-width="1"
+    fill="none"
+  >
+    <path d="
+      M 0 0
+      L 60 0
+      L 30 50
+      Z
+      M 0 70
+      L 60 70
+      L 30 20
+      Z
+      M 30 0
+      L 30 70
+    " />
+  </svg>
+</div>
 
 You can fill the spaces however you like, there is no fixed order, it's just an
 evocative way to keep track of a six-step countdown in a fantasy game. I
@@ -1944,7 +1969,7 @@ the PCs.
   - You have the __limited__ and __whispered__ awareness for progressively
 less known Agents. Particularly, the __whispered__ are
 all the Agents that still only exist as rumors and ideas. These can often be
-just names that the World has not yet bothered turning into real, fully-written
+just names that the Scenarist has not yet bothered turning into real, fully-written
 Agents because they are still far away on the fictional horizon.
 
 An Agent might be operating in the very same area where the PCs are (__Here__)
@@ -1954,7 +1979,7 @@ inner workings (__limited__). Conversely, an Agent might be somehow distant
 from the PCs (__farther__) but they could be particularly familiar with it
 (__known__).
 
-Most of the time the World will reassess the scope and meaning of their Agents
+Most of the time the Scenarist will reassess the scope and meaning of their Agents
 depending on what is the most useful for the game at a given time, often
 positioning Agents either in a geographical way __or__ an abstract way. At a
 time when the PCs are traveling across a broad territory, it might be more
@@ -1965,7 +1990,7 @@ their social standing, or other abstract factors. And even within the same
 context, immediate concerns could make some choices more useful than others and
 help make sense of seemingly conflicting positioning. 
 
-World's preparation work and campaign building are all about updating the
+Scenarist's preparation work and campaign building are all about updating the
 __Agents Records__ in the time between one session and the next. Think about the
 characters, places, and events of the last session; if needed, translate them
 into Agents. Go over what was already in the records:
@@ -1996,7 +2021,7 @@ The Bromies street gang is an Agent.
 The gang has its turf in the same town the PCs are currently located, so it
 might make sense to position the Agent Here.
 
-But maybe the gang is currently just a vague idea in the World's mind, or just
+But maybe the gang is currently just a vague idea in the Scenarist's mind, or just
 gossip the PCs have heard only a couple of times, so it could be marked as
 Whispered.
 
@@ -2010,7 +2035,7 @@ distance.
 ## Essential Agents
 
 Right between the end of the first session and before the beginning of the
-second one, the World needs to create a short list of "essential" Agents:
+second one, the Scenarist needs to create a short list of "essential" Agents:
 
   - The place where the Protagonists are, make it a __Landscape__.
   - Every local population present there, make it an __Affliction__.

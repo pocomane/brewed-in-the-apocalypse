@@ -620,22 +620,22 @@ Bob agrees, and adds "Understand quickly" as a traits linked to "Smart" and
 
 # Roll move
 
-The following move is crucial for all the game. It is also a of fallback for
-any uncertain situation not covered by other moves. Practically you could play
-the game deleting any other one requiring a roll, and keeping only this one,
-but other moves will bring colors to the game.
+This is a central move for the game; you will end triggering it a lot, by itself
+or recalled by other moves. In such case it behave in a particular way. as
+described at the end of this section.
 
 __Face the uncertain__ - When a protagonist takes an action that risks failure
-or complications and there is no other more specific move, the following steps
-are performed:
+or complications and there is no other more specific move that can be triggered
+instead, the following steps are performed:
 
 1. The scenarist decides if the roll can be skipped.
-2. The protagonist rolls the dice with the right modifier.
-3. The scenarist tells the consequences.
+2. Clearly state the success outcome.
+3. The protagonist rolls the dice with the right modifier.
+4. The scenarist tells the consequences.
 
-When this move is recalled from other ones, the last step is a bit modified to
-account for the outcome text in the other move. This is explained at the end of
-this section.
+This move represent a character action whose consequences have some degree
+of uncertainty. This can be because it may generate complications, or because
+it are difficult do accomplish and so may fail.  Let's see the various steps.
 
 ```
 Alice - Anne will wait that the librarian go away the deck then she will take
@@ -651,19 +651,16 @@ deck and take the book without no one noticing her.  Alice, what Anne does
 next?
 ```
 
-This move represent a character action whose consequences have some degree
-of uncertainty. This can be because it may generate complications, or because
-it are difficult do accomplish and so may fail.  Let's see the various steps.
-
-First, sometimes the uncertain can be ignored, and the scenarist can decide to
-skip the second step of the move. The most simple reason for this is that an
+Sometimes the uncertain can be ignored, and the step n.1 the scenarist can decide to
+skip the rest or part of the move. The most simple reason for this is that an
 action is actually simple to accomplish or very likely to be successful
 considering fictional positioning.  In this case you can decide it is a success
-and skip the second step.  Do the same if the consequences of a failure are not
+and jump directly at the step n.4.  Do the same if the consequences of a failure are not
 interesting at all. If a protagonist continue to speak assuming that an action
-is automatically successful, and the scenarist agrees on this, let em continue:
+is automatically successful, and the scenarist found that it is appropriate
+outcome, the scenarist should skip all the other steps and let the player continue:
 normally should be the scenarist to tell how the action was successful (with
-a __Describe the scene__, as we will see soon), but for such cases probably the
+a __Describe the scene__, as we will see soon), but in these situations probably the
 protagonist already added all what was needed.
 
 ```
@@ -689,9 +686,10 @@ so just continue, Bart is successful.
 ```
 
 Similarly, if an action is too much likely to fail, the scenarist should just
-said it is impossible. If the protagonist insist to do it, just decide it is a
-failure and skip the second step.  This "Impossibility" veto must be used
-judiciously and sparingly.
+said it is impossible, and give the player the opportunity to do something
+else. If the protagonist insist to do it, just decide it is a failure and jump
+at the step n.4.  This "Impossibility" veto must be used judiciously and
+sparingly.
 
 ```
 Alice: Anne is angry, she want to break the wall with a punch. I use the
@@ -707,11 +705,43 @@ Scenarist: Ok, she fails, and she break her hand, record the harm in the charact
 sheet please.
 ```
 
-If the scenarist decides to keep the second step, it is the core "Roll". Ey briefly
-describes the risks of the situation, and ey selects the character harms that
-are the relevant for the situation.  Then the scenarist asks to the protagonist which are the
-relevant trait.
+In the step n.2, the scenarist should ask to the player what exactly want to
+archive with eir action, and how exactly ey tries to do it. Normally this step
+is superfluous and all is already clear, so it may be skipped. However
+sometimes some more detail on the exact action are needed to correctly select
+the relevant harms and traits in the next step.  Also an explicit agreement on
+the result could be needed, for example, if the action is performed to
+advantages future action, or to collect information about a situation.  In the
+former the kind of roll affected should be defined; in the latter, the exact
+information should be stated, maybe in form of one or few questions that the
+scenarist undertakes to answer.
 
+About this information mechanism, note that sometimes the scenarist already
+have some idea about the answer, maybe ey just does not put it in play yet
+because ey want to find some other solution. Maybe also the player guessed what
+the scenarist think. In such cases this move may be seen as a way to "Force"
+the scenarist to take a decision and reveal it. In fact, when the answer has
+been given, it become absolutely true in the fiction and the characters will
+know the answer.
+
+```
+Bob - Bart look at the motorcycle to understand its status.
+
+Scenarist - What you exactly want to know?
+
+Bob - I want to know if I can use it to reach the near city. I have still to
+find some supply but I hope at least I would have a way to go there. Hum... wait!
+Maybe I can also sell some part of it that are not needed for the travel!
+
+Scenarist - Ok, so in case you are successful, I will answer to
+"Can I reach the near city with this", "If not, what do I need to repair it?" and
+"Are there some part that I can resell" ?
+
+Bob - Yes is perfect to me.
+```
+
+The step n.3. it is the core "Roll". The scenarist are the relevant for the
+situation, and the protagonist the relevant traits.
 Then the protagonist rolls 2 standard 6-side dices, sums the results, adds the
 number of traits and subtracts the harms.  The result will say which kind of
 outcome the character will get:
@@ -728,8 +758,8 @@ BITA instead you can not go under 0 traits, there are harms, and normally at beg
 is common to use 1-2-3 traits for all the roll
 
 There are no constraints on which trait the protagonist may select, but after a
-success the scenarist may, and is encouraged to, select one of the used trait.
-The protagonist must tell how that trait helped em to success. If ey is unable
+success the scenarist may, select one of the used trait.  The protagonist then
+must tell how that trait helped em to success. If ey is unable
 to do it, the roll became a failure.
 
 TODO : on failure, the protagonist can select an harm and the scenarist show how it
@@ -743,12 +773,7 @@ number can increase consistently.
 
 ```
 Bob - Bart look at the motorcycle engine to understand the problem and to fix
-it.
-
-Scenarist - Ok, here the issue is knowing how an engine works to understand,
-what do not touch, and what to touch to fix it. Roll for it.
-
-Bob - I will use the traits Intelligent, Smart and Quick understanding, so I have a
+it. I will use the traits Intelligent, Smart and Quick understanding, so I have a
 bonus of 3
 
 Scenarist - yes, but you have a "Mental stress" harm of 1, so you can add only 2 to
@@ -760,7 +785,7 @@ Scenarist - So Bart quickly understand that the fuel pump was detached, and he
 easily put it in place.
 ```
 
-In the third and last step, the scenarist adds some details that makes the scene
+In the step n.4 the scenarist adds some details that makes the scene
 evolve ( the __Make the worst happen__ and __Tell imminent troubles__ moves are
 described in other sections):
 
@@ -783,9 +808,8 @@ Twist option list:
 
 It is not mandatory that the troubles arise directly from the performed action.
 It could often seem natural, and there is nothing bad doing it, but they can be
-also completely new things added to the fiction. Sometimes other moves may seem
-to be equivalent to __Face the uncertain__, but the fact that other moves force
-the scenarist to follow a certain clue is a core difference.
+also completely new things added to the fiction. They may also not involve the
+player performing the roll at all, but some other one.
 
 ```
 Scenarist - Bob, you got a twist. Bart quickly understand that the
@@ -799,6 +823,10 @@ the hot parts. But to do it you have to concentrate very much, and you do not
 notice a bikers who stopped, and now is just behind you. He places an hand
 on your shoulder and turns you toward him, what do you do?
 ```
+
+Sometimes other moves may seem
+to be equivalent to __Face the uncertain__, but the fact that other moves force
+the scenarist to follow a certain clue is a core difference.
 
 When this move is triggered by another one, the latter may provide alternative
 outcome texts that may be used instead of the one just shown; the latter are
@@ -1247,10 +1275,7 @@ Scenarist - Yes, you already wounded his neck, so if you are successful probably
 you will kill him. Make a roll.
 ```
 
-Some moves makes the protagonists ask questions to the scenarist. Sometimes ey
-already knows the answer, but ey can always change eir mind. After it is
-answered, that become absolutely true in the fiction and the characters will
-know the answer.
+Some moves makes the protagonists ask questions to the scenarist.
 
 Such moves gives to the protagonists a list of questions to choose from.  If they
 ask something not in the list, the scenarist should still give any details the

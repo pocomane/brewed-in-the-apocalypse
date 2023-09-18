@@ -88,13 +88,11 @@ characters, and a description of the initial scene. This is meant just kickoff
 the game, new goals can be selected as soon as the protagonists found something more
 interesting.
 
-We will use the term "Protagonist" for both the players and their controlled
-player; where this make confusion we will use the term "Protagonist player" for
-the player, and "Controlled character" or "Protagonist character" or PC for the
-character. Similarly, all the characters in the game that are not controlled by
-a protagonist, are called "Non protagonist character" or NPC. The term s
-"Controlling player" instead can refer both to a protagonist player when
-addressed to a PC, or the scenarist when addressed to a NPC.
+We will use the term "Protagonist character" or PC for the character
+"Controlled" by a protagonist.  Similarly, all the characters in the game that
+are not controlled by a protagonist, are called "Non protagonist character" or
+NPC. The term s "Controlling player" instead can refer both to a protagonist
+when addressed to a PC, or the scenarist when addressed to a NPC.
 
 In the character sheet there are three type of information relevant both for
 the fiction and the mechanics; each of them is in the form of one or few words
@@ -168,14 +166,14 @@ can be quickly found ???
 ```
 As example, let's see this compress version of two moves we will discuss later:
 
-__Make the worst happen (example)__ when the protagonists ignore a troubles,
+__Make the worst happen (example)__ when the PCs ignore a troubles,
 the scenarist makes an __Assign an harm__ move.
 
 __Assign an harm (example)__ when the scenarist have to assign an harm, ey will
-decide an injury for a protagonist, an the protagonist write it on the
+decide an injury for a PC, and the protagonist write it on the
 character sheet.
 
-"When the protagonist ignore a troubles" is the trigger, when this happens in the
+"When the PCs ignore a troubles" is the trigger, when this happens in the
 fiction, the scenarist may do the rest, i.e. assign an harm.
 
 The latter just says "When you have to assign an harm..." as trigger text, so
@@ -215,17 +213,17 @@ first move:
 __Describe the scene__ when you, the scenarist, have to start the session, you
 can resume the last scene or an older one, or start a completely new one.  You
 do it telling some new event in the scene or reveal some new truth about the
-world. Nothing should clearly bring to troubles for the protagonists, neither if it
+world. Nothing should clearly bring to troubles for the PCs, neither if it
 is completely ignored by the characters.  However, there may be an opportunity
-for the protagonists: something that can bring to good things for the protagonists if
+for the PCs: something that can bring to good things for the PCs if
 they handle well the situation.  Occasionally the good things may happen
-without any protagonist action.
+without any PC action.
 
 TODO : describe what a "Scene" is, what it means it is "Suspended" or "closed" ???
 
 Here the move just said that the scenarist can say anything ey
 like about the fiction, until there are no imminent threats for the
-protagonists. How the discussion is moved to the others? We have the following
+PCs. How the discussion is moved to the others? We have the following
 scenarist move:
 
 __Ask what they do__ When the scenarist has nothing else to say and ey will ask
@@ -457,13 +455,10 @@ danger inside the building. What do you do?
 
 # World reaction moves
 
-__Tell imminent troubles__ - when you, the scenarist, asked to all the protagonists in the
-scene what they do, and if they stop after a while without triggering any move,
-add to the scene something that give to the protagonist new things to react to.
-You can introduce such elements playing as an NPC.
-
-Some clues are in the relative section, if you use them, always leave to the
-protagonists the possibility to react.
+__Tell imminent troubles__ - when you, the scenarist, asked to all the
+protagonists with a PC in the scene what they do, and if they stop after a
+while without triggering any move, add to the scene something that give to the
+PC new things to react to.  You can introduce such elements playing as an NPC.
 
 If you think the situation is already complex, you can do a __Describe the
 scene__ move instead.
@@ -499,7 +494,7 @@ the scenarist, can do one or two from the following list:
 
 - Do an __Assign an harm__ move
 - Add something in the scene that fundamentally changes the situation, for the
-  worse. What you add must be irrevocable, i.e. the protagonist can not avoid it
+  worse. What you add must be irrevocable, i.e. the PCs can not avoid it
   reacting in any way, and the new situation should demands new kind of actions
   to the characters. This can be an event, a character, an object, or simply
   new informations.
@@ -624,14 +619,14 @@ This is a central move for the game; you will end triggering it a lot, by itself
 or recalled by other moves. Due to its centrality it is explained in detail,
 trying to cover all the possible situations.
 
-__Face the uncertain__ - When a protagonist takes an action that risks failure
+__Face the uncertain__ - When a PC takes an action that risks failure
 or complications and there is no other more specific move that can be triggered
 instead, the following steps are performed:
 
-1. The scenarist decides if the roll can be skipped.
+1. Decide if the roll can be skipped.
 2. Clearly state the success outcome.
-3. The protagonist rolls the dice with the right modifier.
-4. The scenarist tells the consequences.
+3. Roll the dice with the right modifier.
+4. Tell the consequences.
 
 This move represent a character action whose consequences have some degree
 of uncertainty. This can be because it may generate complications, or because
@@ -745,15 +740,15 @@ Scenarist - Ok, so in case you are successful, I will answer to
 Bob - Yes is perfect to me.
 ```
 
-The step n.3. it is the core "Roll". The scenarist are the relevant for the
-situation, and the protagonist the relevant traits.
+The step n.3. it is the core "Roll". The scenarist select the harms that are
+the relevant for the situation, and the protagonist the relevant traits.
 Then the protagonist rolls 2 standard 6-side dices, sums the results, adds the
 number of traits and subtracts the harms.  The result will say which kind of
 outcome the character will get:
 
-- With 8 or less  the protagonist get a "Failure" outcome.
-- With 9-10-11    the protagonist get a "Twist" outcome.
-- With 12 or more the protagonist get a "Success" outcome.
+- With 8 or less  it is a "Failure" outcome.
+- With 9-10-11    it is a "Twist" outcome.
+- With 12 or more it is a "Success" outcome.
 
 TODO - return to classic ranges ? classically in a Apocalypse World
 the three ranges are 6-/7-8-9/10+ but
@@ -771,7 +766,7 @@ TODO : on failure, the protagonist can select an harm and the scenarist show how
 make the action fail ???
 
 Normally, with the 8 initial traits, in every roll you would be able to play 2
-or 3 of them, unless the protagonist is forced to make an action that is completely
+or 3 of them, unless the PC is forced to make an action that is completely
 out of the character.  4 or more traits are played instead during actions for
 which the character have a very good fit. Obviously, in the late game these
 number can increase consistently.
@@ -797,7 +792,7 @@ described in other sections):
 - On a failure, the scenarist will __Make the worst happen__ .
 - On twist, the scenarist selects one item from the twist option list.
 - On success, the scenarist will __Describe the scene__ giving to the
-  protagonist what ey wanted by eir action, if the situation is not evolved
+  PC what ey wanted by eir action, if the situation is not evolved
   enough, also other opportunities may be added.
 
 When this move is triggered by another one, the latter may provide alternative
@@ -810,7 +805,7 @@ text of each move that the scenarist will do a __Make the worst happen__ ?
 
 Twist option list:
 
-- The scenarist does __Describe the scene__ , without what the protagonist
+- The scenarist does __Describe the scene__ , without what the PC
   exactly want, but still something else good, e.g. only part of the goal may be
   reached. When triggered by another move with a failure text, it is executed
   executed before the __Describe the scene__.
@@ -848,7 +843,7 @@ Bob is using __Help a NPC__ move and got a twist result, but text is missing.
 The scenarist decides to select the first item of the twist list of __Face the uncertaing__.
 The failure move of __Help a NPC__ just said that the NPC fails in the action. Then
 ey __Describe the scene__ telling how the NPC, grateful in any case, gives to
-the protagonist some supplies.
+the PC some supplies.
 ```
 
 Sometimes other moves may seem to be equivalent to __Face the uncertain__, but
@@ -864,7 +859,7 @@ harm to eir character sheet.  Obviously the chosen harm must follow by the
 fiction, ant they will cause effects in the fiction.
 
 The harms may never be used to give a bonus to an action. If it would help the
-protagonists to reach their goals, it is simply ignored.
+PCs to reach their goals, it is simply ignored.
 
 __Remove a temporary harm__ - when enough time is passed for a temporary harm
 to be heal, the scenarist will ask to delete it from the character sheet.  Any
@@ -873,10 +868,10 @@ time.  The protagonist can ask in any moment to the scenarist if an harm is
 temporary, and if it is time to remove it. If an harm is not temporary, the
 next move must be used instead in order to heal it.
 
-__Remove an harm__ - when you, a protagonist, make some action that can cure or treat some
-status associated to one or more harm, the scenarist will tell you which harms
+__Remove an harm__ - when the PC controlled by you performs some actions that can cure or
+treat some status associated to one or more harm, the scenarist will tell you, which harms
 can be potentially removed. If you are not satisfy, you can tell some other
-action the character does instead. If you are satisfied, __Face the uncertain__:
+action the PC does instead. If you are satisfied, __Face the uncertain__:
 
 - On Success, delete up to 3 related harms
 - On Twist, delete up to 2 related harms
@@ -936,7 +931,7 @@ make a laugh, and said "Oh, come on guys, we have a deal!"
 ```
 
 If the action instead is difficult meaning that the chance are very low, but
-still the scenarist want to give a possibility to the protagonist, ey can
+still the scenarist want to give a possibility to the PC, ey can
 point out that the action can not be accomplished by a single roll, but the
 protagonist must perform two or more of them. It will be successful only if all
 the rolls are successful or twists, and every twist will throw in a cost to
@@ -953,7 +948,7 @@ TODO : If ey forgot, ey can add it in a second moment, before the roll, giving
 to the protagonist the possibility to rollback and do something else. !!! NOTE this may
 rollback over other moves!!! It worth ????
 
-Ideally, each step of the chain should also ask the protagonist for
+Ideally, each step of the chain should also ask the PC for
 different action respect the other steps.
 
 ```
@@ -977,13 +972,13 @@ TODO : add a move to recall memories ?
 TODO : make a move to said that the scenarist decide for NPC success/fail ? Or
 at least a not in the __Face the uncertain__ ?
 
-__Advantage/Disadvantage__ When you, a protagonist, are doing something to make a
-future action that requires a roll more simple/difficult or probable/improbable
-to succeed, you will explicitly said what action or kind of actions you are
+__Advantage/Disadvantage__ When the PC controlled by you does something that
+may make a future action more simple/difficult or probable/improbable to
+succeed, you will explicitly said what action or kind of actions you are
 trying to affecting, then __Face the uncertain__:
 
-- On Twist, the affected rolls will take a +1/-1 modifier.
-- On Success, the affected rolls will take a  +2/-2 modifier.
+- On Twist, the rolls made for affected actions will take a +1/-1 modifier.
+- On Success, the rolls made for the affected actions will take a  +2/-2 modifier.
 
 To remember the bonus, the scenarist will to add one or two time the same tag
 with the __Change a tag__ moves. It will be descriptive of the context of the
@@ -1040,13 +1035,13 @@ pushes her away. Alice does not get hurt but the others did not approve her
 behaviour: write on her sheet the harm "Betray"
 ```
 
-__Help/Hinder a NPC__ - When you, a protagonist, help a NPC to accomplish an
-action, __Face the uncertain__:
+__Help/Hinder a NPC__ - When the PC controlled by you does something that may
+help a NPC to accomplish an action, __Face the uncertain__:
 
 - On success, the NPC is-successful/fails.
 - On failure, the NPC fails/is-successful.
 
-Only one character can help/hinder a NPC, but other may help or hinder you.
+Only one PC can help/hinder a NPC, but other may help or hinder you.
 
 Notes: normally, the scenarist decides if a NPC fails or is successful in
 taking any action; to Help/Hinder a PC, the __Advantage/Disadvantage__ move can
@@ -1067,8 +1062,9 @@ Scenarist - So Nick successfully escape from the door, and pushes Bart, that fal
 down hurting is shoulder on the door frame. Sign "Shoulder pain 1", as harm.
 ```
 
-__Sway a NPC__ - When you, a protagonist, try to convince someone leveraging
-something, you tell what you want em to do, you give em a reason, then __Face the uncertain__:
+__Sway a NPC__ - When the PC controlled by you leverages something to convince
+a NPC to do something, you state exactly what you want em to do, you give em a
+reason, then __Face the uncertain__:
 
 - On Success, ey will go along with you, unless or until some fact or action
   betrays the reason you gave em.
@@ -1096,11 +1092,13 @@ Scenarist - Nick says "A job? I am expensive, Bart, too much for you
 Bob - Bart opens the carry case, putting all the money in front of the peephole
 ```
 
-__Sway a PC__ - When you, a protagonist, try to convince a PC leveraging something,
-you tell what you want em to do, you give em a reason, then  __Face the uncertain__:
+__Sway a PC__ - When the PC controlled by you leverages something to convince
+another PC to do something, you state exactly what you want em to do, you give
+em a reason, then  __Face the uncertain__:
 
-- On Success the other protagonist have to choose to get a reward and do what you
-  want, or get penalty and refusing to do it
+- On Success the other protagonist have to choose to get a reward and then
+  tells how the controlled PC do what you requested, or to refusing to di it
+  accepting a penalty.
 - On Twist you decided if to offer the reward alone or the penalty alone,
   then the other protagonist chooses what to do
 
@@ -1137,14 +1135,14 @@ Alice - Anne opens the door and says "I hope you have something more a vague
 promise of a job...
 ```
 
-__Read a person__ - When in a charged situation you, a protagonist, try to get some
-information from a person,  __Face the uncertain__:
+__Read a person__ - When the PC controlled by you in a charged situation tries
+to get some information from a person,  __Face the uncertain__:
 
 - On Success ask the controlling player 3 question from the list
 - On Twist ask the controlling player 1 question from the list
 - On Failure ask the controlling player 1 question from the list
 
-Questions about the person (the protagonist have to fill the _ before to ask):
+Questions about the person (you have to fill the _ before to ask):
 
 - Is your character telling the truth?
 - What’s your character really feeling?
@@ -1152,13 +1150,14 @@ Questions about the person (the protagonist have to fill the _ before to ask):
 - What does your character wish I’d do?
 - How could I get your character to _ ?
 
-__Asses the situation__ - When you, a protagonist, read a charged situation,  __Face the uncertain__:
+__Asses the situation__ - When the PC controlled by you tries to read a charged
+situation,  __Face the uncertain__:
 
 - On Success ask to the scenarist 3 questions from the list
 - On Twist ask to the scenarist 1 question from the list
 - On Failure ask to the scenarist 1 question from the list
 
-Questions about the situation (the protagonist have to fill the _ before to ask):
+Questions about the situation (you have to fill the _ before to ask):
 
 - How could we best end quickly?
 - Which enemy is most vulnerable to me?
@@ -1190,7 +1189,7 @@ Any player except the voter can say "I will do" and continue as scenarist, just
 give to all the time to propose emself, if em want to. In case multiple player
 want to be scenarist, the voter will choose who will take the role among the
 ones that proposed emself.  If no one propose emself, the voter can freely
-choose anyone, emself comprised.
+choose anyone, also the voter emself can be chosen in this case.
 
 Do not apply these rules too strictly: when multiple players propose them self
 as scenarist, or if no one did, make a quickly discussion to decide who will
@@ -1261,7 +1260,7 @@ Scenarist - Yes, sorry, you are right. So, what do you do?
 In general the protagonists can not repeat the same move again and again searching
 for best results. The core check mechanics already discourages this since every
 non-optimal result gives the scenarist the chance to add some trouble for the
-protagonist. However the scenarist should clearly state that it would not result in
+PC. However the scenarist should clearly state that it would not result in
 a new roll, since there is no reason that something different happens. The
 scenarist should actually allow another roll only if it is the fiction itself
 that demands for a repetitive action.
@@ -1432,14 +1431,14 @@ The most simple way to create a new move is just add two or three option to an
 already avaiable move. It will pratically replace the old version.
 
 ```
-__Asses the situation__: when you, a protagonist, have to __Asses the situation__ , the following
-options are avaiable too, other than the original ones
+__Asses the situation__: when the PC controlledy by you triggers __Asses the situation__ ,
+the following options are avaiable too, other than the original ones:
 
 - What here is the greatest/least _ ?
 - What here has been hidden or overlooked?
 - What is the likely previous/upcoming situation?
 
-The protagonist may fill the _ before writing the moves on the character sheet.
+You have to fill the _ before writing the moves on the character sheet.
 ```
 
 The general schema of new moves with rolls is "When [trigger text]
@@ -1471,8 +1470,8 @@ Alice liked the situations where Anne was able to stole things whitout being
 noticed, so when asked to __Add a trait__, propose the following
 move to the scenarist:
 
-__Steal from a personal area__: when you, a protagonist, are trying to steal something from a
-personal area of somebody,  __Face the uncertain__:
+__Steal from a personal area__: when the PC controlled by you ties to steal
+something from a personal area of another character,  __Face the uncertain__:
 
 - On success, you take what you want and the scenarist will tell how you
   discovery something important about the person you are robbering.
@@ -1490,7 +1489,7 @@ may be created, giving two lists, one bad and one good, and letting the protagon
 choosing from one or another based on the kind of result.
 
 ```
-__Feel the engine__ when you, a protagonist, put the hand on the chassis of veicle with
+__Feel the engine__ when the PC controlled by you puts the hand on the chassis of veicle with
 the engine powered, __Face the uncertain__: make 2 (on success) or 1 (on twist or
 failure) question from the list. The scenarist will respond to them.
 
@@ -1511,7 +1510,7 @@ You can directly refers to other moves in the result text; these kind of moves
 enstabilishes common ways to perform actions.
 
 ```
-__Drink blood__ when you, a protagonist, drink the blood from the veins of a
+__Drink blood__ when the PC controlled by you drinks the blood from the veins of a
 living person, you can __Remove an harm__ related to a physical wound or
 stress.
 ```
@@ -1712,7 +1711,7 @@ bla bla
 
 All the protagonists have the following additional moves:
 
-__Feed yourself__ when you, a protagonist, consume a ration of food and drink,
+__Feed yourself__ when the PC controlled by you consumes a ration of food and drink,
 you can delete up to 2 harm "Hungry". If you do not have such harm, you
 can record "Fed" in the character sheet. If you already have "Fed", you
 do nothing.
@@ -1724,13 +1723,13 @@ delete the "fed" tag. The keeping time is the moment in the
 day where most of the peoples and animals sleeps. In the real world it would be
 between 3:00 or 4:00 AM.
 
-__KO__ when the sum of all harms of the PC you, a protagonist, control is 9 or more, you are knoked out. You can no
-more act as the character until someone heal one or more of your harm, bringing
+__KO__ when the sum of all harms of the PC controlled by you is 9 or more, the PC is knoked out. You can no
+more act as the PC until someone heal one or more of your harm, bringing
 the sum under 9. The scenarist __Assign a harm__ "Give help" of value 2 to all
 the other protagonists. This represents the needs to transport the body of the
 friend, or the emotive harm if they are away from it. It affects all the rolls.
 This harm can be deleted only when the friend is healed, or if eir protagonist
-decides that the character die.
+decides that the PC dies.
 
 bla bla
 

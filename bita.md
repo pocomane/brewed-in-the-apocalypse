@@ -618,11 +618,11 @@ Bob agrees, and adds "Understand quickly" as a traits linked to "Smart" and
 "Intelligent"
 ```
 
-# Roll move
+# The main roll move
 
 This is a central move for the game; you will end triggering it a lot, by itself
-or recalled by other moves. In such case it behave in a particular way. as
-described at the end of this section.
+or recalled by other moves. Due to its centrality it is explained in detail,
+trying to cover all the possible situations.
 
 __Face the uncertain__ - When a protagonist takes an action that risks failure
 or complications and there is no other more specific move that can be triggered
@@ -710,11 +710,10 @@ archive with eir action, and how exactly ey tries to do it. Normally this step
 is superfluous and all is already clear, so it may be skipped. However
 sometimes some more detail on the exact action are needed to correctly select
 the relevant harms and traits in the next step.  Also an explicit agreement on
-the result could be needed, for example, if the action is performed to
-advantages future action, or to collect information about a situation.  In the
-former the kind of roll affected should be defined; in the latter, the exact
-information should be stated, maybe in form of one or few questions that the
-scenarist undertakes to answer.
+the result could be needed, for example, if the action is performed to to
+collect information about a situation.  In such case the exact information
+should be stated, maybe in form of one or few questions that the scenarist
+undertakes to answer.
 
 About this information mechanism, note that sometimes the scenarist already
 have some idea about the answer, maybe ey just does not put it in play yet
@@ -723,6 +722,12 @@ the scenarist think. In such cases this move may be seen as a way to "Force"
 the scenarist to take a decision and reveal it. In fact, when the answer has
 been given, it become absolutely true in the fiction and the characters will
 know the answer.
+
+The scenarist may reject some questions, saying that it is impossible that the
+character got such information in that way, maybe because too much specific or
+poorly related to the action. In such case the scenarist will say "You can not
+know it in that way" in advance, agreeing on a set of question about which ey
+can give useful information.
 
 ```
 Bob - Bart look at the motorcycle to understand its status.
@@ -795,10 +800,20 @@ described in other sections):
   protagonist what ey wanted by eir action, if the situation is not evolved
   enough, also other opportunities may be added.
 
+When this move is triggered by another one, the latter may provide alternative
+outcome texts that may be used instead of the one just shown; the ones in this
+section are used as fallback only when missing in the other move. An exception
+is the failure outcome, for which BOTH the texts are always performed.
+
+TODO : remove the exception for the failure, and explicitely write in the failure
+text of each move that the scenarist will do a __Make the worst happen__ ?
+
 Twist option list:
 
-- The scenarist does __Describe the scene__ , without giving to the protagonist
-  what ey want from eir action but something else good.
+- The scenarist does __Describe the scene__ , without what the protagonist
+  exactly want, but still something else good, e.g. only part of the goal may be
+  reached. When triggered by another move with a failure text, it is executed
+  executed before the __Describe the scene__.
 - What the success text demands is done, then the scenarist does
   a __Tell imminent troubles__.
 - The scenarist asks to the protagonist if it is ok to execute the success
@@ -810,6 +825,10 @@ It is not mandatory that the troubles arise directly from the performed action.
 It could often seem natural, and there is nothing bad doing it, but they can be
 also completely new things added to the fiction. They may also not involve the
 player performing the roll at all, but some other one.
+
+About the information mechanism, the first twist option let the scenarist, for
+example, to answer only to some of the question (maybe selected by the
+protagonist), or to respond with vague indication instead of clear statements.
 
 ```
 Scenarist - Bob, you got a twist. Bart quickly understand that the
@@ -824,24 +843,6 @@ notice a bikers who stopped, and now is just behind you. He places an hand
 on your shoulder and turns you toward him, what do you do?
 ```
 
-Sometimes other moves may seem
-to be equivalent to __Face the uncertain__, but the fact that other moves force
-the scenarist to follow a certain clue is a core difference.
-
-When this move is triggered by another one, the latter may provide alternative
-outcome texts that may be used instead of the one just shown; the latter are
-used as fallback only when missing in the other move. An exception is the
-failure outcome, for which BOTH the texts are performed, the one in this move
-and the one on the other move (if any).  Moreover, the first item of the twist
-list became:
-
-- The failure text of the other move is executed (if any), then the scenarist
-  does __Describe the scene__ , without giving to the protagonist what ey want
-  but something else good.
-
-TODO : remove the exception for the failure, and explicitely write in the failure
-text of each move that the scenarist will do a __Make the worst happen__ ?
-
 ```
 Bob is using __Help a NPC__ move and got a twist result, but text is missing.
 The scenarist decides to select the first item of the twist list of __Face the uncertaing__.
@@ -849,6 +850,10 @@ The failure move of __Help a NPC__ just said that the NPC fails in the action. T
 ey __Describe the scene__ telling how the NPC, grateful in any case, gives to
 the protagonist some supplies.
 ```
+
+Sometimes other moves may seem to be equivalent to __Face the uncertain__, but
+the fact that other moves force the scenarist to follow a certain clue is a
+core difference.
 
 # Harm moves
 

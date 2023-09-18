@@ -16,11 +16,11 @@ It is strongly inspired by:
 - Apocalypse World by D. Vincent Baker and Meguey Baker (2010)
 - Not the End by Claudio Pustorino (2020)
 
-This game is written keeping in mind a style of game for the Scenarist very similar
-to the Master of Ceremony of the Apocalypse World and derivative games. However
-it tries to be more strict with the rules, hoping that no "Guidelines" for the
-Scenarist are actually needed. If needed, we have a compendium about this
-topic: Brewed in the Apocalypse - Tasty.
+This text is written keeping in mind a style of game for the Scenarist very
+similar to the Master of Ceremony of the Apocalypse World and derivative games.
+However, we think that also other styles may be used so you will not find any
+"Guidelines" for the Scenarist. A compendium about the original style of play
+may be found in: Brewed in the Apocalypse - Tasty.
 
 In this manual we use the Spivak pronouns ey/em/eir/emself: they work exactly
 like it/it/its/itself but refer to a person, without assuming any other

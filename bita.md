@@ -19,8 +19,8 @@ It is strongly inspired by:
 This game is written keeping in mind a style of game for the Scenarist very similar
 to the Master of Ceremony of the Apocalypse World and derivative games. However
 it tries to be more strict with the rules, hoping that no "Guidelines" for the
-Scenarist are actually needed. However we have a compendium on it the form of
-another text: Brewed in the Apocalypse - Tasty.
+Scenarist are actually needed. If needed, we have a compendium about this
+topic: Brewed in the Apocalypse - Tasty.
 
 In this manual we use the Spivak pronouns ey/em/eir/emself: they work exactly
 like it/it/its/itself but refer to a person, without assuming any other

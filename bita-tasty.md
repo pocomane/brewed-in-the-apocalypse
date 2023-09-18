@@ -8,7 +8,7 @@ called "Master of Ceremony".  We will instead use a the name "Scenarist"
 and we will try to describe such role in a way that it could be applied to
 several RPG.
 
-It should be clear, but this text is strongly pointed. It encourages little
+Probably it is already clear, but this text is strongly opinated. It encourages little
 preparation, continuous improvisation, and a strong inclusion of the other
 players in the creative process that commonly is prerogative of the master.
 
@@ -23,8 +23,7 @@ locations, while we call their action "World Reactions". This is a bit more
 demanding than what other Players are required to do in the game, but not by
 much, and this whole text exists to teach you, guide you, and support you in
 playing the Scenarist as effectively and comfortably as possible; follow these
-instructions closely, because all the other procedures in the game are built
-upon them.
+instructions closely.
 
 This text was almost entirely extracted from https://fantasyworldrpg.com, so
 you can refer to its license: it was released under CC BY 4.0 by Alessandro

@@ -1,6 +1,9 @@
 
 # Brewed in the Apocalypse
 
+NOTE: I am no longer working on this project indefinitely - it has a minimal
+playtest and maybe someone will be able to let it work for themself.
+
 Brewed in the Apocalypse is a generic system for tabletop RPG heavily based on
 Apocalypse World [^1]. All the text is released under Creative Commons.
 
@@ -26,6 +29,7 @@ the English text needs a full revision.
 It would be nice to add some other playbooks to show how much a world may
 be customized; some ideas: Small Fantasy, Horses and Guns, Space Frontier.
 
+TODO : tasty -> remove reference to the ONE GOLDEN RULE, or add it to the text
 
 # Scratchpad
 

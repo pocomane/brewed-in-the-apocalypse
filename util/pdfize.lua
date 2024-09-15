@@ -256,8 +256,10 @@ local function make_single_pdf(src, dst, mode)
 
     log('- preprocessing md')
     
-    content = content:gsub('TODO.-\n\r?\n', '')
+    content = content:gsub('TODO.-(\n\r?)\n', '%1')
     content = content:gsub('[^\n]*revision[^\n]*', '%0 '..DATE..'. This is a DRAFT. Look at the markdown version for a TODO list.', 1)
+    -- content = content:gsub('\n%[^([0-9])%]:(.-)(\r?\n\r?\n)', '%3<a href="#fn-%1">[%1]:</a> <fn id="fn-%1">%2</fn>%3')
+    -- content = content:gsub('%[^([0-9])%]', '<a href="#fn-%1">[%1]</a>')
     
     -- content = content:gsub('([\n\r]+)```html,page,break[\n\r]+```', '%1<div class="PageBreak"></div>') -- DISABLE THIS when executing on github since there is a bug in their weasyprint version
     content = content:gsub('([\n\r]+)```html,move,diagram[\n\r]+```', '%1<img src="../move_diagram.svg" style="column-span:all;width:200%%;"></img>')
@@ -303,7 +305,6 @@ local function make_pdf()
   local doclist = {
     { 'default', 'bita.md' },
     { 'compact', 'bita-strong.md' },
-    { 'default', 'bita-tasty.md' },
   }
   for _, d in ipairs(doclist) do
     make_single_pdf(d[2], d[2]:match('[^/\\]*$'), d[1])

@@ -118,18 +118,30 @@ number near it, increasing and decreasing it as needed.
 
 # Playing the game
 
-The game is like a conversation. As we will see, the protagonists contribute describing what
-their PC do, asking questions, and speaking in character, while the scenarist
-describes the scene, the actions of the NPC and what is happening in the game
-world.  Sometime the rules of the game will prescribes to do something else to
-make the story go ahead, like dice roll, or asking questions to the people in
-the real world.
+The game is conveyed by the conversation among the players and the notes they
+write on some sheet. So the rules will define what a player can or have to say
+or write in each situation. Sometimes a random input is needed so the rules may
+ask to roll a pair of six faces dices some times.
 
-We call "Fiction" all what happen in the story, while "Mechanics" are all the
+The goal of the came is create all together an interesting story. We call
+"Fiction" all what happen in the story, while "Mechanics" are all the
 things that the players need to perform in the real world, and that
 have some consequences in the fiction.
 
-Sometimes the scenarist will be called to judge if something said by a
+```
+During the tale, the character "Anne" asks to the character "Bart" what he will
+do next. This is fiction.
+
+During the game, the scenarist asks to another player "What to you do", as
+demanded by the rules. This is a mechanic.
+```
+
+Generally, the protagonists
+will be asked to describe what their PC do, asking questions, and speaking in
+character, while the scenarist will be asked to describes the scene, the
+actions of the NPC and what is happening in the game world.
+
+Sometimes a player will be called to judge if something said by a
 protagonist is untrue or unreasonable. To make the decision, all the in-fiction
 details about the setting, the character and the situation must be considered.
 Someones refer to this saying that such details give a "Fictional positioning"
@@ -139,11 +151,11 @@ to the character.
 Probably to cast fireball you have just to be a Mage.  Or in some setting
 being a Mage is not enough: you need a wand too. And if in the previous scene
 you did lost it, you can not cast it. These are purely consideration about the
-fiction, there is no mechanics, maybe just a note on a sheete to remember that
+fiction, there is no mechanics, maybe just a note on a sheet to remember that
 the wand was lost.
 ```
 
-To describe the interactions between the players, we use the concept of "Move".
+To describe the interactions between the players, we use the concept of "Move" [^1].
 A move has a title written __like this__ and it is just a rule containing a
 trigger text and a result text.
 
@@ -154,11 +166,11 @@ discussion between the persons around the table.  The players must perform what
 the result text demands when it is triggered. They can not decide to skip the
 result if triggered, and can not obtain the results until the trigger happened.
 
-A second way any move can be triggered, is if another move explicitely tells
+A second way any move can be triggered, is if another move explicitly tells
 to. In such case the trigger condition of the recalled rule is skipped, but the
 result text is executed.  When the trigger text of a move just repeat the title
-of a move, this means that the move is not triggered directly be some action in
-the fiction, but come into play only when another move explicitly asks for it.
+of a move, this means that the move is not triggered directly be some action,
+but come into play only when another move explicitly asks for it.
 
 TODO : add the page reference when referring to a move so that the move description
 can be quickly found ???
@@ -174,7 +186,7 @@ decide an injury for a PC, and the protagonist write it on the
 character sheet.
 
 "When the PCs ignore a troubles" is the trigger, when this happens in the
-fiction, the scenarist may do the rest, i.e. assign an harm.
+fiction, the scenarist may do the rest, i.e. recall the __Assign an harm__ move.
 
 The latter just says "When you have to assign an harm..." as trigger text, so
 it is designed to be called from other moves only.  This trigger text, like any
@@ -194,8 +206,8 @@ performed, if any. If a protagonist did not really wanted to trigger the move, t
 scenarist should leave to em the opportunity to rollback and to said something
 else.
 
-Obviously, the moves did not regulate all the
-discussion. If someone want to speak of something outside the fiction, and it
+Obviously, moves did not regulate all the
+discussion. If someone want to speak of something outside the game, and it
 do not annoy anyone at the table, ey can just do it. Also if ey want to give
 suggestion on how the fiction should go, ey can do it without having a move to
 explicitly allowing it.  Also some information about the fiction the may be
@@ -203,7 +215,11 @@ revealed (probably by the scenarist) during this non-regulated discussion.  But
 all of this should be considered to be hypothetical until some move makes
 them happen or reveal them true in the fiction.
 
-# Discussion move
+[^1]: This concept is similar to the moves in Apocalypse World, but it is not
+      exactly the same. In fact our moves can have triggers outside the fiction, and
+      they are designed to regulate all the aspects of the game, as we will see.
+
+# Discussion moves
 
 Here we review the core moves that regulate the discussion; some of them may
 seems trivial, but we include them for sake of completeness.  More advanced
@@ -211,13 +227,16 @@ moves may contain fiction clues, or some mechanical things to do.  Here, the
 first move:
 
 __Describe the scene__ when you, the scenarist, have to start the session, you
-can resume the last scene or an older one, or start a completely new one.  You
-do it telling some new event in the scene or reveal some new truth about the
-world. Nothing should clearly bring to troubles for the PCs, neither if it
-is completely ignored by the characters.  However, there may be an opportunity
-for the PCs: something that can bring to good things for the PCs if
-they handle well the situation.  Occasionally the good things may happen
-without any PC action.
+can resume a previous scene, or start a completely new one.  If it is a
+previous scene, you summarize the situation details that could be forgotten by
+the protagonist. If it is new you describe the new situation, where the
+character are, who is there, etc. Then you add some new event or reveal some
+new truth about the world. Nothing should clearly bring to troubles for the
+PCs, neither if it is completely ignored by the characters.  However, there may
+be an opportunity for the PCs: something that can bring to good things for the
+PCs if they handle well the situation.  Occasionally the good things may happen
+without any PC action. In any case make sure there is something the protagonist
+may explore or  interact to.
 
 TODO : describe what a "Scene" is, what it means it is "Suspended" or "closed" ???
 
@@ -227,16 +246,13 @@ PCs. How the discussion is moved to the others? We have the following
 scenarist move:
 
 __Ask what they do__ When the scenarist has nothing else to say and ey will ask
-to one protagonist in the current scene what ey do next.  Then you,
-the questioned protagonist, tell your character actions, what ey
-says, feels, etc. You can end in one of the following way
-
-- Ask to the scenarist what happens then; in such case, finally the scenarist
-  may decide to let someone else speak.
-- Ask to the scenarist to clarify some details in order do decide how to
-  continue; ey will do it or if you are not supposed to know, see or
-  understand, ey could just said "You do not know"; in any case ey will then
-  ask you how you continue.
+to one protagonist in the current scene what eir controlled character do next.
+Then you, the questioned protagonist, first ask for any details it is not
+clear, if any. The scenarist will describe them to you or will just said "You
+do not know", in any case ey will then ask you to continue telling what your
+controlled character do next, without changing nothing in the fiction. When all
+the details are clear, tell your character actions, what ey says, feels, etc.
+End your speech asking the scenarist what happens.
 
 During the description of what you are doing, If the scenarist explicitly asked
 you for some particular detail, first give it in the most concise way you can
@@ -266,6 +282,13 @@ front of the door, or what else?
 Bob: Oh yes, I mean just cutting of his exit, I place myself between him and
 the door. What happens?
 ```
+
+Strictly, if your actions include the interaction with another PC, you should
+ask to the scenarist what happens, then ey should ask to ne other player what
+ey do. However, normally, the protagonist can skip the scenarist intermediation
+and speak one after another, just be aware that sometimes the scenarist may
+interrupt this back and forth between protagonist, because he thing that
+something else should happen before the next __Ask what they do__ .
 
 __Rollback__ - When you, the scenarist, think the protagonist should stop telling for any reason,
 let em finish instead, or wait that a move is triggered, then, if you still
@@ -347,24 +370,25 @@ too much detail to decide which the consequences could be.
 ```
 
 __Ask to the protagonist__ - when you, the scenarist, need to add something new
-in the scene that you did not already planned, ask to one or more protagonist,
-and build on there answer in your narration. If you think is appropriate,
-you can do it also if you already had planned something and want to mix it
+in the scene that is not a natural evolution of already ongoing event, and that
+you did not already planned, ask to one or more protagonist, and build on their
+answers. If you think is appropriate, you can do it also if there is some
+natural evolution or something planned, but you want to mix it
 with a clue from the protagonists. The protagonist may always answer with
 "I do not know", then you can invent something by yourself.
 
+Before asking you can give some general direction on what you think is
+appropriate.
+
 Ideally, you should continuously asking such questions; about them:
 
-They may be provocative to push a reaction
-
-```
-They are after you, do you prepare yourself in some way?
-```
+- TODO : add "They may be provocative to push a reaction" ?? e.g. "They are after you, do you prepare yourself in some way? "
 
 They may be informative to get some prompt to elaborate
 
 ```
-You found a truck, or do you think motorcycles are more appropriate?
+I think someone come here with some kind of proposal, who do you think can be? Ad
+what the proposal may be?
 ```
 
 They may be a direct request to to create a small part of the story or the
@@ -384,7 +408,7 @@ __Interrupt the discussion__ when a player needs to interrupt the in-game discus
 ey can:
 
 - To rise an hand, and the current speaker will try to conclude the narration as
-  such as possible.
+  soon as possible.
 - To cross the two palms, shaping an X, and the speaker will interrupt anything
   ey is saying as soon as ey see the gesture, without concluding what ey is saying.
 
@@ -425,7 +449,10 @@ searching for.
 ```
 Scenarist - and you found an stall with a seller that has...
 
-Bob shows the palms shaping an X so the scenarist asks to him what is wrong
+Bob rise the hand
+
+Scenarist - ... that said to you "Good morning, adventurers". Bob, do you rised
+the hand?
 
 Bob - well, a seller in the middle of the forest? It seems unresonable to me,
 can you found something better?
@@ -441,8 +468,8 @@ Scenarist - There are two young boys screaming between the flame...
 
 Bob shows the palms shaping an X so the scenarist asks to him what is wrong
 
-Bob - please, do go in that details with child and fire, I am a fireman and it
-is a bit distressing to me.
+Bob - please, do not go in that details with child and fire, I am a fireman and
+it is a bit distressing to me.
 
 Scenarist - Sorry, I will remember this in the future. It is for any kind of
 person locked in dangerous building, or are just for this specific situation?
@@ -479,6 +506,8 @@ one guard leave his position, and slowly approaches to you, looking visibly
 concerned.  What do you do?
 ```
 
+TODO : add another trigger for the PC (not the protagonists) wasting time ?
+
 ```
 The characters are in a bus out of control. They starts to propose each outer
 possible things to do, but no one take an action.
@@ -506,7 +535,7 @@ situation".
 
 TODO - explain better "too much time" ??? explain better "perfect opportunity" ?
 
-Some clues are in the relative section, if you use them, make them irrevocable.
+TODO - possibily fallback to __Tell imminent troubles__ when situation is too much complex ?
 
 ```
 Scenarist - the guard are trying to break the door, soon they will enter, what
